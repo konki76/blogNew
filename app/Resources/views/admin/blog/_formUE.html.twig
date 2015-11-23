@@ -1,0 +1,12 @@
+{{ form_start(formUE) }}
+    {{ form_widget(formUE) }}
+
+    <input type="submit" value="{{ button_label|default("Create UE") }}"
+           class="{{ button_css|default("btn btn-primary") }}" />
+
+    {% if include_back_to_home_link is not defined or include_back_to_home_link == true %}
+        <a href="{{ path('admin_ue_index') }}" class="btn btn-link">
+            Back to the UE list
+        </a>
+    {% endif %}
+{{ form_end(formUE) }}

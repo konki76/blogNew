@@ -1,0 +1,50 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+    {% for post in posts %}
+        <article class="post">
+            <h2>
+                <a href="{{ path('blog_post', { slug: post.slug }) }}">
+                    {{ post.title }}
+                </a>
+            </h2>
+			
+			{{ post.summary }}
+						
+			<div class="well">
+			{{ post.content }}
+			</div>
+
+	
+			{% if is_granted('IS_AUTHENTICATED_FULLY') %}
+				{{ render(controller('AcmeUserBundle:Blog:answerForm', { 'id': post.id })) }}
+			{% else %}
+				<p>
+					<a class="btn btn-success" href="{{ path('fos_user_security_login') }}">
+						<i class="fa fa-sign-in"></i> Se connecter
+					</a>
+					pour répondre à la question.
+				</p>
+			{% endif %}
+			
+        </article>
+    {% endfor %}
+{% endblock %}
+
+{% block sidebar %}
+	{{ parent() }}
+    
+	<div class="section about">
+		<div class="well well-lg">
+	{% for grp in grps %}
+		<p>
+			<a href="{{ path('blog_grpPage', { slug: grp.slug }) }}" >
+				<i class="fa fa-plus"></i> {{grp.title}}
+			</a> 
+		</p>
+	{% endfor %}
+		</div>
+	</div>
+{% endblock %}

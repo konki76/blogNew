@@ -1,0 +1,15 @@
+{% extends "::base.html.twig" %}
+{% block body %}
+	<form action="{{ path('fos_user_registration_register') }}" {{ form_enctype(form) }} method="POST" class="fos_user_registration_register">
+        <div class="row">
+			<div class="col-sm-5">
+				<div class="well">
+					{{ form_widget(form) }}
+				</div>
+			</div>
+		</div>
+        <div >
+            <input  class="btn btn-primary btn-lg" type="submit" value="{{ 'registration.submit'|trans({}, 'FOSUserBundle') }}" />
+        </div>
+    </form>
+{% endblock %}

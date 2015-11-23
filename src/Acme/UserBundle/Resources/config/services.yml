@@ -1,0 +1,26 @@
+services:
+    webservice_user_provider:
+        class: Acme\WebserviceUserBundle\Security\User\WebserviceUserProvider
+    oc_platform.beta.html:
+        class: Acme\UserBundle\Score\BetaHTML
+    oc_platform.beta.listener:
+        class: Acme\UserBundle\Score\BetaListener
+        arguments: [@oc_platform.beta.html, "2015-05-01"]
+        tags:
+            - {name:kernel.event_listener, event: kernel.response, method: processBeta }
+ #           - {name:kernel.event_listener, event: kernel.response, method: ignoreBeta }    
+    acme_user.score.answer:
+        class: Acme\UserBundle\Score\ScoreHTML
+    acme_user.score.listener:
+        class: Acme\UserBundle\Score\ScoreListener
+        arguments: [@acme_user.score.answer, "2015-09-10"]
+        tags:
+            - {name:kernel.event_listener, event: kernel.response, method: processScore }
+#            - {name:kernel.event_listener, event: kernel.response, method: ignoreScore }
+    apl_user.registration.form.type:
+        class: Acme\UserBundle\Form\Type\RegistrationFormType
+        arguments: [%fos_user.model.user.class%]
+        tags:
+            - { name: form.type, alias: apl_user_registration }
+    slugger:
+        class: Acme\UserBundle\Utils\Slugger

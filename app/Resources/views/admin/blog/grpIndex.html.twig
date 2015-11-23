@@ -1,0 +1,44 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_group_index' %}
+
+{% block main %}
+    <h1>Liste des groupes</h1>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th><i class="fa fa-calendar"></i> Published At</th>
+                <th><i class="fa fa-cogs"></i> Eléments du groupe</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for grp in groups %}
+            <tr>
+                <td>
+					<a href="{{ path('admin_grp_edit', { id: grp.id }) }}" >
+					{{ grp.title }}
+					</a>
+				</td>
+                <td>{% if grp.publishedAt %}{{ grp.publishedAt|date('Y-m-d H:i') }}{% endif %}</td>
+                <td>
+					<a href="{{ path('admin_pgrp_list', { id: grp.id }) }}" >
+						<i class="fa fa-plus"></i> admin_pgrp_list
+					</a>  
+				</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+
+{% block sidebar %}
+    <div class="section actions">
+        <a href="{{ path('admin_grp_new') }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> {{ 'Create a new group' }}
+        </a>
+    </div>
+
+    {{ parent() }}
+{% endblock %}

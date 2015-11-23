@@ -1,0 +1,76 @@
+security:
+    encoders:
+        # Our use class and the algorithm we'll use to encode passwords
+        # http://symfony.com/doc/current/book/security.html#encoding-the-user-s-password
+        #FOS\UserBundle\Model\UserInterface: bcrypt
+        Symfony\Component\Security\Core\User\User: plaintext
+        #Acme\UserBundle\Entity\User: plaintext
+        Acme\UserBundle\Entity\User: bcrypt
+        #Acme\WebserviceUserBundle\Security\User\WebserviceUser: sha512
+        #AppBundle\Entity\User: bcrypt
+    role_hierarchy:
+        ROLE_ADMIN: ROLE_USER
+        ROLE_SUPER_ADMIN: ROLE_ADMIN
+    providers:
+        main:
+            entity: {class: Acme\UserBundle\Entity\User, property: username}
+        # in this example, users are stored via Doctrine in the database
+        # To see the users at src/AppBundle/DataFixtures/ORM/LoadFixtures.php
+        # To load users from somewhere else: http://symfony.com/doc/current/cookbook/security/custom_provider.html
+        #webservice:
+        #    id: webservice_user_provider
+        fos_userbundle:
+            id: fos_user.user_provider.username
+    # http://symfony.com/doc/current/book/security.html#firewalls-authentication
+        in_memory:
+            memory:
+                users:
+                    user:  { password: user, roles: [ 'ROLE_USER' ] }
+                    admin: { password: admin, roles: [ 'ROLE_ADMIN' ] }
+    firewalls:
+        dev:
+            pattern:  ^/(_(profiler|wdt)|css|images|js)/
+            security: false
+        main:
+            pattern: ^/
+            anonymous:    true
+            provider: main
+            #provider: in_memory
+            form_login:
+                check_path: /login_check
+                login_path: /login
+#                provider: fos_userbundle
+            logout:
+                path:    /logout
+                target: /
+#               # provider: fos_userbundle
+#               # csrf_provider: form.csrf_provider
+#
+#        secured_area:
+#            # this firewall applies to all URLs
+#            pattern: ^/#
+#
+#            # but the firewall does not require login on every page
+#            # denying access is done in access_control or in your controllers
+#            anonymous: true
+#
+            # This allows the user to login by submitting a username and password
+            # Reference: http://symfony.com/doc/current/cookbook/security/form_login.html
+#            form_login:
+#                # The route name that the login form submits to
+#                check_path: fos_user_security_check
+#                # The name of the route where the login form lives
+#                # When the user tries to access a protected page, they are redirected here
+#                login_path: fos_user_security_login
+#
+#            logout:
+#                # The route name the user can go to in order to logout
+#                path: security_logout
+#                # The name of the route to redirect to after logging out
+#                target: homepage
+
+    access_control:
+       # - { path: ^/login$, role: IS_AUTHENTICATED_ANONYMOUSLY }
+       # - { path: ^/register, role: IS_AUTHENTICATED_ANONYMOUSLY }
+       # - { path: ^/resetting, role: IS_AUTHENTICATED_ANONYMOUSLY }
+       # - { path: ^/admin/, role: ROLE_ADMIN }

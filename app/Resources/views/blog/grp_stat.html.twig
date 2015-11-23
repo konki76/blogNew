@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+
+    <h2>{{ grp.title }}</h2>
+	<p>{{ grp.startContent }}</p>
+
+	Vous avez {{ scoreUser }} sur {{ scoreMax }}.<br/><br/>
+
+	Vous avez fait des erreurs sur les questions suivantes :<br/>
+	{% for answer in answers %}
+		{% if(answer.a_score == 0) %}
+		{{ answer.ps_content }}<br/>
+		{% endif %}
+		
+	{% endfor %}
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_ue_new' %}
+
+{% block main %}
+    <h1>UE creation</h1>
+
+    {{ include('admin/blog/_formUE.html.twig') }}
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+    {% for pGrp in pGrps %}
+        <article class="post">
+            <h2>
+                   pGrp[ {{ pGrp.id }} ]
+            </h2>
+		   publishedAt[ {{ pGrp.publishedAt }} ]						
+
+		    <div class="well">
+			{{ pGrp.title }}
+			</div>			
+			
+			<a href="{{ path('blog_grpPostPage', { slug: pGrp.slug, page: '1' }) }}">Commencer le questionnaire</a>
+			
+        </article>
+    {% endfor %}
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+{% endblock %}

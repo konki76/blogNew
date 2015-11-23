@@ -1,0 +1,17 @@
+{{ form_start(form, { method: 'POST', action: path('answer_new', { 'postSlug': post.slug }) }) }}
+    {#  instead of displaying form fields one by one, you can also display them
+        all with their default options and styles just by calling to this function:
+        {-{ form_widget(form) }-}
+    #}
+	
+    <fieldset>
+    
+        {{ form_widget(form.answer1)}}{{ post.labelAnswer1 }}<br>
+        {{ form_widget(form.answer2)}}{{ post.labelAnswer2 }}<br>
+        {{ form_widget(form.answer3)}}{{ post.labelAnswer3 }}<br>
+        {{ form_widget(form.answer4)}}{{ post.labelAnswer4 }}<br>
+        <div class="form-group">
+            {{ form_widget(form.submit, { attr: { class: 'btn-primary pull-right' }, label: 'Ok' }) }}
+        </div>
+    </fieldset>
+{{ form_end(form) }}

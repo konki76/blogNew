@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+
+    <h2>{{ ue.title }}</h2>
+	<p>{{ ue.startContent }}</p>
+
+	Liste des questionnaires de cette UE : <br/>
+	{% for ue in ues %}
+	
+	<a href="{-{ path('admin_ue_edit', { id: ue.grp.id }) }}" >
+					{{ ue.grp.title }}
+					</a><br>
+	{% endfor %}
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+{% endblock %}

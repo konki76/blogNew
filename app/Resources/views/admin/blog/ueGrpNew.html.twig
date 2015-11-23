@@ -1,0 +1,14 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_ueGrp_new' %}
+
+{% block main %}
+    <h1>grp UE creation</h1>
+
+    {{ include('admin/blog/_form.html.twig') }}
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+
+{% endblock %}

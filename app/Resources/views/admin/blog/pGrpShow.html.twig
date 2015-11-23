@@ -1,0 +1,42 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_group_index' %}
+
+{% block main %}
+    <h1>{{pGrpsCt}} questions dans le group {.{}.} </h1>
+	
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th><i class="fa fa-calendar"></i> Published At</th>
+                <th><i class="fa fa-cogs"></i> Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for grp in pGrps %}
+            <tr>
+                <td>{{ grp.title }}</td>
+                <td>noting</td>
+                <td>
+				<a href="{{ path('admin_post_edit', { id: grp.post.id }) }}" >
+						<i class="fa fa-plus"></i> {{ grp.post.title }}
+					</a> 
+				</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+
+{% block sidebar %}
+    <div class="section actions">
+        <a href="{{ path('admin_pGrp_new', {grpId: grpId}) }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> {{ 'action.create_post'|trans }}
+        </a>
+		
+		
+    </div>
+
+    {{ parent() }}
+{% endblock %}

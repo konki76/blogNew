@@ -1,0 +1,42 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_ue_index' %}
+
+{% block main %}
+    <h1>{{ueGrpsCt}} questions dans le ue {.{}.} </h1>
+	
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th><i class="fa fa-calendar"></i> Published At</th>
+                <th><i class="fa fa-cogs"></i> Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for ue in ueGrps %}
+            <tr>
+                <td>{{ ue.title }}</td>
+                <td>noting</td>
+                <td>
+				<a href="{{ path('admin_grp_edit', { id: ue.grp.id }) }}" >
+						<i class="fa fa-plus"></i> {{ ue.grp.title }}
+					</a> 
+				</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+
+{% block sidebar %}
+    <div class="section actions">
+        <a href="{{ path('admin_ueGrp_new', {ueId: ueId}) }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> {{ 'action.create_grp'|trans }}
+        </a>
+		
+		
+    </div>
+
+    {{ parent() }}
+{% endblock %}

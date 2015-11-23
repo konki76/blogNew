@@ -1,0 +1,216 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'homepage' %}
+
+{#
+    the homepage is a special page which displays neither a header nor a footer.
+    this is done with the 'trick' of defining empty Twig blocks without any content
+#}
+{% block header %}
+<header>
+	<div class="navbar navbar-default navbar-static-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="{{ path('homepage') }}">
+					Médecine - QCM
+				</a>
+
+				<button type="button" class="navbar-toggle"
+						data-toggle="collapse"
+						data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar">nav1</span>
+					<span class="icon-bar">nav2</span>
+					<span class="icon-bar">nav3</span>
+				</button>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right">
+					{% block header_navigation_links %}
+						<li>
+							<a href="{{ path('blog_index') }}">
+								<i class="fa fa-home"></i> Homepage
+							</a>
+						</li>
+						<li>
+							<a href="{{ path('fos_user_security_login') }}">
+								<i class="fa fa-home"></i> Se connecter
+							</a>
+						</li>
+						<li>
+							<a href="{{ path('fos_user_registration_register') }}">
+								<i class="fa fa-home"></i> S'enregistrer
+							</a>
+						</li>									
+						
+						{# The 'app.user' condition is required to avoid issues in 404 and 500 error pages
+						   As routing is done before security, error pages are not covered by any firewall.
+						   This means you can't use is_granted() directly on these pages.
+						   See http://symfony.com/doc/current/cookbook/security/form_login_setup.html#avoid-common-pitfalls
+						#}
+						{% if app.user and is_granted('ROLE_ADMIN') %}
+							<li>
+								<a href="{{ path('admin_post_index') }}">
+									<i class="fa fa-lock"></i> Backend
+								</a>
+							</li>
+						{% endif %}
+					{% endblock %}
+
+					{% if app.user %}
+						<li>
+							<a href="{{ path('fos_user_security_logout') }}">
+								<i class="fa fa-sign-out"></i> Logout
+							</a>
+						</li>
+					{% endif %}
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+{% endblock %}
+{% block footer %}
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div id="footer-copyright" class="col-md-6">
+					<p>&copy; {{ 'now'|date('Y') }} - The Poncho Project - MIT License</p>
+					<p>
+						<a href="{{ path('admin_index') }}">
+							<i class="fa fa-lock"></i> Backend
+						</a>
+					</p>
+				</div>
+				<div id="footer-resources" class="col-md-6">
+					<p>
+						<a href="https://twitter.com/poncho"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/Poncho"><i class="fa fa-facebook"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+{% endblock %}
+
+{% block body %}
+
+
+
+    <div class="page-header">
+        <h1>QCM médecine</h1>
+		Accéder à votre espace d'<strong>Unité d'Enseignement</strong>
+    </div>
+	
+    <div class="row">
+        <div class="col-md-3">
+            <div class="jumbotron">
+                <p>
+                    <strong> UE 1 </strong>
+                </p>
+				Chimie-organique et biochimie
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_index') }}">
+                        <i class="fa fa-users"></i> UE 1
+                    </a>
+                </p>
+            </div>
+        </div>
+		
+		<div class="col-md-3">
+            <div class="jumbotron">
+                <p>
+                     <strong> UE 2 </strong>
+                </p>
+				Biologie
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_index') }}">
+                        <i class="fa fa-users"></i> UE 2
+                    </a>
+                </p>
+				<br/>
+            </div>
+        </div>
+		
+		<div class="col-md-3">
+            <div class="jumbotron">
+                <p>
+                     <strong> UE 3 </strong>
+                </p>
+				Physique
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue3' }) }}">
+                        <i class="fa fa-users"></i> UE 3
+                    </a>
+                </p>
+				<br/>
+            </div>
+        </div>
+		<div class="col-md-3">
+            <div class="jumbotron">
+                <p>
+                     <strong> UE 4 </strong>
+                </p>
+ 			    Statistiques
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue4' }) }}">
+                        <i class="fa fa-users"></i> UE 4
+                    </a>
+                </p>
+				<br/>
+            </div>
+        </div>
+		<div class="col-md-3">
+            <div class="jumbotron">
+                <p>
+                     <strong> UE 5 </strong>
+                </p>
+				Anatomie
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue5' }) }}">
+                        <i class="fa fa-users"></i> UE 5
+                    </a>
+                </p>
+            </div>
+        </div>
+		<div class="col-md-3">
+            <div class="jumbotron">
+                <p>
+                     <strong> UE 6 </strong>
+                </p>
+				Pharmacologie
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue6' }) }}">
+                        <i class="fa fa-users"></i> UE 6
+                    </a>
+                </p>
+            </div>
+        </div>
+		<div class="col-md-3">
+            <div>
+                <p>
+                     <strong> UE 7 </strong>
+                </p>
+				Histoire de la médecine et de la biologie végétale
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue7' }) }}">
+                        <i class="fa fa-users"></i> UE 7
+                    </a>
+                </p>
+            </div>
+        </div>
+		<div class="col-md-3">
+            <div class="jumbotron">
+                <p>
+                     <strong> UE MOFSK </strong>
+                </p>
+				Odontologie, sage-femme, kiné
+                <p>
+                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ueMOFSK' }) }}">
+                        <i class="fa fa-users"></i> UE MOFSK
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+{% endblock %}

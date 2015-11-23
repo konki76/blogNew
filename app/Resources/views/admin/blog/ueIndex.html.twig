@@ -1,0 +1,44 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_ue_index' %}
+
+{% block main %}
+    <h1>Liste des UE</h1>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th><i class="fa fa-calendar"></i> Published At</th>
+                <th><i class="fa fa-cogs"></i> Eléments UE</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for ue in ues %}
+            <tr>
+                <td>
+					<a href="{{ path('admin_ue_edit', { id: ue.id }) }}" >
+					{{ ue.title }}
+					</a>
+				</td>
+                <td>{% if ue.publishedAt %}{{ ue.publishedAt|date('Y-m-d H:i') }}{% endif %}</td>
+                <td>
+					<a href="{{ path('admin_uegrp_list', { id: ue.id }) }}" >
+						<i class="fa fa-plus"></i> admin_uegrp_list
+					</a>  
+				</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+
+{% block sidebar %}
+    <div class="section actions">
+        <a href="{{ path('admin_ue_new') }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> {{ 'Create a new UE' }}
+        </a>
+    </div>
+
+    {{ parent() }}
+{% endblock %}

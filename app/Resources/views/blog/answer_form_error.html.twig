@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'answer_form_error' %}
+
+{% block main %}
+    <h1 class="text-danger">Une erreur est survenu en publiant votre réponse.</h1>
+
+    <div class="well">
+        {{ include('blog/answer_form.html.twig') }}
+    </div>
+{% endblock %}

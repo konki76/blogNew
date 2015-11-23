@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+
+    <h2>{{ grp.title }}</h2>
+	<p>{{ grp.startContent }}</p>
+
+	<p>
+		<a href="{{ path('blog_grpPostPage', { grpSlug: grp.slug, page: '1' }) }}">Commencer le questionnaire</a>
+	</p>
+	
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+{% endblock %}
