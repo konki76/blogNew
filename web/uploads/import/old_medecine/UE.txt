@@ -1,0 +1,9 @@
+title|slug|startContent|endContent
+P1 UE1 chimie organique|P1_ue1|ue1|P1
+P1 UE2 biologie|P1_ue2|ue2|P1
+P1 UE3 physique|P1_ue3|ue3|P1
+P1 UE4 statistiques|P1_ue4|ue4|P1
+P1 UE5 anatomie|P1_ue5|ue5|P1
+P1 UE6 pharmacologie|P1_ue6|ue6|P1
+P1 UE7 histoire de la médecine et de la biologie végétale|P1_ue7|ue7|P1
+P1 UE MOFSK Ondontologie, sage-femme, kiné|P1_uemofsk|uemofsk|P1

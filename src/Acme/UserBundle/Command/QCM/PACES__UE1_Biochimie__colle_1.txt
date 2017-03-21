@@ -1,0 +1,30 @@
+A. Sont des molécules hétérogènes et hydrophiles/	21. Les lipides	UE1T120121	FAUX	A. Faux : des molécules hétérogènes et hydrophobes.						
+B. Exercent un rôle de structure, un rôle énergétique, de médiateurs chimiques, d'hormones ou de vitamines.	21. Les lipides	UE1T120121	VRAI							
+C. Sont solubles dans les solvants organiques apolaires (benzène, chloroforme, éther ...).	21. Les lipides	UE1T120121	VRAI							
+D. Ils possèdent une tête hydrophile et une queue hydrophobe.	21. Les lipides	UE1T120121	VRAI							
+E. Le caractère amphiphile conditionne l'organisation des lipides dans l'eau.	21. Les lipides	UE1T120121	VRAI							
+A. Ils possèdent des chaînes hydrocarbonées ramifiées.	22. Concernant les acides gras (AG) :	UE1T120122	FAUX	A. Faux : Ils possèdent des chaînes hydrocarbonées non ramifiées.						
+B. Leur formule générale est : CH3-(CH2)n-COOH	22. Concernant les acides gras (AG) :	UE1T120122	VRAI							
+C. Les AG les plus abondants chez les mammifères sont des AG branchés	22. Concernant les acides gras (AG) :	UE1T120122	FAUX	C. Faux : les AG les plus abondants chez les mammifères sont des AG linéaires.						
+D. Ils possèdent tous un nombre impair de carbones	22. Concernant les acides gras (AG) :	UE1T120122	FAUX	D. Faux : Ils possèdent un nombre pair de carbones >4C.						
+E. Ils diffèrent entre eux par la longueur de leur chaîne et par leur degré d'insaturation	22. Concernant les acides gras (AG) :	UE1T120122	VRAI							
+A. Elle représente l'acide oléique.	23. Concernant la formule : (18:2) Δ9,12 :	UE1T120123	FAUX							
+B. Elle représente l'acide linoléique.	23. Concernant la formule : (18:2) Δ9,12 :	UE1T120123	VRAI							
+C. Elle représente l'acide octadécadiènoique.	23. Concernant la formule : (18:2) Δ9,12 :	UE1T120123	VRAI							
+D. C'est un ω9.	23. Concernant la formule : (18:2) Δ9,12 :	UE1T120123	FAUX	D. Faux : c'est un ω6 et correspond à l'acide linoléique						
+E. C'est un acide gras indispensable.	23. Concernant la formule : (18:2) Δ9,12 :	UE1T120123	VRAI							
+A. Ils possèdent essentiellement du carbone, de l'oxygène et de l'hydrogène.	24. Lipides simples :	UE1T120124	VRAI							
+B. Les acides gras n'en font pas partie.	24. Lipides simples :	UE1T120124	FAUX	B. Faux : Les lipides simples sont composés des AG et de leurs dérivés par estérification et amidification.						
+C. Les acides gras peuvent subir une réaction d'estérification ou d'amidification.	24. Lipides simples :	UE1T120124	VRAI							
+D. L'estérification par le glycérol donne des lipides de réserve.	24. Lipides simples :	UE1T120124	VRAI							
+E. Les céramides sont le produit d'une estérification.	24. Lipides simples :	UE1T120124	FAUX	E. Faux : AG + sphingosine => céramide + eau						
+A. Cette famille comporte exclusivement les glycérophospholipides.	25. Lipides complexes :	UE1T120125	FAUX	A. Faux : Ils rassemblent les glycérophospholipides et les sphingolipides.						
+B. Il existe des glycérophospholipides esters et éthers en fonction de la réaction sur le premier carbone du glycérol.	25. Lipides complexes :	UE1T120125	VRAI							
+C. Ils peuvent contenir un acide aminé alcool tel que la sérine.	25. Lipides complexes :	UE1T120125	VRAI							
+D. Les sphingolipides comportent de la sphingosine.	25. Lipides complexes :	UE1T120125	VRAI							
+E. Les cérébrosides sont des sphingolipides constitués de céramides et de glucose et galactose.	25. Lipides complexes :	UE1T120125	VRAI							
+A. Les triglycérides sont des lipides de structure.	26. Classification fonctionnelle des lipides :	UE1T120126	FAUX	A. Faux : Glycérol + 3AG => tri-glycéride = lipide de réserve						
+B. Les glycosphingolipides sont utiles dans les interactions intercellulaires.	26. Classification fonctionnelle des lipides :	UE1T120126	VRAI							
+C. Les sels biliaires sont des lipides de réserve.	26. Classification fonctionnelle des lipides :	UE1T120126	FAUX	C. Faux : Ils solubilisent les lipides lors de la digestion.						
+D. Certains dérivés du cholestérol solubilisent les lipides lors de la digestion.	26. Classification fonctionnelle des lipides :	UE1T120126	VRAI							
+E. Les stéroïdes sont des hormones.	26. Classification fonctionnelle des lipides :	UE1T120126	VRAI							

@@ -1,0 +1,19 @@
+//réinitialise ue et grp
+C:\wamp\www\blogNew\web\uploads\import\Grp.txt
+C:\wamp\www\blogNew\web\uploads\import\UE.txt
+C:\wamp\www\blogNew\app\Resources\views\default\homepage.html.twig
+C:\wamp\www\blogNew\src\Acme\UserBundle\Controller\BlogController.php
+C:\wamp\www\blogNew\app\Resources\views\blog\ue_index.html.twig
+
+
+=> ajout de la table pGrp => table de lien [groupeSlug,PostSlug] 
+C:\wamp\www\blogNew\src\Acme\UserBundle\Entity\pGrp.php
+
+
+=> MAJ de ImportCommand.php pour récupérer à partir des fichiers Post le PostSlug et l'associé au groupeSlug grace au nom du fichier
+==> renommer les fichiers Post pour avoir le meme nom que les groupes (formalisme du type : P1_ue1_biochimie_colle1.txt)
+
+C:\wamp\www\blogNew\src\Acme\UserBundle\Command\ImportCommand.php
+Création du dossier C:\wamp\www\blogNew\web\uploads\import\pGrp
+
+

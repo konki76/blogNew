@@ -1,0 +1,14 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_qcm_new' %}
+
+{% block main %}
+    <h1>Qcm creation</h1>
+
+    {{ include('admin/blog/_form.html.twig') }}
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+
+{% endblock %}

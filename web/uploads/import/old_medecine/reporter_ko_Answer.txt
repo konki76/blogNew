@@ -1,0 +1,5 @@
+content;authorEmail;answer1;answer2;answer3;answer4;answer5;answer6;answer7;answer8;answer9;answer10;score
+content 1;ayaponcho@hotmail.com;answser 1;answser 2;answser 3;answser 4;answser 5;answser 6;answser 7;answser 8;answser 9;answser 10;1
+content 2;ayaponcho@hotmail.com;answser 1;answser 2;answser 3;answser 4;answser 5;answser 6;answser 7;answser 8;answser 9;answser 10;2
+content 3;ayaponcho@hotmail.com;answser 1;answser 2;answser 3;answser 4;answser 5;answser 6;answser 7;answser 8;answser 9;answser 10;3
+content 4;ayaponcho@hotmail.com;answser 1;answser 2;answser 3;answser 4;answser 5;answser 6;answser 7;answser 8;answser 9;answser 10;4

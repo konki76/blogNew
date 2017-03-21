@@ -1,0 +1,12 @@
+title|grp_slug|ue_slug|annee_slug
+Index masculin|action|masculin|05102016
+1. Masculin|aborder|masculin|05102016
+2. Masculin|determiner|masculin|05102016
+Index engagement|fideliser|engagement|05102016
+1. Engagement|impliquer|engagement|05102016
+2. Engagement|impliquer|engagement|05102016
+Index contexte|environnement|contexte|05102016
+1. Contexte|environnement|contexte|05102016
+Index progression|evolution|progression|05102016
+1. Progression|evolution|progression|05102016
+2. Progression|environnement|progression|05102016

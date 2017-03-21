@@ -76,6 +76,9 @@ fos_user:
     registration:
         form:
             type: apl_user_registration
+services:    
+    import.csvtoarray:
+        class: Acme\UserBundle\Services\ConvertCsvToArray
 #fos_user:
 #    db_driver: orm # other valid values are 'mongodb', 'couchdb'
     #user_class: FOS\UserBundle\Entity\User

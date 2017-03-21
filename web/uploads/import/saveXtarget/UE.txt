@@ -1,0 +1,5 @@
+title|slug|startContent|endContent
+Au masculin|masculin|Caractérisitque de l'homme|
+L'engagement|engagement|Implication, participation active|
+Le contexte|contexte|Ensemble de circonstances liées|
+La progression|progression|Développement, évolution, augmentation, accroissement|

@@ -1,0 +1,126 @@
+E. Génotypage	7)Par mi ces techniques, lesquelles ne font pas parties du « génie génétique » :	UE7S110607	FAUX							segmo
+A. la psychologie est l'étude des troubles mentaux	16)Quelles sont la ou les réponses vraies	UE7S110616	FAUX	A. psychologie: fonctionnement psychique						segmo
+B. En médecine générale 40% des patients sont fonctionnels	16)Quelles sont la ou les réponses vraies	UE7S110616	FAUX	B. 50%						segmo
+C. La psychologie est un terme qui date du 19ème siècle	16)Quelles sont la ou les réponses vraies	UE7S110616	VRAI							segmo
+D. La personnalité se construit dès la naissance	16)Quelles sont la ou les réponses vraies	UE7S110616	FAUX	D. personnalité se construit dès la vie intra utérine						segmo
+E. Le phénotype résulte d'une interaction avec le génome et de l'environnement	16)Quelles sont la ou les réponses vraies	UE7S110616	VRAI							segmo
+A. Le tempérament n'est pas biologiquement déterminé	17)Quelles sont la ou les réponses vraies	UE7S110617	FAUX	A. il est biologiquement déterminé						segmo
+B. Le tempérament est moins malléable que la personnalité	17)Quelles sont la ou les réponses vraies	UE7S110617	VRAI							segmo
+C. Le tempérament est régulé par la personnalité	17)Quelles sont la ou les réponses vraies	UE7S110617	VRAI							segmo
+D. La personnalité est statique	17)Quelles sont la ou les réponses vraies	UE7S110617	FAUX	D. personnalité: organisation dynamique						segmo
+E. Les français sont des grands consommateurs de psychotropes	17)Quelles sont la ou les réponses vraies	UE7S110617	VRAI							segmo
+A. C'est en 1840 que l'on recense plus de 50 définitions de la personnalité	18)Quelles sont la ou les réponses vraies	UE7S110618	FAUX	A. En 1937						segmo
+B. L'hypnose permet l'accès au refoulé	18)Quelles sont la ou les réponses vraies	UE7S110618	VRAI							segmo
+C. La sublimation peut déterminer notre future profession	18)Quelles sont la ou les réponses vraies	UE7S110618	VRAI							segmo
+D. C'est dans le stade oral que l'on retrouve le plaisir du non	18)Quelles sont la ou les réponses vraies	UE7S110618	FAUX	D.le plaisir du non dans le stade anal						segmo
+E. La période de l'adolescence se termine par la capacité à être autonome	18)Quelles sont la ou les réponses vraies	UE7S110618	VRAI							segmo
+A. Le principe de réalité vise à l'obtention de satisfaction par des voies détournées	19)Quelles sont la ou les réponses vraies	UE7S110619	VRAI							segmo
+B. Au fur et à mesure du développement, le principe de réalité prend le pas sur le principe de plaisir	19)Quelles sont la ou les réponses vraies	UE7S110619	VRAI							segmo
+C. Le Ça : principe de plaisir	19)Quelles sont la ou les réponses vraies	UE7S110619	VRAI	pôle puslionnel						segmo
+D. Le moi est héritier du complexe d'Oedipe	19)Quelles sont la ou les réponses vraies	UE7S110619	FAUX	D. le surmoi est héritier du complexe d'CEdipe						segmo
+E. Le moi est issu du ça et de la réalité	19)Quelles sont la ou les réponses vraies	UE7S110619	VRAI							segmo
+A. La théorie de l'attachement a une double fonction: protection et socialisation	20)Quelles sont la ou les réponses vraies	UE7S110620	VRAI							segmo
+B. Dans le développement cognitif selon Piaget, il y a une réversibilité de la pensée au stade préopératoire	20)Quelles sont la ou les réponses vraies	UE7S110620	FAUX	B. la réversibilité de la pensée est au stade des opérations concrètes						segmo
+C. La période des opérations formelles comporte le raisonnement hypothético-déductif	20)Quelles sont la ou les réponses vraies	UE7S110620	VRAI							segmo
+D. Il y a 6 stades dans l'intelligence sensori-motrice	20)Quelles sont la ou les réponses vraies	UE7S110620	VRAI							segmo
+E. Le stade pré-opératoire va de 2 à 6 ans	20)Quelles sont la ou les réponses vraies	UE7S110620	VRAI							segmo
+A. S'applique à l'ensemble de l'activité humaine	21)Concemant le langage humain :	UE7S110621	VRAI							segmo
+B. est inné	21)Concemant le langage humain :	UE7S110621	FAUX	B. Le langage n'est pas inné même si le processus permettant son acquisition et sa mise en oeuvre est en grande partie inné. Le nouveau-né n'est pas capable de parler à la sortie du ventre de sa mère et le langage se développera progressivement						segmo
+C. Est très peu complexe	21)Concemant le langage humain :	UE7S110621	FAUX	C. Le langage humain est le seul à avoir un tel niveau de complexité						segmo
+D. est articulé	21)Concemant le langage humain :	UE7S110621	VRAI							segmo
+E. Varie notamment selon le contexte social et culturel	21)Concemant le langage humain :	UE7S110621	VRAI							segmo
+A. constituent les projections affectives du médecin sur le malade	22)Concernant le transfert :	UE7S110622	FAUX	A. projections affectives du malade sur le médecin						segmo
+B. Lorsque le transfert est positif, il peut se traduire par une confiance et une sympathie du malade envers le médecin	22)Concernant le transfert :	UE7S110622	VRAI							segmo
+C. À l'inverse, un transfert négatif peut induire à l'extrême un effet thérapeutique contraire	22)Concernant le transfert :	UE7S110622	VRAI							segmo
+D. Le transfert est le plus souvent positif	22)Concernant le transfert :	UE7S110622	VRAI							segmo
+E. L'empathie du médecin envers le malade joue une place importante dans le mécanisme de transfert	22)Concernant le transfert :	UE7S110622	VRAI							segmo
+A. 3 conceptions de la maladie coexistent : exogène, endogène et mixte	23)Concernant la relation médecin/malade:	UE7S110623	FAUX	A. 2 conceptions : exogène et endogène						segmo
+B. De nos jours la maladie est vécue comme endogène	23)Concernant la relation médecin/malade:	UE7S110623	FAUX	B. cause exogène de la maladie, faute rejetée sur l'extérieur						segmo
+C. le rôle du médecin est de trouver la maladie physique du patient, d'une part pour le soigner mais aussi pour le déculpabiliser	23)Concernant la relation médecin/malade:	UE7S110623	VRAI							segmo
+D. Le diagnostic est pour le patient une source de danger et une source d'espoir	23)Concernant la relation médecin/malade:	UE7S110623	VRAI							segmo
+E. la loi du 4 mars 2002 impose au médecin d'informer correctement le patient dans les limites de ce qu'il est capable d'entendre psychologiquement	23)Concernant la relation médecin/malade:	UE7S110623	VRAI							segmo
+A. l'effet placebo ne joue absolument pas sur l'effet thérapeutique total	24)Concernant le placebo :	UE7S110624	FAUX	A. l'effet placébo s'ajoute à l'effet pharmacologique afin de donner l'effet thérapeutique						segmo
+B. Parmi les facteurs de réaction au placebo, on retrouve l'âge et le sexe du sujet, la personnalité et le niveau de culture du sujet entre autres	24)Concernant le placebo :	UE7S110624	FAUX	B. L'âge et le sexe du sujet ne rentrent pas directement en compte dans les facteurs de réaction au placébo même s'ils sont en parti liés à la personnalité du sujet						segmo
+C. La voie d'administration du placébo ainsi que sa présentation ne jouent aucun rôle dans la réaction	24)Concernant le placebo :	UE7S110624	FAUX	C. Rôle important dans la réaction au placébo						segmo
+D. Il existe un effet d'accoutumance au placebo	24)Concernant le placebo :	UE7S110624	VRAI							segmo
+E. La maladie, la saison et le médecin sont également des facteurs de réaction au placébo	24)Concernant le placebo :	UE7S110624	VRAI							segmo
+A. La douleur modérée organise la personnalité	25)Concernant la douleur, l'angoisse et l'anxiété :	UE7S110625	VRAI							segmo
+B. ce sont les endorphines endogènes qui se liant aux récepteurs morphiniques centraux sont responsables de la douleur	25)Concernant la douleur, l'angoisse et l'anxiété :	UE7S110625	FAUX	B. Les endorphines endogènes réduisent la douleur						segmo
+C. La morphine peut permettre de soulager les douleurs très fortes	25)Concernant la douleur, l'angoisse et l'anxiété :	UE7S110625	VRAI	analgésique						segmo
+D. Le relationnel, la prise en charge psychologique fait partie intégrante du traitement de l'angoisse, l'anxiété et la douleur	25)Concernant la douleur, l'angoisse et l'anxiété :	UE7S110625	VRAI							segmo
+E. Toute maladie entraine inévitablement angoisse, anxiété et douleur	25)Concernant la douleur, l'angoisse et l'anxiété :	UE7S110625	VRAI							segmo
+A. On ne peut être à la fois français et immigré.	26 — Concernant l'épidémiologie, quelle(s) proposition(s) sont exactes :	UE7S110626	FAUX	A. Un immigré peut avoir la nationalité française						segmo
+B. Chez les immigrés, les pathologies d'acquisition sont caractéristiques du pays d'origine (annales 2009)	26 — Concernant l'épidémiologie, quelle(s) proposition(s) sont exactes :	UE7S110626	FAUX	B. Les immigrés peuvent attraper une pathologie d'acquisition dans le pays dans lequel ils vont s'installer						segmo
+C. La déficience correspond à une notion d'ordre fonctionnel	26 — Concernant l'épidémiologie, quelle(s) proposition(s) sont exactes :	UE7S110626	FAUX	C. C'est l'incapacité						segmo
+D. Environ 1/5 des décès sont des décès prématurés	26 — Concernant l'épidémiologie, quelle(s) proposition(s) sont exactes :	UE7S110626	VRAI							segmo
+E. Les enquêtes transversales permettent d'étudier l'incidence d'une maladie 	26 — Concernant l'épidémiologie, quelle(s) proposition(s) sont exactes :	UE7S1106	FAUX	E. Elles mesurent la prévalence						segmo
+A. On compte environ 450 000 lits d'hospitalisation en France	27- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110627	VRAI							segmo
+B. Il existe environ 5000 établissements de santé en France	27- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110627	FAUX	B. Environ 3000						segmo
+C. Les établissements privés rassemblent environ 35 % des lits d'hospitalisation	27- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110627	VRAI							segmo
+D. Les places représentent 1/10 de la capacité d'accueil	27- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110627	VRAI							segmo
+E. Le service Public Hospitalier se cantonnent à trois missions : non-discrimination, continuité et permanence des soins	27- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110627	FAUX	E. Le SPH comprend aussi des missions d'enseignements						segmo
+A. Les soins de suite et de réadaptation font partis des soins ambulatoires	28- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110628	FAUX	A. Soins dans des établissements de santé						segmo
+B. Les officines sont des établissements de santé	28- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110628	FAUX	B. Non						segmo
+C. 3/5 ème des infirmiers travaillent dans des établissements de santé	28- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110628	VRAI							segmo
+D. Hormis les médecins, on compte environ 2 000 000 de professionnels qui participent à la mise en œuvre des soins	28- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110628	FAUX	D. Pas 2000000 mais 1000000						segmo
+E. On compte environ 650 services d'urgences dont les 3/4 sont situés dans établissements publics	28- Concernant les établissements de santé, quelle(s) proposition(s) sont exactes :	UE7S110628	VRAI							segmo
+A. ARS remplace ANAES en 2004	29- Concernant le pilotage, quelle(s) proposition(s) sont exactes :	UE7S110629	FAUX	AB : C'est HAS qui remplace l'ANAES en 2004						segmo
+B. ARS remplace ANAES en 1996	29- Concernant le pilotage, quelle(s) proposition(s) sont exactes :	UE7S110629	FAUX							segmo
+C. La planification des soins et la sécurité des soins sont pilotés au sein d'une même structure depuis 2004	29- Concernant le pilotage, quelle(s) proposition(s) sont exactes :	UE7S110629	FAUX	C. Planification des soins = ARS et Sécurité des soins = HAS						segmo
+D. L'ARS rassemble au niveau régional les ressources de l'État et de l'Assurance Maladie	29- Concernant le pilotage, quelle(s) proposition(s) sont exactes :	UE7S110629	VRAI							segmo
+E. En France, on fonctionne plutôt avec un système de santé décentralisé	29- Concernant le pilotage, quelle(s) proposition(s) sont exactes :	UE7S110629	FAUX	E. Non, c'est plutôt un système déconcentré						segmo
+A. Les registres de morbidité sont des recueils continus mais non exhaustifs	30- Quelle(s) proposition(s) sont exactes :	UE7S110630	FAUX	A. C'est exhaustif						segmo
+B. Les Maladies à Déclaration Obligatoire (MDO) sont à déclarer à l'HAS	30- Quelle(s) proposition(s) sont exactes :	UE7S110630	FAUX	B. C'est l'ARS						segmo
+C. C'est l'INVS qui est chargé de surveiller les Maladies à Déclaration Obligatoire	30- Quelle(s) proposition(s) sont exactes :	UE7S110630	VRAI							segmo
+D. II n'existe pas de protocoles de soins pour toutes les Affections Longues Durée	30- Quelle(s) proposition(s) sont exactes :	UE7S110630	FAUX	D. Il existe des protocoles pour toutes les ALD						segmo
+E. Le réseau « sentinelle » des médecins à pour rôle de détecter les MDO	30- Quelle(s) proposition(s) sont exactes :	UE7S110630	FAUX	"E. Non, ils détectent&nbsp;<span style=""font-family: Arial"">les pathologies transmissibles fréquentes en médecine de ville</span>"						segmo
+A. Appareil cardio-vasculaires &gt; Cancers &gt; Affections respiratoires &gt; maladies digestives &gt; intoxications	31- Parmi les propositions suivantes concernant les causes de mortalité, la ou lesquelles sont exactes :	UE7S110631	VRAI							segmo
+B. Appareil cardio-vasculaires > maladies digestives> Cancers > Affections respiratoires > intoxications	31- Parmi les propositions suivantes concernant les causes de mortalité, la ou lesquelles sont exactes :	UE7S110631	FAUX	Appareil cardio-vasculaires &gt; Cancers &gt; Affections respiratoires &gt; maladies digestives &gt; intoxications						segmo
+C. Appareil cardio-vasculaires > Cancers > maladies digestives > Affections respiratoires > intoxications	31- Parmi les propositions suivantes concernant les causes de mortalité, la ou lesquelles sont exactes :	UE7S110631	FAUX	Appareil cardio-vasculaires &gt; Cancers &gt; Affections respiratoires &gt; maladies digestives &gt; intoxications						segmo
+D. Appareil cardio-vasculaires > Cancers > maladies digestives > intoxications > Affections respiratoires	31- Parmi les propositions suivantes concernant les causes de mortalité, la ou lesquelles sont exactes :	UE7S110631	FAUX	Appareil cardio-vasculaires &gt; Cancers &gt; Affections respiratoires &gt; maladies digestives &gt; intoxications						segmo
+E. Cancers > Appareil cardio-vasculaires > maladies digestives > intoxications > Affections respiratoires	31- Parmi les propositions suivantes concernant les causes de mortalité, la ou lesquelles sont exactes :	UE7S110631	FAUX	Appareil cardio-vasculaires &gt; Cancers &gt; Affections respiratoires &gt; maladies digestives &gt; intoxications						segmo
+A. On compte 30% de plus de 60 ans en France en 2008	32- Parmi les propositions suivantes, la ou lesquelles sont exactes :	UE7S110632	FAUX	A. 22 %						segmo
+B. Le système de grille IADL fonctionnent pour des soins à domicile basés sur la capacité à réaliser des gestes quotidiens.	32- Parmi les propositions suivantes, la ou lesquelles sont exactes :	UE7S110632	VRAI							segmo
+C. Le financement des EHPAD est en partie effectué par les PA, le département (avec l'APA) et l'Assurance Maladie	32- Parmi les propositions suivantes, la ou lesquelles sont exactes :	UE7S110632	VRAI							segmo
+D. L'allocation supplémentaires du minimum vieillesse se base sur les critères de la grille AGGIR	32- Parmi les propositions suivantes, la ou lesquelles sont exactes :	UE7S110632	FAUX	D. Non, c'est l'APA  !!!!						segmo
+E. La proportion des 60-75 ans estimée pour 2060 reste à peu près stable par rapport à 2007	32- Parmi les propositions suivantes, la ou lesquelles sont exactes :	UE7S110632	VRAI							segmo
+A. 75% des pharmaciens exercent en officine	33- Concernant les professions de santé :	UE7S110633	VRAI							segmo
+B. 25% des pharmaciens exercent en PUI	33- Concernant les professions de santé :	UE7S110633	FAUX	B.75% en officine<div>PUI 10%,&nbsp;</div><div>industries 7%,</div><div>labos 7%</div>						segmo
+C. 47.5% des pharmaciens sont des femmes	33- Concernant les professions de santé :	UE7S110633	FAUX	C.66% de femmes						segmo
+D. L'exercice est essentiellement rémunéré par salaire	33- Concernant les professions de santé :	UE7S110633	VRAI							segmo
+E. On compte environ 75000 pharmaciens en France	33- Concernant les professions de santé :	UE7S110633	VRAI							segmo
+A. Toutes les professions de santé sont régulées par un numérus clausus annuel	34- Concernant les professions de santé :	UE7S110634	VRAI							segmo
+B. Toutes les professions de santé sont soumises à des systèmes de gardes	34- Concernant les professions de santé :	UE7S110634	FAUX	B.par exemple pas de garde pour les kinés						segmo
+C. Toutes les professions de santé sont rémunérées à l'acte	34- Concernant les professions de santé :	UE7S110634	FAUX	C. les pharmaciens ne sont pas rémunérés à l'acte, il existe aussi d'autres modes de financement						segmo
+D. Toutes les professions de santé sont soumises à un financement socialisé	34- Concernant les professions de santé :	UE7S110634	VRAI							segmo
+E. Toutes les professions de santé ont une liberté d'installation sur le territoire	34- Concernant les professions de santé :	UE7S110634	FAUX	E. pas les pharmaciens						segmo
+A. Les infirmiers sont majoritairement spécialisés	35- Concernant les professions de santé :	UE7S110635	FAUX	A. seulement 9% la plupart en établissement						segmo
+B. La pluparts des infirmiers pratiquent en libéral, les autres dans les Services de Soins Infirmiers A Domicile(SSIAD)	35- Concernant les professions de santé :	UE7S110635	FAUX							segmo
+C. Les dentistes sont moitié moins nombreux que les sages-femmes	35- Concernant les professions de santé :	UE7S110635	FAUX	C. c'est l'inverse						segmo
+D. Un masseur kinésithérapeute peut se spécialiser	35- Concernant les professions de santé :	UE7S110635	FAUX	D. pas de spé chez les kinés						segmo
+E. La kinésithérapie ne fait pas partie des professions médicales	35- Concernant les professions de santé :	UE7S110635	VRAI							segmo
+A. Un patient atteint d'ALD ne nécessite pas de couverture complémentaire	36- Concernant le financement des soins	UE7S110636	FAUX	A. l'ALD ne prend en charge que les soins relatifs à la maladie en question pour le reste ils peuvent nécessiter une couverture complémentaire						segmo
+B. La CMU complémentaire ne concerne pas les personnes étrangères	36- Concernant le financement des soins	UE7S110636	FAUX	B. les concerne s'ils rentrent dans les critères						segmo
+C. Les prestations en espèce s'appliquent à une personne touchée par le risque invalidité	36- Concernant le financement des soins	UE7S110636	VRAI							segmo
+D. L'ONDAM est voté chaque année par le Parlement	36- Concernant le financement des soins	UE7S110636	VRAI							segmo
+E. L'ONDAM est voté chaque année par la Sécurité Sociale	36- Concernant le financement des soins	UE7S110636	FAUX	L'ONDAM est voté chaque année par le Parlement						segmo
+A. La T2A se réfère à la Nomenclature Générale des Actes Professionnels (NGAP)	37- Concernant le financement des soins :	UE7S110637	FAUX	A. T2A : PMSI, tarification à l'acte des pros libéraux : CCAM, NGAP						segmo
+B. Le 1/3 payant concerne la majorité des cas en établissement de santé	37- Concernant le financement des soins :	UE7S110637	VRAI							segmo
+C. Dans les cliniques, les praticiens sont financés par la T2A	37- Concernant le financement des soins :	UE7S110637	FAUX	C. la T2A n'est pas un mode de rémunération						segmo
+D. 75% des soins en établissement de santé sont financés par l'Assurance Maladie	37- Concernant le financement des soins :	UE7S110637	FAUX	D. 90%						segmo
+E. Les soins externes en établissements de santé sont financés par tarification à l'acte comme les soins ambulatoires	37- Concernant le financement des soins :	UE7S110637	VRAI							segmo
+A. Le dépistage s'appuie sur les facteurs de risque	38- Concernant les cancers :	UE7S110638	VRAI							segmo
+B. Les registres notent l'incidence des cancers	38- Concernant les cancers :	UE7S110638	VRAI							segmo
+C. 1 000 000 de personnes sont touchées par un cancer chaque année	38- Concernant les cancers :	UE7S110638	FAUX	C. 1 000 000 : prévalence, 320 000 nvx cas/an						segmo
+D. Le surdiagnostique correspond aux maladies dépistées pour lesquelles il n'existe pas de traitement	38- Concernant les cancers :	UE7S110638	FAUX	D. dépistage d'une maladie qui n'aurait pas mérité d'être diagnostiquée (traitement trop lourd par rapport à la virulence de la maladie)						segmo
+E. Les dépistages des cancers sont mis en place à l'échelle nationale par l'état	38- Concernant les cancers :	UE7S110638	VRAI							segmo
+A. Pour les personnes ayant travaillé et donc cotisé du temps de leur vie active, l'état finance des retraites	39- Concernant les personnes âgées :	UE7S110639	FAUX	A. c'est la SECURITE SOCIALE!!!!!!!!!!!!!						segmo
+B. L'APA signifie : Aide aux Personnes Agées	39- Concernant les personnes âgées :	UE7S110639	FAUX	B. Allocation Personnalisée d'Autonomie						segmo
+C. Un mode de constitution des retraites est la capitation	39- Concernant les personnes âgées :	UE7S110639	FAUX	C. Capitalisation						segmo
+D. Les grilles ADL et IADL ne correspondent pas à un système d'aide financière	39- Concernant les personnes âgées :	UE7S110639	VRAI							segmo
+E. Le Minimum vieillesse est d'un montant minimum de 610euros pour une personne seule et 1095 pour un couple	39- Concernant les personnes âgées :	UE7S110639	FAUX	E. maximum						segmo
+A. De nos jours, les hommes fument plus que les femmes	40- Quelle(s) est (sont) la bonne réponse	UE7S110640	VRAI							segmo
+B. Un quart des décès est imputable à la consommation de tabac	40- Quelle(s) est (sont) la bonne réponse	UE7S110640	FAUX	B. 18% des décès						segmo
+C. Il y a 7 fois plus de cas de cancer à cause du tabac que de décès par cancer à cause du tabac	40- Quelle(s) est (sont) la bonne réponse	UE7S110640	FAUX	C. ce sont les taux relatifs à l'alcool						segmo
+D. La prise d'alcool est un facteur de risque évitable	40- Quelle(s) est (sont) la bonne réponse	UE7S110640	VRAI							segmo
+E. Le tabac est responsable d'un quart des décès par cancer	40- Quelle(s) est (sont) la bonne réponse	UE7S110640	VRAI							segmo

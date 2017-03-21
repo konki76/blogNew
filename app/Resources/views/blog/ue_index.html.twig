@@ -5,15 +5,13 @@
 {% block main %}
 
     <h2>{{ ue.title }}</h2>
-	<p>{{ ue.startContent }}</p>
 
 	Liste des questionnaires de cette UE : <br/>
-	{% for ue in ues %}
 	
-	<a href="{-{ path('admin_ue_edit', { id: ue.grp.id }) }}" >
-					{{ ue.grp.title }}
-					</a><br>
+	{% for grp in grps %}
+	- <a href="{{ path('blog_grpPage', { slug: grp.slug }) }}" >{{ grp.title }}</a><br>
 	{% endfor %}
+
 {% endblock %}
 
 {% block sidebar %}

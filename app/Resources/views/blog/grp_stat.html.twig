@@ -7,15 +7,18 @@
     <h2>{{ grp.title }}</h2>
 	<p>{{ grp.startContent }}</p>
 
-	Vous avez {{ scoreUser }} sur {{ scoreMax }}.<br/><br/>
+	Votre score : {{ scoreUser }}/{{ scoreMax }}.<br/><br/>
 
 	Vous avez fait des erreurs sur les questions suivantes :<br/>
 	{% for answer in answers %}
 		{% if(answer.a_score == 0) %}
-		{{ answer.ps_content }}<br/>
+			"{{ answer.ps_title|raw }}" &nbsp;&nbsp;> <a href="{{ path('answer', { page: answer.a_id }) }}" target="_blank">Voir le détail de la réponse</a><br/>
 		{% endif %}
 		
 	{% endfor %}
+	
+	<br/><br/>
+	<a href="{{ path('blog_uePage', { slug: grp.ue }) }}" >Retour à l'UE '{{ grp.title }}'</a><br>
 {% endblock %}
 
 {% block sidebar %}

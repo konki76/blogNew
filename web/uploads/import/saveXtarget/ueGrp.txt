@@ -1,0 +1,13 @@
+title|grp_slug|ue_slug|annee_slug
+Index masculin|masculin_index|masculin|05102016
+1. Masculin|masculin|masculin|05102016
+2. Masculin|masculin|masculin|05102016
+Index engagement|engagement_index|engagement|05102016
+1. Engagement|engagement|engagement|05102016
+2. Engagement|engagement|engagement|05102016
+Index contexte|contexte_index|contexte|05102016
+1. Contexte|contexte|contexte|05102016
+2. Contexte|contexte|contexte|05102016
+Index progression|progression_index|progression|05102016
+1. Progression|progression|progression|05102016
+2. Progression|progression|progression|05102016

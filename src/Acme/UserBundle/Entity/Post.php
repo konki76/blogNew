@@ -46,6 +46,126 @@ class Post
      */
     private $summary;
 
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p1Titre;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p1SousTitre;
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $p1Content;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p1Transition;
+
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p2Titre;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p2SousTitre;
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $p2Content;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p2Transition;
+
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p3Titre;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p3SousTitre;
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $p3Content;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p3Transition;
+
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p4Titre;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p4SousTitre;
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $p4Content;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p4Transition;
+
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p5Titre;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p5SousTitre;
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $p5Content;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p5Transition;
+
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p6Titre;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p6SousTitre;
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $p6Content;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p6Transition;
+	
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p7Titre;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p7SousTitre;
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $p7Content;
+	/**
+     * @ORM\Column(type="string")
+     */
+    private $p7Transition;
+
+	
     /**
      * @ORM\Column(type="text")
      * @Assert\Length(
@@ -219,206 +339,242 @@ class Post
         $answers->setPost(null);
     }
 
-	/**
-	* @ORM\Column(name="labelAnswer1", type="text", nullable=true)
-	*/
-	private $labelAnswer1;
-	/**
-	* @ORM\Column(name="labelAnswer2", type="text", nullable=true)
-	*/
-	private $labelAnswer2;
-	/**
-	* @ORM\Column(name="labelAnswer3", type="text", nullable=true)
-	*/
-	private $labelAnswer3;
-	/**
-	* @ORM\Column(name="labelAnswer4", type="text", nullable=true)
-	*/
-	private $labelAnswer4;
-	/**
-	* @ORM\Column(name="labelAnswer5", type="text", nullable=true)
-	*/
-	private $labelAnswer5;
 	
-	public function getLabelAnswer1()
-    {
-        return $this->labelAnswer1;
-    }
-    public function setLabelAnswer1($labelAnswer1)
-    {
-        $this->labelAnswer1 = $labelAnswer1;
-    }
 	
-    public function getLabelAnswer2()
+    public function getP1Titre()
     {
-        return $this->labelAnswer2;
+        return $this->p1Titre;
     }
-    public function setLabelAnswer2($labelAnswer2)
+    public function setP1Titre($p1Titre)
     {
-        $this->labelAnswer2 = $labelAnswer2;
+        $this->p1Titre = $p1Titre;
     }
-	
-    public function getLabelAnswer3()
+    public function getP1SousTitre()
     {
-        return $this->labelAnswer3;
+        return $this->p1SousTitre;
     }
-    public function setLabelAnswer3($labelAnswer3)
+    public function setP1SousTitre($p1SousTitre)
     {
-        $this->labelAnswer3 = $labelAnswer3;
+        $this->p1SousTitre = $p1SousTitre;
     }
-	
-    public function getLabelAnswer4()
+    public function getP1Content()
     {
-        return $this->labelAnswer4;
+        return $this->p1Content;
     }
-    public function setLabelAnswer4($labelAnswer4)
+    public function setP1Transition($p1Transition)
     {
-        $this->labelAnswer4 = $labelAnswer4;
+        $this->p1Transition = $p1Transition;
     }
+	public function getP1Transition()
+    {
+        return $this->p1Transition;
+    }
+    public function setP1Content($p1Transition)
+    {
+        $this->p1Transition = $p1Transition;
+    }
+/***/
+    public function getP2Titre()
+    {
+        return $this->p2Titre;
+    }
+    public function setP2Titre($p2Titre)
+    {
+        $this->p2Titre = $p2Titre;
+    }
+    public function getP2SousTitre()
+    {
+        return $this->p2SousTitre;
+    }
+    public function setP2SousTitre($p2SousTitre)
+    {
+        $this->p2SousTitre = $p2SousTitre;
+    }
+    public function getP2Content()
+    {
+        return $this->p2Content;
+    }
+    public function setP2Transition($p2Transition)
+    {
+        $this->p2Transition = $p2Transition;
+    }
+	public function getP2Transition()
+    {
+        return $this->p2Transition;
+    }
+    public function setP2Content($p2Transition)
+    {
+        $this->p2Transition = $p2Transition;
+    }
+/***/
+    public function getP3Titre()
+    {
+        return $this->p3Titre;
+    }
+    public function setP3Titre($p3Titre)
+    {
+        $this->p3Titre = $p3Titre;
+    }
+    public function getP3SousTitre()
+    {
+        return $this->p3SousTitre;
+    }
+    public function setP3SousTitre($p3SousTitre)
+    {
+        $this->p3SousTitre = $p3SousTitre;
+    }
+    public function getP3Content()
+    {
+        return $this->p3Content;
+    }
+    public function setP3Transition($p3Transition)
+    {
+        $this->p3Transition = $p3Transition;
+    }
+	public function getP3Transition()
+    {
+        return $this->p3Transition;
+    }
+    public function setP3Content($p3Transition)
+    {
+        $this->p3Transition = $p3Transition;
+    }
+/***/
+    public function getP4Titre()
+    {
+        return $this->p4Titre;
+    }
+    public function setP4Titre($p4Titre)
+    {
+        $this->p4Titre = $p4Titre;
+    }
+    public function getP4SousTitre()
+    {
+        return $this->p4SousTitre;
+    }
+    public function setP4SousTitre($p4SousTitre)
+    {
+        $this->p4SousTitre = $p4SousTitre;
+    }
+    public function getP4Content()
+    {
+        return $this->p4Content;
+    }
+    public function setP4Transition($p4Transition)
+    {
+        $this->p4Transition = $p4Transition;
+    }
+	public function getP4Transition()
+    {
+        return $this->p4Transition;
+    }
+    public function setP4Content($p4Transition)
+    {
+        $this->p4Transition = $p4Transition;
+    }
+/***/
+    public function getP5Titre()
+    {
+        return $this->p5Titre;
+    }
+    public function setP5Titre($p5Titre)
+    {
+        $this->p5Titre = $p5Titre;
+    }
+    public function getP5SousTitre()
+    {
+        return $this->p5SousTitre;
+    }
+    public function setP5SousTitre($p5SousTitre)
+    {
+        $this->p5SousTitre = $p5SousTitre;
+    }
+    public function getP5Content()
+    {
+        return $this->p5Content;
+    }
+    public function setP5Transition($p5Transition)
+    {
+        $this->p5Transition = $p5Transition;
+    }
+	public function getP5Transition()
+    {
+        return $this->p5Transition;
+    }
+    public function setP5Content($p5Transition)
+    {
+        $this->p5Transition = $p5Transition;
+    }
+/***/
+    public function getP6Titre()
+    {
+        return $this->p6Titre;
+    }
+    public function setP6Titre($p6Titre)
+    {
+        $this->p6Titre = $p6Titre;
+    }
+    public function getP6SousTitre()
+    {
+        return $this->p6SousTitre;
+    }
+    public function setP6SousTitre($p6SousTitre)
+    {
+        $this->p6SousTitre = $p6SousTitre;
+    }
+    public function getP6Content()
+    {
+        return $this->p6Content;
+    }
+    public function setP6Transition($p6Transition)
+    {
+        $this->p6Transition = $p6Transition;
+    }
+	public function getP6Transition()
+    {
+        return $this->p6Transition;
+    }
+    public function setP6Content($p6Transition)
+    {
+        $this->p6Transition = $p6Transition;
+    }
+/***/
+    public function getP7Titre()
+    {
+        return $this->p7Titre;
+    }
+    public function setP7Titre($p7Titre)
+    {
+        $this->p7Titre = $p7Titre;
+    }
+    public function getP7SousTitre()
+    {
+        return $this->p7SousTitre;
+    }
+    public function setP7SousTitre($p7SousTitre)
+    {
+        $this->p7SousTitre = $p7SousTitre;
+    }
+    public function getP7Content()
+    {
+        return $this->p7Content;
+    }
+    public function setP7Transition($p7Transition)
+    {
+        $this->p7Transition = $p7Transition;
+    }
+	public function getP7Transition()
+    {
+        return $this->p7Transition;
+    }
+    public function setP7Content($p7Transition)
+    {
+        $this->p7Transition = $p7Transition;
+    }
+/***/
 
-    public function getLabelAnswer5()
-    {
-        return $this->labelAnswer5;
-    }
-    public function setLabelAnswer5($labelAnswer5)
-    {
-        $this->labelAnswer5 = $labelAnswer5;
-    }
-		
 	
 /************************************************************************************************/	
-	/**
-	* @ORM\Column(name="answer1", type="boolean", nullable=true)
-	*/
-	private $answer1;
-	/**
-	* @ORM\Column(name="answer2", type="boolean", nullable=true)
-	*/
-	private $answer2;
-	/**
-	* @ORM\Column(name="answer3", type="boolean", nullable=true)
-	*/
-	private $answer3;
-	/**
-	* @ORM\Column(name="answer4", type="boolean", nullable=true)
-	*/
-	private $answer4;
-	/**
-	* @ORM\Column(name="answer5", type="boolean", nullable=true)
-	*/
-	private $answer5;
-
-    public function getAnswer1()
-    {
-        return $this->answer1;
-    }
-    public function setAnswer1($answer1)
-    {
-        $this->answer1 = $answer1;
-    }
-	
-    public function getAnswer2()
-    {
-        return $this->answer2;
-    }
-    public function setAnswer2($answer2)
-    {
-        $this->answer2 = $answer2;
-    }
-	
-    public function getAnswer3()
-    {
-        return $this->answer3;
-    }
-    public function setAnswer3($answer3)
-    {
-        $this->answer3 = $answer3;
-    }
-	
-    public function getAnswer4()
-    {
-        return $this->answer4;
-    }
-    public function setAnswer4($answer4)
-    {
-        $this->answer4 = $answer4;
-    }
-	
-    public function getAnswer5()
-    {
-        return $this->answer5;
-    }
-    public function setAnswer5($answer5)
-    {
-        $this->answer5 = $answer5;
-    }
-	
-
-	/**
-	* @ORM\Column(name="commentAnswer1", type="text", nullable=true)
-	*/
-	private $commentAnswer1;
-	/**
-	* @ORM\Column(name="commentAnswer2", type="text", nullable=true)
-	*/
-	private $commentAnswer2;
-	/**
-	* @ORM\Column(name="commentAnswer3", type="text", nullable=true)
-	*/
-	private $commentAnswer3;
-	/**
-	* @ORM\Column(name="commentAnswer4", type="text", nullable=true)
-	*/
-	private $commentAnswer4;
-	/**
-	* @ORM\Column(name="commentAnswer5", type="text", nullable=true)
-	*/
-	private $commentAnswer5;	
-	public function getCommentAnswer1()
-    {
-        return $this->commentAnswer1;
-    }
-    public function setCommentAnswer1($commentAnswer1)
-    {
-        $this->commentAnswer1 = $commentAnswer1;
-    }
-	
-    public function getCommentAnswer2()
-    {
-        return $this->commentAnswer2;
-    }
-    public function setCommentAnswer2($commentAnswer2)
-    {
-        $this->commentAnswer2 = $commentAnswer2;
-    }
-	
-    public function getCommentAnswer3()
-    {
-        return $this->commentAnswer3;
-    }
-    public function setCommentAnswer3($commentAnswer3)
-    {
-        $this->commentAnswer3 = $commentAnswer3;
-    }
-	
-    public function getCommentAnswer4()
-    {
-        return $this->commentAnswer4;
-    }
-    public function setCommentAnswer4($commentAnswer4)
-    {
-        $this->commentAnswer4 = $commentAnswer4;
-    }	
-
-    public function getCommentAnswer5()
-    {
-        return $this->commentAnswer5;
-    }
-    public function setCommentAnswer5($commentAnswer5)
-    {
-        $this->commentAnswer5 = $commentAnswer5;
-    }	
-	
 	/**
     * @ORM\OneToMany(targetEntity="pGrp", mappedBy="post")
     */

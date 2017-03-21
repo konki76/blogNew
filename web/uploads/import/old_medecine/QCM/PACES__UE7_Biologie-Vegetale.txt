@@ -1,0 +1,806 @@
+A.Sont des êtres vivants sans membrane autour de leur noyau.	1. Concernant les eucaryotes (2R) :	UE7S110101	FAUX							segmo
+B.Sont des êtres vivant possédant une membrane autour de leur noyau.	1. Concernant les eucaryotes (2R) :	UE7S110101	VRAI							segmo
+C.Les plantes, les champignons, les bactéries, les animaux sont des eucaryotes.	1. Concernant les eucaryotes (2R) :	UE7S110101	FAUX	C : bactérie = procaryote						segmo
+D.Tous les êtres vivant sont des eucaryotes.	1. Concernant les eucaryotes (2R) :	UE7S110101	FAUX							segmo
+E.L'homme est un eucaryote.	1. Concernant les eucaryotes (2R) :	UE7S110101	VRAI							segmo
+A.Carol Von Linné est l'initiateur de la systématique.	2. Parmi ces propositions, lesquelles sont vraies (3R) :	UE7S110102	VRAI							segmo
+B.Le fixisme appuie la théorie de l'évolution.	2. Parmi ces propositions, lesquelles sont vraies (3R) :	UE7S110102	FAUX	B: fixisme considère que toutes les espèces sont apparues en même. Pas d'évolution.						segmo
+C.Jean-Baptiste Lamarck est un des précurseurs de la théorie de l'évolution des espèces.	2. Parmi ces propositions, lesquelles sont vraies (3R) :	UE7S110102	VRAI							segmo
+D.Selon les lois lamarckiennes, l'organe crée la fonction.	2. Parmi ces propositions, lesquelles sont vraies (3R) :	UE7S110102	FAUX	D : La fonction crée l'organe.						segmo
+E.Charles Darwin pose les bas e de la sélection naturelle.	2. Parmi ces propositions, lesquelles sont vraies (3R) :	UE7S110102	VRAI							segmo
+A.Les mutations.	3. Parmi ces propositions, lesquels sont impliqués dans l'évolution des espèces (4R) :	UE7S110103	VRAI							segmo
+B.les réarrangements chromosomiques.	3. Parmi ces propositions, lesquels sont impliqués dans l'évolution des espèces (4R) :	UE7S110103	VRAI							segmo
+C.les recombinaisons génétiques.	3. Parmi ces propositions, lesquels sont impliqués dans l'évolution des espèces (4R) :	UE7S110103	VRAI							segmo
+D.Le clonage.	3. Parmi ces propositions, lesquels sont impliqués dans l'évolution des espèces (4R) :	UE7S110103	FAUX							segmo
+E.Les phénomènes épigénétiques.	3. Parmi ces propositions, lesquels sont impliqués dans l'évolution des espèces (4R) :	UE7S110103	VRAI							segmo
+A.la spéciation correspond au processus évolutif biologique par lequel de nouvelles espèces vivantes apparaissent.	4. Concernant la spéciation (4R) :	UE7S110104	VRAI							segmo
+B.La spéciation allopatrique correspond à l'apparition d'individus ayant des caractéristiques de reproduction différente des autres individus de la même espèce.	4. Concernant la spéciation (4R) :	UE7S110104	FAUX							segmo
+C.Le dimorphisme correspond à une différence morphologique entre le mâle et la femelle au sein d'une même espèce.	4. Concernant la spéciation (4R) :	UE7S110104	VRAI							segmo
+D.La spéciation sympatrique correspond à l'apparition d'individus ayant des caractéristiques de reproduction différentes des autres individus de la même espèce.	4. Concernant la spéciation (4R) :	UE7S110104	VRAI							segmo
+A.Les protozoaires sont des animaux d'apparition tardive.	5. Parmi les propositions suivantes (2R) :	UE7S110105	FAUX	A: apparition primitive						segmo
+B.Les plus primitifs des métazoaires sont les flagelles.	5. Parmi les propositions suivantes (2R) :	UE7S110105	FAUX	B: flagelles = protozoaires						segmo
+C.Les métazoaires comprennent tous les animaux pluri cellulaires.	5. Parmi les propositions suivantes (2R) :	UE7S110105	VRAI							segmo
+D.Les rhizopodes, les flagellés et les les apicomplexa sont tous des protozoaires.	5. Parmi les propositions suivantes (2R) :	UE7S110105	VRAI							segmo
+E.On compte 3 catégories de Tripanosomia : les bruceis, les cruzi, et les tripanozeis.	5. Parmi les propositions suivantes (2R) :	UE7S110105	FAUX	E: tripanozeis n'existe pas !						segmo
+A.les métazoaires diploblastiques sont constitués d'un ectoderme et d'un endoderme.	6. Concernant les métazoaires (3R) :	UE7S110106	VRAI							segmo
+B.les éponges ont une reproduction uniquement asexuée.	6. Concernant les métazoaires (3R) :	UE7S110106	FAUX	B: sexuée et asexuée						segmo
+C.Les cnidaires regroupent les polypes et les méduses.	6. Concernant les métazoaires (3R) :	UE7S110106	VRAI							segmo
+D.Les métazoaires tripoblastiques regroupent les pathelminthes et les némathelminthes.	6. Concernant les métazoaires (3R) :	UE7S110106	VRAI							segmo
+E.Les trématodes ont un appareil respiratoire.	6. Concernant les métazoaires (3R) :	UE7S110106	FAUX							segmo
+A.Ils ont un système nerveux dorsal très développé.	7. Concernant les mollusques(3R) :	UE7S110107	FAUX	A : système nerveux ventral.						segmo
+B.Sont divisés en 3 groupes.	7. Concernant les mollusques(3R) :	UE7S110107	VRAI							segmo
+C.Les lamellibranches sont des animaux terrestres.	7. Concernant les mollusques(3R) :	UE7S110107	FAUX	C : animaux marins.						segmo
+D.Les céphalopodes ont des pieds directement insérés sur la tête. V	7. Concernant les mollusques(3R) :	UE7S110107	VRAI							segmo
+E.Les céphalopodes sont capables de coordonner des activités de chasse.	7. Concernant les mollusques(3R) :	UE7S110107	VRAI							segmo
+A.les annélides sont regroupés en 3 classes selon leur abondance de poils.	8. Concernant les métazoaires protostomiens (3R):	UE7S110108	VRAI							segmo
+B.Les arthropodes correspondent à 80% de la vie sur Terre.	8. Concernant les métazoaires protostomiens (3R):	UE7S110108	VRAI							segmo
+C.Les arthropodes ont un corps divisé en tête, thorax, queue.	8. Concernant les métazoaires protostomiens (3R):	UE7S110108	FAUX	C : tête, thorax, abdomen						segmo
+D.Les arthropodes sont divisés en 2 groupes : les chélicérates et les antennates.	8. Concernant les métazoaires protostomiens (3R):	UE7S110108	VRAI							segmo
+E.Concernant les arthropodes, les acariens entre dans la classification des antennates.	8. Concernant les métazoaires protostomiens (3R):	UE7S110108	FAUX	E : Les acariens entrent dans la classification des chélicérates.						segmo
+A.Les agnathes possèdent une mâchoire.	9. Quelles sont les propositions vraies	UE7S110109	FAUX							segmo
+B.Les métazoaires deutérostomiens vertébrés sont les premiers à avoir un appareil circulatoire fermé.	9. Quelles sont les propositions vraies	UE7S110109	VRAI							segmo
+C.Il existe deux groupes chez les gnathostomes : les poissons et les animaux terrestres.	9. Quelles sont les propositions vraies	UE7S110109	VRAI							segmo
+D.Les tétrapodes excluent les amphibiens.	9. Quelles sont les propositions vraies	UE7S110109	FAUX	D: Les tétrapodes incluent les amphibiens.						segmo
+E.Les mammifères possèdent des hématies nucléées.	9. Quelles sont les propositions vraies	UE7S110109	FAUX	E : anucléées.						segmo
+A. Sont des plantes vertes terrestres ou aquatiques, y compris les algues	1. Concernant les végétaux :	UE7S110301	FAUX	A. pas les algues						segmo
+B. Elles ont en commun leur constitution	1. Concernant les végétaux :	UE7S110301	VRAI							segmo
+C. elles ont en commun leur fonction cellulaire	1. Concernant les végétaux :	UE7S110301	VRAI							segmo
+D. elles ont en commun leur durée de vie	1. Concernant les végétaux :	UE7S110301	FAUX							segmo
+E. elles ont en commun leur nutrition	1. Concernant les végétaux :	UE7S110301	VRAI							segmo
+A. ils ont une faible activité de différenciation cellulaire	2. Concernant les végétaux :	UE7S110302	VRAI							segmo
+B. Cette propriété permet la formation d'un végétal à partir du prélèvement n'importe quelle cellule du végétal, dans des conditions particulières	2. Concernant les végétaux :	UE7S110302	VRAI							segmo
+C. Cette technique de reproduction asexuée induit de différencier la cellule que l'on prélève dans un premier temps puis de la dédifférencier afin de donner la plante entière	2. Concernant les végétaux :	UE7S110302	FAUX	C. dédifférencier la cellule que l'on prélève puis de la différencier pour donner la plante entière						segmo
+D. Ce mode de « reproduction » est appelé multiplication végétative	2. Concernant les végétaux :	UE7S110302	VRAI							segmo
+E. Tout comme les cellules animales, les cellules végétales sont très différenciées	2. Concernant les végétaux :	UE7S110302	FAUX	E. Cellules animales très différenciées alors que les cellules végétales beaucoup moins						segmo
+A. Les vacuoles sont spécifiques des végétaux, des algues, et des champignons	3. Concernant les végétaux :	UE7S110303	FAUX	A. vacuoles présentes dans les plantes et les champignons						segmo
+B. Les vacuoles ont plusieurs rôles comme la digestion et le stockage des éléments	3. Concernant les végétaux :	UE7S110303	VRAI							segmo
+C. Les échanges entre les vacuoles et les autres compartiments de la cellule végétale sont uniquement actifs	3. Concernant les végétaux :	UE7S110303	FAUX	C. échanges actifs et passifs						segmo
+D. Les plastes sont des organites présents dans les cellules végétales et animales	3. Concernant les végétaux :	UE7S110303	FAUX	D. plastes présents uniquement dans les cellules végétales						segmo
+E. On distingue de nombreux types de plastes qui sont interconvertibles, c'est-à-dire qu'ils peuvent changer de fonction	3. Concernant les végétaux :	UE7S110303	VRAI							segmo
+A. Sont des êtres vivants dits « autotrophes »	4. Concernant les végétaux :	UE7S110304	VRAI							segmo
+B. L'autotrophie désigne la capacité d'un organisme à produire de la matière organique à partie de composés inorganique	4. Concernant les végétaux :	UE7S110304	VRAI							segmo
+C. Cette qualité permet aux végétaux de transformer du glucide en en carbone et hydrogène par exemple	4. Concernant les végétaux :	UE7S110304	FAUX	C. transformation du carbone et hydrogène en composés organique et non pas l'inverse						segmo
+D. L'énergie nécessaire à ces réactions est notamment fournie par la lumière via la photosynthèse	4. Concernant les végétaux :	UE7S110304	VRAI							segmo
+E. On peut caractériser ainsi les végétaux d'autotrophes et de phototrophes	4. Concernant les végétaux :	UE7S110304	VRAI							segmo
+A. D'un point de vue chimique, les végétaux sont composés d'environ 70% d'amidon et d'acides aminés	5. Concernant les végétaux :	UE7S110305	FAUX	A. 70% de cellulose et de lignine						segmo
+B. la cellulose et la lignine sont des polymères retrouvés dans les végétaux	5. Concernant les végétaux :	UE7S110305	VRAI							segmo
+C. La chimie lourde traite des composés non vitaux présents dans les végétaux	5. Concernant les végétaux :	UE7S110305	FAUX	C. chimie lourde = composés vitaux						segmo
+D. La chimie fine s'intéresse notamment aux molécules présentes dans les végétaux et ayant un pouvoir thérapeutique	5. Concernant les végétaux :	UE7S110305	VRAI							segmo
+A. la taxonomie a pour but de décrire et regrouper les êtres vivants dans des entités appelées taxons	6. Concernant la classification des végétaux :	UE7S110306	VRAI							segmo
+B. La systématique quant à elle a pour but de classer et d'établir des rapports hiérarchiques entre les taxons	6. Concernant la classification des végétaux :	UE7S110306	VRAI							segmo
+C. La nomenclature désigne la façon de nommer un taxon de manière « standardisé »	6. Concernant la classification des végétaux :	UE7S110306	VRAI							segmo
+D. la nomenclature binomiale nomme le taxon selon son genre et sa race	6. Concernant la classification des végétaux :	UE7S110306	FAUX	D. selon son genre et son espèce						segmo
+E. l'autorité désigne l'abréviation du nom de l'auteur qui a écrit la plante en latin	6. Concernant la classification des végétaux :	UE7S110306	VRAI							segmo
+A. Les premières classifications des végétaux étaient basées sur la situation géographique de ces derniers	7. Concernant les végétaux :	UE7S110307	FAUX	A. leres classifications basées sur des critères morphologiques						segmo
+B. Le 19è siècle marque un bon en avant important en ce qui concerne l'évolution des espèces grâce à Darwin et de Lamarck	7. Concernant les végétaux :	UE7S110307	VRAI							segmo
+C. Au 20è siècle, deux classifications sont admises : la classification classique et la classification de Mendeleïev	7. Concernant les végétaux :	UE7S110307	FAUX	C. classifications classiques et les classifications phylogénétiques						segmo
+D. La classification classique est basée sur les caractères morphologiques des végétaux	7. Concernant les végétaux :	UE7S110307	VRAI							segmo
+E. la classification phylogénétique rend compte des degrés de parenté entre les espèces et la notion de phylogénie	7. Concernant les végétaux :	UE7S110307	VRAI							segmo
+A. l'apparition de la vie sur Terre est corrélée avec la présence d'eau	8. Concernant les végétaux :	UE7S110308	VRAI							segmo
+B. les premiers microorganismes sont appelés protobiontes	8. Concernant les végétaux :	UE7S110308	VRAI							segmo
+C. L'apparition des premiers protobiontes remonte à 3,8 millions d'années	8. Concernant les végétaux :	UE7S110308	FAUX	C. 3,8 milliards d'années						segmo
+D. Les protobiontes ont ensuite évolué pour devenir des cellules vivantes	8. Concernant les végétaux :	UE7S110308	FAUX	D. pas d'évolution des protobiontes						segmo
+E. Les premières cellules vivantes datent de —3,5 millions d'années	8. Concernant les végétaux :	UE7S110308	FAUX	E. 3,5 milliards d'années						segmo
+A. On distingue parmi les toutes premières cellules vivantes les procaryotes, les eucaryotes, les aquatiques et les anaérobies	9. Concernant les végétaux :	UE7S110309	FAUX	A. pas les eucaryotes						segmo
+B. Les stromatolithes sont des fossiles de cyanobactéries	9. Concernant les végétaux :	UE7S110309	VRAI							segmo
+C. Grâce à la photosynthèse, les cyanobactéries libère du CO2 dans l'atmosphère depuis 2 milliards d'années	9. Concernant les végétaux :	UE7S110309	FAUX	C. la photosynthèse permet la libération d'02 dans l'atmosphère						segmo
+D. l'augmentation de la teneur en 02 a permis la création d'une couche d'ozone	9. Concernant les végétaux :	UE7S110309	VRAI							segmo
+E. La formation de la couche d'ozone a fortement contribué à la sortie de la vie hors de l'eau	9. Concernant les végétaux :	UE7S110309	VRAI							segmo
+A. les premières cellules eucaryotes apparaissent à la fin du cambrien	10. Concernant les végétaux :	UE7S110310	FAUX	A. à la fin du précambrien						segmo
+B. Ces premières cellules sont des algues vertes dont des fossiles ont été trouvés en Australie	10. Concernant les végétaux :	UE7S110310	VRAI							segmo
+C. Cette flore possède des capacités de croissance et de multiplication importante	10. Concernant les végétaux :	UE7S110310	VRAI							segmo
+D. cette flore ne possède aucune similitude avec les plantes actuelles	10. Concernant les végétaux :	UE7S110310	FAUX	D. nombreuses similitudes avec les plantes actuelles						segmo
+E. Les Charophyceae sont des algues vertes les plus proches des embryophytes actuels	10. Concernant les végétaux :	UE7S110310	VRAI							segmo
+A. Au début du primaire, l'air était composé de 30% d'02	11. Concernant les végétaux :	UE7S110311	FAUX	A. 30% de la teneur actuelle en 02						segmo
+B. A cette même époque, la vie est essentiellement terrestre	11. Concernant les végétaux :	UE7S110311	FAUX	B. vie essentiellement aquatique						segmo
+C. Le « big bang de l'évolution » a lieu à au début du primaire (Cambrien)	11. Concernant les végétaux :	UE7S110311	VRAI							segmo
+D. Au milieu du primaire, le taux d'02 devient suffisant pour permettre une sortie hors de l'eau de certain être vivant	11. Concernant les végétaux :	UE7S110311	VRAI							segmo
+E. Au Silurien, le taux d'02 dans l'air est alors de 10% de la valeur actuelle	11. Concernant les végétaux :	UE7S110311	FAUX	E. teneur en 02 au Silurien = 10%						segmo
+A. La fin du Dévonien voit apparaître les premiers ovules	12. Concernant les végétaux :	UE7S110312	VRAI							segmo
+B. C'est à cette même époque qu'apparaissent les fougères arborescentes	12. Concernant les végétaux :	UE7S110312	FAUX	B. fougères arborescentes apparaissent avant						segmo
+C. Durant le Carbonifère (-300 MA), on voit apparaître des forêts entières de fougères, probablement à l'origine d'une augmentation rapide du taux en 02	12. Concernant les végétaux :	UE7S110312	VRAI							segmo
+D. L'époque du Permien correspond au milieu de l'Ere primaire	12. Concernant les végétaux :	UE7S110312	FAUX	D. permien = fin de l'Ere primaire						segmo
+E. Durant le Permien, une crise majeure causera la disparition de 50% des espèces présentes.	12. Concernant les végétaux :	UE7S110312	FAUX	E. disparition de 95% des espèces						segmo
+A. Au début de l'Ere secondaire, on retrouve les forêts de coniférophytes, de cycadophytes et de ginkgophytes du Dévonien	13. Concernant les végétaux :	UE7S110313	VRAI							segmo
+B. Les premiers dinosaures apparaissent alors à la fin de l'Ere secondaire au Crétacé	13. Concernant les végétaux :	UE7S110313	FAUX	B. apparition des dinos =début de l'Ere secondaire						segmo
+C. Une nouvelle « crise » a lieu vers-10 millions d'années causant la disparition des dinosaures et de 75% de la flore terrestre	13. Concernant les végétaux :	UE7S110313	FAUX	C. nouvelle crise vers -65 millions d'années causant la disparition de 50% des espèces						segmo
+D. durant cette crise, on voit disparaître les angiospermes alors que les gymnospermes colonisent tous les milieux	13. Concernant les végétaux :	UE7S110313	FAUX	D. disparition des gymnospermes et colonisation des angiospermes						segmo
+E. Depuis le tertiaire, la flore terrestre ne s'est pas tellement modifiée, composée de 95% d'angiospermes	13. Concernant les végétaux :	UE7S110313	FAUX	E. flore terrestre = 80% d'angiospermes						segmo
+A. Les contraintes abiotiques correspondent à l'ensemble des facteurs physico-chimique d'un système influençant suries être vivant de ce système	14. Concernant les végétaux :	UE7S110314	VRAI							segmo
+B. Parmi ces contraintes on retrouve le milieu, la pesanteur, le type de sol et les autres êtres vivants	14. Concernant les végétaux :	UE7S110314	FAUX	B. Les autres êtres vivants font parties des contraintes biotiques						segmo
+C. L'atmosphère est un facteur abiotique	14. Concernant les végétaux :	UE7S110314	VRAI							segmo
+D. L'épideime et le cuticule des plantes protègent celles-ci de la déshydratation	14. Concernant les végétaux :	UE7S110314	VRAI							segmo
+E. Les cormus sont remplacées par des thalles, plus rigides et permettant un maintien dans l'air	14. Concernant les végétaux :	UE7S110314	FAUX	E. Les thalles sont remplacées par des cormus						segmo
+A. Le xylème correspond au tissu de conduction de la sève brute qui monte des racines jusqu'aux feuilles	15. Concernant les végétaux :	UE7S110315	VRAI							segmo
+B. Le limbe des feuilles permet la photosynthèse dans leurs chloroplastes	15. Concernant les végétaux :	UE7S110315	VRAI							segmo
+C. la sève élaborée produite dans les feuilles descend dans le phloème	15. Concernant les végétaux :	UE7S110315	VRAI							segmo
+D. Les plantes terrestres ont adapté leur système de reproduction de façon à ce que les gamètes soient véhiculés par l'air	15. Concernant les végétaux :	UE7S110315	VRAI							segmo
+E. La graine est l'aboutissement d'un processus de protection du zigote contre la déshydratation	15. Concernant les végétaux :	UE7S110315	VRAI							segmo
+A. Le cycle haplodiplobiotique des végétaux comprend 3 évènements critiques : méïose, fécondation, division cellulaire	16. Concernant les végétaux :	UE7S110316	FAUX	A. 2 événements = méïose et fécondation						segmo
+B. Ce cycle comprend deux phases : gamétophyte et sporophyte	16. Concernant les végétaux :	UE7S110316	VRAI							segmo
+C. Le gamètophyte permet la formation de spores	16. Concernant les végétaux :	UE7S110316	FAUX							segmo
+D. Le gamétophyte est en général haploïde	16. Concernant les végétaux :	UE7S110316	VRAI							segmo
+E. Le sporophyte est en général diploïde	16. Concernant les végétaux :	UE7S110316	VRAI							segmo
+A. Les écotypes et les accommodats sont des exemples d'évolution naturelle	17. Concernant les végétaux	UE7S110317	VRAI							segmo
+B. Les écotypes sont des modifications du phénotype	17. Concernant les végétaux	UE7S110317	FAUX							segmo
+C. les accommodats sont des modifications du phénotype	17. Concernant les végétaux	UE7S110317	VRAI							segmo
+D. les écotypes sont irréversibles	17. Concernant les végétaux	UE7S110317	VRAI							segmo
+E. Les accommodats sont irréversibles	17. Concernant les végétaux	UE7S110317	FAUX							segmo
+A. Sont des techniques de production de biens	18. Concernant les biotechnologies:	UE7S110318	VRAI							segmo
+B. Manipulent des organismes non vivants	18. Concernant les biotechnologies:	UE7S110318	FAUX							segmo
+C. Les antibiotiques sont issus des toutes lères biotechnologies	18. Concernant les biotechnologies:	UE7S110318	FAUX							segmo
+D. Les antibiotiques représentent 50% des médicaments issus des biotechnologies	18. Concernant les biotechnologies:	UE7S110318	VRAI							segmo
+E. Les levures sont les seules êtres-vivants à pratiquer la fermentation	18. Concernant les biotechnologies:	UE7S110318	FAUX							segmo
+A. Les biotechnologies blanches	19. Dans les biotechnologies on a :	UE7S110319	VRAI	ABCDE. Vert d'intérêt agricole, rouge:médicale, blanc consiste à appliquer des procédés naturels à la production industrielle						segmo
+B. Les biotechnologies vertes	19. Dans les biotechnologies on a :	UE7S110319	VRAI	ABCDE. Vert d'intérêt agricole, rouge:médicale, blanc consiste à appliquer des procédés naturels à la production industrielle						segmo
+C. Les biotechnologies bleues	19. Dans les biotechnologies on a :	UE7S110319	FAUX	ABCDE. Vert d'intérêt agricole, rouge:médicale, blanc consiste à appliquer des procédés naturels à la production industrielle						segmo
+D. Les biotechnologies rouges	19. Dans les biotechnologies on a :	UE7S110319	VRAI	ABCDE. Vert d'intérêt agricole,<br>rouge : médicale, <br>blanc consiste à appliquer des procédés naturels à la production industrielle						segmo
+E. Les biotechnologies jaunes	19. Dans les biotechnologies on a :	UE7S110319	FAUX	ABCDE. Vert d'intérêt agricole, rouge:médicale, blanc consiste à appliquer des procédés naturels à la production industrielle						segmo
+A. Le clonage et la culture d'embryons immatures sont 2 techniques utilisées pour la modification des caractéristiques naturelles des végétaux	20. Concernant les biotechnologies végétales:	UE7S110320	FAUX							segmo
+B. Le principe de totipotence est utilisé pour le clonage végétal	20. Concernant les biotechnologies végétales:	UE7S110320	VRAI							segmo
+C. La cryoconservation ne garde que certaines des qualités des embryons immatures	20. Concernant les biotechnologies végétales:	UE7S110320	FAUX							segmo
+D. Le génie génétique permet la modification des caractéristiques naturelles végétales	20. Concernant les biotechnologies végétales:	UE7S110320	VRAI							segmo
+E. Ne respectent pas toujours l'environnement	20. Concernant les biotechnologies végétales:	UE7S110320	VRAI							segmo
+A. De créer de nouvelles variétés de végétaux	21. Le génie génétique permet:	UE7S110321	VRAI							segmo
+B. De modifier le nombre d'exemplaires de chromosomes	21. Le génie génétique permet:	UE7S110321	VRAI							segmo
+C. De modifier les informations génétiques par techniques non mendéliennes	21. Le génie génétique permet:	UE7S110321	VRAI							segmo
+D. Le séquençage des génomes	21. Le génie génétique permet:	UE7S110321	VRAI							segmo
+E. La modification ciblée de génome par enzyme de conversion	21. Le génie génétique permet:	UE7S110321	FAUX							segmo
+A. Banque de gènes	22. Quelles sont les 3 étapes de la création de nouvelles variétés:	UE7S110322	VRAI							segmo
+B. Introduction par hybridation	22. Quelles sont les 3 étapes de la création de nouvelles variétés:	UE7S110322	VRAI							segmo
+C. Clonage	22. Quelles sont les 3 étapes de la création de nouvelles variétés:	UE7S110322	FAUX							segmo
+D. Amplification	22. Quelles sont les 3 étapes de la création de nouvelles variétés:	UE7S110322	FAUX							segmo
+E. Conservation par fixation	22. Quelles sont les 3 étapes de la création de nouvelles variétés:	UE7S110322	VRAI							segmo
+A. Effectue une modification de l'information génétique qui se transmettra à la descendance	23. Concernant la transgénèse:	UE7S110323	VRAI							segmo
+B. Induit une délétion dans le génome de la plante receveuse	23. Concernant la transgénèse:	UE7S110323	FAUX							segmo
+C. Supprime le gène Bt de la plante hôte pour qu'elle résiste aux insectes	23. Concernant la transgénèse:	UE7S110323	FAUX							segmo
+D. Le round up est un herbicide total	23. Concernant la transgénèse:	UE7S110323	VRAI							segmo
+E. Le glyphosate n'est pas un herbicide total	23. Concernant la transgénèse:	UE7S110323	FAUX							segmo
+A. Modifie le nombre de gènes dans le génome	24. Concernant la mutagénèse:	UE7S110324	FAUX							segmo
+B. Modifie l'ARN	24. Concernant la mutagénèse:	UE7S110324	FAUX							segmo
+C. Un xénobiotique est une substance toxique inhérente à un organisme vivant	24. Concernant la mutagénèse:	UE7S110324	FAUX							segmo
+D. Les U.V ne sont pas utilisés pour ce type de modification de l'information génétique	24. Concernant la mutagénèse:	UE7S110324	FAUX							segmo
+E. Est un phénomène spontané naturel	24. Concernant la mutagénèse:	UE7S110324	VRAI							segmo
+A. Détermine les séquences nucléotidiques de l'ARN	25. Concernant le séquençage des génomes:	UE7S110325	FAUX							segmo
+B. Permet d'établir des liens de parenté entre les organismes	25. Concernant le séquençage des génomes:	UE7S110325	VRAI							segmo
+D. Le génotypage permet la sélection de caractères	25. Concernant le séquençage des génomes:	UE7S110325	VRAI							segmo
+E. La génomique comparative permet l'isolement de «gènes utiles»	25. Concernant le séquençage des génomes:	UE7S110325	VRAI							segmo
+A. Un ectoparasite peut être retrouvé dans la cavité buccale	26. Concernant les parasites	UE7S110326	VRAI							segmo
+B. Le toenia est un endoparasite	26. Concernant les parasites	UE7S110326	VRAI							segmo
+C. Le cyle monoxène ne fait pas intervenir qu'un seul hôte	26. Concernant les parasites	UE7S110326	FAUX							segmo
+D. Une activité du parasite trop intense peut conduire à sa propre perte	26. Concernant les parasites	UE7S110326	VRAI							segmo
+E. On parle de co-évolution lorsque la sélection naturelle favorise les moyens de défenses chez le parasite, et l'adaptation de l'hôte	26. Concernant les parasites	UE7S110326	FAUX							segmo
+A. Lors de cette rencontre, l'hôte sélectionne des gènes pour survivre à l'agression du parasite	27. Concernant la rencontre hôte/parasite:	UE7S110327	FAUX							segmo
+B. L'hôte sélectionne des gènes pour éviter le parasite	27. Concernant la rencontre hôte/parasite:	UE7S110327	VRAI							segmo
+C. L'hôte offre un habitat stable au parasite	27. Concernant la rencontre hôte/parasite:	UE7S110327	VRAI							segmo
+D. Le parasite secrète des substances nutritives pour l'hôte	27. Concernant la rencontre hôte/parasite:	UE7S110327	FAUX							segmo
+E. L'hôte ne peut survivre sans parasite	27. Concernant la rencontre hôte/parasite:	UE7S110327	FAUX							segmo
+A. La favorisation est un processus adaptatif chez le parasite	28. Parmi les propositions suivantes, lesquelles sont vraies:	UE7S110328	VRAI							segmo
+B. La favorisation est l'étape permettant au parasite colonisant l'hôte de devenir adulte	28. Parmi les propositions suivantes, lesquelles sont vraies:	UE7S110328	FAUX							segmo
+C. Le schistosoma a un cycle hétéroxène	28. Parmi les propositions suivantes, lesquelles sont vraies:	UE7S110328	VRAI							segmo
+D. Le schistosoma sélectionne de gènes l'induisant à nager jusque l'Homme surtout la nuit	28. Parmi les propositions suivantes, lesquelles sont vraies:	UE7S110328	FAUX							segmo
+E. Le schistosoma peut combattre le système immunitaire de l'Homme	28. Parmi les propositions suivantes, lesquelles sont vraies:	UE7S110328	VRAI							segmo
+A. Un parasite ne peut modifier le comportement de son hôte	29. Concernant les parasites:	UE7S110329	FAUX							segmo
+B. La transmission correspond au passage d'un hôte à un autre	29. Concernant les parasites:	UE7S110329	VRAI							segmo
+C. Dans la toxoplasmose l'hôte intermédiaire est le chien	29. Concernant les parasites:	UE7S110329	FAUX							segmo
+D. Dans la toxoplasmose l'hôte définitif est le chat	29. Concernant les parasites:	UE7S110329	VRAI							segmo
+E. Les gènes pour «éviter» le parasite chez l'hôte amènent parfois à empêcher la reproduction de cette hôte	29. Concernant les parasites:	UE7S110329	VRAI							segmo
+A. Une fois dans l'Homme, le schistosome secrète une molécule entrainant l'apoptose des lymphocytes T de l'hôte, induite par les gènes pour «survivre»	30. Concernant les parasites:	UE7S110330	VRAI							segmo
+B. Chez le parasite, les gènes pour «rencontrer» et les gènes pour «survivre» jouent souvent un rôle comparable	30. Concernant les parasites:	UE7S110330	VRAI							segmo
+C. La sélection du gène pour «éviter» est rare chez l'hôte	30. Concernant les parasites:	UE7S110330	VRAI							segmo
+D. C'est l'activité humaine qui a entrainé l'augmentation de pathogénécité de P.Falciparum	30. Concernant les parasites:	UE7S110330	VRAI							segmo
+E. Dans le paludisme, les centaines de piqûres par personne et par an a engendré un accroissement de la virulence du P.Falciparum	30. Concernant les parasites:	UE7S110330	VRAI							segmo
+A. Les métazoaires comprennent tous les animaux pluricellulaires	6) Donnez la ou les bonnes réponses :	UE7S110406	VRAI							segmo
+B. Le giardia duodénalis est un flagellé, parasite de la cavité buccale de l'Homme	6) Donnez la ou les bonnes réponses :	UE7S110406	FAUX	B. parasite de l'intestin						segmo
+C. On distingue les amibes libres et les amibes parasitaires obligatoires	6) Donnez la ou les bonnes réponses :	UE7S110406	VRAI							segmo
+D. Apicomplexa est un organisme complexe de plusieurs cellules	6) Donnez la ou les bonnes réponses :	UE7S110406	FAUX	D. apicomplexa=organisme unicellulaire						segmo
+E. Les coraux possèdent un appareil nerveux primitif permettant la coordination des mouvements	6) Donnez la ou les bonnes réponses :	UE7S110406	VRAI							segmo
+A. Les trématodes sont dits hermaphrodites	7) Donnez la ou les bonnes réponses :	UE7S110407	VRAI							segmo
+B. On classe les mollusques en 3 branches : les lamellibranches, les gastéropodes et les céphalopodes	7) Donnez la ou les bonnes réponses :	UE7S110407	VRAI							segmo
+C. Les escargots font partie des céphalopodes	7) Donnez la ou les bonnes réponses :	UE7S110407	FAUX	C. les escargots font partie des gastéropodes						segmo
+D. Les arthropodes représentent 80% de la vie sur Terre	7) Donnez la ou les bonnes réponses :	UE7S110407	VRAI							segmo
+E. Les arthropodes sont les premiers organismes à être entièrement terrestre	7) Donnez la ou les bonnes réponses :	UE7S110407	VRAI							segmo
+A. les chélicérates ont en communs des antennes et 4 paires de pattes	8) Donnez la ou les bonnes réponses :	UE7S110408	FAUX	A. Pas d'antennes chez les chélicérates						segmo
+B. Parmi les antennates on compte entre autres les crustacés et les insectes	8) Donnez la ou les bonnes réponses :	UE7S110408	VRAI							segmo
+C. Les vertébrés sont composés d'un squelette interne en 3 parties : tête, corps et queue	8) Donnez la ou les bonnes réponses :	UE7S110408	VRAI							segmo
+D. Les agnathes sont des animaux terrestres sans mâchoire	8) Donnez la ou les bonnes réponses :	UE7S110408	FAUX							segmo
+E. Les poissons sont pourvus d'un système respiratoire	8) Donnez la ou les bonnes réponses :	UE7S110408	VRAI							segmo
+A. les tétrapodes comptent uniquement 3 classes de vertébrés terrestres	9) Donnez la ou les bonnes réponses :	UE7S110409	VRAI							segmo
+B. Le palais des reptiles sépare la nutrition et la défécation	9) Donnez la ou les bonnes réponses :	UE7S110409	FAUX	B. le palais des reptiles sépare la nutrition de la respiration						segmo
+C. On dit des reptiles qu'ils sont poïkilotherme, c'est à dire qu'ils ont une température interne fixe	9) Donnez la ou les bonnes réponses :	UE7S110409	FAUX	C. poïkilotherme : température corporelle interne variable						segmo
+D. Les oiseaux sont des vertébrés amniotes, homéothermes, recouverts de plumes et ovipares	9) Donnez la ou les bonnes réponses :	UE7S110409	VRAI							segmo
+E. Les mammifères sont caractérisés entre autre par leurs hématies anucléées.	9) Donnez la ou les bonnes réponses :	UE7S110409	VRAI							segmo
+A. Les vacuoles occupent environ 50% des cellules végétales	10) Donnez la ou les bonnes réponses :	UE7S110410	FAUX	A. vacuoles = 90% du volume cellulaire						segmo
+B. Les vacuoles ont de nombreux rôles dont celui de digestion et stockage des nutriments	10) Donnez la ou les bonnes réponses :	UE7S110410	VRAI							segmo
+C. Les protobiontes sont d'aspect globuleux, retrouvés isolés ou en colonies	10) Donnez la ou les bonnes réponses :	UE7S110410	VRAI							segmo
+D. Les stromatolithes sont des fossiles de cyanobactéries	10) Donnez la ou les bonnes réponses :	UE7S110410	VRAI							segmo
+E. C'est au permien que l'on date l'apparition des toutes premières cellules eucaryotes (algues vertes)	10) Donnez la ou les bonnes réponses :	UE7S110410	FAUX	E. premières cellules eucaryotes = fin du précambrien						segmo
+A. Le permien correspond à la fin du primaire	11) Donnez la ou les bonnes réponses :	UE7S110411	VRAI							segmo
+B. La pesanteur, les caractéristiques du sol et de l'atmosphère font partis des contraintes abiotique	11) Donnez la ou les bonnes réponses :	UE7S110411	VRAI							segmo
+C. Le xylème et le phloème sont les tissus de conduction de la sève au sein de la plante	11) Donnez la ou les bonnes réponses :	UE7S110411	VRAI							segmo
+D. Les facteurs abiotiques n'ont aucune influence sur l'évolution des végétaux dans un milieu donné	11) Donnez la ou les bonnes réponses :	UE7S110411	FAUX							segmo
+E. Les accommodats sont réversibles	11) Donnez la ou les bonnes réponses :	UE7S110411	VRAI							segmo
+A. Les biotechnologies induisent la manipulation en laboratoires de particules inertes exclusivement	12) Donnez la ou les bonnes réponses :	UE7S110412	FAUX	A. biotechnologie = manipulation d'organismes vivants						segmo
+B. Flemming a mis en évidence une substance capable d'empêcher le développement de Toxoplasma Gondi	12) Donnez la ou les bonnes réponses :	UE7S110412	FAUX	B. Penicillium notatum et non pas T. Gondi						segmo
+C. On appelle « vertes » les biotechnologies en rapport avec le domaine de la santé	12) Donnez la ou les bonnes réponses :	UE7S110412	FAUX	C. biotechnologies « vertes » = agriculture						segmo
+D. Les biotechnologies végétales ont permis une accélération de la production végétale dans le domaine de l'agroalimentaire, notamment grâce au clonage	12) Donnez la ou les bonnes réponses :	UE7S110412	VRAI							segmo
+E. Le génie génétique permet la création de nouvelles variétés de plantes, notamment de maïs et de blé	12) Donnez la ou les bonnes réponses :	UE7S110412	VRAI							segmo
+A. Certaines enzymes de restriction sont capables de reconnaître des séquences ciblées de l'ADN	13) Donnez la ou les bonnes réponses :	UE7S110413	VRAI							segmo
+B. Une ligase est utilisée pour réparer ou modifier une séquence d'ADN	13) Donnez la ou les bonnes réponses :	UE7S110413	FAUX	B. ligase utilisée pour relier les séquences d'ADN entre elles						segmo
+C. Un parasite est dépendant de son hôte tout comme l'hôte est dépendant de son parasite	13) Donnez la ou les bonnes réponses :	UE7S110413	FAUX	C. le parasite est dépendant de son hôte, mais l'inverse est faux						segmo
+D. L'hôte définitif du parasite est celui dans lequel il atteint sa maturité, c'est à dire qu'il peut se reproduire	13) Donnez la ou les bonnes réponses :	UE7S110413	VRAI							segmo
+E. Les parasites ne jouent aucun rôle dans l'évolution et la sélection naturelle	13) Donnez la ou les bonnes réponses :	UE7S110413	FAUX							segmo
+A. Le parasite trouve dans son hôte un habitat et un moyen de transport	14) Donnez la ou les bonnes réponses :	UE7S110414	VRAI							segmo
+B. La haute fécondité des parasites et la favorisation permettent aux parasites de boucler leurs cycles	14) Donnez la ou les bonnes réponses :	UE7S110414	VRAI							segmo
+C. La toxoplasmose est une parasitose très fréquente et particulièrement dangereuse pour le foetus lorsqu'il atteint la femme enceinte	14) Donnez la ou les bonnes réponses :	UE7S110414	VRAI							segmo
+D. Les shistosomes sont capables de sécréter une molécule qui entraîne l'apoptose des lymphocytes T	14) Donnez la ou les bonnes réponses :	UE7S110414	VRAI							segmo
+E. La sédentarisation des communautés africaines a entraîné une saturation de l'infestation de P. Falciparum, provoquant une compétition intense entre génotypes différents de ce parasite	14) Donnez la ou les bonnes réponses :	UE7S110414	VRAI							segmo
+A. Les plantes qui pratiquent le commensalisme sont appelées «épiphytes»	15) Concernant le commensalisme entre les végétaux:	UE7S110415	VRAI							segmo
+B. Le commensalisme n'est pratiqué que par très peu de végétaux	15) Concernant le commensalisme entre les végétaux:	UE7S110415	FAUX	BE. concerne de nombreux écosystèmes forestiers et de nombreux groupes (des primitifs au plus évolués)						segmo
+C. Le commensal donne de la nourriture à l'hôte	15) Concernant le commensalisme entre les végétaux:	UE7S110415	FAUX	C. L'hôte ne retire aucun profit de cette intéraction, il nourrit le commensal						segmo
+D. Est la forme la plus évoluée d'association	15) Concernant le commensalisme entre les végétaux:	UE7S110415	FAUX	D. La symbiose est la forme la plus évoluée d'association						segmo
+E. N'est pratiquée que par les végétaux primitifs type non vasculaires et Brophytes	15) Concernant le commensalisme entre les végétaux:	UE7S110415	FAUX							segmo
+A. Est différente du mutualisme car elle est non obligatoire	16) Concernant la symbiose entre les végétaux:	UE7S110416	FAUX	A. mutualisme non obligatoire et symbiose obligatoire						segmo
+B. Les partenaires sont tous les 2 appelés « symbiote ou symbionte»	16) Concernant la symbiose entre les végétaux:	UE7S110416	VRAI							segmo
+C. E.Coli et l'intestin chez l'Homme sont un parfait exemple de symbiose	16) Concernant la symbiose entre les végétaux:	UE7S110416	VRAI							segmo
+D. L'un des 2 partenaires est souvent lésé car privé de sa nourriture	16) Concernant la symbiose entre les végétaux:	UE7S110416	FAUX	D. C'est une interaction de bénéfices réciproques						segmo
+E. A un rôle dans l'évolution de la biosphère	16) Concernant la symbiose entre les végétaux:	UE7S110416	VRAI							segmo
+A. L'endocytobiose est un mécanisme hypothétique expliquant l'apparition des mitochondries et des chloroplastes des les cellules eucaryotes qui sont considérés comme étant d'origine extérieure	17) Parmi ces propositions concernant la symbiose, la ou lesquelles sont vraies:	UE7S110417	VRAI							segmo
+B. La symbiose mycorhizes/végétal est la symbiose la plus répandue sur Terre	17) Parmi ces propositions concernant la symbiose, la ou lesquelles sont vraies:	UE7S110417	VRAI							segmo
+C. Dans la symbiose microorganismes telluriques/bactérie, la bactérie apporte l'azote au végétaux par ammonification puis nitrification	17) Parmi ces propositions concernant la symbiose, la ou lesquelles sont vraies:	UE7S110417	VRAI							segmo
+D. Dans la symbiose microorganismes telluriques/bactérie, la bactérie ne permet pas au final la production de protéines végétales	17) Parmi ces propositions concernant la symbiose, la ou lesquelles sont vraies:	UE7S110417	FAUX	D. permet la production de protéines végétales						segmo
+E. La symbiose Mycorhizes/végétal est une association obligatoire avec bénéfices réciproques où le champignon est considéré comme l'hôte	17) Parmi ces propositions concernant la symbiose, la ou lesquelles sont vraies:	UE7S110417	FAUX	E. Le végétal est considéré comme l'hôte						segmo
+A. L'endozoochorie correspond à un transport volontaire ou non de graine permettant leur dissémination	18) Parmi les propositions suivantes concernants les végétaux, la ou lesquelles sont vraies:	UE7S110418	FAUX	A. l'endozoochorie est le fait d'ingérer pour un être-vivant un fruit charnu et de rejeter les graines dans ses excréments. Pour certains végétaux, c'est un passage obligé pour la germination des graines. C'est une relation bénéfique entre animal et végétal, l'un se nourrissant et l'autre se multipliant						segmo
+B. L'Anemochorie correspond à la dispersion de pollen par le vent	18) Parmi les propositions suivantes concernants les végétaux, la ou lesquelles sont vraies:	UE7S110418	FAUX	B. L'Anemochorie correspond à la dispersion des graines par le vent						segmo
+C. L'allélopathie correspond à une maladie d'un ou plusieurs allèles empêchant le végétal de trouver ses ressources nécessaires face à la compétition entre les végétaux	18) Parmi les propositions suivantes concernants les végétaux, la ou lesquelles sont vraies:	UE7S110418	FAUX	C. l'allèlopathie est l'ensemble de plusieurs interactions biochimiques directes ou indirectes, positives ou négatives, d'une plante sur une autre plante au moyen de métabolites secondaires tels que les alcaloïdes, l'acide phénolique...Ces composés allélochimiques jouent un rôle dans la compétition aux ressources comme l'eau, la lumière						segmo
+D. Il n'existe que des compétitions interspécifiques entre les végétaux	18) Parmi les propositions suivantes concernants les végétaux, la ou lesquelles sont vraies:	UE7S110418	FAUX	D. Il existe une compétition inter et intraspécifique entre les végétaux						segmo
+E. Une trop forte densité de population au sein d'une espèce végétale augmente le taux de mortalité de l'espèce en question	18) Parmi les propositions suivantes concernants les végétaux, la ou lesquelles sont vraies:	UE7S110418	VRAI							segmo
+A. Les plantes parasites sont dans la majorité autotrophes	19) Concernant la compétition interspécifique chez les végétaux:	UE7S110419	FAUX	A. Les plantes parasites sont dans la majorité non autotrophe (64%)						segmo
+B. Le gui est un exemple de végétal hémiparasite	19) Concernant la compétition interspécifique chez les végétaux:	UE7S110419	VRAI							segmo
+C. Un végétal holoparasite ne peut vivre sans son hôte végétal	19) Concernant la compétition interspécifique chez les végétaux:	UE7S110419	VRAI							segmo
+D. En milieu aquatique, elle peut être due à l'activité humaine, et a pour conséquence l'eutrophisation	19) Concernant la compétition interspécifique chez les végétaux:	UE7S110419	VRAI	D. L'eutrophisation est la modification et la dégradation d'un milieu aquatique, lié en général à un apport excessif de substances nutritives (azote erovenant surtout des nitrates agricoles et des eaux usées, et secondairement de la pollution automobile, et phosphore, provenant surtout des phosphates et des eaux usées), qui augmentent la production d'algues et d'espèces aquatiques						segmo
+E. Les jeunes arbres et herbacées en sont les premières cibles dans les forêts	19) Concernant la compétition interspécifique chez les végétaux:	UE7S110419	VRAI							segmo
+A. L'hiver les favorise	20) Concernant les phytopathogènes:	UE7S110420	VRAI							segmo
+B. Il y a 10000 espèces de phytovirus	20) Concernant les phytopathogènes:	UE7S110420	FAUX	B. 1000 espèces de phytovirus						segmo
+C. Sont des micro-organismes tels que des virus, bactéries et mycoplasmes	20) Concernant les phytopathogènes:	UE7S110420	VRAI							segmo
+D. Peuvent être transmis à la descendance de la plante si ce sont des virus	20) Concernant les phytopathogènes:	UE7S110420	VRAI							segmo
+E. Un des symptômes d'infection à un mycoplasme phytopathogène est le nanisme chez les plantes	20) Concernant les phytopathogènes:	UE7S110420	VRAI							segmo
+A. un procaryote est un être vivant sans membrane autour de son noyau	16. Donnez la ou les bonnes réponses :	UE7S110516	VRAI							segmo
+B. un eucaryote est un être vivant possédant une membrane autour de son noyau	16. Donnez la ou les bonnes réponses :	UE7S110516	VRAI							segmo
+C. Carl Von Linné prôna le fixisme, en accord complet avec la religion	16. Donnez la ou les bonnes réponses :	UE7S110516	VRAI							segmo
+D. Lamarck prôna quant à lui le transformisme	16. Donnez la ou les bonnes réponses :	UE7S110516	VRAI							segmo
+E. Selon les lois lamarckiennes, la fonction crée l'organe	16. Donnez la ou les bonnes réponses :	UE7S110516	VRAI							segmo
+A. les mutations	17. parmi ces mécanismes, lequel ne contribue pas à l'évolution des espèces :	UE7S110517	FAUX							segmo
+B. Les réarrangements chromosomiques	17. parmi ces mécanismes, lequel ne contribue pas à l'évolution des espèces :	UE7S110517	FAUX							segmo
+C. Les recombinaisons génétiques	17. parmi ces mécanismes, lequel ne contribue pas à l'évolution des espèces :	UE7S110517	FAUX							segmo
+D. la consanguinité	17. parmi ces mécanismes, lequel ne contribue pas à l'évolution des espèces :	UE7S110517	VRAI							segmo
+E. Les phénomènes épigénétiques	17. parmi ces mécanismes, lequel ne contribue pas à l'évolution des espèces :	UE7S110517	FAUX							segmo
+A. les flagelles sont les plus primitifs des protozoaires	18. Donnez la ou les bonnes réponses :	UE7S110518	VRAI							segmo
+B. Giarda duodenalis et Leishmania sont des exemples de parasites de l'homme non flagellés	18. Donnez la ou les bonnes réponses :	UE7S110518	FAUX							segmo
+C. les amibes se déplacent grâce à des pseudopodes	18. Donnez la ou les bonnes réponses :	UE7S110518	VRAI							segmo
+D. les apicomplexa se déplacent grâce à leurs cils	18. Donnez la ou les bonnes réponses :	UE7S110518	FAUX							segmo
+E. plasmodium et toxoplasma gondii sont des exemples d'apicomplexa	18. Donnez la ou les bonnes réponses :	UE7S110518	VRAI							segmo
+A. Les métazoaires diploblastiques regroupent les éponges et les coraux entre autres	19. Donnez la ou les bonnes réponses :	UE7S110519	VRAI							segmo
+B. Les cnidaires ont toujours immobiles	19. Donnez la ou les bonnes réponses :	UE7S110519	FAUX							segmo
+C. les spongiaires ne possèdent pas d'appareil nerveux	19. Donnez la ou les bonnes réponses :	UE7S110519	FAUX							segmo
+D. Les plathelminthes sont des verres plats non segmentés	19. Donnez la ou les bonnes réponses :	UE7S110519	FAUX							segmo
+E. Les taenia est un plathelminthe	19. Donnez la ou les bonnes réponses :	UE7S110519	VRAI							segmo
+A. Les némathelminthes sont des verres ronds	20. Donnez la ou les bonnes réponses :	UE7S110520	VRAI							segmo
+B. Ils possèdent un appareil digestif complet et un appareil génital bien développé	20. Donnez la ou les bonnes réponses :	UE7S110520	VRAI							segmo
+C. Ascaris, plasmodium et enterobius font partis des némathelminthes	20. Donnez la ou les bonnes réponses :	UE7S110520	FAUX							segmo
+D. On classe les mollusques en 3 groupes : lamellibranches, gastéropodes, cépholopodes	20. Donnez la ou les bonnes réponses :	UE7S110520	VRAI							segmo
+E. les pieuvres font parties des gastéropodes	20. Donnez la ou les bonnes réponses :	UE7S110520	FAUX							segmo
+A. Les annélides ne sont capables de vivre que dans l'eau de mer	21. Donnez la ou les bonnes réponses :	UE7S110521	FAUX							segmo
+B. Les arthropodes représentent 80% des espèces connues	21. Donnez la ou les bonnes réponses :	UE7S110521	VRAI							segmo
+C. les arthropodes sont séparés en deux groupes : les chélicérates et les antennates	21. Donnez la ou les bonnes réponses :	UE7S110521	VRAI							segmo
+D. Les antennates sont représentés entre autres par les crustacés	21. Donnez la ou les bonnes réponses :	UE7S110521	VRAI							segmo
+E. Les insectes possèdent une paire d'antennes et 3 paires de pattes	21. Donnez la ou les bonnes réponses :	UE7S110521	VRAI							segmo
+A. les vertébrés sont composés d'un squelette interne en trois parties : tête, corps, queue	22. Donnez la ou les bonnes réponses :	UE7S110522	VRAI							segmo
+B. Les agnathes et les gnathostomes font parties des vertébrés	22. Donnez la ou les bonnes réponses :	UE7S110522	VRAI							segmo
+C. Les agnathes sont caractérisés par une grosse mâchoire	22. Donnez la ou les bonnes réponses :	UE7S110522	FAUX	C. agnathes = pas de mâchoires						segmo
+D. les tétrapodes ont en commun la capacité de respirer par des poumons	22. Donnez la ou les bonnes réponses :	UE7S110522	VRAI							segmo
+E. Les oiseaux et les mammiferes sont homéothermes	22. Donnez la ou les bonnes réponses :	UE7S110522	VRAI							segmo
+A. Les végétaux regroupent uniquement les plantes vertes terrestres	23. Donnez la ou les bonnes réponses :	UE7S110523	FAUX	A. plantes vertes terrestres et marines						segmo
+B. les végétaux sont nettement moins différenciés que les animaux	23. Donnez la ou les bonnes réponses :	UE7S110523	VRAI							segmo
+C. Les vacuoles occupent 90% du volume cellulaire	23. Donnez la ou les bonnes réponses :	UE7S110523	VRAI							segmo
+D. Les plastes sont de petits organites cytoplasmiques	23. Donnez la ou les bonnes réponses :	UE7S110523	VRAI							segmo
+E. Les plastes sont tous interconvertibles	23. Donnez la ou les bonnes réponses :	UE7S110523	FAUX	E. 6 plastes seulement interconvertibles						segmo
+A. Constitution et fonctionnement cellulaire	24. Concernant la ou les caractéristiques communes aux végétaux, donnez les deux réponses fausses :	UE7S110524	FAUX							segmo
+B. morphologie	24. Concernant la ou les caractéristiques communes aux végétaux, donnez les deux réponses fausses :	UE7S110524	VRAI	faux						segmo
+C. taille	24. Concernant la ou les caractéristiques communes aux végétaux, donnez les deux réponses fausses :	UE7S110524	VRAI							segmo
+D. nutrition	24. Concernant la ou les caractéristiques communes aux végétaux, donnez les deux réponses fausses :	UE7S110524	FAUX	vrai						segmo
+E. métabolisme chimique	24. Concernant la ou les caractéristiques communes aux végétaux, donnez les deux réponses fausses :	UE7S110524	FAUX							segmo
+A. la végétation du carbonifère se compose principalement de fougères arborescentes	25. Donnez la ou les bonnes réponses :	UE7S110525	VRAI							segmo
+B. Le début de l'ère secondaire voit l'apparition des premiers dinosaures	25. Donnez la ou les bonnes réponses :	UE7S110525	VRAI							segmo
+C. A la fin de l'ère secondaire, les gymnospermes ont colonisés tous les milieux	25. Donnez la ou les bonnes réponses :	UE7S110525	FAUX							segmo
+D. Depuis le tertiaire, la flore terrestre a énormément évolué	25. Donnez la ou les bonnes réponses :	UE7S110525	FAUX							segmo
+A. Prédateurs	26. Parmi ces contraintes lesquelles ne sont pas « biotiques » :	UE7S110526	FAUX							segmo
+B. Pesanteur	26. Parmi ces contraintes lesquelles ne sont pas « biotiques » :	UE7S110526	VRAI							segmo
+C. température	26. Parmi ces contraintes lesquelles ne sont pas « biotiques » :	UE7S110526	VRAI							segmo
+D. parasites	26. Parmi ces contraintes lesquelles ne sont pas « biotiques » :	UE7S110526	FAUX							segmo
+E. rayonnement UV	26. Parmi ces contraintes lesquelles ne sont pas « biotiques » :	UE7S110526	VRAI							segmo
+A. 75% des médicaments sont produits à partir des végétaux aux USA	27. Donnez la ou les bonnes réponses :	UE7S110527	FAUX							segmo
+B. Endémique se dit d'une plante que l'on peut trouver partout dans le monde	27. Donnez la ou les bonnes réponses :	UE7S110527	FAUX							segmo
+C. La biodiversité est plus faible au niveau des pôles qu'au niveau de l'équateur	27. Donnez la ou les bonnes réponses :	UE7S110527	VRAI							segmo
+D. La richesse spécifique augmente le long d'un gradient latitudinal vers l'équateur	27. Donnez la ou les bonnes réponses :	UE7S110527	VRAI							segmo
+E. Les biomes sont aussi appelés macroécosystèmes ou aire biotique	27. Donnez la ou les bonnes réponses :	UE7S110527	VRAI							segmo
+A. Agriculture	28. Donnez les trois causes de perturbations des écosystèmes :	UE7S110528	VRAI							segmo
+B. pression démographique	28. Donnez les trois causes de perturbations des écosystèmes :	UE7S110528	VRAI							segmo
+C. climat	28. Donnez les trois causes de perturbations des écosystèmes :	UE7S110528	FAUX							segmo
+D. Animaux	28. Donnez les trois causes de perturbations des écosystèmes :	UE7S110528	FAUX							segmo
+E. industrialisation	28. Donnez les trois causes de perturbations des écosystèmes :	UE7S110528	VRAI							segmo
+A. L'Amazonie représente 70% des espèces animales et végétales terrestres	29. Donnez la ou les bonnes réponses :	UE7S110529	FAUX							segmo
+B. les centrales thermo nucléaires entraînent une augmentation de la température des cours d'eau	29. Donnez la ou les bonnes réponses :	UE7S110529	VRAI							segmo
+C. La conséquence de ces perturbations est la diminution-extinction des espèces	29. Donnez la ou les bonnes réponses :	UE7S110529	VRAI							segmo
+D. les espèces invasives sont capables d'asphyxier la flore locale par leur caractère envahissant, résistant	29. Donnez la ou les bonnes réponses :	UE7S110529	VRAI							segmo
+E. L'effet de serre correspond uniquement à une augmentation du CO2 atmosphérique	29. Donnez la ou les bonnes réponses :	UE7S110529	FAUX							segmo
+A. la principale conséquence de l'effet de serre est la diminution de la temérature à la surface du globe	30. Donnez la ou les bonnes réponses :	UE7S110530	FAUX							segmo
+B. L'albédo correspond à la fraction de lumière reçu à la surface de la Terre	30. Donnez la ou les bonnes réponses :	UE7S110530	FAUX							segmo
+C. L'albédo est compris entre 0 et 1	30. Donnez la ou les bonnes réponses :	UE7S110530	VRAI							segmo
+D. Les bio indicateurs permettent de se rendre compte de la pollution et de la qualité de l'habitat	30. Donnez la ou les bonnes réponses :	UE7S110530	VRAI							segmo
+E. Les sentinelles peuvent être des bio indicateurs négatifs de pollution	30. Donnez la ou les bonnes réponses :	UE7S110530	VRAI							segmo
+A. Le parasite peut-être vivant ou non vivant	31. Concernant le parasitisme	UE7S110531	FAUX	A. les parasites sont vivants						segmo
+B. Le parasite peut être totalement indépendant	31. Concernant le parasitisme	UE7S110531	FAUX	B. les parasites ne peuvent vivre qu'aux dépends de leur hôte						segmo
+C. Les différents types de parasites sont définit selon leur position	31. Concernant le parasitisme	UE7S110531	VRAI							segmo
+D. Les différents types de parasites sont définit selon leur nutrition	31. Concernant le parasitisme	UE7S110531	FAUX							segmo
+E. Les différents types de parasites sont définit selon fonction sur l'hôte	31. Concernant le parasitisme	UE7S110531	FAUX							segmo
+A. Les parasites ont un développement cyclique	32. Concernant le parasitisme	UE7S110532	VRAI							segmo
+B. Un cycle hétéroxène fait intervenir au minimum 3 hôtes	32. Concernant le parasitisme	UE7S110532	FAUX	B. un cycle hétéroxène peut faire intervenir 2 ou plusieurs hôtes						segmo
+C. Grâce aux parasites, l'hôte arrive à mieux se défendre contre les agressions extérieures	32. Concernant le parasitisme	UE7S110532	VRAI							segmo
+D. Les parasites n'ont pas de rôle dans l'évolution, ce sont les hôtes	32. Concernant le parasitisme	UE7S110532	FAUX	D. Les parasites jouent un rôle dans l'évolution et la sélection naturelle						segmo
+E. Le parasite peut conduire à sa propre perte en supprimant sa nourriture	32. Concernant le parasitisme	UE7S110532	VRAI							segmo
+A. L'hôte n'offre pas d'abri dans le parasitisme interne	33. Concernant le parasitisme	UE7S110533	FAUX	A. le parasitisme interne permet justement d'offrir un abri au parasite						segmo
+B. L'hôte contribue volontairement à la mobilité du parasite	33. Concernant le parasitisme	UE7S110533	FAUX	B. L'hôte contribue involontairement à la mobilité du parasite						segmo
+C. L'hôte contribue à la dissémination du parasite	33. Concernant le parasitisme	UE7S110533	VRAI							segmo
+D. L'hôte fait tout pour ne pas être colonisé par le parasite	33. Concernant le parasitisme	UE7S110533	VRAI							segmo
+E. Le parasite n'a pas de système immunitaire	33. Concernant le parasitisme	UE7S110533	VRAI	E. On suppose justement que le parasite a un système immunitaire car il développe des gènes pour éviter l'hôte						segmo
+A. La favorisation et la haute fécondité du parasite permettent de boucler le cycle du parasite	34. Concernant le parasitisme	UE7S110534	VRAI							segmo
+B. L'hôte modifie le comportement du parasite	34. Concernant le parasitisme	UE7S110534	FAUX	B. le parasite modifie le comportement de l'hôte						segmo
+C. Les miracidiums de Schistosoma accroissent leur activité exploratrice lorsqu'un gradient chimique leur indique la proximité d'une fourmis	34. Concernant le parasitisme	UE7S110534	FAUX	C. Les miracidiums de Schistosoma accroissent leur activité exploratrice lorsqu'un gradient chimique leur indique la proximité d'un mollusque						segmo
+D. La transmission se fait du 1 er hôte d'où vient le parasite vers un 2ème hôte	34. Concernant le parasitisme	UE7S110534	VRAI							segmo
+E. La toxoplasmose est très peu fréquente	34. Concernant le parasitisme	UE7S110534	FAUX	E. La toxoplasmose est très fréquente						segmo
+A. Les gènes pour survivre sont développés par l'hôte lorsqu'il est colonisé par le parasite	35. Concernant le parasitisme	UE7S110535	FAUX	A.Les gènes pour survivre sont développés par le parasite chez l'hôte						segmo
+B. Le schistosome peut «vacciner» son hôte contre une réinfection	35. Concernant le parasitisme	UE7S110535	VRAI							segmo
+C. Les hôtes ont plutôt tendance à sélectionner les gènes pour éviter que les gènes pour tuer	35. Concernant le parasitisme	UE7S110535	FAUX	C. Les hôtes ont plutôt tendance à sélectionner les gènes pour tuer						segmo
+D. L'hôte ne détecte pas facilement le stade infestant du parasite	35. Concernant le parasitisme	UE7S110535	VRAI							segmo
+E. Pour éviter le parasite, l'hôte peut changer de comportement via les gènes pour éviter	35. Concernant le parasitisme	UE7S110535	VRAI							segmo
+A. Les biotechnologies vertes et blanches représentent des enjeux socio-économiques considérables	36. Concernant les biotechnologies végétales	UE7S110536	VRAI							segmo
+B. Les clones exactement le même génome	36. Concernant les biotechnologies végétales	UE7S110536	VRAI							segmo
+C. Les greffes sont des téchniques récentes de biotechnologie végétal	36. Concernant les biotechnologies végétales	UE7S110536	FAUX	C. les greffes sont des techniques ancestrales						segmo
+D. La micropropagation en laboratoire s'effectue in-vitro	36. Concernant les biotechnologies végétales	UE7S110536	VRAI							segmo
+E. On peut régénérer une plante à partir d'un tissu	36. Concernant les biotechnologies végétales	UE7S110536	VRAI							segmo
+A. L'agroalimentaire ne permet pas encore de garantir une qualité sanitaire	37. Concernant les biotechnologies végétales	UE7S110537	FAUX	A. L'agroalimentaire permet de garantir une qualité sanitaire						segmo
+B. L'agroalimentaire maîtrise la cinétique de production végétale	37. Concernant les biotechnologies végétales	UE7S110537	VRAI							segmo
+C. La culture d'embryon immature s'effectue in-vivo	37. Concernant les biotechnologies végétales	UE7S110537	FAUX	C. in vitro						segmo
+D. L'agroalimentaire utilise le clonage, la culture d'embryon mais aussi le génie génétique	37. Concernant les biotechnologies végétales	UE7S110537	VRAI							segmo
+E. La création de nouvelles variétés concerne surtout le maïs et l'orge	37. Concernant les biotechnologies végétales	UE7S110537	FAUX	E. blé et maïs						segmo
+A. L'introduction de gène se fait par mécanisme de digestion enzymatique	38. Concernant les biotechnologies végétales	UE7S110538	VRAI							segmo
+B. Une cellule nue est un protoblaste sans paroi	38. Concernant les biotechnologies végétales	UE7S110538	VRAI							segmo
+C. Dans la création de nouvelles variétés, après l'introduction de gène la 3ème étape est la multiplication par PCR	38. Concernant les biotechnologies végétales	UE7S110538	FAUX	C.La 3ème étape est la conservation						segmo
+D. Permettent d'améliorer la digestibilité des céréales	38. Concernant les biotechnologies végétales	UE7S110538	VRAI							segmo
+E. Permettent de modifier le nombre de gènes mais pas le nombre de chromosomes	38. Concernant les biotechnologies végétales	UE7S110538	FAUX	E. Permet aussi la modification du nombre de chromosomes						segmo
+A. La transgénèse permet d'améliorer la résistance des plantes	39. Concernant les biotechnologies végétales	UE7S110539	VRAI							segmo
+B. La transgénèse ne permet pas d'ajouter des gènes venant d'autres êtres-vivants que les végétaux	39. Concernant les biotechnologies végétales	UE7S110539	FAUX	B. Ajout de gènes bactériens Bt						segmo
+C. La mutagénèse permet également d'ajouter des gènes	39. Concernant les biotechnologies végétales	UE7S110539	FAUX	C.Mutagénèse: pas d'insertion de gènes						segmo
+D. Dans la mutagénèse le génome receveur subit des modifications ciblées de l'ARN	39. Concernant les biotechnologies végétales	UE7S110539	FAUX	D. Sur l'ADN						segmo
+E. Les mutations ont été inventées par l'Homme	39. Concernant les biotechnologies végétales	UE7S110539	FAUX	E. Mutation: phénomène spontané de la nature						segmo
+A. Le séquençage du génome détermine les séquences nucléotidiques de l'ARN	40. Concernant les biotechnologies végétales	UE7S110540	FAUX	A. de l'ADN						segmo
+B. Le génotypage permet la séléction de caractères	40. Concernant les biotechnologies végétales	UE7S110540	VRAI							segmo
+C. Les enzymes de restriction ne permettent qu'une modification aproximative du génome	40. Concernant les biotechnologies végétales	UE7S110540	FAUX	C. Modification ciblée du génome						segmo
+D. Les enzymes de restriction fonctionnent en duo avec la ligase	40. Concernant les biotechnologies végétales	UE7S110540	VRAI							segmo
+A. Le commensalisme est rare	41. Concernant les interactions entre les espèces dans le règne végétal	UE7S110541	FAUX	A. Le commensalisme est fréquent						segmo
+B. Le commensal est une plante se servant d'une autre plante comme support	41. Concernant les interactions entre les espèces dans le règne végétal	UE7S110541	VRAI							segmo
+C. Les végétaux communiquent entre eux	41. Concernant les interactions entre les espèces dans le règne végétal	UE7S110541	VRAI							segmo
+D. L'hôte ne retire aucun profit dans le commensalisme	41. Concernant les interactions entre les espèces dans le règne végétal	UE7S110541	VRAI							segmo
+E. Le commensalisme ne concerne pas les vasculaires les plus évolués	41. Concernant les interactions entre les espèces dans le règne végétal	UE7S110541	FAUX	E. Le commensalisme concerne les vasculaires						segmo
+A. Les symbiotes doivent forcement s'associer pour vivre	42. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110542	VRAI							segmo
+B. La symbiose est la forme d'association la plus primitive	42. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110542	FAUX	B. la forme la plus évoluée						segmo
+C. Il existe un système de nitrification sur Terre	42. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110542	VRAI	C. 3 systèmes de nitrification						segmo
+D. Les Mycorhizes permettent aux végétaux une absorption des U.V facilitée	42. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110542	FAUX	D. Permet l'absorption de minéraux et non d'U.V						segmo
+E. Le Mycorhizes est un symbiote qui en s'associant aux végétaux va se procurer une nutrition carbonnée	42. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110542	VRAI							segmo
+A. L'endomycorhize à pelotons est moins répandu que l'Endomycorhize VA	43. Concernant les interactions entre les espèces dans le règne végétal	UE7S110543	VRAI							segmo
+B. L'Endomycorhize VA trouve son origine dans l'ère secondaire	43. Concernant les interactions entre les espèces dans le règne végétal	UE7S110543	FAUX	B. ère primaire						segmo
+C. L'endomycorhize à pelotons colonise les milieux froids	43. Concernant les interactions entre les espèces dans le règne végétal	UE7S110543	VRAI							segmo
+D. L'endomycorhize à pelotons comporte les bruyères	43. Concernant les interactions entre les espèces dans le règne végétal	UE7S110543	VRAI							segmo
+E. L'Endomycorhize VA: V signifie villosités et A arbuscule	43. Concernant les interactions entre les espèces dans le règne végétal	UE7S110543	FAUX	E. V: vésicule et						segmo
+A. On peut retrouver une symbiose avec un champignon et une algue	44. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110544	VRAI							segmo
+B. Les symbioses peuvent créer des espèces	44. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110544	VRAI							segmo
+C. Les organites eucaryotes datent du carbinifère	44. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110544	FAUX	C. du précambrien						segmo
+D. L'hydrochorie est la dispersion du pollen par l'eau	44. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110544	FAUX	D. dispersion de graines						segmo
+E. L'anthropochorie est toujours volontaire	44. Concernant les intéractions entre les espèces dans le règne végétal	UE7S110544	FAUX	E. Peut-être involontaire: les vêtements						segmo
+A. L'allélopathie permet une compétition aux ressources	45. Concernant les interactions entre les espèces dans le règne végétal	UE7S110545	VRAI							segmo
+B. Les niches écologiques proviennent d'une compétition interspécifique	45. Concernant les interactions entre les espèces dans le règne végétal	UE7S110545	VRAI							segmo
+C. Les phytopathogènes sont un problème majeur dans les agricultures	45. Concernant les interactions entre les espèces dans le règne végétal	UE7S110545	VRAI							segmo
+D. Une blessure biotique peut-être engendrée par des insectes	45. Concernant les interactions entre les espèces dans le règne végétal	UE7S110545	VRAI							segmo
+E. Les biotrophes s'attaquent à la plante sans la tuer	45. Concernant les interactions entre les espèces dans le règne végétal	UE7S110545	VRAI							segmo
+A. Giarda duodenalis	1)Parmi ces parasites de l'homme, lesquels ne sont pas flagellés :	UE7S110601	FAUX							segmo
+B. Leishmania	1)Parmi ces parasites de l'homme, lesquels ne sont pas flagellés :	UE7S110601	FAUX							segmo
+C. toxoplasma	1)Parmi ces parasites de l'homme, lesquels ne sont pas flagellés :	UE7S110601	VRAI	CD sont des parasites faisant partis de la famille des apicomplexas						segmo
+D. Plasmodium	1)Parmi ces parasites de l'homme, lesquels ne sont pas flagellés :	UE7S110601	VRAI	CD sont des parasites faisant partis de la famille des apicomplexas						segmo
+E. Tripanosomia	1)Parmi ces parasites de l'homme, lesquels ne sont pas flagellés :	UE7S110601	FAUX							segmo
+A. Les protozoaires regroupent les rhizopodes, les flagellés et les apicomplexa	2)Concernant les principaux embranchements du règne animal :	UE7S110602	VRAI							segmo
+B. les métazoaires peuvent être diploblastiques, triploblastiques, protostomiens ou deutérostomiens	2)Concernant les principaux embranchements du règne animal :	UE7S110602	VRAI							segmo
+C. Les mollusques, les annélides et les vertébrés font partis des métazoaires protostomiens	2)Concernant les principaux embranchements du règne animal :	UE7S110602	FAUX	C. métazoaires protostomiens : mollusques, annélides, arthropodes						segmo
+D. La famille des vertébrés se divise entre les gnathostomes et les poissons	2)Concernant les principaux embranchements du règne animal :	UE7S110602	FAUX	D. vertébrés : gnathostomes et agnathes						segmo
+E. les tétrapodes regroupent les reptiles et les amphibiens entre autre	2)Concernant les principaux embranchements du règne animal :	UE7S110602	VRAI							segmo
+A. Les vacuoles sont présentes dans les cellules végétales et fongiques	3)Concernant les cellules végétales :	UE7S110603	VRAI							segmo
+B. L'un des rôles de ces vacuoles est la digestion et le stockage des nutriments	3)Concernant les cellules végétales :	UE7S110603	VRAI							segmo
+C. Les plastes sont des organites nucléaires	3)Concernant les cellules végétales :	UE7S110603	FAUX	C. les plastes sont des organites cytoplasmiques						segmo
+D. 8 plastes sont inter convertibles	3)Concernant les cellules végétales :	UE7S110603	FAUX	D. 6 plastes inter convertibles						segmo
+E. Les chloroplastes servent à l'ostéosynthèse de la plante	3)Concernant les cellules végétales :	UE7S110603	FAUX	E. les chloroplastes servent à la photosynthèse						segmo
+A. On dénombre environ un million d'espèces végétales en comptant les espèces disparues, apparues et découvertes	4)Concernant la classification des plantes :	UE7S110604	FAUX	A. 300 000 espèces						segmo
+B. La systématique traite les rapports entre les taxons	4)Concernant la classification des plantes :	UE7S110604	VRAI							segmo
+C. La nomenclature correspond au nom grec unique donné à un taxon	4)Concernant la classification des plantes :	UE7S110604	FAUX	C. nomenclature = nom latin unique donné à un taxon						segmo
+D. La nomenclature binomiale s'articule autour du genre et de l'espèce (ainsi que l'autorité)	4)Concernant la classification des plantes :	UE7S110604	VRAI							segmo
+E. ICBN signifie « Internationnal Code of Botanical Nomenclature »	4)Concernant la classification des plantes :	UE7S110604	VRAI							segmo
+A. Les protobiontes sont les premiers micro-organismes	5)Concernant l'évolution des végétaux :	UE7S110605	VRAI							segmo
+B. Les protobiontes sont capables de reproduction et d'évolution	5)Concernant l'évolution des végétaux :	UE7S110605	FAUX	B. les protobiontes ne sont capables ni de reproduction, ni d'évolution						segmo
+C. Les protobiontes ont un aspect longiligne	5)Concernant l'évolution des végétaux :	UE7S110605	FAUX	C. aspect globuleux isolé ou en amas						segmo
+D. C'est au cambrien qu'a lieu le « big bang » de l'évolution	5)Concernant l'évolution des végétaux :	UE7S110605	VRAI							segmo
+E. Depuis le tertiaire, la flore terrestre est composée de 80% de gymnosperme	5)Concernant l'évolution des végétaux :	UE7S110605	FAUX	E. 80% d'angiospermes						segmo
+A. Les levures sont considérées comme les premières technologies	6)Concernant les biotechnologies :	UE7S110606	VRAI							segmo
+B. 50% des antiobiotiques sont issus des biotechnologies	6)Concernant les biotechnologies :	UE7S110606	VRAI							segmo
+C. Les techniques actuelles de clonage sont représentées par le greffage et le bouturage	6)Concernant les biotechnologies :	UE7S110606	FAUX	C. techniques actuelles de clonage = multiplication végétative in vitro						segmo
+D. Le génie génétique correspond à la modification des caractéristiques des végétaux	6)Concernant les biotechnologies :	UE7S110606	VRAI							segmo
+E. La transgénèse correspond à la modification artificielle d'un gène de façon à augmenter sa résistance aux insectes par exemple	6)Concernant les biotechnologies :	UE7S110606	FAUX	E. transgénèse = insertion artificielle d'un gène supplémentaire dans le génome d'une plante receveuse						segmo
+A. Clonage	7)Par mi ces techniques, lesquelles ne font pas parties du « génie génétique » :	UE7S110607	VRAI							segmo
+B. Transgénèse	7)Par mi ces techniques, lesquelles ne font pas parties du « génie génétique » :	UE7S110607	FAUX							segmo
+C. mutagénèse	7)Par mi ces techniques, lesquelles ne font pas parties du « génie génétique » :	UE7S110607	FAUX							segmo
+D. culture d'embryons immatures	7)Par mi ces techniques, lesquelles ne font pas parties du « génie génétique » :	UE7S110607	VRAI							segmo
+A. Le parasite est indépendant de son hôte	8)Concernant les parasites :	UE7S110608	FAUX	A. Le parasite est totalement dépendant de son hôte						segmo
+B. Les gènes pour survivre chez le parasite lui servent à échapper aux agressions de l'hôte	8)Concernant les parasites :	UE7S110608	VRAI							segmo
+C. Le cycle de schistosome est monoxène	8)Concernant les parasites :	UE7S110608	FAUX	C. Hétéroxène						segmo
+D. Les rongeurs et les oiseaux sont des hôtes intermédiaires de toxoplasma gondii	8)Concernant les parasites :	UE7S110608	VRAI							segmo
+A. Les végétaux entretiennent des relations intraspécifiques et interspécifiques	9)Concernant les végétaux:	UE7S110609	VRAI							segmo
+B. C'est en partie grâce aux végétaux que nous respirons	9)Concernant les végétaux:	UE7S110609	VRAI							segmo
+C. Le mutualisme est une association délétère entre les végétaux	9)Concernant les végétaux:	UE7S110609	FAUX	C. association bénéfique						segmo
+D. Le mutualisme est non obligatoire	9)Concernant les végétaux:	UE7S110609	VRAI							segmo
+E. Dans la symbiose, les 2 partenaires s'appellent symbiontes	9)Concernant les végétaux:	UE7S110609	VRAI							segmo
+A. On a retrouvé des fossiles endomycorhizes VA	10)Concemant les végétaux:	UE7S110610	VRAI							segmo
+B. Les ectomychorhizes comprennent les truffes, bolets, amanites	10)Concemant les végétaux:	UE7S110610	VRAI							segmo
+C. Les mycorhizes sont le résultat d'une symbiose entre un champignon et des racines de plantes	10)Concemant les végétaux:	UE7S110610	VRAI							segmo
+D. Les mycorhizes sont peu fréquents	10)Concemant les végétaux:	UE7S110610	FAUX	D. symbiose la plus répandue						segmo
+E. le lichen a une résistance aux conditions extrêmes	10)Concemant les végétaux:	UE7S110610	VRAI							segmo
+A. Il n'existe pas de variations phénotypiques au sein d'une espèce végétale	11)Concernant les végétaux:	UE7S110611	FAUX	A. il en existe						segmo
+B. Les symbioses ont un rôle créateur	11)Concernant les végétaux:	UE7S110611	VRAI							segmo
+C. La mortalité diminue si l'on effectue des «sur-semi», car les végétaux de l'espèce donnée se protègent entre eux	11)Concernant les végétaux:	UE7S110611	FAUX	C. mortalité augmente car les végétaux s'étouffent entre eux						segmo
+D. L'entomogamie est la pollinisation des plantes assurée par l'intermédiaire des insectes	11)Concernant les végétaux:	UE7S110611	VRAI							segmo
+E. Les holoparasites sont dépendants totalement	11)Concernant les végétaux:	UE7S110611	VRAI							segmo
+A. On retrouve à l'équateur et aux pôles une faible biodiversité	12)Concernant les modifications environnementales	UE7S110612	FAUX	A. équateur: biodiversité maximale						segmo
+B. L'écotoxicologie étudie l'impact des plantes toxiques sur l'Homme	12)Concernant les modifications environnementales	UE7S110612	FAUX	B. écotoxicologie: étude des différents types de polluants de l'H sur l'environnement						segmo
+C. 80% de la flore de Madagascar est endémique	12)Concernant les modifications environnementales	UE7S110612	VRAI							segmo
+D. Les centrales thermonucléaires refroidissent l'eau	12)Concernant les modifications environnementales	UE7S110612	FAUX	D. réchauffe l'eau						segmo
+E. Il existe une prolifération des milieux humides	12)Concernant les modifications environnementales	UE7S110612	FAUX	E. diminution des milieux humides						segmo
+A. La Camargue est la 1ère zone humide au monde	13)Concernant les modifications environnementales	UE7S110613	FAUX	A. pas au monde mais de France						segmo
+B. Les milieux humides sont des zones de biodiversité très importante	13)Concernant les modifications environnementales	UE7S110613	VRAI							segmo
+C. La composante de l'air reste relativement stable avec l'activité de l'H	13)Concernant les modifications environnementales	UE7S110613	FAUX	C. effet de serre						segmo
+D. Les biocénoses représentent l'ensemble des êtres-vivants	13)Concernant les modifications environnementales	UE7S110613	VRAI							segmo
+E. L'écologie est la science des habitats	13)Concernant les modifications environnementales	UE7S110613	VRAI							segmo
+A. Au-dessus du PMV: extinction des espèces	14)Concernant les modifications environnementales	UE7S110614	FAUX	A. en dessous du PMV:extinction						segmo
+B. Une des conséquences de la perturbation des écosystèmes est la peste végétale	14)Concernant les modifications environnementales	UE7S110614	VRAI							segmo
+C. Il existe une acidification de la stratosphère et une diminution de la teneur en 03 dans l'atmosphère	14)Concernant les modifications environnementales	UE7S110614	FAUX	C. acidification atmosphère et diminution 03 dans stratosphère						segmo
+D. L' H20 est incriminée dans l'effet de serre	14)Concernant les modifications environnementales	UE7S110614	VRAI							segmo
+E. La durée de vie du CO2 est de 100ans	14)Concernant les modifications environnementales	UE7S110614	VRAI							segmo
+A. Les régions polaires sont plus affectées par l'augmentation de température	15)Concernant les modifications environnementales	UE7S110615	VRAI							segmo
+B. L'augmentation de l'albédo entraine une augmentation de température	15)Concernant les modifications environnementales	UE7S110615	FAUX	B. diminution albédo entraine une augmentation de température						segmo
+C. Le lichen est un bioindicateur négatif de pollution	15)Concernant les modifications environnementales	UE7S110615	VRAI							segmo
+D. Il existe une volonté politique de développement durable	15)Concernant les modifications environnementales	UE7S110615	VRAI							segmo
+E. La diminution de la biodiversité est le reflet du développement économique et industriel	15)Concernant les modifications environnementales	UE7S110615	VRAI							segmo
+A. les eucaryotes n'ont pas de noyaux	11. Concernant l'évolution des espèces	UE7S110711	FAUX	A. Les eucaryotes ont un noyau						segmo
+B. Le fixisme était en accord avec la religion	11. Concernant l'évolution des espèces	UE7S110711	VRAI							segmo
+C. Selon les lois lamarckiennes, « la fonction crée l'organe. »	11. Concernant l'évolution des espèces	UE7S110711	VRAI							segmo
+E. les mutations ne font pas partis des mécanismes ayant contribués à l'évolution	11. Concernant l'évolution des espèces	UE7S110711	FAUX							segmo
+A. Giarda duodenalis est un parasite flagellé de l'intestin	12. Concernant les protozoaires	UE7S110712	VRAI							segmo
+B. parmi les protozoaires, on distingue les flagellés, les rhizopodes et les apicomplexa	12. Concernant les protozoaires	UE7S110712	VRAI							segmo
+C. Parmi les amibes libres on distingue les rhizopodes et les amibes parasitaires obligatoires	12. Concernant les protozoaires	UE7S110712	FAUX	C. parmi les rhizopodes, on distingue les amibes libres et les amibes parasitaires obligatoires						segmo
+D. Les apicomplexa sont dotés d'une capacité de déplacement rapide	12. Concernant les protozoaires	UE7S110712	FAUX	D. Les apicomplexa sont immobiles						segmo
+E. Plasmodium est un apicomplexa	12. Concernant les protozoaires	UE7S110712	VRAI							segmo
+A. Les métazoaires diploblastiques regroupent les cnidaires et les spongiaires	13. Concernant les métazoaires	UE7S110713	VRAI							segmo
+B. Les némathelminthes et les plathelminthes font partis des métazoaires deutérostomiens	13. Concernant les métazoaires	UE7S110713	FAUX	B. Némathelminthes et plathelminthes = métazoaires tripoblastiques						segmo
+C. les spongiaires sont capables de se déplacer	13. Concernant les métazoaires	UE7S110713	FAUX	C. Les spongiaires sont immobiles						segmo
+D. Les coraux peuvent mobiles ou immobiles	13. Concernant les métazoaires	UE7S110713	VRAI							segmo
+E. Les coraux ont un appareil nerveux primitif	13. Concernant les métazoaires	UE7S110713	VRAI							segmo
+A. Les cestodes ont un appareil digestif très développé	14. Concernant les métazoaires	UE7S110714	FAUX	A. cestodes = appareil génital très développé						segmo
+B. Le tœnia est un trématode	14. Concernant les métazoaires	UE7S110714	FAUX	B. Le taenia est un cestode						segmo
+C. Les trématodes sont des parasites hermaphrodites	14. Concernant les métazoaires	UE7S110714	VRAI							segmo
+D. Les mollusques sont des métazoaires protostomiens	14. Concernant les métazoaires	UE7S110714	VRAI							segmo
+E. les annélides sont des vers pouvant vivre dans l'eau de mer, l'eau douce, la terre	14. Concernant les métazoaires	UE7S110714	VRAI							segmo
+A. Couleur	15. Donner les 3 caractéristiques communes à tous les végétaux	UE7S110715	FAUX							segmo
+B. Constitution et fonctionnement cellulaire	15. Donner les 3 caractéristiques communes à tous les végétaux	UE7S110715	VRAI							segmo
+C. nutrition	15. Donner les 3 caractéristiques communes à tous les végétaux	UE7S110715	VRAI							segmo
+D. taille	15. Donner les 3 caractéristiques communes à tous les végétaux	UE7S110715	FAUX							segmo
+E. métabolisme chimique 	15. Donner les 3 caractéristiques communes à tous les végétaux	UE7S1107	VRAI							segmo
+A. L'apparition des premières cellules vivantes date de 3,5 milliards d'années	16. Concernant les végétaux	UE7S110716	VRAI							segmo
+B. Les premières cellules eucaryotes datent de la fin du précambrien	16. Concernant les végétaux	UE7S110716	VRAI							segmo
+C. Au début du primaire le taux d'02 était de 21%	16. Concernant les végétaux	UE7S110716	FAUX	C. Au début du primaire, le taux de 02 était de 30% du taux actuel						segmo
+D. La température et le rayonnement UV sont des contraintes abiotiques	16. Concernant les végétaux	UE7S110716	VRAI							segmo
+E. Le cycle de reproduction des végétaux comporte 2 phases : gamétophyte et sporophyte	16. Concernant les végétaux	UE7S110716	VRAI							segmo
+A. Un ectoparasite est présent à l'intérieur de l'hôte (tissus, système sanguin etc...)	17. Concernant les parasites	UE7S110717	FAUX	A. ectoparasite = présent à l'extérieur (peau + cavités)						segmo
+B. Un cycle monoxène ne fait intervenir qu'un seul hôte	17. Concernant les parasites	UE7S110717	VRAI							segmo
+C. Certain parasites sont indépendants de leur(s) hôte(s)	17. Concernant les parasites	UE7S110717	FAUX	C. Tous les parasites sont dépendants de leur(s) hôte(s)						segmo
+D. l'hôte contribue involontairement à la mobilité du parasite	17. Concernant les parasites	UE7S110717	VRAI							segmo
+E. Le parasite possède des gènes pour « éviter » et l'hôte des gènes pour « rencontrer »	17. Concernant les parasites	UE7S110717	FAUX	E. Parasite = gènes pour rencontrer et hôte = gènes pour éviter						segmo
+A. gènes pour rencontrer	18. Parmi ces gènes, lesquels sont exprimés par le parasite	UE7S110718	VRAI							segmo
+B. gènes pour éviter	18. Parmi ces gènes, lesquels sont exprimés par le parasite	UE7S110718	FAUX							segmo
+C. gènes pour survivre	18. Parmi ces gènes, lesquels sont exprimés par le parasite	UE7S110718	VRAI							segmo
+D. gènes pour tuer	18. Parmi ces gènes, lesquels sont exprimés par le parasite	UE7S110718	FAUX							segmo
+A. La symbiose est la première étape évolutive avant le commensalisme	19. Quelles sont la ou les réponses vraies:	UE7S110719	FAUX	A. Le commensalisme est la première étape évolutive avant la symbiose						segmo
+B. Le commensalisme est source de bénéfices réciproques	19. Quelles sont la ou les réponses vraies:	UE7S110719	FAUX	B. Le commensalisme n'est pas source de bénéfices réciproques car l'hôte reste sans profit						segmo
+C. E.Coli et l'Homme vivent en symbiose	19. Quelles sont la ou les réponses vraies:	UE7S110719	VRAI							segmo
+D. Le commensalisme ne concerne que de rares écosystèmes forestiers	19. Quelles sont la ou les réponses vraies:	UE7S110719	FAUX	D. Le commensalisme concerne de nombreux écosystèmes forrestiers						segmo
+E. Le mutualisme est une association bénéfique non obligatoire	19. Quelles sont la ou les réponses vraies:	UE7S110719	VRAI							segmo
+A. Les mycorhizes sont une symbiose champignon et végétal	20. Quelles sont la ou les réponses vraies:	UE7S110720	VRAI							segmo
+B. Les mycorhizes concernent 90% des plantes vasculaires	20. Quelles sont la ou les réponses vraies:	UE7S110720	VRAI							segmo
+C. Les endomycorhizes à pelotons colonisent les milieux chauds	20. Quelles sont la ou les réponses vraies:	UE7S110720	FAUX	C. Les endomycorhizes à pelotons colonisent les milieux froids						segmo
+D. Les basidiomycètes sont des ectomycorhizes	20. Quelles sont la ou les réponses vraies:	UE7S110720	VRAI							segmo
+E. Les symbioses ont permis au précambrien l'apparition des organites eucaryotes	20. Quelles sont la ou les réponses vraies:	UE7S110720	VRAI							segmo
+A. L'épizoochorie est le transport volontaire ou involontaire de pollen	21. Quelles sont la ou les réponses vraies:	UE7S110721	FAUX	A. L'épizoochorie est le transport volontaire ou involontaire de graines						segmo
+B. L'allélopathie est un moyen d'entrer en symbiose pour un végétal	21. Quelles sont la ou les réponses vraies:	UE7S110721	FAUX	B. L'allélopathie est un moyen de compétition aux ressources entre les végétaux						segmo
+C. Un phytopathogène ne peut être transmis à la descendance	21. Quelles sont la ou les réponses vraies:	UE7S110721	FAUX	C. Un phytopathogène peut être transmis à la descendance (transmission verticale)						segmo
+D. Des dégâts avec nécrotophes sont la conséquence de bactéries phytopathogènes sur les végétaux	21. Quelles sont la ou les réponses vraies:	UE7S110721	VRAI							segmo
+E. Les champignons sont les phytopathogènes les plus dévastateurs. 	21. Quelles sont la ou les réponses vraies:	UE7S1107	VRAI							segmo
+B. La cryoconservation garde toutes les qualités des embryons	22. Quelles sont la ou les réponses vraies:	UE7S110722	VRAI							segmo
+C. Le génie génétique peut créer de nouvelles espèces	22. Quelles sont la ou les réponses vraies:	UE7S110722	VRAI							segmo
+D. Modifier la ploïdie d'une espèce ne modifiera en aucun cas sa fertilité	22. Quelles sont la ou les réponses vraies:	UE7S110722	FAUX	D. Modifier la ploïdie d'une espèce peut améliorer la fertilité						segmo
+E. Les OGM sont les résultats de la transgénèse	22. Quelles sont la ou les réponses vraies:	UE7S110722	VRAI							segmo
+A. La mutagénèse est une méthode ajoutant des gènes	23. Quelles sont la ou réponses vraies:	UE7S110723	FAUX	A. La mutagénèse manipule le génome sans insertion de gènes						segmo
+B. Le séquençage est une méthode déterminant les séquences nucléotidiques de l'ARN	23. Quelles sont la ou réponses vraies:	UE7S110723	FAUX	B. Le séquencage est une méthode déterminant les séquences nucléotidiques de l'ADN						segmo
+C. L'enzyme de restriction sectionne les gènes mais ne les répare pas	23. Quelles sont la ou réponses vraies:	UE7S110723	FAUX	C. L'enzyme de restriction sectionne les gènes, les répare, les modifie						segmo
+D. Les parasites ont un rôle dans l'évolution mais pas dans la sélection naturelle	23. Quelles sont la ou réponses vraies:	UE7S110723	FAUX	D. Les parasites ont un rôle dans l'évolution et dans la sélection naturelle						segmo
+E. La favorisation intervient au stade infestant des parasites	23. Quelles sont la ou réponses vraies:	UE7S110723	VRAI							segmo
+A. Une plante endémique pousse sur de vastes surfaces répandues sur la Terre	24. Quelles sont la ou les réponses vraies:	UE7S110724	FAUX	A. Une plante endémique pousse sur des aires réduites, sont rares et fragiles						segmo
+B. La biocénose représente l'ensemble des êtres-vivants, la science des habitants	24. Quelles sont la ou les réponses vraies:	UE7S110724	VRAI							segmo
+C. On estime qu'il y a environ 17 millions d'espèces vivantes dont 50% d'insectes	24. Quelles sont la ou les réponses vraies:	UE7S110724	VRAI							segmo
+D. La canopée est la couche la plus basse de la forêt tropicale et est donc facilement accessible pour étudier la biodiversité	24. Quelles sont la ou les réponses vraies:	UE7S110724	FAUX	D. La canopée est la couche la plus haute des arbres de la forêt tropicale						segmo
+E. Il existe une biodiversité maximale dans la canopée des forêts ombrophiles	24. Quelles sont la ou les réponses vraies:	UE7S110724	VRAI							segmo
+A. Les biotopes sont l'air, le sol, l'eau	25. Quelles sont la ou les réponses vraies:	UE7S110725	VRAI							segmo
+B. La peste végétale est le fruit d'une compétition intraspécifique	25. Quelles sont la ou les réponses vraies:	UE7S110725	FAUX	B. La peste végétale est le fruit d'un compétition interspécifique.						segmo
+C. La durée de vie du CO2 est de 100 ans	25. Quelles sont la ou les réponses vraies:	UE7S110725	VRAI							segmo
+D. La montée des eaux est entre autre, due à une dilatation thermique	25. Quelles sont la ou les réponses vraies:	UE7S110725	VRAI							segmo
+E. Pour protéger l'environnement, il existe une conservation in situ et ex situ, l'in situ correspondant à la mise en place de parcs naturels et l'ex situ à la mise en place de banques de graines, cryoconservation	25. Quelles sont la ou les réponses vraies:	UE7S110725	VRAI							segmo
+D. Les changements de climat induits par cette révolution néolithique ont contraint l'Homme à devenir nomade.	30. Parmi les propositions suivantes concernant les médecines primitives, indiquez la (les) proposition(s) vraie(s) :	UE7T130230	FAUX	D. Au contraire, c'est au cours de la révolution néolithique que les hommes, auparavant nomades, sont devenus sédentaires						
+A. Les insectes sont des chélicérates.	23. Parmi les propositions suivantes concernant les arthropodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110123	FAUX	A. Faux : des antennates.						
+B. Les myriapodes ont deux paires d'antennes.	23. Parmi les propositions suivantes concernant les arthropodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110123	FAUX	B. Faux : une paire.						
+C. Les tiques sont des acariens.	23. Parmi les propositions suivantes concernant les arthropodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110123	VRAI							
+D. Les crustacés possèdent des antennes et des mandibules.	23. Parmi les propositions suivantes concernant les arthropodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110123	VRAI							
+E. Les acariens sont des insectes.	23. Parmi les propositions suivantes concernant les arthropodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110123	FAUX	E. Faux : des arachnides.						
+A. Les vertébrés sont des protozoaires deutérostomiens.	24. Parmi les propositions suivantes concernant les vertébrés, indiquer la (les) proposition(s) vraie(s) :	UE7T110124	FAUX	A. Faux : des métazoaires.						
+B. Les lamproies sont des poissons.	24. Parmi les propositions suivantes concernant les vertébrés, indiquer la (les) proposition(s) vraie(s) :	UE7T110124	FAUX	B. Faux : des agnates.						
+C. Les requins sont des chondrostéens.	24. Parmi les propositions suivantes concernant les vertébrés, indiquer la (les) proposition(s) vraie(s) :	UE7T110124	FAUX	C. Faux : des chondrychtiens.						
+D. Les grenouilles sont des anoures.	24. Parmi les propositions suivantes concernant les vertébrés, indiquer la (les) proposition(s) vraie(s) :	UE7T110124	VRAI							
+E. Les reptiles sont des chéloniens.	24. Parmi les propositions suivantes concernant les vertébrés, indiquer la (les) proposition(s) vraie(s) :	UE7T110124	FAUX	E. Faux : Les chéloniens sont des reptiles.						
+A. Les spongiaires sont des animaux marins mobiles.	25. Parmi les propositions suivantes concernant les métazoaires diploblastiques, indiquer la (les) proposition(s) vraie(s) :	UE7T110125	FAUX	A. Faux : immobiles.						
+B. Les éponges sont des cnidaires.	25. Parmi les propositions suivantes concernant les métazoaires diploblastiques, indiquer la (les) proposition(s) vraie(s) :	UE7T110125	FAUX	B. Faux : des spongiaires.						
+C. La reproduction des spongiaires peut être sexuée.	25. Parmi les propositions suivantes concernant les métazoaires diploblastiques, indiquer la (les) proposition(s) vraie(s) :	UE7T110125	VRAI							
+D. La forme polype correspond à une forme immobile des cnidaires.	25. Parmi les propositions suivantes concernant les métazoaires diploblastiques, indiquer la (les) proposition(s) vraie(s) :	UE7T110125	VRAI							
+E. Les métazoaires diploblastiques sont constitués de l'échinoderme et du mésoderme.	25. Parmi les propositions suivantes concernant les métazoaires diploblastiques, indiquer la (les) proposition(s) vraie(s) :	UE7T110125	FAUX	E. Faux : ectoderme et endoderme.						
+A. Les helminthes sont des métazoaires triploblastiques.	26. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110126	VRAI							
+B. Les trématodes sont des vers ronds.	26. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110126	FAUX	B. Faux : plats.						
+C. Les helminthes sont acœlomates.	26. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110126	VRAI							
+D. Ascaris est un genre de némathelminthe hermaphrodite.	26. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110126	FAUX	D. Faux : à sexes séparés.						
+E. Le genre Tænia correspond à des vers non segmentés.	26. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110126	FAUX	E. Faux : segmentés.						
+A. Jean-Baptiste Lamarck est à l'origine de la théorie du créationnisme.	27. Parmi les propositions suivantes concernant L'historique de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110127	FAUX	A. Faux : Carl Von Linné.						
+B. Carl Von Linné est l'auteur de la théorie du fixisme selon laquelle les espèces sont immuables.	27. Parmi les propositions suivantes concernant L'historique de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110127	VRAI							
+C. Jean-Baptiste Linné fonde son idée sur le fait qu'il existe une sélection des espèces.	27. Parmi les propositions suivantes concernant L'historique de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110127	FAUX	C. Faux : Charles Darwin.						
+D. Charles Darwin fut le premier à découvrir les fossiles et démontre l'évolution des espèces.	27. Parmi les propositions suivantes concernant L'historique de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110127	FAUX	D. Faux : Jean-Baptiste Lamarck.						
+E. Dobshanky et Mayr sont à l'origine de la théorie synthétique des populations.	27. Parmi les propositions suivantes concernant L'historique de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110127	VRAI							
+A. Les mutations dont certaines sont à l'origine du polymorphisme des gènes.	28. Parmi les propositions suivantes concernant les mécanismes de l'évolution, indiquer la (les) proposition(s) vraie(s). On peut distinguer :	UE7T110128	VRAI							
+B. Les familles monogénétiques, c'est-à-dire qu'un gène peut être dupliqué et transposé sur un autre chromosome.	28. Parmi les propositions suivantes concernant les mécanismes de l'évolution, indiquer la (les) proposition(s) vraie(s). On peut distinguer :	UE7T110128	FAUX	B. Faux : les familles multigénétiques c'est à dire qu'un gène peut être dupliqué et transposé sur un autre chromosome.						
+C. Les réarrangements chromosomiques.	28. Parmi les propositions suivantes concernant les mécanismes de l'évolution, indiquer la (les) proposition(s) vraie(s). On peut distinguer :	UE7T110128	VRAI							
+D. Les recombinaisons génétiques.	28. Parmi les propositions suivantes concernant les mécanismes de l'évolution, indiquer la (les) proposition(s) vraie(s). On peut distinguer :	UE7T110128	VRAI							
+E. Les phénomènes hypogénétiques.	28. Parmi les propositions suivantes concernant les mécanismes de l'évolution, indiquer la (les) proposition(s) vraie(s). On peut distinguer :	UE7T110128	FAUX	E. Faux : les phénomènes épigénétiques.						
+A. Les flagellés sont des animaux évolués ayant une seule cellule.	29. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110129	FAUX	A. Faux : es flagellés sont des animaux primitifs ayant une seule cellule.						
+B. Giardia duodenalis fait partie des apicomplexa.	29. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110129	FAUX	B. Faux : Giardia duodenalis fait partie des flagellés.						
+C. Les rhizopodes comme Plasmodium se déplacent par des déformations du cytoplasme.	29. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110129	FAUX	C. Faux : les rhizopodes comme les Amibes se déplacent par des déformations du cytoplasme.						
+D. Les apicomplexa ne se déplacent pas et sont intracellulaires.	29. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110129	VRAI							
+E. Leishmania, Trypanosoma et Toxoplasma sont des flagellés.	29. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110129	FAUX	E. Faux : Leishmania et Trypanosoma correspondent aux flagellés et Toxoplasma aux apicomplexa.						
+A. Les mollusques sont des protozoaires protostomiens.	30. Parmi les propositions suivantes concernant les mollusques, indiquer la (les) proposition(s) vraie(s) :	UE7T110130	FAUX	A. Faux : les mollusques sont des métazoaires protostomiens.						
+B. Les mollusques possèdent une symétrie bilatérale.	30. Parmi les propositions suivantes concernant les mollusques, indiquer la (les) proposition(s) vraie(s) :	UE7T110130	VRAI							
+C. L'appareil respiratoire des mollusques est formé par des protonéphridies.	30. Parmi les propositions suivantes concernant les mollusques, indiquer la (les) proposition(s) vraie(s) :	UE7T110130	FAUX	C. Faux : l'appareil excréteur des mollusques est formé par des protonéphridies.						
+D. Chez les gastéropodes, on peut observer les décapodes et les octopodes.	30. Parmi les propositions suivantes concernant les mollusques, indiquer la (les) proposition(s) vraie(s) :	UE7T110130	FAUX	D. Faux : chez les céphalopodes on peut observer les décapodes et les octopodes.						
+E. Les lamellibranches sont des mollusques bivalves.	30. Parmi les propositions suivantes concernant les mollusques, indiquer la (les) proposition(s) vraie(s) :	UE7T110130	VRAI							
+A. Les champignons possèdent une paroi cellulosique.	26. Parmi les propositions suivantes concernant la cellule végétale, indiquer la (les) proposition(s) vraie(s) :	UE7T110226	FAUX	A. Faux. Les champignons possèdent une paroi avec de la chitine.						
+B. Dans la plante, la vacuole occupe 90% du volume cellulaire.	26. Parmi les propositions suivantes concernant la cellule végétale, indiquer la (les) proposition(s) vraie(s) :	UE7T110226	VRAI							
+C. La vacuole a pour rôle unique d'assurer les mouvements d'eau.	26. Parmi les propositions suivantes concernant la cellule végétale, indiquer la (les) proposition(s) vraie(s) :	UE7T110226	FAUX	C. Faux. La vacuole a un rôle au niveau de la turgescence, de la digestion et du stockage et participe à des échanges ciblés.						
+D. Les plastes sont des organites extracellulaires.	26. Parmi les propositions suivantes concernant la cellule végétale, indiquer la (les) proposition(s) vraie(s) :	UE7T110226	FAUX	D. Faux. Les plastes sont des organites intracellulaires.						
+E. Les cellules végétales sont totipotentes.	26. Parmi les propositions suivantes concernant la cellule végétale, indiquer la (les) proposition(s) vraie(s) :	UE7T110226	VRAI							
+A. Les Charophycées (famille d'algues vertes) contiennent de la sporopollénine.	27. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110227	VRAI							
+B. Au début du primaire, les tissus conducteurs sont rigides.	27. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110227	FAUX	B. Faux. Au milieu du primaire, les tissus conducteurs sont rigides.						
+C. Au milieu du primaire, apparition des premières vraies racines.	27. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110227	VRAI							
+D. A la fin du dévonien, augmentation brutale du taux en oxygène.	27. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110227	FAUX	D. Faux. Durant le carbonifère, augmentation brutale du taux en oxygène.						
+E. Durant le carbonifère, il y a apparition des premiers ovules.	27. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110227	FAUX	E. Faux. A la fin de dévonien, il y a apparition des premiers ovules.						
+A. Au début du secondaire, disparition de 95% des espèces dû à une glaciation.	28. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110228	FAUX	A. Faux. A la fin du primaire = permien, disparition de 95% des espèces dû à une glaciation.						
+B. Au permien, il y a apparition des premiers dinosaures.	28. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110228	FAUX	B. Faux. Au secondaire, il y a apparition des premiers dinosaures.						
+C. A la fin du secondaire, il y a dislocation de la Pangée.	28. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110228	VRAI							
+D. Durant le crétacé, il y a une extinction des gymnospermes.	28. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110228	VRAI							
+E. Au tertiaire, on observe une explosion des angiospermes.	28. Parmi les propositions suivantes concernant les étapes de la colonisation aérienne des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110228	VRAI							
+A. La lutte contre la sécheresse engendre la naissance de tissus protecteurs comme l'épiderme et la cuticule.	29. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110229	VRAI							
+B. Les échanges de substances nutritives se font par les stomates et lenticelles.	29. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110229	FAUX	B. Faux. Les échanges gazeux se font par les stomates et lenticelles.						
+C. La sève brute monte dans la plante par les vaisseaux du phloéme.	29. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110229	FAUX	C. Faux. La sève brute monte dans la plante par les vaisseaux du xylème.						
+D. La sève élaborée descend dans la plante via les vaisseaux du xylème.	29. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110229	FAUX	D. Faux. La sève élaborée descend dans la plante via les vaisseaux du phloéme.						
+E. Le maintien de la plante à la verticale ou à l'horizontale est assuré par des matériaux riches en lignine.	29. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110229	VRAI							
+A. Chez les végétaux, le cycle de reproduction est hétérodiplobiontique.	30. Parmi les propositions suivantes concernant l'adaptation à la reproduction des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110230	FAUX	A. Faux. Chez les végétaux, le cycle de reproduction est haplodiplobiontique.						
+B. Au cours de l'évolution, il y a une régression du gametophyte au profit du sporophyte.	30. Parmi les propositions suivantes concernant l'adaptation à la reproduction des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110230	VRAI							
+C. Le gametophyte correspond à la phase 2n et le sporophyte à la phase n.	30. Parmi les propositions suivantes concernant l'adaptation à la reproduction des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110230	FAUX	C. Faux. Le gametophyte correspond à la phase n et le sporophyte à la phase 2n.						
+D. Il y a apparition de systèmes spécialisés de rencontre des gamètes comme le tube pollinique.	30. Parmi les propositions suivantes concernant l'adaptation à la reproduction des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110230	VRAI							
+E. Les écotypes correspondent à des individus dont les modifications du phénotype sont réversibles.	30. Parmi les propositions suivantes concernant l'adaptation à la reproduction des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110230	FAUX	E. Faux. Les accommodats correspondent à des individus dont les modifications du phénotype sont réversibles.						
+A. Giardia duodenalis est un flagellé parasite de l'Homme.	31. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110231	VRAI							
+B. Les amibes se déplacent grâce à des pseudopodes.	31. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110231	VRAI							
+C. Le genre Cryptosporidium est flagellé.	31. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110231	FAUX	C. Faux : c'est un apicomplexa.						
+D. Le genre Sarcocystis ne possède pas de moyens propres pour se déplacer.	31. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110231	VRAI							
+E. Tripanosoma cruzi est un rhizopode.	31. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110231	FAUX	E. Faux : un flagellé						
+A. Les poissons sont des gnathostomes.	32. Parmi les propositions suivantes concernant les poissons, indiquer la (les) proposition(s) vraie(s) :	UE7T110232	VRAI							
+B. Les chondrostéens, comme les esturgeons, sont des ostéichtyens.	32. Parmi les propositions suivantes concernant les poissons, indiquer la (les) proposition(s) vraie(s) :	UE7T110232	VRAI							
+C. Les acanthoptérygiens sont des chondrostéens.	32. Parmi les propositions suivantes concernant les poissons, indiquer la (les) proposition(s) vraie(s) :	UE7T110232	FAUX	C. Faux : des téléostéens.						
+D. Les poissons sont des homéothermes.	32. Parmi les propositions suivantes concernant les poissons, indiquer la (les) proposition(s) vraie(s) :	UE7T110232	FAUX	D. Faux : poïkilothermes.						
+E. Les requins possèdent une vessie natatoire.	32. Parmi les propositions suivantes concernant les poissons, indiquer la (les) proposition(s) vraie(s) :	UE7T110232	FAUX	E. Faux : ne possèdent pas de vessie natatoire.						
+A. Les urodèles sont des reptiles.	33. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110233	FAUX	A. Faux : des amphibiens.						
+B. Les reptiles sont des amniotes possédant une double circulation sanguine.	33. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110233	FAUX	B. Faux : il existe une communication interventriculaire.						
+C. Les serpents sont des squamates.	33. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110233	VRAI							
+D. Les manchots sont des ratites.	33. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110233	FAUX	D. Faux : des impensés.						
+E. Les protothériens, comme l'ornithorynque, ne possèdent pas de mamelles.	33. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110233	VRAI							
+A. Les cestodes possèdent des métamères.	34. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110234	VRAI							
+B. Le Tænia est un parasite monoxène.	34. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110234	FAUX	B. Faux : hétéroxène.						
+C. Les schistosomes sont des trématodes à sexes séparés ne possédant pas d'appareil digestif.	34. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110234	FAUX	C. Faux : un appareil digestif mais pas d'appareil respiratoire.						
+D. Fasciola est un genre de plathelminthe hermaphrodique non segmenté.	34. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110234	VRAI							
+E. Les filaires sont des vers plats avec un appareil digestif complet.	34. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110234	FAUX	E. Faux : vers ronds.						
+A. Un ectoparasite peut coloniser la peau de l'hôte.	35. Parmi les propositions suivantes concernant les types de parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110235	VRAI							
+B. Un endoparasite peut coloniser le sang de l'hôte.	35. Parmi les propositions suivantes concernant les types de parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110235	VRAI							
+C. Un ectoparasite peut coloniser les intestins de l'hôte.	35. Parmi les propositions suivantes concernant les types de parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110235	FAUX	C. Faux : un endoparasite.						
+D. Un parasite possède un cycle hétéroxène lorsqu'il présente deux formes infestantes différentes.	35. Parmi les propositions suivantes concernant les types de parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110235	FAUX	D. Faux : lorsqu'il possède plusieurs hôtes.						
+E. La favorisation est toujours dépendante de la transmission du parasite.	35. Parmi les propositions suivantes concernant les types de parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110235	FAUX	E. Faux : les mécanismes peuvent être indépendants.						
+A. La favorisation peut se manifester par la présence d'un gène permettant au parasite de sortir de l'hôte au « bon moment ».	36. Parmi les propositions suivantes concernant les mécanismes d'adaptation, indiquer la (les) proposition(s) vraie(s) :	UE7T110236	VRAI							
+B. Certains hôtes sont capables de modifier le comportement de leurs parasites pour améliorer leur transmission.	36. Parmi les propositions suivantes concernant les mécanismes d'adaptation, indiquer la (les) proposition(s) vraie(s) :	UE7T110236	FAUX	B. Faux : c'est l'inverse.						
+C. L'asynchronie est un moyen mis en œuvre par l'hôte pour lutter contre le parasitisme.	36. Parmi les propositions suivantes concernant les mécanismes d'adaptation, indiquer la (les) proposition(s) vraie(s) :	UE7T110236	VRAI							
+D. Les formes adultes de parasites peuvent sécréter des antigènes contre les formes larvaires.	36. Parmi les propositions suivantes concernant les mécanismes d'adaptation, indiquer la (les) proposition(s) vraie(s) :	UE7T110236	VRAI							
+E. Les gènes pour éviter les parasites sont plus fréquemment retrouvés chez l'hôte que les gènes pour tuer.	36. Parmi les propositions suivantes concernant les mécanismes d'adaptation, indiquer la (les) proposition(s) vraie(s) :	UE7T110236	FAUX	E. Faux : c'est le contraire.						
+A. La sélection naturelle favorise l'apparition de moyens de défense chez le parasite et d'adaptation chez l'hôte.	37. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110237	FAUX	A. Faux : c'est le contraire.						
+B. Les déplacements de l'hôte permettent la dissémination du parasite.	37. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110237	VRAI							
+C. La faible fécondité du parasite permet la survie de l'espèce.	37. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110237	FAUX	C. Faux : la forte fécondité.						
+D. La survie du parasite est conditionnée à la survie de l'hôte.	37. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110237	VRAI							
+E. L'hôte protège son parasite des prédateurs.	37. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110237	VRAI							
+A. 5% des antibiotiques sont issus de biotechnologies.	38. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110238	FAUX	A. Faux : 50%						
+B. Les biotechnologies blanches concernent la santé.	38. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110238	FAUX	B. Faux : c'est la rouge.						
+C. Les blés actuels sont obtenus par modification du nombre de chromosomes d'espèces sauvages.	38. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110238	VRAI							
+D. Le greffage est une technique de clonage en laboratoire.	38. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110238	FAUX	D. Faux : technique de clonage sur le terrain.						
+E. Le clonage des plantes en laboratoire a permis d'augmenter la qualité sanitaire des plantes.	38. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110238	VRAI							
+A. La création d'une nouvelle espèce peut être obtenue par hybridation.	39. Parmi les propositions suivantes concernant le génie génétique, indiquer la (les) proposition(s) vraie(s) :	UE7T110239	VRAI							
+B. La modification de la ploïdie n'a pas de conséquence sur les qualités gustatives d'une plante.	39. Parmi les propositions suivantes concernant le génie génétique, indiquer la (les) proposition(s) vraie(s) :	UE7T110239	FAUX	B. Faux : permet l'amélioration du goût (entre autres).						
+C. Une plante peut être rendue résistante à un insecte par transgénèse.	39. Parmi les propositions suivantes concernant le génie génétique, indiquer la (les) proposition(s) vraie(s) :	UE7T110239	VRAI							
+D. Le séquençage des génomes a permis d'établir des liens de parenté entre espèces de plantes.	39. Parmi les propositions suivantes concernant le génie génétique, indiquer la (les) proposition(s) vraie(s) :	UE7T110239	VRAI							
+E. Les protéines à doigt de zinc coupent l'ADN de façon aléatoire.	39. Parmi les propositions suivantes concernant le génie génétique, indiquer la (les) proposition(s) vraie(s) :	UE7T110239	FAUX	E. Faux : au niveau de séquences bien définies.						
+A. Selon Lamarck, les espèces sont immuables.	21. Parmi les propositions suivantes concernant la théorie de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110321	FAUX	A. Faux. Pour Lamarck, le changement de l'environnement est à la base de l'évolution des espèces.						
+B. L'existence de familles multigénétiques augmente la variabilité des espèces.	21. Parmi les propositions suivantes concernant la théorie de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110321	VRAI							
+C. Le mécanisme de l'évolution est uniquement issu de phénomènes génétiques.	21. Parmi les propositions suivantes concernant la théorie de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110321	FAUX	C. Faux. Existence de phénomènes épigénétiques.						
+D. La spéciation est la conséquence de l'évolution.	21. Parmi les propositions suivantes concernant la théorie de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110321	VRAI							
+E. La spéciation est moins rapide si elle touche des gènes homéotiques.	21. Parmi les propositions suivantes concernant la théorie de l'évolution, indiquer la (les) proposition(s) vraie(s) :	UE7T110321	FAUX	E. Faux. Plus rapide.						
+A. Les apicomplexa sont des parasites extracellulaires.	22. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110322	FAUX	A. Faux. Intracellulaires.						
+B. Le Plasmodium se déplace grâce à des pseudopodes.	22. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110322	FAUX	B. Faux. Le Plasmodium est immobile.						
+C. Les vecteurs de Tripanosoma cruzi sont des réduves.	22. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110322	VRAI							
+D. Le vecteur de la leishmaniose est l'anophèle.	22. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110322	FAUX	D. Faux. C'est le phlébotome.						
+E. Le genre Schistosoma est un exemple d'apicomplexa.	22. Parmi les propositions suivantes concernant les protozoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110322	FAUX	E. Faux. Le genre Schistosoma est un trématode.						
+A. Les parasites des cavités sont des ectoparasites.	23. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110323	VRAI							
+B. Les némathelminthes ont souvent un cycle monoxène.	23. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110323	VRAI							
+C. On peut assister à une compétition entre les génotypes de la même espèce de parasites chez un hôte.	23. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110323	VRAI							
+D. L'asynchronie chez les mammifères peut permettre la lutte contre les poux.	23. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110323	VRAI							
+E. La favorisation est un processus adaptatif retrouvé chez l'hôte.	23. Parmi les propositions suivantes concernant le parasitisme, indiquer la (les) proposition(s) vraie(s) :	UE7T110323	FAUX	E. Faux. Chez le parasite.						
+A. La paroi est majoritairement un polymère de glucose intracellulaire qui assure la protection et la rigidité des cellules.	24. Parmi les propositions suivantes concernant les caractéristiques des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110324	FAUX	A. Faux. Extracellulaire.						
+B. Le règne végétal est le seul qui possède une faible différenciation cellulaire.	24. Parmi les propositions suivantes concernant les caractéristiques des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110324	FAUX	B. Faux. Les champignons aussi.						
+C. Tous les végétaux sont autotrophes et phototrophes.	24. Parmi les propositions suivantes concernant les caractéristiques des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110324	FAUX	C. Faux. Contre-exemple des plantes saprophytes et parasites.						
+D. Environ 70% de la biomasse totale est issue du métabolisme primaire.	24. Parmi les propositions suivantes concernant les caractéristiques des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110324	VRAI							
+E. La majeure partie des principes actifs issus des végétaux utilisés en médecine proviennent du métabolisme secondaire.	24. Parmi les propositions suivantes concernant les caractéristiques des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110324	VRAI							
+A. L'apparition de la vie correspond à l'apparition de structures protidiques capables de se répliquer.	25. Parmi les propositions proposition(s) vraie(s) : suivantes concernant l'évolution des végétaux, indiquer la (les)	UE7T110325	FAUX	A. Faux. Apparition de structures nucléotidiques.						
+B. Au début du primaire, on observe un « big bang » de l'évolution.	25. Parmi les propositions proposition(s) vraie(s) : suivantes concernant l'évolution des végétaux, indiquer la (les)	UE7T110325	VRAI							
+C. Les premiers végétaux à sortir de l'eau sont les bryophytes.	25. Parmi les propositions proposition(s) vraie(s) : suivantes concernant l'évolution des végétaux, indiquer la (les)	UE7T110325	VRAI							
+D. A la fin du primaire, 50% des espèces disparaissent.	25. Parmi les propositions proposition(s) vraie(s) : suivantes concernant l'évolution des végétaux, indiquer la (les)	UE7T110325	FAUX	D. Faux. 95%						
+E. La flore actuelle est constituée d'une écrasante majorité d'angiospermes.	25. Parmi les propositions proposition(s) vraie(s) : suivantes concernant l'évolution des végétaux, indiquer la (les)	UE7T110325	VRAI							
+A. Dans l'industrie agroalimentaire, le clonage a permis d'obtenir de meilleurs rendements plus rapidement.	26. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110326	VRAI							
+B. La micropropagation correspond à une multiplication végétative in vitro.	26. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110326	VRAI							
+C. La culture d'embryons immatures in vitro a permis une augmentation de la durée d'une génération de plantes.	26. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110326	FAUX	C. Faux. A permis la diminution de la durée d'une génération.						
+D. La culture d'embryons immatures in vitro a permis l'obtention plus rapide de variétés.	26. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110326	VRAI							
+E. Le bouturage et le greffage sont des techniques de clonage ancestrales sur le terrain.	26. Parmi les propositions suivantes concernant les biotechnologies, indiquer la (les) proposition(s) vraie(s) :	UE7T110326	VRAI							
+A. La conservation par fixation d'une nouvelle variété peut être opérée par rétrocroisement.	27. Parmi les propositions suivantes concernant les modifications des caractères naturels des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110327	VRAI							
+B. La modification de la ploïdie ne peut pas permettre de restaurer la fertilité d'hybrides.	27. Parmi les propositions suivantes concernant les modifications des caractères naturels des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110327	FAUX	B. Faux.						
+C. La modification de la ploïdie entraîne une modification de l'information génétique nucléaire.	27. Parmi les propositions suivantes concernant les modifications des caractères naturels des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110327	FAUX	C. Faux.						
+D. La transgénèse du gène Bt dans les végétaux a permis l'obtention de plantes résistantes à certains insectes.	27. Parmi les propositions suivantes concernant les modifications des caractères naturels des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110327	VRAI							
+E. Le génotypage a permis la sélection de caractères chez les végétaux.	27. Parmi les propositions suivantes concernant les modifications des caractères naturels des végétaux, indiquer la (les) proposition(s) vraie(s) :	UE7T110327	VRAI							
+A. Les premières plantes à sortir du milieu aquatique sont amphibies.	28. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre, indiquer la (les) proposition(s) vraie(s) :	UE7T110328	VRAI							
+B. Les bryophytes possèdent des racines absorbant l'eau et les sels minéraux.	28. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre, indiquer la (les) proposition(s) vraie(s) :	UE7T110328	FAUX	B. Faux. Les bryophytes possèdent des rhizoïdes ayant pour seule fonction la fixation sur un support.						
+C. Les végétaux résistent à la déshydratation grâce à deux couches de cellules : l'épiderme et la cuticule.	28. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre, indiquer la (les) proposition(s) vraie(s) :	UE7T110328	FAUX	C. Faux. La cuticule n'est pas une couche de cellules.						
+D. Le thalle est un type de morphologie végétale permettant le port dressé.	28. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre, indiquer la (les) proposition(s) vraie(s) :	UE7T110328	FAUX	D. Faux. Le cormus.						
+E. La graine protège l'embryon des conditions extérieures défavorables.	28. Parmi les propositions suivantes concernant l'adaptation à la vie terrestre, indiquer la (les) proposition(s) vraie(s) :	UE7T110328	VRAI							
+A. L'homme provoque une perturbation des tracés originels des cours d'eau par la présence de ponts.	29 . Parmi les propositions suivantes concernant les effets de l'homme sur l'eau, indiquer la (les) proposition(s) vraie(s) :	UE7T110329	FAUX	A. Faux. L'homme provoque une perturbation des tracés originels des cours d'eau par la présence de barrages.						
+B. L'homme induit une augmentation de température des cours due aux rejets d'eaux chaudes par des centrales.	29 . Parmi les propositions suivantes concernant les effets de l'homme sur l'eau, indiquer la (les) proposition(s) vraie(s) :	UE7T110329	VRAI							
+C. Il y a une augmentation des réserves présentent dans l'eau due à l'utilisation des engrais.	29 . Parmi les propositions suivantes concernant les effets de l'homme sur l'eau, indiquer la (les) proposition(s) vraie(s) :	UE7T110329	FAUX	C. Faux. Il y a une diminution des réserves présentent dans l'eau due à l'utilisation des engrais.						
+D. Les effets de l'homme sur les cours d'eau provoquent une résistance des espèces endémiques.	29 . Parmi les propositions suivantes concernant les effets de l'homme sur l'eau, indiquer la (les) proposition(s) vraie(s) :	UE7T110329	FAUX	D. Faux. Les effets de l'homme sur les cours d'eau provoquent une fragilisation des espèces endémiques.						
+E. L'homme engendre une régression des milieux humides.	29 . Parmi les propositions suivantes concernant les effets de l'homme sur l'eau, indiquer la (les) proposition(s) vraie(s) :	UE7T110329	VRAI							
+A. L'eau.	30 . Parmi les propositions suivantes concernant les gaz ayant un rôle important dans l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110330	VRAI							
+B. Le tetroxyde d'azote.	30 . Parmi les propositions suivantes concernant les gaz ayant un rôle important dans l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110330	FAUX							
+C. L'ozone.	30 . Parmi les propositions suivantes concernant les gaz ayant un rôle important dans l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110330	VRAI							
+D. Les chloroiodocarbures venant de l'industrie.	30 . Parmi les propositions suivantes concernant les gaz ayant un rôle important dans l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110330	FAUX	D. Chlorofluorocarbures => CFC						
+E. L'hydrate de méthane.	30 . Parmi les propositions suivantes concernant les gaz ayant un rôle important dans l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110330	VRAI							
+A. Cela induit un équilibre des biotopes avec une prolifération des ravageurs.	31 . Parmi les propositions suivantes concernant les conséquences de l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110331	FAUX	A. Faux. Cela induit un déséquilibre des biotopes avec une prolifération des ravageurs.						
+B. Il y a augmentation de la température à la surface du globe.	31 . Parmi les propositions suivantes concernant les conséquences de l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110331	VRAI							
+C. Il y a progression des déserts de 4 à 200 km/siècle.	31 . Parmi les propositions suivantes concernant les conséquences de l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110331	VRAI							
+D. La montée des eaux est ralentie par la dilatation thermique.	31 . Parmi les propositions suivantes concernant les conséquences de l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110331	FAUX	D. Faux. La montée des eaux est renforcée par la dilatation thermique.						
+E. Les régions polaires sont plus touchées que les tropiques, ceci étant dû à une augmentation de l'albédo.	31 . Parmi les propositions suivantes concernant les conséquences de l'effet de serre, indiquer la (les) proposition(s) vraie(s) :	UE7T110331	FAUX	E. Faux. Les régions polaires sont plus touchées que les tropiques, ceci étant dû à une diminution de l'albédo.						
+A. La dyozoogamie est le transport volontaire de graines et de fruits dans des cachettes (pie, écureuils).	32 . Parmi les propositions suivantes concernant les relations bénéfiques dû à des symbioses, indiquer la (les) proposition(s) vraie(s) :	UE7T110332	FAUX	A. Faux. La dyozoochorie est le transport volontaire de graines et de fruits dans des cachettes (pie, écureuils)						
+B. L'anthropochorie est la dissémination par l'homme.	32 . Parmi les propositions suivantes concernant les relations bénéfiques dû à des symbioses, indiquer la (les) proposition(s) vraie(s) :	UE7T110332	VRAI							
+C. L'hydrogamie est le transport de graines par l'eau.	32 . Parmi les propositions suivantes concernant les relations bénéfiques dû à des symbioses, indiquer la (les) proposition(s) vraie(s) :	UE7T110332	FAUX	C. Faux. L'hydrochorie est le transport de graine par l'eau.						
+D. L'epizoochorie est le transport involontaire par les animaux au niveau des pattes, du pelage.	32 . Parmi les propositions suivantes concernant les relations bénéfiques dû à des symbioses, indiquer la (les) proposition(s) vraie(s) :	UE7T110332	VRAI							
+E. L'anémochorie permet la dispersion des graines de 50% des végétaux.	32 . Parmi les propositions suivantes concernant les relations bénéfiques dû à des symbioses, indiquer la (les) proposition(s) vraie(s) :	UE7T110332	FAUX	E. Faux. L'anémochorie permet la dispersion des graines de 90% des végétaux.						
+A. L'entomogamie correspond à une relation entre un insecte et un végétal.	33 . Parmi les propositions suivantes concernant l'entomogamie, indiquer la (les) proposition(s) vraie(s) :	UE7T110333	VRAI							
+B. Pour assurer l'entomogamie, la plante peut développer une morphologie spécifique.	33 . Parmi les propositions suivantes concernant l'entomogamie, indiquer la (les) proposition(s) vraie(s) :	UE7T110333	VRAI							
+C. Les couleurs de la plante n'interfèrent pas dans l'entomogamie.	33 . Parmi les propositions suivantes concernant l'entomogamie, indiquer la (les) proposition(s) vraie(s) :	UE7T110333	FAUX	C. Faux. Les couleurs de la plante interfèrent dans l'entomogamie.						
+D. L'entomogamie est considérée comme une sorte de mutualisme.	33 . Parmi les propositions suivantes concernant l'entomogamie, indiquer la (les) proposition(s) vraie(s) :	UE7T110333	FAUX							
+E. L'entomogamie est considérée comme une sorte de symbiose.	33 . Parmi les propositions suivantes concernant l'entomogamie, indiquer la (les) proposition(s) vraie(s) :	UE7T110333	VRAI							
+A. Les mycorhizes sont des types de mutualisme entre végétaux et champignons.	34 . Parmi les propositions suivantes concernant les mycorhizes, indiquer la (les) proposition(s) vraie(s) :	UE7T110334	FAUX	A. Faux. Les mycorhizes sont des types de symbiose entre végétaux et champignons.						
+B. Pour le champignon, cela lui permet une absorption facilitée de minéraux.	34 . Parmi les propositions suivantes concernant les mycorhizes, indiquer la (les) proposition(s) vraie(s) :	UE7T110334	FAUX	B. Faux. Pour la plante cela lui permet une absorption facilitée de minéraux.						
+C. Pour la plante cela assure une protection contre les microorganismes pathogènes.	34 . Parmi les propositions suivantes concernant les mycorhizes, indiquer la (les) proposition(s) vraie(s) :	UE7T110334	VRAI							
+D. Lors d'une endomycorhize, le mycélium est dit endocellulaire.	34 . Parmi les propositions suivantes concernant les mycorhizes, indiquer la (les) proposition(s) vraie(s) :	UE7T110334	VRAI							
+E. Les endomycorhizes à peloton permettent la colonisation de milieux froids dont la minéralisation est faible.	34 . Parmi les propositions suivantes concernant les mycorhizes, indiquer la (les) proposition(s) vraie(s) :	UE7T110334	VRAI							
+A. Les lichens sont formés par des algues associées à des cyanobactéries.	35 . Parmi les propositions suivantes concernant les lichens, indiquer la (les) proposition(s) vraie(s) :	UE7T110335	FAUX	A. Faux. Lichens= algue + champignon 85% des cas et 10% algue + champignon						
+B. Les lichens peuvent coloniser des milieux extrêmes avec des températures de -70°c à +70°c.	35 . Parmi les propositions suivantes concernant les lichens, indiquer la (les) proposition(s) vraie(s) :	UE7T110335	VRAI							
+C. Les lichens favorisent la colonisation dans les milieux humides comme les mousses dans les lieux secs.	35 . Parmi les propositions suivantes concernant les lichens, indiquer la (les) proposition(s) vraie(s) :	UE7T110335	FAUX	C. Faux. Les lichens favorisent la colonisation dans les milieux secs comme les mousses dans les lieux humides.						
+D. Les lichens sont des bio-indicateurs de pollution atmosphérique permettant la dépollution.	35 . Parmi les propositions suivantes concernant les lichens, indiquer la (les) proposition(s) vraie(s) :	UE7T110335	VRAI							
+E. Pour certaines espèces animales les lichens sont une source de nourriture.	35 . Parmi les propositions suivantes concernant les lichens, indiquer la (les) proposition(s) vraie(s) :	UE7T110335	VRAI							
+A. La conservation in situ intervient lorsque la disparition de la plante est inéluctable.	77. Parmi les propositions suivantes concernant les mesures de restaurations et de conservations des plantes, indiquer la (les) proposition(s) vraie(s) :	UE7T110477	FAUX	A. Faux. La conservation ex situ intervient lorsque la disparition de la plante est inéluctable.						
+B. La conservation in situ se fait grâce aux parcs nationaux et conservatoires de botaniques.	77. Parmi les propositions suivantes concernant les mesures de restaurations et de conservations des plantes, indiquer la (les) proposition(s) vraie(s) :	UE7T110477	VRAI							
+C. La conservation ex situ se fait par l'intermédiaire de banques de graines, de tissus ou de gènes.	77. Parmi les propositions suivantes concernant les mesures de restaurations et de conservations des plantes, indiquer la (les) proposition(s) vraie(s) :	UE7T110477	VRAI							
+D. La réintroduction d'une espèce se fait lorsque l'effectif est insuffisant a la survie.	77. Parmi les propositions suivantes concernant les mesures de restaurations et de conservations des plantes, indiquer la (les) proposition(s) vraie(s) :	UE7T110477	FAUX	D. Faux. Le renforcement d'une espèce se fait lorsque l'effectif est insuffisant à la survie.						
+E. Le renforcement d'une espèce se fait lorsque celle-ci a complétement disparue.	77. Parmi les propositions suivantes concernant les mesures de restaurations et de conservations des plantes, indiquer la (les) proposition(s) vraie(s) :	UE7T110477	FAUX	E. Faux. La réintroduction d'une espèce se fait lorsque celle-ci a complètement disparue.						
+A. La pression démographique est une cause principale avec une diminution du niveau de vie.	78. Parmi les propositions suivantes concernant les causes de perturbations des écosystèmes, indiquer la (les) proposition(s) vraie(s) :	UE7T110478	FAUX	A. Faux. La pression démographique est une cause principale avec une augmentation du niveau de vie.						
+B. L'augmentation de la population mondiale n'a aucune influence sur les écosystèmes.	78. Parmi les propositions suivantes concernant les causes de perturbations des écosystèmes, indiquer la (les) proposition(s) vraie(s) :	UE7T110478	FAUX	B. Faux. L'augmentation de la population mondiale a une influence majeure sur les écosystèmes.						
+C. L'industrialisation provoque majoritairement une pollution des écosystèmes abiotiques.	78. Parmi les propositions suivantes concernant les causes de perturbations des écosystèmes, indiquer la (les) proposition(s) vraie(s) :	UE7T110478	FAUX	C. Faux. L'industrialisation provoque une pollution des écosystèmes abiotiques (air, sol, eau, sédiments) et biotiques.						
+D. Le défrichement des sols est un facteur majoritaire de la perturbations des écosystèmes.	78. Parmi les propositions suivantes concernant les causes de perturbations des écosystèmes, indiquer la (les) proposition(s) vraie(s) :	UE7T110478	VRAI							
+E. L'écotoxicologie permet d'étudier les pollutions et d'étudier les répercutions sur l'environnement.	78. Parmi les propositions suivantes concernant les causes de perturbations des écosystèmes, indiquer la (les) proposition(s) vraie(s) :	UE7T110478	VRAI							
+A. Sur le plan international il y a l'IRD (Institut de Recherche pour le Développement).	79. Parmi les propositions suivantes concernant les organisations de protections et de conservations des biotopes, indiquer la (les) proposition(s) vraie(s) :	UE7T110479	FAUX	A. Faux. L'IRD (Institut de Recherche pour le Développement) est une organisation française.						
+B. En France, il y a le GIEC et l'ONF qui sont des organisations non internationales.	79. Parmi les propositions suivantes concernant les organisations de protections et de conservations des biotopes, indiquer la (les) proposition(s) vraie(s) :	UE7T110479	FAUX	B. Faux. Seul l'ONF est une organisation française, la GIEC est internationale.						
+C. Les USA n'ont pas ratifié le protocole de Kyoto en 2005.	79. Parmi les propositions suivantes concernant les organisations de protections et de conservations des biotopes, indiquer la (les) proposition(s) vraie(s) :	UE7T110479	VRAI							
+D. Les pays signataires du COP sont les mêmes que ceux du protocole de Kyoto.	79. Parmi les propositions suivantes concernant les organisations de protections et de conservations des biotopes, indiquer la (les) proposition(s) vraie(s) :	UE7T110479	FAUX	D. Faux. Les pays signataires du COP sont les mêmes que ceux de la conférence de Rio.						
+E. Lors de la conférence de Cancun, un accord limite l'augmentation de température de 2°c d'ici 2013.	79. Parmi les propositions suivantes concernant les organisations de protections et de conservations des biotopes, indiquer la (les) proposition(s) vraie(s) :	UE7T110479	VRAI							
+A. Ce sont des chélicérates.	80. Parmi les propositions suivantes concernant les insectes, indiquer la (les) proposition(s) vraie(s) :	UE7T110480	FAUX							
+B. Ce sont des arthropodes.	80. Parmi les propositions suivantes concernant les insectes, indiquer la (les) proposition(s) vraie(s) :	UE7T110480	VRAI							
+C. Ils peuvent avoir n paires de pattes.	80. Parmi les propositions suivantes concernant les insectes, indiquer la (les) proposition(s) vraie(s) :	UE7T110480	FAUX	C. Faux. n = 3 pour les insectes.						
+D. Ils ont souvent quatre ailes.	80. Parmi les propositions suivantes concernant les insectes, indiquer la (les) proposition(s) vraie(s) :	UE7T110480	VRAI							
+E. Leur métamorphose est toujours complète.	80. Parmi les propositions suivantes concernant les insectes, indiquer la (les) proposition(s) vraie(s) :	UE7T110480	FAUX	E. Faux. Le stade nymphe peut disparaître.						
+A. Giardia duodenalis	81. Parmi les parasites suivants, le(s)quel(s) est (sont) un (des) flagellé(s) :	UE7T110481	VRAI							
+B. Sarcocystis	81. Parmi les parasites suivants, le(s)quel(s) est (sont) un (des) flagellé(s) :	UE7T110481	FAUX	BDE. Les autres sont des apicomplexas.						
+C. Trypanosoma cruzi	81. Parmi les parasites suivants, le(s)quel(s) est (sont) un (des) flagellé(s) :	UE7T110481	VRAI							
+D. Toxoplasma gondii	81. Parmi les parasites suivants, le(s)quel(s) est (sont) un (des) flagellé(s) :	UE7T110481	FAUX							
+E. Cryptosporidium	81. Parmi les parasites suivants, le(s)quel(s) est (sont) un (des) flagellé(s) :	UE7T110481	FAUX							
+A. Ce sont des métazoaires triploblastiques.	82. Parmi les proposition(s) suivante(s) concernant les cnidaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110482	FAUX	A. Faux. Diploblastiques.						
+B. La forme polype est immobile.	82. Parmi les proposition(s) suivante(s) concernant les cnidaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110482	VRAI							
+C. Ce sont des animaux morphométriques.	82. Parmi les proposition(s) suivante(s) concernant les cnidaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110482	VRAI							
+D. Ils possèdent un système nerveux primitif permettant des mouvements de coordination.	82. Parmi les proposition(s) suivante(s) concernant les cnidaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110482	VRAI							
+E. Les éponges en font partie.	82. Parmi les proposition(s) suivante(s) concernant les cnidaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110482	FAUX	E. Faux. Les éponges sont des spongiaires.						
+A. Les spongiaires sont des métazoaires triploblastiques.	20. Parmi les propositions suivantes concernant les métazoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110520	FAUX	A. Faux. Les spongiaires sont des métazoaires diploblastiques.						
+B. Les cnidaires présentent une morphométrie.	20. Parmi les propositions suivantes concernant les métazoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110520	VRAI							
+C. Le Taenia fait partie des trématodes.	20. Parmi les propositions suivantes concernant les métazoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110520	FAUX	C. Faux. Le Taenia fait parti des cestodes.						
+D. Les cestodes se reproduisent par hermaphrodisme.	20. Parmi les propositions suivantes concernant les métazoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110520	VRAI							
+E. Fasciola se reproduit de manière sexuée.	20. Parmi les propositions suivantes concernant les métazoaires, indiquer la (les) proposition(s) vraie(s) :	UE7T110520	FAUX	E. Faux. Fasciola se reproduit de manière asexuée.						
+A. Les crustacés présentent deux paires d'antennes.	21. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110521	VRAI							
+B. Les échinodermes ont un endosquelette calcaire.	21. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110521	FAUX	B. Faux. Échinodermes = métazoaires deutérostomiens.						
+C. Les aranéides sont des arachnides.	21. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110521	VRAI							
+D. Demodex est un aranéide.	21. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110521	FAUX	D Faux. Demodex est un acarien.						
+E. Les tiques sont des acariens.	21. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110521	VRAI							
+A. Le serpent est un carinate.	22. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110522	FAUX	A. Faux. Le serpent est un squamate.						
+B. Le manchot est un impenne.	22. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110522	VRAI							
+C. Les tortues sont des squamates.	22. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110522	FAUX	C. Faux. Les tortues sont des chéloniens.						
+D. L'ornithorynque est un euthérien.	22. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110522	FAUX	D. Faux. L'ornithorynque est un protothérien.						
+E. La grenouille est une anoure.	22. Parmi les propositions suivantes concernant les tétrapodes, indiquer la (les) proposition(s) vraie(s) :	UE7T110522	VRAI							
+A. Les mollusques, les annélides et les échinodermes en font partie.	23. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110523	FAUX	A. Faux. Les échinodermes sont des deutérostomiens.						
+B. Ils ont l'anus formé avant la bouche.	23. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110523	FAUX	B. Faux. C'est le contraire.						
+C. Les mollusques possèdent un appareil circulatoire développé dorsal et un système nerveux ventral primitif.	23. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110523	FAUX	C. Faux. L'appareil circulatoire est primitif et l'appareil nerveux, développé.						
+D. Les lamellibranches possèdent une première adaptation à la vie terrestre sous forme d'une coquille.	23. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110523	FAUX	D. Faux. Les gastéropodes.						
+E. L'abondance de soie chez les annélides permet la vie terrestre.	23. Parmi les propositions suivantes concernant les métazoaires protostomiens, indiquer la (les) proposition(s) vraie(s) :	UE7T110523	VRAI							
+A. Plasmodium	24. Parmi les parasites suivants, le(s)quel(s) est (sont) transmis par un insecte :	UE7T110524	VRAI							
+B. Trypanosoma sp	24. Parmi les parasites suivants, le(s)quel(s) est (sont) transmis par un insecte :	UE7T110524	VRAI							
+C. Giardia duodenalis	24. Parmi les parasites suivants, le(s)quel(s) est (sont) transmis par un insecte :	UE7T110524	FAUX	C. Faux. Les mains sales, l'eau.						
+D. Toxoplasma gondii&nbsp;	24. Parmi les parasites suivants, le(s)quel(s) est (sont) transmis par un insecte :	UE7T110524	FAUX	D. Faux. La nourriture contaminée, l'eau, les mains sales.						
+E. Leishmania	24. Parmi les parasites suivants, le(s)quel(s) est (sont) transmis par un insecte :	UE7T110524	VRAI							
+A. Les cestodes sont des plathelminthes segmentés.	25. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110525	VRAI							
+B. Les tænias possèdent un appareil circulatoire.	25. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110525	FAUX	B. Faux.						
+C. Le genre Fasciola est un trématode.	25. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110525	VRAI							
+D. Les némathelminthes sont des vers ronds possédant un appareil digestif complet.	25. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110525	VRAI							
+E. Chez les trématodes, chaque individu est successivement femelle puis mâle.	25. Parmi les propositions suivantes concernant les helminthes, indiquer la (les) proposition(s) vraie(s) :	UE7T110525	FAUX	E. Faux. Chez les cestodes, chaque individu est successivement mâle puis femelle.QROC						

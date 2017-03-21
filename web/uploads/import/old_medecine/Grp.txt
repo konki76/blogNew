@@ -1,0 +1,67 @@
+ordre|title|slug|ue|startContent|endContent
+3|P1 Anatomie colle 3|P1_ue5_colle3|P1_ue5||
+4|P1 UEP  colle 4|P1_uep_colle4|P1_uep||
+3|P1 UEP  colle 3|P1_uep_colle3|P1_uep||
+2|P1 UEP colle 2|P1_uep_colle2|P1_uep||
+4|P1 Odontologie, sage-femme, kine colle 4|P1_uemofsk_colle4|P1_uemofsk||
+3|P1 Odontologie, sage-femme, kine colle 3|P1_uemofsk_colle3|P1_uemofsk||
+2|P1 Odontologie, sage-femme, kine  colle 2|P1_uemofsk_colle2|P1_uemofsk||
+1|P1 Odontologie, sage-femme, kine  colle 1|P1_uemofsk_colle1|P1_uemofsk||
+1|P1 Histoire de la medecine et de la biologie vegetale|P1_ue7_biologie_vegetale|P1_ue7||
+7|P1 Histoire de la medecine et de la biologie vegetale colle 7|P1_ue7_colle7|P1_ue7||
+6|P1 Histoire de la medecine et de la biologie vegetale  colle 6|P1_ue7_colle6|P1_ue7||
+5|P1 Histoire de la medecine et de la biologie vegetale  colle 5|P1_ue7_colle5|P1_ue7||
+4|P1 Histoire de la medecine et de la biologie vegetale  colle 4|P1_ue7_colle4|P1_ue7||
+3|P1 Histoire de la medecine et de la biologie vegetale  colle 3|P1_ue7_colle3|P1_ue7||
+2|P1 Histoire de la medecine et de la biologie vegetale  colle 2|P1_ue7_colle2|P1_ue7||
+1|P1 Histoire de la medecine et de la biologie vegetale  colle 1|P1_ue7_colle1|P1_ue7||
+6|P1 Pharmacologie colle 6|P1_ue6_colle6|P1_ue6||
+5|P1 Pharmacologie colle 5|P1_ue6_colle5|P1_ue6||
+4|P1 Pharmacologie colle 4|P1_ue6_colle4|P1_ue6||
+3|P1 Pharmacologie colle 3|P1_ue6_colle3|P1_ue6||
+2|P1 Pharmacologie colle 2|P1_ue6_colle2|P1_ue6||
+1|P1 Pharmacologie colle 1|P1_ue6_colle1|P1_ue6||
+5|P1 Anatomie colle 5|P1_ue5_colle5|P1_ue5||
+4|P1 Anatomie|P1_ue5_colle4|P1_ue5||
+3|P1 Anatomie colle 4|P1_ue5_colle3|P1_ue5||
+2|P1 Anatomie colle 2|P1_ue5_colle2|P1_ue5||
+1|P1 Anatomie colle 1|P1_ue5_colle1|P1_ue5||
+11|P1 Physique colle 11|P1_ue3_colle11|P1_ue3||
+10|P1 Physique colle 10|P1_ue3_colle10|P1_ue3||
+9|P1 Physique colle 9|P1_ue3_colle9|P1_ue3||
+8|P1 Physique colle 8|P1_ue3_colle8|P1_ue3||
+7|P1 Physique colle 7|P1_ue3_colle7|P1_ue3||
+6|P1 Physique colle 6|P1_ue3_colle6|P1_ue3||
+5|P1 Physique colle 5|P1_ue3_colle5|P1_ue3||
+3|P1 Physique colle 4|P1_ue3_colle4|P1_ue3||
+2|P1 Physique colle 3|P1_ue3_colle3|P1_ue3||
+2|P1 Physique colle 2|P1_ue3_colle2|P1_ue3||
+1|P1 Physique colle 1|P1_ue3_colle1|P1_ue3||
+6|P1 Biologie colle 6|P1_ue2_colle6|P1_ue2||
+5|P1 Biologie colle 5|P1_ue2_colle5|P1_ue2||
+4|P1 Biologie colle 4|P1_ue2_colle4|P1_ue2||
+3|P1 Biologie colle 3|P1_ue2_colle3|P1_ue2||
+2|P1 Biologie colle 2|P1_ue2_colle2|P1_ue2||
+1|P1 Biologie colle 1|P1_ue2_colle1|P1_ue2||
+0|P1 Biologie colle 0|P1_ue2_colle0|P1_ue2||
+3|P1 Chimie-organique et biochimie colle 3|P1_ue1_chimieOrganique_colle3|P1_ue1||
+2|P1 Chimie-organique et biochimie colle 2|P1_ue1_chimieOrganique_colle2|P1_ue1||
+1|P1 Chimie-organique et biochimie colle 1|P1_ue1_chimieOrganique_colle1|P1_ue1||
+6|P1 Chimie-organique et biochimie colle 6|P1_ue1_biochimie_colle6|P1_ue1||
+5|P1 Chimie-organique et biochimie colle 5|P1_ue1_biochimie_colle5|P1_ue1||
+4|P1 Chimie-organique et biochimie colle 4|P1_ue1_biochimie_colle4|P1_ue1||
+3|P1 Chimie-organique et biochimie colle 3|P1_ue1_biochimie_colle3|P1_ue1||
+2|P1 Chimie-organique et biochimie colle 2|P1_ue1_biochimie_colle2|P1_ue1||
+1|P1 Chimie-organique et biochimie colle 1|P1_ue1_biochimie_colle1|P1_ue1||
+1|P1 schema|P1_ue5_schema|P1_ue5||
+1|P1 Pharmacologie Vrai/Faux|P1_ue6_VF1|P1_ue6||
+1|P1 Anatomie|P1_ue5_anatomie_redac1|P1_ue5||
+1|P1 Histoire de la medecine et de la biologie vegetale Redaction|P1_ue7_redac1|P1_ue7||
+1|P1 question redactionnelle 1|P1_qroc_colle1|P1_qroc||
+2|P1 question redactionnelle 2|P1_qroc_colle2|P1_qroc||
+3|P1 question redactionnelle 3|P1_qroc_colle3|P1_qroc||
+4|P1 question redactionnelle 4|P1_qroc_colle4|P1_qroc||
+5|P1 question redactionnelle 5|P1_qroc_colle5|P1_qroc||
+6|P1 question redactionnelle 6|P1_qroc_colle6|P1_qroc||
+7|P1 question redactionnelle 7|P1_qroc_colle7|P1_qroc||
+1|P1 ue2 Biologie Annales |UE2A0701|P1_ue2||

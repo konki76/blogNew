@@ -122,6 +122,21 @@ class pGrpRepository extends EntityRepository
 			//->getSingleScalarResult();
 	}
 	
+	public function findAllByGrpSlug($grpSlug)
+	{
+	    return $this
+            ->createQueryBuilder('p')
+			->join('p.qcm', 'ps')
+			->addSelect('ps')
+//            ->select('p.post')
+            ->where('p.grpSlug = :grpSlug')->setParameter('grpSlug', $grpSlug)
+           // ->orderBy('p.publishedAt', 'DESC')
+           // ->setMaxResults($limit)
+		   //->getScalarResult();
+            ->getQuery()
+            ->getResult();	
+	}
+	
 	public function resultByGrpId($pgrpId)
 	{
 	

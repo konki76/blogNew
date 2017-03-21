@@ -12,16 +12,15 @@
 		<div class="container">
 			<div class="navbar-header">
 				<a class="navbar-brand" href="{{ path('homepage') }}">
-					Médecine - QCM
+					xTarget
 				</a>
-
 				<button type="button" class="navbar-toggle"
 						data-toggle="collapse"
 						data-target=".navbar-collapse">
 					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar">nav1</span>
+					<!--span class="icon-bar">nav1</span>
 					<span class="icon-bar">nav2</span>
-					<span class="icon-bar">nav3</span>
+					<span class="icon-bar">nav3</span-->
 				</button>
 			</div>
 			<div class="navbar-collapse collapse">
@@ -29,19 +28,24 @@
 					{% block header_navigation_links %}
 						<li>
 							<a href="{{ path('blog_index') }}">
-								<i class="fa fa-home"></i> Homepage
+								<i class="fa fa-home"></i> Home page
 							</a>
 						</li>
+
+						{% if app.user %}
+						{% else %}
 						<li>
-							<a href="{{ path('fos_user_security_login') }}">
-								<i class="fa fa-home"></i> Se connecter
+								<a href="{{ path('fos_user_security_login') }}">
+								<i class="fa fa-home"></i> Connexion
 							</a>
 						</li>
-						<li>
+						{% endif %}
+
+						<!--li>
 							<a href="{{ path('fos_user_registration_register') }}">
 								<i class="fa fa-home"></i> S'enregistrer
 							</a>
-						</li>									
+						</li!-->									
 						
 						{# The 'app.user' condition is required to avoid issues in 404 and 500 error pages
 						   As routing is done before security, error pages are not covered by any firewall.
@@ -95,122 +99,42 @@
 
 {% block body %}
 
+	{% for post in posts %}
+        <article class="post">
+            <h2>
+                <a href="{{ path('blog_post', { id: post.id }) }}">
+                    {{ post.title }}
+                </a>
+            </h2>
+			
+			{{ post.summary }}
+						
+			<div class="well">
+			{{ post.content }}
+			</div>
+			
+        </article>
+    {% endfor %}
 
-
-    <div class="page-header">
-        <h1>QCM médecine</h1>
-		Accéder à votre espace d'<strong>Unité d'Enseignement</strong>
-    </div>
-	
     <div class="row">
-        <div class="col-md-3">
-            <div class="jumbotron">
-                <p>
-                    <strong> UE 1 </strong>
-                </p>
-				Chimie-organique et biochimie
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_index') }}">
-                        <i class="fa fa-users"></i> UE 1
-                    </a>
-                </p>
-            </div>
-        </div>
-		
+{% for ue in ues %}
 		<div class="col-md-3">
             <div class="jumbotron">
-                <p>
-                     <strong> UE 2 </strong>
-                </p>
-				Biologie
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_index') }}">
-                        <i class="fa fa-users"></i> UE 2
-                    </a>
-                </p>
-				<br/>
+				<!--strong>Engagement</strong><br/><br/-->
+				<a class="btn btn-primary btn-lg" href="{{ path('blog_uePage', { slug: ue.slug }) }}">
+				<i class="fa fa-users"> {{ue.title}} </i>
+				</a>
             </div>
         </div>
-		
-		<div class="col-md-3">
+{% endfor %}
+
+		<!--div class="col-md-3">
             <div class="jumbotron">
-                <p>
-                     <strong> UE 3 </strong>
-                </p>
-				Physique
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue3' }) }}">
-                        <i class="fa fa-users"></i> UE 3
-                    </a>
-                </p>
-				<br/>
+				<strong>Contexte</strong><br/><br/>
+				<a class="btn btn-primary btn-lg" href="{{ path('blog_uePage', { 'slug': 'P1_ue4' }) }}">
+				<i class="fa fa-users"> UE 4</i> 
+				</a>
             </div>
         </div>
-		<div class="col-md-3">
-            <div class="jumbotron">
-                <p>
-                     <strong> UE 4 </strong>
-                </p>
- 			    Statistiques
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue4' }) }}">
-                        <i class="fa fa-users"></i> UE 4
-                    </a>
-                </p>
-				<br/>
-            </div>
-        </div>
-		<div class="col-md-3">
-            <div class="jumbotron">
-                <p>
-                     <strong> UE 5 </strong>
-                </p>
-				Anatomie
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue5' }) }}">
-                        <i class="fa fa-users"></i> UE 5
-                    </a>
-                </p>
-            </div>
-        </div>
-		<div class="col-md-3">
-            <div class="jumbotron">
-                <p>
-                     <strong> UE 6 </strong>
-                </p>
-				Pharmacologie
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue6' }) }}">
-                        <i class="fa fa-users"></i> UE 6
-                    </a>
-                </p>
-            </div>
-        </div>
-		<div class="col-md-3">
-            <div>
-                <p>
-                     <strong> UE 7 </strong>
-                </p>
-				Histoire de la médecine et de la biologie végétale
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ue7' }) }}">
-                        <i class="fa fa-users"></i> UE 7
-                    </a>
-                </p>
-            </div>
-        </div>
-		<div class="col-md-3">
-            <div class="jumbotron">
-                <p>
-                     <strong> UE MOFSK </strong>
-                </p>
-				Odontologie, sage-femme, kiné
-                <p>
-                    <a class="btn btn-primary btn-lg" href="{{ path('blog_grpPage', { 'slug': 'ueMOFSK' }) }}">
-                        <i class="fa fa-users"></i> UE MOFSK
-                    </a>
-                </p>
-            </div>
-        </div>
-    </div>
+    </div-->
 {% endblock %}

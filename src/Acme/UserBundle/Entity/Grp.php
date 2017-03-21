@@ -63,6 +63,35 @@ class Grp
      * @ORM\Column(type="string")
      */
     private $slug;
+    
+	/**
+     * @ORM\GeneratedValue
+     * @ORM\Column(type="integer")
+     */
+    private $ordre;
+	public function getOrdre()
+    {
+        return $this->ordre;
+    }
+
+    public function setOrdre($ordre)
+    {
+        $this->ordre = $ordre;
+    }
+	
+    /**
+     * @ORM\Column(type="string")
+     */
+    private $ue;
+	public function getUe()
+    {
+        return $this->ue;
+    }
+
+    public function setUe($ue)
+    {
+        $this->ue = $ue;
+    }
 	
     /**
      * @ORM\Column(type="text")
@@ -83,6 +112,9 @@ class Grp
         $this->startContent = $startContent;
     }
 
+	
+	
+	
     /**
      * @ORM\Column(type="text")
      * @Assert\Length(

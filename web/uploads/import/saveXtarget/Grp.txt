@@ -1,0 +1,10 @@
+ordre|title|slug|ue|startContent|endContent
+3|Action|action|masculin||
+2|Aborder|aboder|masculin||
+1|Déterminer|determiner|masculin||
+6|Fidéliser|fideliser|engagement||
+5|Impliquer|impliquer|engagement||
+6|L'environnement|environnement|contexte||
+5|Logistique|logistique|contexte||
+6|Evolution|evolution|progression||
+5|Changement|changement|progression||

@@ -32,9 +32,10 @@ class pGrpType extends AbstractType
         // for the full reference of options defined by each form field type
         // see http://symfony.com/doc/current/reference/forms/types.html
         $builder
-            ->add('title')
 			->add('grp')
-			->add('post')
+			->add('grpSlug')
+			->add('qcm')
+			->add('qcmSlug')
             ->add('publishedAt', 'datetime', array('widget' => 'single_text',))
         ;
     }
@@ -54,6 +55,6 @@ class pGrpType extends AbstractType
      */
     public function getName()
     {
-        return 'post';
+        return 'pGrp';
     }
 }

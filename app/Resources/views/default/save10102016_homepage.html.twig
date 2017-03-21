@@ -1,0 +1,175 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'homepage' %}
+
+{#
+    the homepage is a special page which displays neither a header nor a footer.
+    this is done with the 'trick' of defining empty Twig blocks without any content
+#}
+{% block header %}
+<header>
+	<div class="navbar navbar-default navbar-static-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="{{ path('homepage') }}">
+					xTarget
+				</a>
+				<button type="button" class="navbar-toggle"
+						data-toggle="collapse"
+						data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<!--span class="icon-bar">nav1</span>
+					<span class="icon-bar">nav2</span>
+					<span class="icon-bar">nav3</span-->
+				</button>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right">
+					{% block header_navigation_links %}
+						<li>
+							<a href="{{ path('blog_index') }}">
+								<i class="fa fa-home"></i> Home page
+							</a>
+						</li>
+
+						{% if app.user %}
+						{% else %}
+						<li>
+								<a href="{{ path('fos_user_security_login') }}">
+								<i class="fa fa-home"></i> Connexion
+							</a>
+						</li>
+						{% endif %}
+
+						<!--li>
+							<a href="{{ path('fos_user_registration_register') }}">
+								<i class="fa fa-home"></i> S'enregistrer
+							</a>
+						</li!-->									
+						
+						{# The 'app.user' condition is required to avoid issues in 404 and 500 error pages
+						   As routing is done before security, error pages are not covered by any firewall.
+						   This means you can't use is_granted() directly on these pages.
+						   See http://symfony.com/doc/current/cookbook/security/form_login_setup.html#avoid-common-pitfalls
+						#}
+						{% if app.user and is_granted('ROLE_ADMIN') %}
+							<li>
+								<a href="{{ path('admin_post_index') }}">
+									<i class="fa fa-lock"></i> Backend
+								</a>
+							</li>
+						{% endif %}
+					{% endblock %}
+
+					{% if app.user %}
+						<li>
+							<a href="{{ path('fos_user_security_logout') }}">
+								<i class="fa fa-sign-out"></i> Logout
+							</a>
+						</li>
+					{% endif %}
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+{% endblock %}
+{% block footer %}
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div id="footer-copyright" class="col-md-6">
+					<p>&copy; {{ 'now'|date('Y') }} - The Poncho Project - MIT License</p>
+					<p>
+						<a href="{{ path('admin_index') }}">
+							<i class="fa fa-lock"></i> Backend
+						</a>
+					</p>
+				</div>
+				<div id="footer-resources" class="col-md-6">
+					<p>
+						<a href="https://twitter.com/poncho"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/Poncho"><i class="fa fa-facebook"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+{% endblock %}
+
+{% block body %}
+
+	{% for post in posts %}
+        <article class="post">
+            <h2>
+                <a href="{{ path('blog_post', { id: post.id }) }}">
+                    {{ post.title }}
+                </a>
+            </h2>
+			
+			{{ post.summary }}
+						
+			<div class="well">
+			{{ post.content }}
+			</div>
+			
+			<h3>{{ post.comments|length }} commentaires.</h3>
+			{% for comment in post.comments %}
+				<div class="row post-comment">
+					<h4 class="col-sm-3">
+						<strong>{-{ comment.authorEmail }}</strong>
+						<strong>{-{ comment.publishedAt|date('M jS \\a\\t g:i a') }}</strong>
+					</h4>
+					<div class="col-sm-9">
+						{{ comment.content }} //md2html ko
+					</div>
+				</div>
+			{% else %}
+				<div class="post-comment">
+				</div>
+			{% endfor %}
+
+			<div id="post-add-comment" class="well">
+[{{post.id}}]			
+			{# The 'IS_AUTHENTICATED_FULLY' role ensures that the user has entered
+				his/her credentials (login + password) during this session. If he/she
+				is automatically logged via the 'Remember Me' functionality, he/she won't
+				be able to add a comment.
+				See http://symfony.com/doc/current/cookbook/security/remember_me.html#forcing-the-user-to-re-authenticate-before-accessing-certain-resources
+				#}
+				{% if is_granted('IS_AUTHENTICATED_FULLY') %}
+					{{ render(controller('AcmeUserBundle:Blog:commentForm', { 'post': post })) }}
+				{% else %}
+					<p>
+						<a class="btn btn-success" href="{{ path('fos_user_security_login') }}">
+							<i class="fa fa-sign-in"></i> Se connecter 
+						</a>
+						pour ajouter un commentaire.
+					</p>
+				{% endif %}
+			</div>
+        </article>
+    {% endfor %}
+
+    <div class="row">
+{% for ue in ues %}
+		<div class="col-md-3">
+            <div class="jumbotron">
+				<!--strong>Engagement</strong><br/><br/-->
+				<a class="btn btn-primary btn-lg" href="{{ path('blog_uePage', { slug: ue.slug }) }}">
+				<i class="fa fa-users"> {{ue.title}} </i>
+				</a>
+            </div>
+        </div>
+{% endfor %}
+
+		<!--div class="col-md-3">
+            <div class="jumbotron">
+				<strong>Contexte</strong><br/><br/>
+				<a class="btn btn-primary btn-lg" href="{{ path('blog_uePage', { 'slug': 'P1_ue4' }) }}">
+				<i class="fa fa-users"> UE 4</i> 
+				</a>
+            </div>
+        </div>
+    </div-->
+{% endblock %}

@@ -1,0 +1,18 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+
+    <h2>{{ skill.title }}</h2>
+	<p>{{ skill.startContent }}</p>
+	<br/><br/>
+Liste des questions :<br/>
+
+
+
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+{% endblock %}

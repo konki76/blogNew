@@ -1,0 +1,129 @@
+labelAnswer|title|slug|answer|commentAnswer|summary|content|authorEmail|||
+B. Les caract&eacute;ristiques biochimiques, structurelles et physiques des glucides sont tr&egrave;s diff&eacute;rentes.|18. Caract&eacute;ristiques des glucides :|UE1T120218|FAUX|B. Faux : Caract&eacute;ristiques comparables||||||
+C. Les glucides sont tous des mol&eacute;cules organiques.|18. Caract&eacute;ristiques des glucides :|UE1T120218|VRAI|||||||
+D. Les glucides poss&egrave;dent une seule fonction ald&eacute;hyde, c&eacute;tone ou alcool.|18. Caract&eacute;ristiques des glucides :|UE1T120218|FAUX|D. Faux : Fonction ald&eacute;hyde ou c&eacute;tone + groupements hydroxyles||||||
+E. Les glucides sont hydrosolubles.|18. Caract&eacute;ristiques des glucides :|UE1T120218|VRAI|||||||
+A. Le glycerald&eacute;hyde est un aldotriose.|19. G&eacute;n&eacute;ralit&eacute;s concernant les monosaccharides :|UE1T120219|VRAI|||||||
+B. L'oxydation du glycerald&eacute;hyde forme un des constituants des triglyc&eacute;rides.|19. G&eacute;n&eacute;ralit&eacute;s concernant les monosaccharides :|UE1T120219|FAUX|B. Faux : glycerald&eacute;hyde &iuml;�� glyc&eacute;rol (reduction).||||||
+C. Il y a du fructose dans les l&eacute;gumes.|19. G&eacute;n&eacute;ralit&eacute;s concernant les monosaccharides :|UE1T120219|VRAI|||||||
+D. Dans le glucose, une fonction alcool primaire est situ&eacute;e au niveau du carbone num&eacute;ro six.|19. G&eacute;n&eacute;ralit&eacute;s concernant les monosaccharides :|UE1T120219|VRAI|||||||
+E. La fonction c&eacute;tone du glucose est situ&eacute;e au niveau de son carbone num&eacute;ro deux.|19. G&eacute;n&eacute;ralit&eacute;s concernant les monosaccharides :|UE1T120219|FAUX|E. Faux : Ne poss&egrave;de pas de fonction c&eacute;tone ; seulement une fonction ald&eacute;hyde, au niveau de C1.||||||
+A. Le carbone qui d&eacute;termine la s&eacute;rie &agrave; laquelle appartient le glucide est celui qui porte la fonction alcool primaire.|20. Isom&egrave;res des glucides :|UE1T120220|FAUX|A. Faux : Le C pr&eacute;c&eacute;dant la fonction OH primaire permet de d&eacute;terminer la s&eacute;rie.||||||
+B. La projection de Fischer permet de d&eacute;terminer la s&eacute;rie &agrave; laquelle appartient un glucide.|20. Isom&egrave;res des glucides :|UE1T120220|VRAI|||||||
+C. Il existe une &eacute;troite correspondance entre la s&eacute;rie et le sens de d&eacute;viation de la lumi&egrave;re polaris&eacute;e.|20. Isom&egrave;res des glucides :|UE1T120220|FAUX|C. Faux : Corr&eacute;lation exceptionnelle pour le glycerald&eacute;hyde.||||||
+D. Le mannose est un &eacute;pim&egrave;re en C2 du glucose.|20. Isom&egrave;res des glucides :|UE1T120220|VRAI|||||||
+E. Le D-ribose et le D-fructose sont &eacute;pim&egrave;res en trois.|20. Isom&egrave;res des glucides :|UE1T120220|FAUX|E. Faux : Le ribose est un aldopentose ; le fructose est un c&eacute;tohexose.||||||
+A. Apr&egrave;s cristallisation d'une solution aqueuse de D-glucose, on observe des glucides sous trois formes spatiales.|21. Cyclisation des oses :|UE1T120221|VRAI|A. Vrai : Lin&eacute;aire, anom&egrave;re α, anom&egrave;re β.||||||
+B. Les glucides sont majoritairement sous forme lin&eacute;aire &agrave; l'&eacute;tat naturel.|21. Cyclisation des oses :|UE1T120221|FAUX|B. Faux : 98% cyclique.||||||
+C. La cyclisation se fait par r&eacute;action intraglucidique entre la fonction ald&eacute;hyde ou c&eacute;tone et un groupement hydroxyle.|21. Cyclisation des oses :|UE1T120221|VRAI|||||||
+D. Chez les glucides, la forme cyclique pr&eacute;sente des avantages structuraux, elle est stable; la r&eacute;action &agrave; l'origine de la cyclisation est en g&eacute;n&eacute;ral irr&eacute;versible.|21. Cyclisation des oses :|UE1T120221|FAUX|D. Faux : r&eacute;action r&eacute;versible.||||||
+E. Le glucose se cyclise sous forme pyranose.|21. Cyclisation des oses :|UE1T120221|VRAI|||||||
+A. La phosphorylation du glucose se fait majoritairement sur la fonction alcool primaire.|22. Propri&eacute;t&eacute;s des oses :|UE1T120222|VRAI|A. Vrai : Mais pas pour tous les oses ; ex. : fructose-1-prosphate.||||||
+B. Les glycosaminoglycanes sont compos&eacute;s de sucres dont la fonction ald&eacute;hyde ou c&eacute;tone a &eacute;t&eacute; remplac&eacute;e par une fonction amine.|22. Propri&eacute;t&eacute;s des oses :|UE1T120222|FAUX|B. Faux :OH remplac&eacute; par NH2.||||||
+C. Le N-acetyl-β-D-glucosamine est un sucre que l'on retrouve chez les bact&eacute;ries.|22. Propri&eacute;t&eacute;s des oses :|UE1T120222|VRAI|C. Vrai : enveloppe||||||
+D. L'acide sialique est produit par est&eacute;rification du produit d'addition entre une mannosamine et du pyruvate.|22. Propri&eacute;t&eacute;s des oses :|UE1T120222|FAUX|D. Faux : mannosamine + ac. neuraminique = ac. sialique.||||||
+E. Le sorbitol, laxatif retrouv&eacute; dans les pruneaux, est issu de la r&eacute;duction du D-glucose.|22. Propri&eacute;t&eacute;s des oses :|UE1T120222|VRAI|||||||
+A. Les oses peuvent &ecirc;tre r&eacute;duits, mais aussi oxyd&eacute;s.|23. Propri&eacute;t&eacute;s des oses – suite :|UE1T120223|VRAI|||||||
+B. L'oxydation douce s'effectue sur la fonction alcool primaire.|23. Propri&eacute;t&eacute;s des oses – suite :|UE1T120223|FAUX|B. Faux : oxydation douce => ald&eacute;hyde <br>oxydation forte => OH primaire.||||||
+C. L'acide glucuronique est issu d'une oxydation douce.|23. Propri&eacute;t&eacute;s des oses – suite :|UE1T120223|FAUX|C. Faux : Forte.<br>c6 uronique||||||
+D. La pr&eacute;sence de sucre dans les urines se traduit par une coloration rouge par la liqueur de Fehling.|23. Propri&eacute;t&eacute;s des oses – suite :|UE1T120223|VRAI|||||||
+E. La r&eacute;action entre la fonction ald&eacute;hyde d'un sucre et la fonction amine d'un autre sucre produit une base de Schiff.|23. Propri&eacute;t&eacute;s des oses – suite :|UE1T120223|FAUX|E. Faux : R&eacute;action avec la fonction amine d'un AA.||||||
+A. Pour qu'un diholoside soit r&eacute;ducteur, il faut que la fonction semi-ac&eacute;talique d'un des deux oses soit libre.|24. Diholosides :|UE1T120224|VRAI|||||||
+B. L'amylase est une enzyme qui hydrolyse l'amidon.|24. Diholosides :|UE1T120224|VRAI|||||||
+C. Le saccharose n'est pas r&eacute;ducteur.|24. Diholosides :|UE1T120224|VRAI|||||||
+D. Les mucilages sont des h&eacute;t&eacute;rosides.|24. Diholosides :|UE1T120224|FAUX|D. Faux : H&eacute;t&eacute;ropolyosides.||||||
+E. Le maltose comporte du fructose.|24. Diholosides :|UE1T120224|FAUX|E. Faux : glucose + galactose = lactose.<br>glucose + glucose = maltose||||||
+A. Le maltose poss&egrave;de une liaison β-1,4.|25. Polyosides :|UE1T120225|FAUX|A. Faux : α-1,4.||||||
+B. L'amidon, la cellulose, le glycog&egrave;ne, les dextranes, la chitine et les pectines sont des homopolyosides form&eacute;s uniquement de glucose.|25. Polyosides :|UE1T120225|FAUX|B. Faux : Chitine – N-ac&eacute;tyl-glucosamine ; pectines – ac. uronique.||||||
+C. Dans l'amidon et le glycog&egrave;ne, les ramifications se font par des liaisons α-1,6.|25. Polyosides :|UE1T120225|VRAI|||||||
+D. Le glycog&egrave;ne et l'amidon sont hydrolys&eacute;s par des enzymes salivaires et du pancr&eacute;as.|25. Polyosides :|UE1T120225|VRAI|||||||
+E. L'α-galactosidase hydrolyse le lactose.|25. Polyosides :|UE1T120225|FAUX|E. Faux : β-galactosidase.||||||
+A. L'est&eacute;rification in vivo est spontan&eacute;e.|26. Lipides simples :|UE1T120226|FAUX|A. Faux : Elle n&eacute;cessite des enzymes.||||||
+B. Les DAGs sont form&eacute;s par est&eacute;rification du glyc&eacute;rol avec des acides gras.|26. Lipides simples :|UE1T120226|VRAI|||||||
+C. Les triglyc&eacute;rides sont hydrophiles.|26. Lipides simples :|UE1T120226|FAUX|C. Faux : Ils sont hydrophobes et constituent la r&eacute;serve en lipides.||||||
+D. L'acide gras r&eacute;agit avec le cycle &agrave; cinq carbones du cholest&eacute;rol pour former les st&eacute;rides.|26. Lipides simples :|UE1T120226|FAUX|D. Faux : l'AG r&eacute;agit avec le groupement hydroxyle du premier cycle. Tous les cycles du cholest&eacute;rol poss&egrave;dent six carbones sauf le dernier qui en poss&egrave;de cinq.||||||
+E. Le cholest&eacute;rol est pr&eacute;curseur des hormones st&eacute;ro&iuml;des.|26. Lipides simples :|UE1T120226|VRAI|||||||
+A. La phosphatidyl-choline est majoritairement pr&eacute;sente dans la membrane externe.|27. Localisation des lipides :|UE1T120227|VRAI|||||||
+B. Les glycolipides sont majoritairement pr&eacute;sents dans la membrane interne.|27. Localisation des lipides :|UE1T120227|FAUX|B. Faux : Surtout dans la membrane externe.||||||
+C. La sphingomy&eacute;line est majoritairement pr&eacute;sente dans la membrane externe.|27. Localisation des lipides :|UE1T120227|VRAI|||||||
+D. La phosphatidyl-&eacute;thanolamine est majoritairement pr&eacute;sente dans la membrane interne.|27. Localisation des lipides :|UE1T120227|VRAI|||||||
+E. Le cholest&eacute;rol est majoritairement pr&eacute;sent dans la membrane externe.|27. Localisation des lipides :|UE1T120227|FAUX|E. Faux : Sur les deux faces. mn&eacute;motechnique : les lipides du feuillet interne de la membrane forment le mot PEPSI : PhosphatidylEthanolamine, phosphatiylS&eacute;rine et phosphatidylInositol.||||||
+A. Les glucides sont des mol&eacute;cules organiques.|33. Concernant les caract&eacute;ristiques des Glucides:|UE1T110233|VRAI|||||||
+B. Les glucides comportent une fonction ald&eacute;hyde ou carboxyle.|33. Concernant les caract&eacute;ristiques des Glucides:|UE1T110233|FAUX|B. Faux : ald&eacute;hyde ou c&eacute;tone||||||
+C. Les glucides sont aussi appel&eacute;s « hydrates de carbone ».|33. Concernant les caract&eacute;ristiques des Glucides:|UE1T110233|VRAI|||||||
+D. Les glucides sont hydrophiles.|33. Concernant les caract&eacute;ristiques des Glucides:|UE1T110233|VRAI|||||||
+E. Les glucides sont engag&eacute;s dans une liaison osidique de fa&ccedil;on syst&eacute;matique.|33. Concernant les caract&eacute;ristiques des Glucides:|UE1T110233|FAUX|E. Faux : ils existent sous forme de monosaccharides||||||
+A. Les glucides sont s&eacute;par&eacute;s en oses et osides.|34. Concernant la classification des Glucides:|UE1T110234|VRAI|||||||
+B. Les glucides sont s&eacute;par&eacute;s en monosaccharides et polysaccharides.|34. Concernant la classification des Glucides:|UE1T110234|VRAI|||||||
+C. Les aldoses sont des oses r&eacute;ducteurs.|34. Concernant la classification des Glucides:|UE1T110234|VRAI|||||||
+D. Les c&eacute;toses ont un pouvoir r&eacute;ducteur inf&eacute;rieur aux aldoses.|34. Concernant la classification des Glucides:|UE1T110234|VRAI|||||||
+E. Les polysaccharides ne sont jamais r&eacute;ducteurs.|34. Concernant la classification des Glucides:|UE1T110234|FAUX|E. Faux : les polysaccharides sont r&eacute;ducteurs s'ils poss&egrave;dent une fonction h&eacute;miac&eacute;tal libre, ex: lactose||||||
+A. L'hydrolyse compl&egrave;te d'un h&eacute;t&eacute;ropolyoside lib&egrave;re des h&eacute;t&eacute;rosides.|35. Concernant la classification des Glucides:|UE1T110235|FAUX|A. Faux : son hydrolyse lib&egrave;re des monosaccharides de types diff&eacute;rents.||||||
+B. L'hydrolyse compl&egrave;te d'un homopolyoside lib&egrave;re des holosides.|35. Concernant la classification des Glucides:|UE1T110235|FAUX|B. Faux : son hydrolyse lib&egrave;re des monosaccharides identiques||||||
+C. Les homopolyosides et h&eacute;t&eacute;ropolyosides sont une sous-classe d'holosides.|35. Concernant la classification des Glucides:|UE1T110235|VRAI|||||||
+D. Les homopolyosides et h&eacute;t&eacute;ropolyosides sont une sous-classe d'h&eacute;t&eacute;rosides.|35. Concernant la classification des Glucides:|UE1T110235|FAUX|D. Faux : sous-classe d'holoside||||||
+A. Le glyc&eacute;rald&eacute;hyde comporte 6 carbones.|36. Concernant les Monosaccharides:|UE1T110236|FAUX|A. Faux : 3 carbones||||||
+B. Le fructose comporte 5 carbones.|36. Concernant les Monosaccharides:|UE1T110236|FAUX|B. Faux : 6 carbones||||||
+C. Le fructose est un aldohexose. |36. Concernant les Monosaccharides:|UE1T1102|FAUX|C. Faux : c&eacute;tohexose||||||
+D. Le glucose est un aldohexose.&nbsp;|36. Concernant les Monosaccharides:|UE1T110236|VRAI|||||||
+E. Le fructose est un c&eacute;tohexose.|36. Concernant les Monosaccharides:|UE1T110236|VRAI|||||||
+A. Les c&eacute;toses poss&egrave;dent une seule fonction alcool primaire.|37. Concernant les Monosaccharides:|UE1T110237|FAUX|A. Faux : la position en C2 de la fonction c&eacute;tone laisse un alcool primaire en C1 et C6 soit 2 alcools primaires||||||
+B. Les aldoses poss&egrave;dent une seule fonction alcool primaire.|37. Concernant les Monosaccharides:|UE1T110237|VRAI|||||||
+C. Le carbone 1 d'un monosaccharide porte toujours la fonction carbonyle.|37. Concernant les Monosaccharides:|UE1T110237|FAUX|C. Faux : la fonction carbonyle d'un c&eacute;tose est port&eacute;e en C2||||||
+D. Les carbones d'un sucre sont toujours num&eacute;rot&eacute;s en commen&ccedil;ant par la fonction carbonyle.|37. Concernant les Monosaccharides:|UE1T110237|FAUX|D. Faux : les carbones d'un c&eacute;tose sont num&eacute;rot&eacute;s &agrave; partir du carbone portant un alcool primaire le plus pr&egrave;s de la fonction c&eacute;tone, pour les ald&eacute;hydes la proposition est vraie||||||
+E. Les fonctions alcool primaires ne se retrouvent qu'en C6.|37. Concernant les Monosaccharides:|UE1T110237|FAUX|E. Faux : cas des c&eacute;tones o&ugrave; il y en a un en C1||||||
+A. Un carbone asym&eacute;trique d&eacute;finit 2 formes isom&eacute;riques distinctes ou plus.|38. Concernant la configuration des Glucides:|UE1T110238|FAUX|A. Faux : 2 isom&egrave;res ni plus, ni moins||||||
+B. Les 2 st&eacute;r&eacute;oisom&egrave;res d'un carbone asym&eacute;trique sont en sym&eacute;trie par rapport &agrave; un axe.|38. Concernant la configuration des Glucides:|UE1T110238|FAUX|B. Faux : par rapport &agrave; un plan||||||
+C. Les 2 st&eacute;r&eacute;oisom&egrave;res d'un carbone asym&eacute;trique sont en sym&eacute;trie par rapport &agrave; un plan.|38. Concernant la configuration des Glucides:|UE1T110238|VRAI|||||||
+D. Les 2 st&eacute;r&eacute;oisom&egrave;res d'un carbone asym&eacute;trique sont en sym&eacute;trie par rapport &agrave; un point.|38. Concernant la configuration des Glucides:|UE1T110238|FAUX|D. Faux : par rapport &agrave; un plan||||||
+E. La structure D ou L des st&eacute;r&eacute;oisom&egrave;res sont d&eacute;termin&eacute;es par la position du carbonyle.|38. Concernant la configuration des Glucides:|UE1T110238|FAUX|E. Faux : par la position du carbone voisin du carbone qui porte l'OH primaire du glycerald&eacute;hyde, pour les autres sucres on se r&eacute;f&egrave;re au carbone Cmax-1||||||
+A. Les compos&eacute;s D d&eacute;vient la lumi&egrave;re.|39. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110239|VRAI|||||||
+B. Les compos&eacute;s L d&eacute;vient la lumi&egrave;re.|39. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110239|VRAI|||||||
+C. Les compos&eacute;s D d&eacute;vient la lumi&egrave;re &agrave; droite.|39. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110239|FAUX|C. Faux : aucun lien, peut &ecirc;tre droite ou gauche||||||
+D. Les compos&eacute;s L d&eacute;vient la lumi&egrave;re &agrave; droite.|39. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110239|FAUX|D. Faux : aucun lien, peut &ecirc;tre droite ou gauche||||||
+E. Tous les hexoses naturels sont de la s&eacute;rie D.|39. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110239|FAUX|E. Faux : LA PLUPART, pas la totalit&eacute;||||||
+A. Le glucose poss&egrave;de 8 isom&egrave;res.|40. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110240|VRAI|||||||
+B. Le glucose poss&egrave;de 8 st&eacute;r&eacute;oisom&egrave;res.|40. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110240|FAUX|B. Faux : 8 isom&egrave;res, 2 st&eacute;r&eacute;oisom&egrave;res par isom&egrave;re soit 16 st&eacute;r&eacute;oisom&egrave;res||||||
+C. Le glucose poss&egrave;de 16 isom&egrave;res.|40. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110240|FAUX|C. Faux : 8 donc 16 st&eacute;r&eacute;oisom&egrave;res||||||
+D. Le glucose poss&egrave;de 16 st&eacute;r&eacute;oisom&egrave;res.|40. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110240|VRAI|||||||
+E. Les aldohexoses les plus repr&eacute;sent&eacute;s dans le monde vivant sont: D-glucose, D-mannose et D-galactose.|40. Concernant les st&eacute;r&eacute;oisom&egrave;res:|UE1T110240|VRAI|||||||
+A. Des &eacute;pim&egrave;res ont une formule brute diff&eacute;rente.|41. Concernant les isom&egrave;res des oses:|UE1T110241|FAUX|A. Faux : seule la conformation spatiale diff&egrave;re||||||
+B. Des &eacute;pim&egrave;res ont une conformation spatiale diff&eacute;rente.|41. Concernant les isom&egrave;res des oses:|UE1T110241|VRAI|||||||
+C. Le ribose est un aldose.|41. Concernant les isom&egrave;res des oses:|UE1T110241|VRAI|||||||
+D. Le ribulose est un aldose.|41. Concernant les isom&egrave;res des oses:|UE1T110241|FAUX|D. Faux : c&eacute;tose, isom&egrave;re du ribose qui, lui, est un aldose||||||
+E. La dihydroxyac&eacute;tone porte sa fonction carbonyle sur son C1.|41. Concernant les isom&egrave;res des oses:|UE1T110241|FAUX|E. Faux : c'est un c&eacute;tose donc fonction c&eacute;tone en C2||||||
+A. La cyclisation est d&eacute;pendante de la pr&eacute;sence d'une fonction h&eacute;miac&eacute;tal ou c&eacute;tal hydroxyl.|42. Concernant la cyclisation des oses:|UE1T110242|VRAI|||||||
+B. La cyclisation est majoritaire chez les glucides de 4C ou plus.|42. Concernant la cyclisation des oses:|UE1T110242|FAUX|B. Faux : 5C ou plus||||||
+C. La cyclisation sert &agrave; rendre les h&eacute;miac&eacute;tals plus stables.|42. Concernant la cyclisation des oses:|UE1T110242|VRAI|||||||
+D. La cyclisation est syst&eacute;matiquement r&eacute;versible chez les monosaccharides.|42. Concernant la cyclisation des oses:|UE1T110242|VRAI|||||||
+E. La forme cyclique la plus stable du glucose est la forme pyranose.|42. Concernant la cyclisation des oses:|UE1T110242|VRAI|||||||
+A. L'anom&egrave;re alpha ou b&ecirc;ta r&eacute;sultant de la cyclisation d'un ose d&eacute;pend de sa configuration D ou L.|43. Concernant la cyclisation des oses:|UE1T110243|FAUX|A. Faux : aucun lien, un D peut donner un alpha ou b&ecirc;ta et un L aussi||||||
+B. La forme alpha ou b&ecirc;ta est importante pour la formation des liaisons entre monosaccharides.|43. Concernant la cyclisation des oses:|UE1T110243|VRAI|||||||
+C. La cyclisation en forme furane int&eacute;resse les aldose &agrave; 5C et les c&eacute;toses &agrave; 6C.|43. Concernant la cyclisation des oses:|UE1T110243|VRAI|||||||
+D. Le fructose cyclise en forme pyrane.|43. Concernant la cyclisation des oses:|UE1T110243|FAUX|D. Faux : c&eacute;tose &agrave; 6C donc furane||||||
+E. Le fructose cyclise en forme furane.|43. Concernant la cyclisation des oses:|UE1T110243|VRAI|||||||
+A. Les glucides peuvent &ecirc;tre substitu&eacute;s par l'acide phosphorique.|44. Concernant les modifications des oses:|UE1T110244|VRAI|||||||
+B. Les glucides peuvent &ecirc;tre substitu&eacute;s.|44. Concernant les modifications des oses:|UE1T110244|VRAI|||||||
+C. Les glucides peuvent &ecirc;tre r&eacute;duits.|44. Concernant les modifications des oses:|UE1T110244|VRAI|||||||
+D. Les glucides peuvent &ecirc;tre oxyd&eacute;s.|44. Concernant les modifications des oses:|UE1T110244|VRAI|||||||
+E. Les glucides peuvent former des bases de Schiff avec certaines prot&eacute;ines.|44. Concernant les modifications des oses:|UE1T110244|VRAI|||||||
+A. La phosphorylation est une r&eacute;action spontan&eacute;e.|45. Concernant les modifications des oses:|UE1T110245|FAUX|A. Faux : requiert une enzyme||||||
+B. La phosphorylation a une importance majeure dans le m&eacute;tabolisme des glucides.|45. Concernant les modifications des oses:|UE1T110245|VRAI|||||||
+C. La phosphorylation peut int&eacute;resser plusieurs fonctions alcool sur le m&ecirc;me glucide.|45. Concernant les modifications des oses:|UE1T110245|VRAI|||||||
+D. La phosphorylation ne se produit que sur des fonctions alcool primaires.|45. Concernant les modifications des oses:|UE1T110245|FAUX|D. Faux : possible sur des alcools secondaires, ex: fructose 2,6 bis phosphate||||||
+E. La phosphorylation peut se produire sur des alcools secondaires.|45. Concernant les modifications des oses:|UE1T110245|VRAI|||||||
+A. L'adjonction d'une amine sur un ose peut amener &agrave; la formation d'acides sialiques.|46. Concernant les modifications des oses:|UE1T110246|VRAI|||||||
+B. La r&eacute;duction du carbonyle en alcool donne des polyalcools parmi lesquels figurent des edulcorants.|46. Concernant les modifications des oses:|UE1T110246|VRAI|||||||
+C. La r&eacute;duction en polyols de trioses donne du glyc&eacute;rol.|46. Concernant les modifications des oses:|UE1T110246|VRAI|||||||
+D. Certains polyols participent &agrave; l'&eacute;laboration de lipides.|46. Concernant les modifications des oses:|UE1T110246|VRAI|||||||
+E. Les oses ont un fort pouvoir r&eacute;ducteur.|46. Concernant les modifications des oses:|UE1T110246|FAUX|E. Faux : leur pouvoir r&eacute;ducteur est faible||||||
+A. Un ose oxyd&eacute; en conditions douces donne un acide aldonique.|47. Concernant l'oxydation des oses:|UE1T110247|VRAI|||||||
+B. Un ose oxyd&eacute; en conditions douces donne un acide uronique.|47. Concernant l'oxydation des oses:|UE1T110247|FAUX|B. Faux : donne un acide aldonique||||||
+C. Un ald&eacute;hyde prot&eacute;g&eacute; pendant l'oxydation de l'ose donne un acide uronique.|47. Concernant l'oxydation des oses:|UE1T110247|VRAI|||||||
+D. Un ald&eacute;hyde prot&eacute;g&eacute; pendant l'oxydation de l'ose donne un acide aldonique.|47. Concernant l'oxydation des oses:|UE1T110247|FAUX|D. Faux : donne un acide uronique||||||
+E. Une c&eacute;tone prot&eacute;g&eacute;e pendant l'oxydation de l'ose donne un acide uronique.|47. Concernant l'oxydation des oses:|UE1T110247|FAUX|E. Faux : une c&eacute;tone est d&eacute;j&agrave; oxyd&eacute;e||||||
+A. Une oxydation en C1 donne un acide aldonique.|48. Concernant l'oxydation des oses:|UE1T110248|VRAI|||||||
+B. Une oxydation en C6 donne un acide aldonique.|48. Concernant l'oxydation des oses:|UE1T110248|FAUX|B. Faux : donne un acide uronique||||||
+C. L'h&eacute;parine est constitu&eacute;e d'osamines.|48. Concernant l'oxydation des oses:|UE1T110248|VRAI|||||||
+D. L'h&eacute;parine est constitu&eacute;e d'acides aldoniques.|48. Concernant l'oxydation des oses:|UE1T110248|FAUX|D. Faux : l'h&eacute;parine est constitu&eacute;e d'osamines et d'acides uroniques||||||
+E. L'h&eacute;parine est constitu&eacute;e d'acides uroniques.|48. Concernant l'oxydation des oses:|UE1T110248|VRAI|||||||

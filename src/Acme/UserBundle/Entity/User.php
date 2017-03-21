@@ -21,9 +21,6 @@ class User extends BaseUser
      */
     protected $id;
 
-
-
-   
     public function getId()
     {
         return $this->id;
@@ -82,6 +79,7 @@ class User extends BaseUser
     {
         parent::__construct();
         // your own logic
+		$this->skills = new ArrayCollection();
     }
 	
 	/**
@@ -110,4 +108,33 @@ class User extends BaseUser
         $this->firstname = $firstname;
     }
 	
+//	/**
+//	* @ORM\Column(name="coach", type="boolean", nullable=false)
+//	*/
+//	private $coach;
+//	public function getCoach()
+ //   {
+  //      return $this->coach;
+   // }
+//    public function setCoach($coach)
+ //   {
+  //      $this->coach = $coach;
+   // }
+
+     /**
+     * @ORM\OneToMany(
+     *      targetEntity="UserSkill",
+     *      mappedBy="user",
+     *      orphanRemoval=true
+     * )
+     * @ORM\OrderBy({"publishedAt" = "DESC"})
+     */
+    private $skills;
+	public function addSkill(Skill $skill)
+    {
+        $tag->addUser($this); // synchronously updating inverse side
+        $this->skills[] = $skill;
+    }
+
+   
 }

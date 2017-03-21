@@ -3,10 +3,10 @@
 {% block body_id 'blog_index' %}
 
 {% block main %}
-    {% for post in posts %}
+	{% for post in posts %}
         <article class="post">
             <h2>
-                <a href="{{ path('blog_post', { slug: post.slug }) }}">
+                <a href="{-{ path('blog_post', { slug: post.slug }) }-}">
                     {{ post.title }}
                 </a>
             </h2>
@@ -19,7 +19,7 @@
 
 	
 			{% if is_granted('IS_AUTHENTICATED_FULLY') %}
-				{{ render(controller('AcmeUserBundle:Blog:answerForm', { 'id': post.id })) }}
+				IS_AUTHENTICATED_FULLY{-{ render(controller('AcmeUserBundle:Blog:answerForm', { 'id': post.id })) }-}
 			{% else %}
 				<p>
 					<a class="btn btn-success" href="{{ path('fos_user_security_login') }}">

@@ -1,0 +1,461 @@
+A. Le domaine du visible se situe entre 400nm-700nm	6	UE3S110206	VRAI							segmo
+B. En dessous de 400 nm on parle d'infra rouge	6	UE3S110206	FAUX	B : UV						segmo
+C. La lumière est caractérisée par sa fréquence	6	UE3S110206	VRAI							segmo
+D. La vitesse de propagation de la lumière est la même quelque soit le milieu	6	UE3S110206	FAUX							segmo
+A. Les sources primaires sont soit des émissions thermiques soit des émissions quantiques	7	UE3S110207	VRAI							segmo
+B. Les émissions quantiques émettent un spectre continu	7	UE3S110207	FAUX	B : discontinue						segmo
+C. La lune est une source de lumière primaire	7	UE3S110207	FAUX	C : secondaire						segmo
+D. Une source primaire émet de la lumière	7	UE3S110207	VRAI							segmo
+E. Un objet vert absorbe les longueurs d'ondes dans le domaine du vert	7	UE3S110207	FAUX	E : réfléchie						segmo
+A. La cornée est responsable de 2/3 de la puissance de l'oeil	8) Concernant l'oeil	UE3S110208	VRAI							segmo
+B. Une malformation cornéenne peut être responsable d'un astigmatisme	8) Concernant l'oeil	UE3S110208	VRAI							segmo
+C. Le cristallin est une lentille biconcave	8) Concernant l'oeil	UE3S110208	FAUX	C : biconvexe						segmo
+D. La cataracte est une opacité de la cornée	8) Concernant l'oeil	UE3S110208	FAUX	D : cristallin						segmo
+E. Le vitré est composé majoritairement d'eau	8) Concernant l'oeil	UE3S110208	VRAI							segmo
+A. La rétine est composée de deux types de cellules sensorielles les cônes et les bâtonnets	9) Concernant la rétine	UE3S110209	VRAI							segmo
+B. La fovéa est l'endroit de naissance du nerf optique	9) Concernant la rétine	UE3S110209	FAUX	B : papille						segmo
+C. La papille est l'endroit où l'acuité visuelle est maximum	9) Concernant la rétine	UE3S110209	FAUX	C : fovea						segmo
+D. Pour transmettre l'information visuelle au nerf optique on a successivement :Cellules sensorielles/cellules bipolaires/ cellules ganglionnaires	9) Concernant la rétine	UE3S110209	VRAI							segmo
+E. Pour transmettre l'information visuelle au nerf optique on a successivement :Cellules sensorielles/cellules ganglionnaires/ cellules bipolaires	9) Concernant la rétine	UE3S110209	FAUX	sbg						segmo
+A. Un oeil emmétrope est un œil normal	10	UE3S110210	VRAI							segmo
+B. Pour un œil emmétrope le remotum se situe à l'infini	10	UE3S110210	VRAI							segmo
+C. L'augmentation de puissance de l'oeil grâce au cristallin permet de voir à l'infini	10	UE3S110210	FAUX	C : vision de prés						segmo
+D. Au proximum l'oeil est en accommodation maximale	10	UE3S110210	VRAI							segmo
+E. Pour accommoder le cristallin modifie uniquement son rayon de courbure	10	UE3S110210	FAUX							segmo
+A. Pour un oeil myope la rétine est en avant du plan focal image	11	UE3S110211	FAUX	A : en arrière						segmo
+B. Un oeil hypermétrope est un oeil trop peu convergent	11	UE3S110211	VRAI							segmo
+C. Chez le myope la presbytie se manifeste d'autant plus tôt que la myopie est importante	11	UE3S110211	FAUX	C : plus tard						segmo
+D. L'hypermétrope se corrige avec des verres convergents	11	UE3S110211	VRAI							segmo
+E. La myopie est une amétropie sphérique	11	UE3S110211	VRAI							segmo
+A. Les bâtonnets se situent plus en périphérie de la rétine	12	UE3S110212	VRAI							segmo
+B. Il y a plus de cônes que de bâtonnets	12	UE3S110212	FAUX							segmo
+C. Une illumination au rouge ne détruit pas l'adaptation car elle n'intéresse que les bâtonnets	12	UE3S110212	FAUX	C : une illumination au rouge n'intéresse que les cônes						segmo
+D. La vision scotopique est exclusivement due aux bâtonnets	12	UE3S110212	VRAI							segmo
+A. La rhodopsine est le pigment des bâtonnets	13	UE3S110213	VRAI							segmo
+B. L'héméralopie est une diminution du taux rétinien en rhodopsine qui peut être due a une carence en vit A	13	UE3S110213	VRAI							segmo
+C. Apres exposition à une lumière très intense nous ne pouvons pas récupérer 100%notre rhodopsine consommée.	13	UE3S110213	FAUX	C : on récupère toujours 100%						segmo
+D. Une exposition rapide à la lumière (type éclair) transforme la rhodopsine en rétinol + opsine	13	UE3S110213	FAUX	D : exposition rapide-, rhodopsine donne opsine + rétinal qui donne ensuite rétinol plus opsine						segmo
+E. La configuration spatiale de la rhodopsine reste inchangée sous l'effet de la lumière	13	UE3S110213	FAUX	E : changement de configuration cis trans						segmo
+A.De la luminance	14 La sensation lumineuse dépend de :	UE3S110214	VRAI							segmo
+B.De la puissance de la cornée	14 La sensation lumineuse dépend de :	UE3S110214	FAUX							segmo
+C.De la tonalite	14 La sensation lumineuse dépend de :	UE3S110214	VRAI							segmo
+D. De la saturation	14 La sensation lumineuse dépend de :	UE3S110214	VRAI							segmo
+E. De la forme du cristallin	14 La sensation lumineuse dépend de :	UE3S110214	FAUX							segmo
+A.En vision nocturne la sensation des couleurs est non perçue	15	UE3S110215	VRAI							segmo
+B.Selon les travaux de hecht après illumination à la lumière blanche les cônes ont une adaptation lente	15	UE3S110215	FAUX	B : cônes adaptation rapide et incomplète						segmo
+C.Une illumination au rouge stimule que les cônes et ne détruit donc pas l'adaptation	15	UE3S110215	VRAI							segmo
+D. Les courbes d'adaptation à l'obscurité sont identiques au niveau de la fovéa ou de la périphérie rétinienne après illumination à la lumière blanche	15	UE3S110215	FAUX							segmo
+E. Les cônes sont insensibles aux couleurs	15	UE3S110215	FAUX							segmo
+A.Les cônes permettent une vision scotopique	16	UE3S110216	FAUX	A : photopique<br>scotopique = dans le noir						segmo
+B.Les cônes regroupent 4 pigments différents	16	UE3S110216	FAUX	B : 3 pigments différents DI						segmo
+C.Le cyanolabe absorbe au maximum autour des longueurs d'ondes du bleu	16	UE3S110216	VRAI							segmo
+D. Le chlorolabe absorbe au maximum autour des longueurs d'onde du rouge	16	UE3S110216	FAUX	vert						segmo
+E. L'erytrolabe absorbe au maximum autour des longueurs d'onde du vert	16	UE3S110216	FAUX	E : cholorabe vert/ erythrolabe rouge						segmo
+A.Dans les monochromatopsies, les cônes sont absents ou non fonctionnels	17	UE3S110217	VRAI							segmo
+B.L'achromatopsie correspond à l'absence d'un pigment	17	UE3S110217	FAUX	B :Dichromatopsie						segmo
+C.Dans la monochromatopsie il existe une forte acuité visuelle	17	UE3S110217	FAUX	C : faible AV						segmo
+D. La deutéranopie correspond à une absence en chlorolabe	17	UE3S110217	VRAI							segmo
+E. Un sujet daltonien est aveugle au rouge	17	UE3S110217	VRAI							segmo
+A.La personne est aveugle aux trois couleurs	18 Concernant les trichropatopsies anormales	UE3S110218	FAUX	A: mélange des trois couleurs primaires mais dans des proportions différentes						segmo
+B.le sujet ne ressent pas toutes les sensations colorées	18 Concernant les trichropatopsies anormales	UE3S110218	FAUX							segmo
+E. La vision est trivariante	18 Concernant les trichropatopsies anormales	UE3S110218	VRAI							segmo
+A.L'acuité visuelle correspond à l'inverse du minimum séparable	19 Concernant l'acuité visuelle	UE3S110219	VRAI							segmo
+B.La forme géométrique et le facteur temps sont des variables principales pour l'acuité visuelle	19 Concernant l'acuité visuelle	UE3S110219	VRAI							segmo
+C.Si le contraste diminue, l'acuité visuelle augmente	19 Concernant l'acuité visuelle	UE3S110219	FAUX	C : si le contraste baisse l'AV baisse aussi						segmo
+D. L'acuité visuelle augmente' quand on s'éloigne de la fovéa	19 Concernant l'acuité visuelle	UE3S110219	FAUX	D : diminue						segmo
+E. La vision périphérique donne une perception floue des objets mais permet de percevoir leur mouvement	19 Concernant l'acuité visuelle	UE3S110219	VRAI							segmo
+A.La mobilité de l'oeil est assurée par 6 muscles	20	UE3S110220	VRAI							segmo
+B.Un nystagmus d'amplitude inférieure à 10 est pathologique	20	UE3S110220	FAUX	B : Nystaginus physiologique						segmo
+C.L'une des principales règles d'hygiène visuelle est d'assurer l'amétropie	20	UE3S110220	FAUX	C : emmétropie						segmo
+D. Le centre de coordination des mouvements des yeux sont les tubercules quadrijumeaux	20	UE3S110220	VRAI							segmo
+E. Quand il fixe l'oeil est immobile	20	UE3S110220	FAUX	E : oeil mobile quand il fixe, c'est le nystagmus physiologique						segmo
+A. il n'y a que 2 types de nucléons : les protons et les neutrons	21 Concernant l'atome	UE3S110221	VRAI							segmo
+B. Z représente le nombre de protons	21 Concernant l'atome	UE3S110221	VRAI							segmo
+"C. Deux atomes de même Z sont dits ""isotopes"""	21 Concernant l'atome	UE3S110221	VRAI							segmo
+D. Un isotope peut être stable ou radioactif	21 Concernant l'atome	UE3S110221	VRAI							segmo
+E. Deux atomes de même Z ont le même symbole chimique	21 Concernant l'atome	UE3S110221	VRAI							segmo
+A. N représente le nombre de neutrons	22 Concernant l'atome	UE3S110222	VRAI							segmo
+B. Le nombre de neutrons va être égal au nombre de protons	22 Concernant l'atome	UE3S110222	FAUX							segmo
+C. N = Z — A	22 Concernant l'atome	UE3S110222	FAUX	A - Z						segmo
+"D. Deux atomes de même N sont dits ""isotones"""	22 Concernant l'atome	UE3S110222	VRAI							segmo
+"E. Deux atomes de même N sont dits ""isobares"""	22 Concernant l'atome	UE3S110222	FAUX							segmo
+A. l'électron a une charge e = - 1,6.10-19 coulombs	23	UE3S110223	VRAI							segmo
+B. l'électron a une masse au repos supérieure que celle d'un proton	23	UE3S110223	FAUX							segmo
+C. le photon est une particule matérielle	23	UE3S110223	FAUX							segmo
+D. le proton correspond au noyau de l'atome de l'hydrogène	23	UE3S110223	VRAI							segmo
+E. le neutron est une particule légèrement chargée	23	UE3S110223	FAUX							segmo
+A. la fluorescence	26 Concernant les échanges d'énergie au niveau du cortex électronique, lesquels correspondent à un gain d'énergie	UE3S110226	FAUX							segmo
+B. l'ionisation	26 Concernant les échanges d'énergie au niveau du cortex électronique, lesquels correspondent à un gain d'énergie	UE3S110226	VRAI							segmo
+C. l'excitation	26 Concernant les échanges d'énergie au niveau du cortex électronique, lesquels correspondent à un gain d'énergie	UE3S110226	VRAI							segmo
+D. l'électron Auger	26 Concernant les échanges d'énergie au niveau du cortex électronique, lesquels correspondent à un gain d'énergie	UE3S110226	FAUX							segmo
+E. la transformation isotopique	26 Concernant les échanges d'énergie au niveau du cortex électronique, lesquels correspondent à un gain d'énergie	UE3S110226	FAUX							segmo
+A. les forces de liaison sont de nature électrique	27 Concernant les liaisons nucléaires	UE3S110227	FAUX							segmo
+B. l'énergie d'un noyau est très inférieure à celle de l'ensemble de ces constituants	27 Concernant les liaisons nucléaires	UE3S110227	VRAI							segmo
+C. l'énergie de liaison correspond à un défaut de masse : W = delta m.c2	27 Concernant les liaisons nucléaires	UE3S110227	VRAI							segmo
+E. plus cette énergie est élevée moins le noyau est stable	27 Concernant les liaisons nucléaires	UE3S110227	FAUX	E : plus l'énergie est élevée, plus le noyau est stable						segmo
+A. la fission concerne les noyaux lourds	28	UE3S110228	VRAI							segmo
+B. la fission dégage énormément d'énergie que l'on ne peut pas contrôler.	28	UE3S110228	FAUX	B : on peut la contrôler, c'est le principe des centrales nucléaires ;						segmo
+C. La fusion tout comme la fission a besoin d'une certaine quantité d'énergie pour être amorcée	28	UE3S110228	VRAI							segmo
+D. Le principe de la fusion est utilisé dans les centrales nucléaires	28	UE3S110228	FAUX	D : on ne maitrise pas la fusion						segmo
+E. Un atome stable (ou radioactif) subit en permanence des changements de la répartition interne de l'énergie de liaison	28	UE3S110228	VRAI							segmo
+A. correspond à l'émission d'un électron	32 La désintégration :	UE3S110232	VRAI							segmo
+B. correspond a l'émission d'un proton	32 La désintégration :	UE3S110232	FAUX							segmo
+C. est présente chez les noyaux ayant un excès de protons	32 La désintégration :	UE3S110232	FAUX	C : excès de neutrons						segmo
+D. la transformation engendrée est dite isobarique	32 La désintégration :	UE3S110232	VRAI							segmo
+E. l'électron expulsé provient du cortex	32 La désintégration :	UE3S110232	FAUX	E : provient de la désintégration d'un neutron en proton + électron						segmo
+A. B+, B- et a sont des particules chargées	33 Concernant les interactions rayonnement/matière :	UE3S110233	VRAI							segmo
+B. les particules chargées sont directement ionisantes	33 Concernant les interactions rayonnement/matière :	UE3S110233	VRAI							segmo
+C. le deutérium est une particule neutre qui est indirectement ionisante	33 Concernant les interactions rayonnement/matière :	UE3S110233	FAUX	C : le deutérium est une particule chargée						segmo
+D. les particules non chargées sont indirectement ionisante	33 Concernant les interactions rayonnement/matière :	UE3S110233	VRAI							segmo
+E. les ionisations peuvent produire des effets biologiques utiles en médecine	33 Concernant les interactions rayonnement/matière :	UE3S110233	VRAI							segmo
+A. c'est une interaction électron-matière	34 Concernant l'effet Compton	UE3S110234	FAUX	A : c'est une interaction photon-matière						segmo
+B. il est responsable d'une production de rayons X	34 Concernant l'effet Compton	UE3S110234	FAUX							segmo
+C. on a affaire toujours à un photon incident	34 Concernant l'effet Compton	UE3S110234	VRAI							segmo
+D. il existe toujours un photon diffusé	34 Concernant l'effet Compton	UE3S110234	VRAI							segmo
+E. il apparait surtout sur la couche électronique la plus interne	34 Concernant l'effet Compton	UE3S110234	FAUX	E : sur la couche externe						segmo
+A. effet Compton	35 Quelles sont les différentes interactions photons-matière :	UE3S110235	VRAI							segmo
+B. production de rayons X	35 Quelles sont les différentes interactions photons-matière :	UE3S110235	FAUX							segmo
+C. effet photo-électrique	35 Quelles sont les différentes interactions photons-matière :	UE3S110235	VRAI							segmo
+D. la matérialisation	35 Quelles sont les différentes interactions photons-matière :	UE3S110235	VRAI							segmo
+E. effet Thomson-Rayleigh	35 Quelles sont les différentes interactions photons-matière :	UE3S110235	VRAI							segmo
+A. le coefficient d'atténuation dépend de la nature du milieu et de l'énergie E	36 Concernant l'atténuation des photons :	UE3S110236	VRAI							segmo
+B. le nombre de photons varie avec la profondeur de la matière d'atténuation selon une fonction linéaire décroissante	36 Concernant l'atténuation des photons :	UE3S110236	FAUX	exponentiel décroissante						segmo
+C. le nombre de photons varie avec la profondeur de la matière d'atténuation selon une fonction exponentielle décroissante	36 Concernant l'atténuation des photons :	UE3S110236	VRAI							segmo
+D. il se produit plusieurs effets dans l'atténuation comme l'effet Compton ou l'effet photo-électrique par exemple	36 Concernant l'atténuation des photons :	UE3S110236	VRAI							segmo
+E. après atténuation, une partie de l'énergie est restituée sous forme d'électrons secondaires ou de photons secondaire.	36 Concernant l'atténuation des photons :	UE3S110236	VRAI							segmo
+A. La force est exprimée en Newton	1) Selon la loi de Coulomb : FAB = (-1/(4πε0))*(qa*qb/r²AB)*UAB	UE3S100201	VRAI							segmo
+B. La charge est exprimée en Électronvolts	1) Selon la loi de Coulomb : FAB = (-1/(4πε0))*(qa*qb/r²AB)*UAB	UE3S100201	FAUX	B. en Coulomb						segmo
+C. Les distances sont en kilomètres	1) Selon la loi de Coulomb : FAB = (-1/(4πε0))*(qa*qb/r²AB)*UAB	UE3S100201	FAUX	C. en m						segmo
+D. εo est la perméabilité du vide	1) Selon la loi de Coulomb : FAB = (-1/(4πε0))*(qa*qb/r²AB)*UAB	UE3S100201	FAUX	D. Permittivité du vide						segmo
+E. UAB est le vecteur unitaire parallèle au vecteur AB	1) Selon la loi de Coulomb : FAB = (-1/(4πε0))*(qa*qb/r²AB)*UAB	UE3S100201	VRAI							segmo
+A. Les aimants sont caractérisés par un pôle nord et un pôle sud	2) Concernant l'électromagnétisme	UE3S100202	VRAI							segmo
+B. Un porteur de charges immobile fait apparaître un champ électrique	2) Concernant l'électromagnétisme	UE3S100202	VRAI							segmo
+C. L'électromagnétisme regroupe l'étude des phénomènes électriques et magnétiques	2) Concernant l'électromagnétisme	UE3S100202	VRAI							segmo
+D. L'électrostatisme concerne une charge à l'équilibre sans mouvement	2) Concernant l'électromagnétisme	UE3S100202	VRAI							segmo
+E. Le magnétostatisme est un phénomène crée par un courant électrique stationnaire	2) Concernant l'électromagnétisme	UE3S100202	VRAI							segmo
+A. Le muscle cardiaque est de nature contractile	3)	UE3S100203	VRAI							segmo
+B. L'excitation de la cellule est issue d'un changement lent du potentiel d'action	3)	UE3S100203	FAUX	B. brusque						segmo
+C. La calcium libre se fixe aux protéines plasmatiques provoquant sa libération dans la cellule cardiaque	3)	UE3S100203	FAUX							segmo
+D. Toutes les cellules du myocarde sont douées des mêmes propriétés	3)	UE3S100203	FAUX	D. pas les mêmes propriétés						segmo
+E. Les cellules myocardiques sont toutes spécialisées dans l'automaticité et la propagation de l'activité électrique ainsi que dans la contraction cellulaire	3)	UE3S100203	FAUX	E. certaines spécialisées dans l'automaticité et la propagation, et d'autres dans la contraction						segmo
+A. Le principal cation à l'intérieur de la cellule est le sodium.	4)   Concernant la répartition des ions de part et d'autre dela membrane cellulaire:	UE3S100204	FAUX	A. K+						segmo
+B. Les ions chlorure reste majoritaire avec le potassium dans le liquide extracellulaire.	4)   Concernant la répartition des ions de part et d'autre dela membrane cellulaire:	UE3S100204	FAUX							segmo
+C. Les principaux anions du liquide intracellulaire sont les ions phosphate et les protéines chargées négativement.	4)   Concernant la répartition des ions de part et d'autre dela membrane cellulaire:	UE3S100204	VRAI							segmo
+D. Le principal cation du liquide extracellulaire est le sodium.	4)   Concernant la répartition des ions de part et d'autre dela membrane cellulaire:	UE3S100204	VRAI							segmo
+E. La présence de cations dont la charge n'est pas compensée par des anions extracellulaires donne à ce compartiment une charge nette positive.	4)   Concernant la répartition des ions de part et d'autre dela membrane cellulaire:	UE3S100204	VRAI							segmo
+A. L'eau du robinet est un bon conducteur de la charge électrique.	5)	UE3S100205	VRAI							segmo
+B. La bicouche phospholipidique de la membrane cellulaire est un bon isolant.	5)	UE3S100205	VRAI							segmo
+C. La membrane cellulaire permet la séparation de la charge électrique de l'organisme.	5)	UE3S100205	VRAI							segmo
+D. Le corps humain est chargé négativement.	5)	UE3S100205	FAUX	D. neutre						segmo
+E. Les charges positives et négatives se repoussent.	5)	UE3S100205	FAUX	E. s'attirent						segmo
+A. Le transport actif se fait contre le gradient.	6)	UE3S100206	VRAI							segmo
+B. Le transport passif se fait du compartiment le plus concentré vers le moins concentré.	6)	UE3S100206	VRAI							segmo
+C. La membrane n'est pas imperméable aux ions négatifs, ils sont donc retenus dans la cellule.	6)	UE3S100206	FAUX	C. imperméable						segmo
+D. Le potassium est trois fois plus concentré à l'intérieur qu'à l'extérieur de la cellule.	6)	UE3S100206	FAUX	D. 30 fois plus concentré						segmo
+E. L'eau suit toujours le potassium.	6)	UE3S100206	FAUX	E. Na+						segmo
+A. Le potassium est plus concentré à l'intérieur de la cellule.	7) Concernant la répartition des ions de part et d'autre de la membrane cellulaire :	UE3S100207	VRAI							segmo
+B. Le sodium est plus concentré à l'intérieur de la cellule.	7) Concernant Fa répartition des ions de part et d'autre de la membrane cellulaire :	UE3S100207	FAUX	B. extérieur						segmo
+C. Les ions chlorure sont majoritairement présents sur la face externe de la membrane.	7) Concernant la répartition des ions de part et d'autre de la membrane cellulaire :	UE3S100207	VRAI							segmo
+D. Les ions calcique sont majoritairement présents sur la face externe de la membrane plasmique.	7) Concernant Fa répartition des ions de part et d'autre de la membrane cellulaire :	UE3S100207	VRAI							segmo
+E. Les ions potassique sont majoritaires sur la face interne de la membrane cellulaire.	7) Concernant Fa répartition des ions de part et d'autre de la membrane cellulaire :	UE3S100207	VRAI							segmo
+A. Les ions qui ont un rôle prépondérant dans le potentiel membranaire de la cellule cardiaque sont les ions potassium.	8)	UE3S100208	VRAI							segmo
+B. Les ions chlorure ont un rôle mineur.	8)	UE3S100208	VRAI							segmo
+C. Des structures protéiques transmembranaires permettant le passage des ions, constituent des canaux ioniques plus ou moins spécifique à un ion.	8)	UE3S100208	VRAI							segmo
+D. Les pompes ioniques consomment de l'adénosine biphosphate.	8)	UE3S100208	FAUX	D. ATP						segmo
+E. L'ouverture de très peu de canaux ioniques cardiaques se fait sous l'influence des variations de potentiels membrannaires.	8)	UE3S100208	FAUX	E. beaucoup						segmo
+A. Le point de fusion d'un solide est une propriété extensive.	10)	UE3S100210	FAUX							segmo
+C. L'enthalpie molaire standard est une grandeur extensive.	10)	UE3S100210	VRAI							segmo
+D. La masse volumique est une grandeur intensive.	10)	UE3S100210	VRAI							segmo
+E. Le potentiel chimique est une grandeur intensive.	10)	UE3S100210	VRAI							segmo
+A. L'ouverture des canaux à ouverture mécanique dépend de l'étirement des cellules.	11)	UE3S100211	VRAI							segmo
+B. La tétrodotoxine (TTX) est un composé inhibiteur des canaux sodiques.	11)	UE3S100211	VRAI							segmo
+C. Le tétraéthylammonium est un inhibiteur des canaux potassiques.	11)	UE3S100211	VRAI							segmo
+D. Le Vérapamil et Diltiazem sont des inhibiteurs des canaux calciques d'où leur utilisation dans les insuffisances cardiaques	11)	UE3S100211	VRAI							segmo
+E. La tétrodotoxine est un inhibiteur spécifique des canaux sodiques	11)	UE3S100211	VRAI							segmo
+A. La dépolarisation de la membrane est rapide	12) Concernant la phase 0 :	UE3S100212	VRAI							segmo
+B. La dépolarisation génère une induction électrique qui se propage de proche en proche	12) Concernant la phase 0 :	UE3S100212	VRAI							segmo
+C. Le faisceau de Hiss se divise en trois branches	12) Concernant la phase 0 :	UE3S100212	FAUX	C. 2 branches						segmo
+D. Le faisceau de Hiss transmet l'influx électrique aux ventricules, c'est la conduction ventriculaire	12) Concernant la phase 0 :	UE3S100212	VRAI							segmo
+A. La phase 1 est la phase de repolarisation initiale rapide	13)	UE3S100213	VRAI							segmo
+B. La phase 1 a un impact équivalent sur tous les tissus myocardiques	13)	UE3S100213	FAUX	B. plus ou moins marqué						segmo
+C. La phase 2 est une phase de dépolarisation lente	13)	UE3S100213	FAUX	C. repolarisation						segmo
+D. La phase 3 est la phase de dépolarisation finale	13)	UE3S100213	FAUX	D. repolarisation						segmo
+E. Chez l'Homme les cellules myocardiques atriales peuvent recevoir deux types de potentiels d'action.	13)	UE3S100213	VRAI							segmo
+A. La période réfractaire absolue est l'intervalle de temps pendant lequel il est impossible d'obtenir tout nouveau potentiel d'action.	14)	UE3S100214	VRAI							segmo
+B. La période réfractaire relative suit la période réfractaire absolue à condition d'appliquer un faible stimulus.	14)	UE3S100214	FAUX	B. très élevé						segmo
+C. La période réfractaire effective est l'intervalle de temps au bout duquel on obtient un potentiel d'action propagé.	14)	UE3S100214	VRAI							segmo
+D. La période réfractaire absolue ajoutée à la moitié de la période réfractaire relative équivaut à la période réfractaire effective.	14)	UE3S100214	VRAI							segmo
+A. Une rectification est dite dans le sens sortant lorsque la membrane laisse plus difficilement passer le courant ionique sortant que entrant.	15)	UE3S100215	FAUX	A. plus facilement						segmo
+B. Une rectification dans le sens entrant favorise le passage du courant ionique entrant.	15)	UE3S100215	VRAI							segmo
+C. Par la rectification, on peut augmenter la vitesse de repolarisation de la membrane	15)	UE3S100215	VRAI	C. avec les canaux K+ et Ca2+						segmo
+D. Le passage d'un ion spécifique à travers son canal se fait sous l'influence de la force de diffusion et de la force électrique qui agissent obligatoirement dans le même sens.	15)	UE3S100215	FAUX	D. dans le même sens ou le sens inverse						segmo
+E. La force de diffusion est due aux différentes concentrations et entraine l'ion du milieu le plus concentré vers le moins concentré.	15)	UE3S100215	VRAI							segmo
+A. R est la constante des gaz parfaits en J.K-1.mol-1	16) Selon l'équation de Nernst : E1-2 = (RT/zF) * ln([X]2 / [X]1)	UE3S100216	VRAI							segmo
+B. z est la charge électrique de l'ion X	16) Selon l'équation de Nernst : E1-2 = (RT/zF) * ln([X]2 / [X]1)	UE3S100216	VRAI							segmo
+C. F la température en Fahrenheit	16) Selon l'équation de Nernst : E1-2 = (RT/zF) * ln([X]2 / [X]1)	UE3S100216	FAUX	C. F est la constante de Faraday (96 480 C.mo1-1)						segmo
+D. E1-2 est la différence de potentiels entre les milieux 1 et 2 en Watt	16) Selon l'équation de Nernst : E1-2 = (RT/zF) * ln([X]2 / [X]1)	UE3S100216	FAUX	D. en Volt						segmo
+E. [X]1 et[ X]2 sont les concentrations de l'ion dans les milieux respectifs.	16) Selon l'équation de Nernst : E1-2 = (RT/zF) * ln([X]2 / [X]1)	UE3S100216	VRAI							segmo
+A. La conductance membranaire pour un ion X est la conductance pour l'ensemble des canaux de la cellule laissant passer X à un instant donné.	17)	UE3S100217	VRAI							segmo
+B. Un courant ionique entrant est dépolarisant	17)	UE3S100217	FAUX	B.dépend de la nature du courant						segmo
+C. L'entrée de charges positives dans la cellule rend le potentiel intra cellulaire d'avantage négatif.	17)	UE3S100217	FAUX	C. moins négatif (car entrée de charge positives !)						segmo
+D. Un courant cationique sortant est repolarisant.	17)	UE3S100217	VRAI							segmo
+E. la sortie de charges positives rend le potentiel intra cellulaire moins négatif	17)	UE3S100217	FAUX	E. plus négatif						segmo
+A. La phase 0 est le résultat d'une diminution de la conductance sodique appelée overshoot.	18)	UE3S100218	FAUX	A. augmente la conductance						segmo
+B. L'entrée de sodium dépolarise la cellule ce qui diminue la probabilité d'ouverture des canaux sodiques	18)	UE3S100218	FAUX	B. augmente la probabilité						segmo
+D. It01 est calcium dépendant	18)	UE3S100218	FAUX	D. It02 est calcium dépendant : si Ca2+ trop élevé : It02 augmente						segmo
+E. It01 est sensible aux bloqueurs de canaux potassiques	18)	UE3S100218	VRAI							segmo
+A. A la phase 2 des courants entrants positifs tendent à repolariser la membrane.	19)	UE3S100219	FAUX	A. dépolariser						segmo
+B. A la phase 2 des courants sortants positifs tendent à dépolariser la membrane.	19)	UE3S100219	FAUX	B. repolariser						segmo
+C. Le principal courant entrant positif est un courant calcique voltage dépendant.	19)	UE3S100219	VRAI	C. déclenche le PA						segmo
+D. Les canaux calciques voltages dépendants de type L s'inactivent lentement.	19)	UE3S100219	VRAI	D: L=longue durée						segmo
+E. Les canaux calciques de type T sont généralement absents des cellules ventriculaires.	19)	UE3S100219	VRAI							segmo
+A. Pendant la phase 2, le courant sortant positif est le courant potassique retardé.	20)	UE3S100220	VRAI							segmo
+B. Dans la phase 3, le courant potassique continue d'augmenter	20)	UE3S100220	VRAI							segmo
+C. Dans la phase 4, la membrane est principalement perméable aux ions potassium.	20)	UE3S100220	VRAI							segmo
+D. Il existe dans la phase 3 une très faible perméabilité aux ions sodium.	20)	UE3S100220	VRAI							segmo
+E. La stabilité de potentiel de repos impose que la somme algébrique des courants positifs sortants et des négatifs entrants soit nulle	20)	UE3S100220	VRAI							segmo
+A. La pompe Na+/K+ ATP dépendant fait rentrer 3 ions potassium et fait sortir deux ions sodium	21) Parmi les propositions suivantes la (lesquelles) est (sont) exacte(s)?	UE3S100221	FAUX	A. 3Na+ sortent et 2K+ entrent						segmo
+B. Pour l'échangeur Na+/Ca+, trois sodiums sont échangés contre un ion calcium	21) Parmi les propositions suivantes la (lesquelles) est (sont) exacte(s)?	UE3S100221	VRAI	B. 3Na+/1Ca2+						segmo
+C. L'échange de 3Na+/1Ca+ nécessite de l'énergie sous forme d'ATP	21) Parmi les propositions suivantes la (lesquelles) est (sont) exacte(s)?	UE3S100221	FAUX	C. pas d'ATP car résulte des équilibres entre la force électrique et celle de diffusion (&lt;=&gt; en fonction du potentiel de membrane et des variations de concentration)						segmo
+D. Les canaux potassiques sensibles à l'ATP provoquent en s'ouvrant une repolarisation précoce.	21) Parmi les propositions suivantes la (lesquelles) est (sont) exacte(s)?	UE3S100221	VRAI							segmo
+E. Si le potentiel d'action dure moins longtemps, moins de calcium sera libéré par le réticulum sarcoplasmique.	21) Parmi les propositions suivantes la (lesquelles) est (sont) exacte(s)?	UE3S100221	VRAI							segmo
+A. La forme des myocytes	22)   La conduction intra cardiaque dépend de :	UE3S100222	VRAI	La conduction intra cardiaque dépend de : <br>- Taille, forme et orientation des myocytes <br>- Nombre, taille et distribution spatiale des jonctions gap						segmo
+B. Le nombre de jonctions gap	22)   La conduction intra cardiaque dépend de :	UE3S100222	VRAI	La conduction intra cardiaque dépend de : - Taille, forme et orientation des myocytes - Nombre, taille et distribution spatiale des jonctions gap						segmo
+C. Le débit sanguin	22)   La conduction intra cardiaque dépend de :	UE3S100222	FAUX	La conduction intra cardiaque dépend de : - Taille, forme et orientation des myocytes - Nombre, taille et distribution spatiale des jonctions gap						segmo
+D. La composition des myocytes	22)   La conduction intra cardiaque dépend de :	UE3S100222	FAUX	La conduction intra cardiaque dépend de : <br>- Taille, forme et orientation des myocytes <br>- Nombre, taille et distribution spatiale des jonctions gap						segmo
+E. La taille des myocytes et jonction gap	22)   La conduction intra cardiaque dépend de :	UE3S100222	VRAI	La conduction intra cardiaque dépend de : - Taille, forme et orientation des myocytes - Nombre, taille et distribution spatiale des jonctions gap						segmo
+A. La dépolarisation des cellules cardiaques pace-maker gagne rapidement les cellules contractiles adjacentes par des jonctions fermées	23)	UE3S100223	FAUX	A. jonctions communicantes						segmo
+B. L'onde P représente la dépolarisation auriculaire partant du noeud sinusal	23)	UE3S100223	VRAI							segmo
+C. Le complexe QRS correspond à la repolarisation des ventricules	23)	UE3S100223	FAUX	C. QRS = dépolarisation des ventricules						segmo
+D. Le segment QT correspond au plateau du potentiel d'action auriculaire	23)	UE3S100223	FAUX	D. QT= PA ventriculaire						segmo
+E. L'onde T est due à la repolarisation des oreillettes	23)	UE3S100223	FAUX	E. Repolarisation des ventricules						segmo
+A. L'électrolyte sera complètement dissocié à l'équilibre.	25) Soit un électrolyte binaire AB donnant après dissociation A+ et B-En solution aqueuse Sa molarité vaut 100 mmol.L Son osmolarité vaut 75 mOsm.L-1	UE3S100225	FAUX	A. L'électrolyte est faible						segmo
+B. L'électrolyte est fort.	25) Soit un électrolyte binaire AB donnant après dissociation A+ et B-En solution aqueuse Sa molarité vaut 100 mmol.L Son osmolarité vaut 75 mOsm.L-1	UE3S100225	FAUX	B. L'électrolyte est faible						segmo
+C. A l'équilibre la concentration de A+ vaut cα où α est la constante d'hydrolyse de la réaction.	25) Soit un électrolyte binaire AB donnant après dissociation A+ et B-En solution aqueuse Sa molarité vaut 100 mmol.L Son osmolarité vaut 75 mOsm.L-1	UE3S100225	FAUX	C. α est le coefficient de dissociation						segmo
+D. L'osmolarité de la solution nous indique la quantité de particules de solvant par litre de solution.	25) Soit un électrolyte binaire AB donnant après dissociation A+ et B-En solution aqueuse Sa molarité vaut 100 mmol.L Son osmolarité vaut 75 mOsm.L-1	UE3S100225	FAUX	D. Quantité de particules de soluté						segmo
+E. A l'équilibre la concentration en AB vaut c(1 -α)	25) Soit un électrolyte binaire AB donnant après dissociation A+ et B-En solution aqueuse Sa molarité vaut 100 mmol.L Son osmolarité vaut 75 mOsm.L-1	UE3S100225	VRAI							segmo
+A. Il possède un point triple qui représente l'équilibre entre deux phases.	26) Concernant le diagramme de phase de l'eau pure	UE3S100226	FAUX	A. entre les trois phases						segmo
+B. La variance dans un domaine est de 2	26) Concernant le diagramme de phase de l'eau pure	UE3S100226	VRAI	<br>B. variance = 0 au point triple<br>v = 1 sur une courbe<br>v = 2 dans un domaine						segmo
+C. La variance au point triple est de 1.	26) Concernant le diagramme de phase de l'eau pure	UE3S100226	FAUX	v = 0 au point triple						segmo
+D. Quand un soluté est ajouté à l'eau pure, la courbe d'équilibre entre les phases liquide et gazeuse va se décaler vers la gauche.	26) Concernant le diagramme de phase de l'eau pure	UE3S100226	FAUX	D. vers la droite						segmo
+E. Il existe un seul couple de valeur vérifiant les conditions d'équilibre entre les trois phases du diagramme.	26) Concernant le diagramme de phase de l'eau pure	UE3S100226	VRAI							segmo
+A. le volume d'un atome est essentiellement constitué de son noyau	27)	UE3S100227	FAUX	attention le VOLUME n'est pas la masse						segmo
+B. le proton et le neutron sont les plus petits constituants du noyau	27)	UE3S100227	FAUX							segmo
+C. la charge d'un électron est de 1,6.10-19 coulombs	27)	UE3S100227	FAUX	-						segmo
+D. la charge d'un électron est de 1,6.10-19 becquerels	27)	UE3S100227	FAUX							segmo
+E. la charge d'un proton est de 1,6.10-19 coulombs	27)	UE3S100227	VRAI							segmo
+A. Z est le numéro atomique et représente le nombre d'électrons qui est aussi égal à celui de neutrons	28)	UE3S100228	FAUX	Z = e- mais pas aux neutrons						segmo
+B. A est le nombre de masse (nombre de neutrons + nombre de protons)	28)	UE3S100228	VRAI							segmo
+C. les atomes de même A sont dits isotopes	28)	UE3S100228	FAUX	isobare						segmo
+D. les atomes de même A sont dits isotones	28)	UE3S100228	FAUX	isobare						segmo
+E. les atomes de même A sont dits isobares	28)	UE3S100228	VRAI							segmo
+A. Sont des isotopes	29) Les atomes de même nombre de protons	UE3S100229	VRAI							segmo
+B. Sont des isobares	29) Les atomes de même nombre de protons	UE3S100229	FAUX	isotopes						segmo
+C. Sont des isotones	29) Les atomes de même nombre de protons	UE3S100229	FAUX	isotope à condition que nb nucléons différents						segmo
+D. Ont le même symbole chimique	29) Les atomes de même nombre de protons	UE3S100229	VRAI							segmo
+E. Ont le même nombre d'électrons	29) Les atomes de même nombre de protons	UE3S100229	VRAI							segmo
+A. le gain d'énergie par l'atome entraine une ionisation ou une excitation	30)	UE3S100230	VRAI							segmo
+B. la ionisation correspond au gain d'un électron par l'atome	30)	UE3S100230	FAUX							segmo
+C. le phénomène de fluorescence est le retour de l'atome excité à l'état fondamental en cédant son excès d'énergie à un électron	30)	UE3S100230	FAUX	en émettant un photon de flurescence						segmo
+D. l'électron Auger correspond à une perte d'énergie pour l'atome	30)	UE3S100230	VRAI							segmo
+E. un atome à l'état fondamental peut entrainer une fluorescence ou un électron Auger	30)	UE3S100230	FAUX							segmo
+A. les forces de liaisons nucléaires sont de nature électrique	31)	UE3S100231	FAUX							segmo
+B. le défaut de masse correspond à la différence entre la masse d'un atome et la somme des masses de chacun de ses constituants	31)	UE3S100231	VRAI							segmo
+C. lors de la fission la somme d'énergie des deux atomes produits est supérieure à celle de l'atome initiale	31)	UE3S100231	FAUX							segmo
+D. contrairement à la fission la fusion est contrôlable	31)	UE3S100231	FAUX							segmo
+E. la fission pourrait apporter l'énergie suffisante pour amorcer une fusion	31)	UE3S100231	VRAI							segmo
+A. N = No.e^-λt	32)	UE3S100232	VRAI							segmo
+B. N = No. e^-λ/t	32)	UE3S100232	FAUX	N = No. e^-λt						segmo
+C. un becquerel correspond à une désintégration par seconde	32)	UE3S100232	VRAI							segmo
+D. T1/2 = ln2/λ	32)	UE3S100232	VRAI							segmo
+E. λ et T1/2 dépendent des conditions extérieures telles que la pression ou la température	32)	UE3S100232	FAUX							segmo
+A. Au bout de 36 jours la masse restante est de 0,25 µg<div>B. Au bout de 36 jours la masse restante est de 0,5 µg</div><div>C. Au bout de 6 mois la masse restante est de 9,8.10^-3 µg</div><div>D. Au bout de 6 mois la masse restante est de 9,8.10-4 µg</div><div>E. Au bout de 6 mois la masse restante est de 1,9.10-3 µg</div>	33) Le Thorium A=237 Z=90 Th à une demi-vie de 18 jours. On dispose initialement de 1µg de thorium.	UE3S100233	AD							segmo
+A. Un proton	34) Dans la réaction nucléaire suivante que désigne X : A=235 Z=92 U + A=1 Z=0 n --&gt; A=91 Z=36 Kr + A=142 Z=56 Ba + 3X	UE3S100234	FAUX	neutrons						segmo
+B. Un neutrino	34) Dans la réaction nucléaire suivante que désigne X : A=235 Z=92 U + A=1 Z=0 n --&gt; A=91 Z=36 Kr + A=142 Z=56 Ba + 3X	UE3S100234	FAUX	neutrons						segmo
+C. Une particule α	34) Dans la réaction nucléaire suivante que désigne X : A=235 Z=92 U + A=1 Z=0 n --&gt; A=91 Z=36 Kr + A=142 Z=56 Ba + 3X	UE3S100234	FAUX	3 neutrons						segmo
+D. Un neutron	34) Dans la réaction nucléaire suivante que désigne X : A=235 Z=92 U + A=1 Z=0 n --&gt; A=91 Z=36 Kr + A=142 Z=56 Ba + 3X	UE3S100234	VRAI							segmo
+E. Une particule β+	34) Dans la réaction nucléaire suivante que désigne X : A=235 Z=92 U + A=1 Z=0 n --&gt; A=91 Z=36 Kr + A=142 Z=56 Ba + 3X	UE3S100234	FAUX	neutrons<br>rappel : β+ positon						segmo
+A. elle est due à un excès de neutrons	35) Concernant la désintégration β-	UE3S100235	VRAI							segmo
+B. elle est due à un excès de protons	35) Concernant la désintégration β-	UE3S100235	FAUX	excès de neutrons						segmo
+C. elle entraine l'expulsion d'un électron du cortège périphérique	35) Concernant la désintégration β-	UE3S100235	FAUX							segmo
+D. c'est une transformation isobarique	35) Concernant la désintégration β-	UE3S100235	VRAI							segmo
+E. le numéro atomique du noyau fils ne change pas	35) Concernant la désintégration β-	UE3S100235	FAUX							segmo
+A. Elle entraine l'émission d'un positon	36) Concernant la désintégration β+	UE3S100236	VRAI							segmo
+B. Elle est associée à l'émission d'un neutrino	36) Concernant la désintégration β+	UE3S100236	VRAI							segmo
+C. Elle nécessite une différence de masse entre l'atome de départ et l'atome d'arrivée de 1,022 MeV	36) Concernant la désintégration β+	UE3S100236	VRAI							segmo
+D. C'est une transformation isobarique	36) Concernant la désintégration β+	UE3S100236	VRAI							segmo
+E. La capture électronique qui capture un électron du cortège périphérique, est également une réaction concernant les noyaux en excès de protons	36) Concernant la désintégration β+	UE3S100236	VRAI							segmo
+A. En physique, on considère un matériau comme conducteur lorsque qu’il y a des échanges d’énergie entre deux systèmes.	1. Concernant les conducteurs et les isolants, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120201	VRAI							
+B. Généralement, un bon isolant électrique est également un bon isolant thermique.	1. Concernant les conducteurs et les isolants, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120201	VRAI							
+C. Les « paquets d’onde » de vibration du matériau sont aussi appelés photons.	1. Concernant les conducteurs et les isolants, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120201	FAUX	C. Attention, ce ne sont pas les photons qui interviennent mais les phonons !						
+D. La température d’un solide représente son énergie de vibration.	1. Concernant les conducteurs et les isolants, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120201	VRAI							
+E. Le freinage des électrons par les phonons entraîne un phénomène de résistance électrique.	1. Concernant les conducteurs et les isolants, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120201	VRAI							
+A. En électricité, un conducteur est un matériau qui contient des porteurs de charge électrique statiques.	2. Concernant les conducteurs électriques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120202	FAUX	A. En électricité, un conducteur est un matériau qui contient des porteurs de charge électrique mobiles, pour permettre les échanges d’énergie entre les deux systèmes.						
+B. Dans la situation décrite par la théorie de l’électrostatique, les porteurs de charge sont animés d’un mouvement aléatoire.	2. Concernant les conducteurs électriques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120202	VRAI							
+C. Dans la situation décrite par la théorie de l’électrostatique, les porteurs de charge sont animés d’un mouvement partiellement ordonné.	2. Concernant les conducteurs électriques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120202	FAUX							
+D. Dans un conducteur en équilibre électrostatique on n’observe aucun courant électrique.	2. Concernant les conducteurs électriques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120202	VRAI							
+E. Un conducteur est un composant électrique ou électronique de forte résistance.	2. Concernant les conducteurs électriques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120202	FAUX	E. Un conducteur est un composant électrique ou électronique de faible résistance..						
+A. Le cristal de germanium est un exemple de matériau relativement stable.	3. Concernant le cristal de germanium, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120203	VRAI							
+B. Lorsque le cristal de germanium libère un électron, il y a création d’un déficit. Le site devient donc positif.	3. Concernant le cristal de germanium, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120203	VRAI							
+C. Lorsque le cristal de germanium libère un électron, il y a création d’un déficit. Le site devient donc négatif.	3. Concernant le cristal de germanium, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120203	FAUX							
+D. L’atome de germanium ne peut pas se déplacer car il est stabilisé.	3. Concernant le cristal de germanium, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120203	VRAI							
+E. Dans le cristal de germanium, seuls les électrons sont capables de se déplacer.	3. Concernant le cristal de germanium, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120203	VRAI							
+A. Pour les semi-conducteurs, la conductivité dépend des conditions physiques internes.	4. Concernant les semi-conducteurs, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120204	FAUX	A. Pour les semi-conducteurs, la conductivité dépend des conditions physiques externes.						
+B. Lors de leur introduction dans le cristal de germanium, les atomes pentavalent créent une conduction de type n.	4. Concernant les semi-conducteurs, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120204	VRAI							
+C. Lors de leur introduction dans le cristal de germanium, les atomes pentavalent créent une conduction de type p.	4. Concernant les semi-conducteurs, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120204	FAUX	type n						
+D. Lors de leur introduction dans le cristal de germanium, les atomes trivalent créent une conduction de type n.	4. Concernant les semi-conducteurs, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120204	FAUX	type p						
+E. Lors de leur introduction dans le cristal de germanium, les atomes trivalent créent une conduction de type p.	4. Concernant les semi-conducteurs, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120204	VRAI							
+A. La théorie des bandes est une modélisation des valeurs d’énergie que peuvent prendre les électrons d’un solide à l’intérieur de celui-ci.	5. Concernant la théorie des bandes, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120205	VRAI							
+B. Dans un solide, l’énergie d’un électron de conduction est située à l’intérieur de certains intervalles.	5. Concernant la théorie des bandes, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120205	VRAI							
+C. Dans un solide, l’énergie d’un électron de conduction peut prendre plusieurs valeurs positives.	5. Concernant la théorie des bandes, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120205	VRAI							
+D. Dans un solide, l’énergie d’un électron de valence ne peut posséder que des valeurs discrètes et bien définies.	5. Concernant la théorie des bandes, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120205	VRAI							
+E. La répartition des électrons du solide dans les niveaux d’énergie autorisés dépend de la pression.	5. Concernant la théorie des bandes, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120205	FAUX	E. La répartition des électrons du solide dans les niveaux d’énergie autorisés dépend de la température.						
+A. Si la température du solide tend vers le zéro absolu, la dernière bande complètement remplie est appelée bande de conduction.	6. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120206	FAUX	A. Si la température du solide tend vers le zéro absolu, la dernière bande complètement remplie est appelée bande de valence. La bande de conduction est la bande d’énergie permise qui la suit.						
+B. Dans un solide, lorsque qu’on augmente la température, on augmente la conductivité.	6. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120206	FAUX	B. Dans un solide, lorsque qu’on diminue la température, on augmente la conductivité.						
+C. Le « gap » est l’énergie qui sépare la bande de valence de la bande de conduction.	6. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120206	VRAI							
+D. Plus le gap sera faible, plus le solide sera isolant.	6. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120206	FAUX	D. Plus le gap sera faible, plus le solide sera conducteur.						
+E. Si l’électron se trouve dans la bande de valence, il ne participe pas à la conduction.	6. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120206	VRAI							
+A. Dans un métal conducteur, la bande de conduction est partiellement remplie et le gap est inexistant.	7. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120207	VRAI							
+B . Dans un métal conducteur, la bande de conduction est vide et le gap est inexistant.	7. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120207	FAUX	bande de conduction partiellement remplie						
+C. Dans un semi-conducteur, la bande de conduction est vide, mais le gap est relativement grand.	7. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120207	FAUX	C. Dans un semi-conducteur, la bande de conduction est vide, mais le gap est relativement faible.						
+D. Dans un isolant, la bande de conduction est partiellement remplie, et le gap est grand.	7. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120207	FAUX							
+E. Dans un isolant, la bande de conduction est vide, et le gap est grand.	7. Concernant les bandes de conduction, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120207	VRAI							
+A. Les anions se déplacent vers l’anode.	8. Concernant la conduction dans les solutions, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120208	VRAI							
+B. Les anions se déplacent vers la cathode.	8. Concernant la conduction dans les solutions, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120208	FAUX							
+C. La conductivité molaire ionique correspond à la facilité avec laquelle se déplacent les électrons au sein de la solution.	8. Concernant la conduction dans les solutions, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120208	FAUX	C. La conductivité molaire ionique correspond à la facilité avec laquelle se déplacent les ions au sein de la solution. Les électrons ne peuvent en aucun cas se retrouver dans une solution.						
+D. La température, la concentration, ou l’espacement des électrodes sont des paramètres qui peuvent modifier la conduction.	8. Concernant la conduction dans les solutions, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120208	FAUX	D. La nature des ions, la concentration, ou l’espacement des électrodes sont des paramètres qui peuvent modifier la conduction. La température n’intervient pas dans ces paramètres-là.						
+E. Les molécules d’huiles sont des molécules qui permettent la conduction du courant.	8. Concernant la conduction dans les solutions, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120208	FAUX	E. Les molécules sont des molécules isolantes.						
+A. Pour des tensions appliquées faibles, les solutions ioniques se comportent comme des conducteurs ohmiques.	9. Concernant la conductance et la conductivité, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120209	VRAI							
+B. La conductivité de la solution correspond à sa capacité de conduire le courant électrique.	9. Concernant la conductance et la conductivité, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120209	FAUX	B. La conduction de la solution correspond à sa capacité de conduire le courant électrique.						
+C. Pour des solutions faiblement concentrées, la conductivité est proportionnelle à la concentration de la solution.	9. Concernant la conductance et la conductivité, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120209	VRAI							
+D. La conductivité de la solution dépend de la nature des ions et de leurs concentrations.	9. Concernant la conductance et la conductivité, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120209	VRAI							
+E. Plus une solution sera concentrée en ions, plus la conductivité sera forte.	9. Concernant la conductance et la conductivité, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120209	VRAI							
+A. La valeur absolue de la charge élémentaire de l’électron |e| est égale à q = -1,6.10^19 C.	10. Concernant l’électrostatique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120210	FAUX							
+B. La valeur absolue de la charge élémentaire de l’électron |e| est égale à q = 1,6.10^-19 C.	10. Concernant l’électrostatique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120210	VRAI							
+C. La valeur absolue de la charge élémentaire de l’électron |e| est égale à q = 1,6.10^19 C.	10. Concernant l’électrostatique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120210	FAUX	1,6.10^-19 C.						
+D. On appelle dipôle électrique un ensemble formé de deux charges –q (en A) et +q (en B) de mêmes valeurs absolues et de signes contraires.	10. Concernant l’électrostatique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120210	VRAI							
+E. On appelle moment dipolaire le vecteur de module p = q AB.	10. Concernant l’électrostatique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120210	VRAI							
+A. L’énergie cinétique d’une particule de masse m, se déplaçant à la vitesse v, est l’énergie associée au mouvement de cette particule : E c = 1⁄2 mv.	11. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120211	FAUX	A. L’énergie cinétique d’une particule de masse m, se déplaçant à la vitesse v, est l’énergie associée au mouvement de cette particule : E c = 1⁄2 mv2.						
+B. La dimension de l’énergie cinétique est celle d’un travail.	11. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120211	VRAI							
+C. La variation d’énergie cinétique de la particule est égale à un travail des forces appliquées.	11. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120211	VRAI							
+D. Pour un système à plusieurs particules, le travail des forces à considérer est toujours celui des forces extérieures appliquées au système.	11. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120211	VRAI							
+E. Pour un système à plusieurs particules, le travail des forces à considérer est toujours celui des forces intérieures appliquées au système.	11. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120211	FAUX	forces extérieures						
+A. Les lois de Newton permettent de prévoir la vitesse et la position du système en fonction du temps.	12. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120212	VRAI							
+B. Dans la première loi de Newton, le principe fondamental de dynamique s’écrit : F = mγ.	12. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120212	FAUX	B. C’est dans la seconde loi de Newton.						
+C. L’énergie de potentielle de pesanteur diminue avec l’altitude.	12. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120212	FAUX	C. L’énergie de potentielle de pesanteur augmente avec l’altitude						
+D. Le travail du poids sur un trajet AB est égal à l’opposé de la variation d’énergie potentielle entre les points A et B.	12. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120212	VRAI							
+E. Lorsqu’un solide se déplace et que toutes les forces extérieures qui lui sont appliquées, à l’exception du poids, effectuent un travail nul, la somme Ec + Epp est constante.	12. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120212	VRAI							
+A. Le potentiel dont dérivent ces forces est du type Lennard-Jones, ce qui nous donne la formule : U r = - (A/r^n– B/r^m).	13. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120213	VRAI							
+B. Les forces attractives résultant du terme en A/r^n.	13. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120213	VRAI							
+C. Les forces attractives résultant du terme en B/r^m.	13. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120213	FAUX							
+D. Les forces répulsives résultent du terme en B/r^m.	13. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120213	VRAI							
+E. Les forces répulsives résultent du terme en A/r^n.	13. Concernant le travail et l’énergie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120213	FAUX	attractives						
+A. La molarité est la quantité de matière de soluté par unité de volume de solution.	14. Concernant les grandeurs molaires partielles, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120214	VRAI							
+B. La molalité est la quantité de matière de soluté par unité de volume de solution.	14. Concernant les grandeurs molaires partielles, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120214	FAUX	B. La molalité est le nombre de moles de soluté par kilogramme (kg) de solvant.						
+C. La température, tout comme la pression ne dépendent pas de la quantité de matière.	14. Concernant les grandeurs molaires partielles, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120214	VRAI							
+D. La molarité est indépendante de la température.	14. Concernant les grandeurs molaires partielles, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120214	FAUX	D. La molarité dépend de la température car PV = nRT.						
+E. Le volume molaire partiel dépend de la pression, de la température et de la composition du mélange.	14. Concernant les grandeurs molaires partielles, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120214	VRAI							
+A. Le nombre de grandeurs dérivées importantes pour la science et la technologie est illimité.	15. Concernant les grandeurs physiques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120215	VRAI							
+B. Par convention, les grandeurs physiques sont organisées selon un système de dimensions.	15. Concernant les grandeurs physiques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120215	VRAI							
+C. Pour certaines grandeurs, il est possible d’utiliser différents symboles.	15. Concernant les grandeurs physiques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120215	VRAI							
+D. Les symboles donnés pour les grandeurs, ainsi que leur style et leur forme sont ceux qui doivent être obligatoirement utilisés.	15. Concernant les grandeurs physiques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120215	FAUX							
+E. Les symboles donnés pour les unités, ainsi que leur style et leur forme sont ceux qui doivent être obligatoirement utilisés.	15. Concernant les grandeurs physiques, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120215	VRAI							
+A. En thermodynamique classique, on appelle système thermodynamique une portion de l’univers que l’on isole par la pensée et que l’on nomme alors milieu extérieur.	16. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120216	VRAI							
+B. Un système thermodynamique est toujours séparé par une frontière matérielle.	16. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120216	FAUX	B. Le système thermodynamique n’est pas forcément défini par une frontière matérielle.						
+C. La séparation, même fictive, entre le système et le milieu extérieur, est appelée paroi ou enceinte.	16. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120216	VRAI							
+D. On qualifie un système thermodynamique selon la nature et les propriétés de la paroi.	16. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120216	VRAI							
+E. Il existe 2 sortes de systèmes, le système ouvert et le système fermé.	16. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120216	FAUX	E. Il existe 3 sortes de systèmes, le système ouvert, le système fermé et le système isolé.						
+A. Un système ouvert est un système qui interagit par intermittence avec son environnement.	17. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120217	FAUX	A. Un système ouvert est un système qui interagit en permanence avec son environnement.						
+B. La notion de système ouvert s’oppose à celle de système fermé qui n’échange ni énergie, ni matière, ni information avec son environnement.	17. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120217	FAUX	B. La notion de système ouvert s’oppose à celle de système isolé qui n’échange ni énergie, ni matière, ni information avec son environnement.						
+C. Aucun système ne peut être complètement fermé, il y a seulement divers degrés de fermeture.	17. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120217	VRAI							
+D. La chaleur est transmise essentiellement par la conduction thermique, la convection et le rayonnement.	17. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120217	VRAI							
+E. La chaleur est une fonction d’état.	17. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120217	FAUX	E. La chaleur n’est pas une fonction d’état mais un mode de transfert d’énergie microscopique désordonné.						
+A. Le premier principe de la thermodynamique stipule que lors de toute transformation, il y a dissipation d’énergie.	18. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120218	FAUX	A. Le premier principe de la thermodynamique stipule que lors de toute transformation, il y a conservation de l’énergie						
+B. La variation de l’énergie d’un système qui subit une transformation peut s’exprimer selon la relation suivante :&nbsp;∆E = ∆U + ∆Ec + ∆Ep = W + Q.	18. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120218	VRAI							
+C. Le deuxième principe de la thermodynamique stipule que toute transformation réelle s’effectue avec création d’entropie.	18. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120218	VRAI							
+D. La fonction d’état entropie (S) correspond à l’ensemble des états macroscopiques compatibles avec un état microscopique donné.	18. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120218	FAUX	D. C’est l’inverse, la fonction d’état entropie (S) correspond à l’ensemble des états microscopiques compatibles avec un état macroscopique donné.						
+E. Dans le cas d’une transformation réversible, la création d’entropie (S) est nulle.	18. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120218	VRAI							
+A. Il existe deux modèles pour définir l’énergie totale d’un système : le modèle macroscopique et le modèle microscopique.	19. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120219	FAUX	ABCDE. L’énergie interne U d’un système thermodynamique correspond à la somme : U = ∑ E p micro + ∑ E C micro . Pensez à le corriger sur votre polycopié si vous ne l’avez pas déjà fait. )						
+B. Un système non homogène est une cause d’irréversibilité.	19. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120219	VRAI	ABCDE. L’énergie interne U d’un système thermodynamique correspond à la somme : U = ∑ E p micro + ∑ E C micro . Pensez à le corriger sur votre polycopié si vous ne l’avez pas déjà fait. )						
+C. Un phénomène dissipatif est une cause d’irréversibilité	19. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120219	VRAI	ABCDE. L’énergie interne U d’un système thermodynamique correspond à la somme : U = ∑ E p micro + ∑ E C micro . Pensez à le corriger sur votre polycopié si vous ne l’avez pas déjà fait. )						
+D. Une transformation spontanée de la matière est une cause d’irréversibilité	19. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120219	FAUX	ABCDE. L’énergie interne U d’un système thermodynamique correspond à la somme : U = ∑ E p micro + ∑ E C micro . Pensez à le corriger sur votre polycopié si vous ne l’avez pas déjà fait. )						
+E. L’énergie interne U d’un système thermodynamique correspond à la somme : U = ∑ E C macro + ∑ E C micro 	19. Concernant la thermodynamique, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T1202	FAUX	E. L’énergie interne U d’un système thermodynamique correspond à la somme : U = ∑ E p micro + ∑ E C micro . Pensez à le corriger sur votre polycopié si vous ne l’avez pas déjà fait. )						
+A. L’erreur totale est le produit de la résolution, de la précision et de l’occurrence.	20. Concernant la métrologie,	UE3T120220	FAUX	A. L’erreur totale est la somme de la résolution, de la précision et de l’occurrence.						
+B. Si une mesure est perturbée par un phénomène extérieur aléatoire, l’erreur due à l’occurrence va augmenter.	20. Concernant la métrologie,	UE3T120220	FAUX	B. Si une mesure est perturbée par un phénomène extérieur aléatoire, la précision de la mesure va être réduite.						
+C. Lors d’un recensement des pathologies, on ne peut pas définir la résolution.	20. Concernant la métrologie,	UE3T120220	VRAI							
+D. Un défaut de conception ou une usure de l’appareil de mesure perturbe la dispersion statistique.	20. Concernant la métrologie,	UE3T120220	VRAI							
+E. Si l’échantillon à mesurer s’altère pendant le transport, on a affaire à une erreur d’échantillonnage.	20. Concernant la métrologie,	UE3T120220	FAUX	E. Si l’échantillon à mesurer s’altère pendant le transport, on a affaire à une erreur de préparation.						
+A. Sur un grand nombre de mesures, on peut considérer que l’on a une probabilité dont la distribution est gaussienne.	21. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120221	VRAI							
+B. L’évaluation de la dispersion statistique se fait par des mesures de répétabilité et de reproductibilité.	21. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120221	VRAI							
+C. Le processus stochastique est un processus ordonné qui permet de connaître la répartition statistique des valeurs.	21. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120221	FAUX	C. Le processus stochastique est un processus aléatoire qui permet de connaître la répartition statistique des valeurs.						
+D. Lors d’une mesure de reproductibilité et dans le cas d’une analyse chimique, on mesure plusieurs fois le même échantillon.	21. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120221	FAUX	D. Lors d’une mesure de répétabilité et dans le cas d’une analyse chimique, on mesure plusieurs fois le même échantillon.						
+E. Dans le cas d’une mesure de reproductibilité, on re-prépare à chaque fois la mesure.	21. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120221	VRAI							
+A. Lors d’essais circulaires, l’échantillon qui est mesuré est connu afin de faciliter le suivi des résultats.	22. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120222	FAUX	A. Lors d’essais circulaires, l’échantillon qui est mesuré est inconnu afin, entre autre, d’éviter les biais.						
+B. Les essais circulaires permettent de prendre en compte la diversité des appareils de mesure et des habitudes de travail.	22. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120222	VRAI							
+C. L’erreur systématique peut introduire un décalage des résultats si l’erreur commise est toujours la même.	22. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120222	VRAI							
+D. Une très faible dispersion statistique garanti un résultat faux.	22. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120222	FAUX	D. On peut avoir une très faible dispersion statistique et avoir toutefois (mais pas forcément !) un résultat faux.						
+E. Généralement, on estime que qu’une méthode ne peut être utilisée que si la dispersion statistique est au moins 5 ou 10 fois inférieure à la valeur limite.	22. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120222	VRAI							
+A. Si la teneur en soufre dans une essence doit être inférieure à 150 ppm en masse, il faut une méthode de mesure ayant une dispersion statistique inférieure à 15 ppm.	23. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120223	VRAI							
+B. Les prises de mesure servent fréquemment dans les tests d’acceptation.	23. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120223	VRAI							
+C. L’intervalle de valeurs d’admissibilité doit être fait avant de prendre en compte l’erreur globale.	23. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120223	FAUX	C. L’intervalle d’admissibilité doit prendre en compte l’erreur globale, il est donc fait après.						
+D. Un faux positif consiste à refuser un produit alors qu’il est acceptable.	23. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120223	FAUX	D. Un faux positif consiste à accepter un produit alors qu’il est inacceptable.						
+E. Pour contrôler une méthode de mesure, on vérifie que les essais inter-laboratoires sont compatibles avec la précision visée.	23. Concernant la métrologie, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120223	VRAI							
+A. La membrane cellulaire est imperméable.	24. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120224	FAUX	A. La membrane cellulaire a une perméabilité sélective.						
+B. L’énergie nécessaire au transport passif est fournie par un mécanisme non-membranaire.	24. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120224	VRAI							
+C. L’énergie nécessaire au transport actif est fournie par un mécanisme non-membranaire.	24. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120224	FAUX							
+D. Une différence de pression hydrostatique peut permettre de fournir l’énergie nécessaire à un transport passif.	24. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120224	VRAI							
+E. Une différence de concentration ne peut pas permettre de fournir l’énergie nécessaire à un transport passif.	24. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120224	FAUX	E. Une différence de concentration peut tout à fait permettre de fournir l’énergie nécessaire à un transport passif						
+A. Une solution est un mélange homogène en phase liquide de deux ou plusieurs substances.	25. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120225	VRAI							
+B. Le solvant est la substance majoritaire dans une solution.	25. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120225	VRAI							
+C. Dans les solutions aqueuses diluées, les forces intermoléculaires sont égales.	25. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120225	VRAI							
+D. Une solution est caractérisée par la nature de ses constituants et leurs proportions.	25. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120225	VRAI							
+E. Pour des molécules électrolytes, l’osmolarité est la molarité.	25. Concernant la perméabilité de la membrane cellulaire, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120225	FAUX	E. Pour des molécules non électrolytes, l’osmolarité est la molarité.						
+A. L’osmolarité se caractérise par le nombre d’osmoles de soluté par kilogramme de solvant.	26. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120226	FAUX	A. L’osmolarité est le nombre d’osmoles de soluté par litre de solution.						
+B. L’osmolalité se caractérise par le nombre d’osmoles de soluté par kilogramme de solvant.	26. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120226	VRAI							
+C. L’osmose correspond au passage d’un soluté à travers une membrane hémiperméable.	26. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120226	FAUX	C et D. L’osmose correspond au passage d’un <b>solvant</b> à travers une membrane hémiperméable.						
+D. L’osmose correspond au passage d’un soluté à travers une membrane perméable.	26. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120226	FAUX	d'un solvant						
+E. La pression osmotique tend à égaliser les concentrations de part et d’autre de la membrane.	26. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120226	VRAI							
+A. Lors de l’osmose, le flux dépend du gradient de concentration.	27. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120227	VRAI							
+B. L’existence d’un flux indique que le système n’est pas en équilibre.	27. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120227	VRAI							
+C. Deux solutions pour lesquelles les pressions oncotiques sont égales sont dites isotoniques.	27. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120227	FAUX	C. Deux solutions pour lesquelles les pressions osmotiques sont égales sont dites isotoniques.						
+D. La solution la plus concentrée en soluté est dite hypotonique par rapport à l’autre.	27. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120227	FAUX							
+E. La solution la plus concentrée en soluté est dite hypertonique par rapport à l’autre.	27. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120227	VRAI							
+A. Une membrane hémiperméable signifie que seule l’eau est capable de la traverser.	28. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120228	VRAI							
+B. La pression osmotique est proportionnelle aux concentrations de soluté de part et d’autre de la membrane et de la température.	28. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120228	VRAI							
+C. La pression osmotique a pour formule : π = RT(C/M) où R est la constante des gaz parfaits, T la température absolue, C la concentration pondérale du soluté et M la masse molaire.	28. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120228	VRAI							
+D. La pression osmotique π a pour unité le pascal (Pa).	28. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120228	VRAI							
+A. Si le soluté est indissociable, l’effet osmotique augmente.	29. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120229	FAUX	A. Si le soluté est dissociable, l’effet osmotique augmente.						
+B. La pression oncotique est due aux macromolécules qui ont un excès d’ions diffusibles, ce qui implique une pression supérieure à la pression osmotique normale.	29. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120229	VRAI							
+C. Le potentiel de Donnan permet d’annuler le flux diffusif des ions.	29. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120229	VRAI							
+D. L’osmole est la pression osmotique d’une solution contenant une mole de soluté par litre à 20°C.	29. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120229	VRAI							
+E. Dans le phénomène de pression osmotique, la charge joue un rôle important.	29. Concernant le phénomène d’osmose, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120229	FAUX	E. Dans le phénomène de pression osmotique, la charge ne joue pas de rôle, c’est le nombre de particules qui intervient.						
+A. Une solution saturée contient 2 phases : la solution et le soluté pur.	30. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120230	VRAI							
+B. Les équilibres peuvent être stables, réversibles uniquement.	30. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120230	FAUX	B. Les équilibres peuvent être stables, métastables ou réversibles.						
+C. Le passage d’une phase à l’autre est un processus qui est toujours réversible.	30. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120230	FAUX	C. Le passage d’une phase à l’autre est un processus qui est réversible à P et T constants.						
+D. Une solution homogène contenant plusieurs corps dissous ne forme pas une phase.	30. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120230	FAUX	D. Une solution homogène contenant plusieurs corps dissous forme une phase.						
+E. Une phase est définie si on connaît sa température, sa pression et sa composition.	30. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) :	UE3T120230	VRAI							
+A. Cette expérience est une transition de phase.	31. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) : - On réalise une expérience avec de l’éther, introduit par un robinet dans une enceinte vide. On mesure la pression dans l’enceinte thermostatée. - Au début, la vaporisation est totale et instantanée, et la pression P augmente jusqu’à une valeur Ps. - Si on ajoute de l’éther, Ps demeure inchangée, et de l’éther liquide se dépose.	UE3T120231	VRAI							
+B. Cette expérience est une vaporisation dans le vide.	31. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) : - On réalise une expérience avec de l’éther, introduit par un robinet dans une enceinte vide. On mesure la pression dans l’enceinte thermostatée. - Au début, la vaporisation est totale et instantanée, et la pression P augmente jusqu’à une valeur Ps. - Si on ajoute de l’éther, Ps demeure inchangée, et de l’éther liquide se dépose.	UE3T120231	VRAI							
+C. La variation de volume de l’enceinte ne modifie pas Ps.	31. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) : - On réalise une expérience avec de l’éther, introduit par un robinet dans une enceinte vide. On mesure la pression dans l’enceinte thermostatée. - Au début, la vaporisation est totale et instantanée, et la pression P augmente jusqu’à une valeur Ps. - Si on ajoute de l’éther, Ps demeure inchangée, et de l’éther liquide se dépose.	UE3T120231	VRAI							
+D. La variation de volume de l’enceinte modifie Ps.	31. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) : - On réalise une expérience avec de l’éther, introduit par un robinet dans une enceinte vide. On mesure la pression dans l’enceinte thermostatée. - Au début, la vaporisation est totale et instantanée, et la pression P augmente jusqu’à une valeur Ps. - Si on ajoute de l’éther, Ps demeure inchangée, et de l’éther liquide se dépose.	UE3T120231	FAUX							
+E. La variation de température ne modifie pas Ps.	31. Concernant les états de la matière, parmi les propositions suivantes, laquelle ou lesquelles est (sont) exacte(s) : - On réalise une expérience avec de l’éther, introduit par un robinet dans une enceinte vide. On mesure la pression dans l’enceinte thermostatée. - Au début, la vaporisation est totale et instantanée, et la pression P augmente jusqu’à une valeur Ps. - Si on ajoute de l’éther, Ps demeure inchangée, et de l’éther liquide se dépose.	UE3T120231	FAUX	E. La variation de température modifie Ps.						
+A. La masse au repos d’une particule est indépendante de sa vitesse de déplacement.	32. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120232	VRAI							
+B. Dans un rayonnement électromagnétique de fréquence ν, les photons portent le quantum d’énergie E = h ν	32. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120232	VRAI							
+C. L’électron est une particule chargée, de charge 1,6.10^-19 C	32. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120232	FAUX	C. la charge d’un électron est de -1,6.10^-19 C						
+D. Un neutron isolé est stable.	32. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120232	FAUX							
+E. La particule antimatérielle correspondant à l’anti-électron est un proton.	32. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120232	FAUX	E. Non, le proton est une particule matérielle. L’antiparticule de l’électron est le positon.						
+A. Les rayons γ sont plus énergétiques que les rayons X.	33. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120233	FAUX	A. Pas nécessairement. La distinction entre rayons gamma et X ne repose pas sur des différences d’énergie mais sur des différences de production. Les rayons gamma proviennent de transitions nucléaires, quand les rayons X proviennent, eux, de transitions électroniques.						
+B. Les ondes de radiofréquences font partie des rayonnements ionisants.	33. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120233	FAUX	B. Non. Leur domaine d’énergie est insuffisant pour ioniser la matière. Ceci fait de l’I.R.M. un moyen d’imagerie non ionisant.						
+C. L’électron-volt est une unité de mesure d’énergie pour laquelle 1 eV = 1,6.10^-19 J.	33. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120233	VRAI							
+D. Les rayonnements du domaine du visible ont une énergie de l’ordre de 1 MeV	33. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120233	FAUX	D. Non. Les photons visibles les plus énergétiques ne dépassent pas quelques eV.						
+E. L’énergie d’un rayonnement est d’autant plus forte que sa longueur d’onde est grande.	33. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120233	FAUX	E = hv = (hc) / λ Elle est donc d’autant plus grande que la longueur d’onde est faible						
+A. L’énergie de liaison de l’électron à l’atome désigne l’énergie libérée lors de l’arrachement de cet électron au cortège électronique.	34. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120234	FAUX	A. Non, il s’agit de l’énergie minimale à apporter à un électron pour l’arracher du cortège.						
+B. On appelle “Electron Auger” l’électron qui quitte le nuage électronique lors d’une ionisation.	34. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120234	FAUX	B. Non, un électron Auger est un électron expulsé lors d’une désexcitation. C’est un des moyens de relaxation de l’atome.						
+C. Soit W l’énergie de liaison de l’électron, E l’énergie apportée (E > W). L’énergie cinétique de l’électron vaut : T = E - W	34. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120234	VRAI							
+D. Si l’énergie apportée est insuffisante, elle peut permettre à l’électron de changer de couche.	34. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120234	VRAI							
+E. la fluorescence est un phénomène permettant la désexcitation de l’atome par émission d’un photon.	34. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120234	VRAI							
+A. Lorsqu’un électron rencontre un positon, il se produit une annihilation de cette paire avec émission d’un seul photon.	35. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120235	FAUX	A. Il se produit deux photons de même énergie (511 keV) émis dans la même direction mais de sens opposés.						
+B. L’énergie de liaison nucléaire correspond à l’énergie de la différence de masse entre le noyau et les nucléons isolés le composant.	35. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120235	VRAI							
+C. Deux isotopes diffèrent par leur nombre de protons.	35. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120235	FAUX	C. Non, cela désignerait alors deux éléments chimiques différents. Deux isotopes ont le même nombre de protons mais un nombre de neutrons différent.						
+D. Les particules présentant un excès de protons ont tendance à se comporter comme des émetteurs α	35. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120235	FAUX	D. Comme des émetteurs β+ .						
+E. L’activité d’un échantillon d’une espèce radioactive donnée est proportionnelle au nombre de particules le constituant	35. Parmi ces affirmations, laquelle (lesquelles) est (sont) juste(s) ?	UE3T120235	VRAI	E. A (t) = λN(t)						

@@ -1,0 +1,40 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'blog_qcm_show' %}
+
+{% block main %}
+    <h1>{{ qcm.title }}</h1>
+    {{ qcm.content }}
+
+<br/><br/>
+{{ qcm.labelAnswer1|raw}}<br>
+[{% if(qcm.answer1 == 0) %}FAUX{% else %}VRAI{% endif %}]{{ qcm.commentAnswer1|raw }}<br>
+<br>
+{{ qcm.labelAnswer2|raw}}<br>
+[{% if(qcm.answer2 == 0) %}FAUX{% else %}VRAI{% endif %}]
+{{ qcm.commentAnswer2|raw }}<br>
+<br>
+{{ qcm.labelAnswer3|raw }}<br>
+[{% if(qcm.answer3 == 0) %}FAUX{% else %}VRAI{% endif %}]
+{{ qcm.commentAnswer3|raw }}<br>
+<br>
+{{ qcm.labelAnswer4|raw }}<br>
+[{% if(qcm.answer4 == 0) %}FAUX{% else %}VRAI{% endif %}]
+{{ qcm.commentAnswer4|raw }}<br>
+<br>
+{{ qcm.labelAnswer5|raw }}<br>
+[{% if(qcm.answer5 == 0) %}FAUX{% else %}VRAI{% endif %}]
+{{ qcm.commentAnswer5|raw }}<br>
+
+	   
+	
+{% endblock %}
+
+{% block sidebar %}
+
+    {# the parent() function includes the contents defined by the parent template
+      ('base.html.twig') for this block ('sidebar'). This is a very convenient way
+      to share common contents in different templates #}
+    {{ parent() }}
+
+{% endblock %}

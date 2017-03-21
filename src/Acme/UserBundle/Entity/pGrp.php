@@ -32,8 +32,31 @@ class pGrp
      * @ORM\Column(type="string")
      * @Assert\NotBlank()
      */
-    private $title;
+    private $qcmSlug;
+	public function getQcmSlug()
+    {
+        return $this->qcmSlug;
+    }
 
+    public function setQcmSlug($qcmSlug)
+    {
+        $this->qcmSlug = $qcmSlug;
+    }
+	
+    /**
+     * @ORM\Column(type="string")
+     * @Assert\NotBlank()
+     */
+    private $grpSlug;
+	public function getGrpSlug()
+    {
+        return $this->grpSlug;
+    }
+
+    public function setGrpSlug($grpSlug)
+    {
+        $this->grpSlug = $grpSlug;
+    }
     /**
      * @ORM\Column(type="datetime")
      * @Assert\DateTime()
@@ -42,21 +65,21 @@ class pGrp
 
     /**
      * @ORM\OneToMany(
-     *      targetEntity="Post",
+     *      targetEntity="Qcm",
      *      mappedBy="pGrp",
      *      orphanRemoval=true
      * )
      * @ORM\OrderBy({"publishedAt" = "DESC"})
      */
-    private $posts;
+    private $qcms;
 
 	
-	//pGrps_post ==> pGrps
+	//pGrps_qcm ==> pGrps
     /**
-     * @ORM\ManyToOne(targetEntity="Post", inversedBy="pGrps")
+     * @ORM\ManyToOne(targetEntity="Qcm", inversedBy="pGrps")
      * @ORM\JoinColumn(nullable=false)
      */
-    private $post;
+    private $qcm;
 	
 	
 	/*	
@@ -98,15 +121,7 @@ public function __toString()
 }
 */
 
-	public function getTitle()
-    {
-        return $this->title;
-    }
-
-    public function setTitle($title)
-    {
-        $this->title = $title;
-    }
+	
 	
     public function getPublishedAt()
     {
@@ -144,12 +159,12 @@ public function __toString()
         $this->grp = $grp;
     }
 	
-	public function getPost()
+	public function getQcm()
     {
-        return $this->post;
+        return $this->qcm;
     }
-    public function setPost(Post $post = null)
+    public function setQcm(Qcm $qcm = null)
     {
-        $this->post = $post;
+        $this->qcm = $qcm;
     }
 }

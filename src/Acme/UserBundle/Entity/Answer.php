@@ -37,10 +37,10 @@ class Answer
     private $id;
 
     /**
-     * @ORM\ManyToOne(targetEntity="Post", inversedBy="answers")
+     * @ORM\ManyToOne(targetEntity="Qcm", inversedBy="answers")
      * @ORM\JoinColumn(nullable=false)
      */
-    private $post;
+    private $qcm;
 
     /**
      * @ORM\ManyToOne(targetEntity="Grp", inversedBy="answers")
@@ -116,13 +116,13 @@ class Answer
         $this->publishedAt = $publishedAt;
     }
 
-    public function getPost()
+    public function getQcm()
     {
-        return $this->post;
+        return $this->qcm;
     }
-    public function setPost(Post $post = null)
+    public function setQcm(Qcm $qcm = null)
     {
-        $this->post = $post;
+        $this->qcm = $qcm;
     }
 
     public function getGrp()
@@ -251,7 +251,7 @@ class Answer
     }
     public function setAnswer7($answer7)
     {
-        $this->post = $answer7;
+        $this->qcm = $answer7;
     }
 	
     public function getAnswer8()
@@ -260,7 +260,7 @@ class Answer
     }
     public function setAnswer8($answer8)
     {
-        $this->post = $answer8;
+        $this->qcm = $answer8;
     }
 	
     public function getAnswer9()
@@ -269,7 +269,7 @@ class Answer
     }
     public function setAnswer9($answer9)
     {
-        $this->post = $answer9;
+        $this->qcm = $answer9;
     }	
 
 	public function getAnswer10()
@@ -278,7 +278,7 @@ class Answer
     }
     public function setAnswer10($answer10)
     {
-        $this->post = $answer10;
+        $this->qcm = $answer10;
     }	
 	
 }

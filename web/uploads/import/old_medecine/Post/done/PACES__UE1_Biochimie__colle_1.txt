@@ -1,0 +1,31 @@
+labelAnswer|title|slug|answer|commentAnswer|summary|content|authorEmail|||
+A. Sont des mol&eacute;cules h&eacute;t&eacute;rog&egrave;nes et hydrophiles/|21. Les lipides|UE1T120121|FAUX|A. Faux : des mol&eacute;cules h&eacute;t&eacute;rog&egrave;nes et hydrophobes.||||||
+B. Exercent un r&ocirc;le de structure, un r&ocirc;le &eacute;nerg&eacute;tique, de m&eacute;diateurs chimiques, d'hormones ou de vitamines.|21. Les lipides|UE1T120121|VRAI|||||||
+C. Sont solubles dans les solvants organiques apolaires (benz&egrave;ne, chloroforme, &eacute;ther ...).|21. Les lipides|UE1T120121|VRAI|||||||
+D. Ils poss&egrave;dent une t&ecirc;te hydrophile et une queue hydrophobe.|21. Les lipides|UE1T120121|VRAI|||||||
+E. Le caract&egrave;re amphiphile conditionne l'organisation des lipides dans l'eau.|21. Les lipides|UE1T120121|VRAI|||||||
+A. Ils poss&egrave;dent des cha&icirc;nes hydrocarbon&eacute;es ramifi&eacute;es.|22. Concernant les acides gras (AG) :|UE1T120122|FAUX|A. Faux : Ils poss&egrave;dent des cha&icirc;nes hydrocarbon&eacute;es non ramifi&eacute;es.||||||
+B. Leur formule g&eacute;n&eacute;rale est : CH3-(CH2)n-COOH|22. Concernant les acides gras (AG) :|UE1T120122|VRAI|||||||
+C. Les AG les plus abondants chez les mammif&egrave;res sont des AG branch&eacute;s|22. Concernant les acides gras (AG) :|UE1T120122|FAUX|C. Faux : les AG les plus abondants chez les mammif&egrave;res sont des AG lin&eacute;aires.||||||
+D. Ils poss&egrave;dent tous un nombre impair de carbones|22. Concernant les acides gras (AG) :|UE1T120122|FAUX|D. Faux : Ils poss&egrave;dent un nombre pair de carbones >4C.||||||
+E. Ils diff&egrave;rent entre eux par la longueur de leur cha&icirc;ne et par leur degr&eacute; d'insaturation|22. Concernant les acides gras (AG) :|UE1T120122|VRAI|||||||
+A. Elle repr&eacute;sente l'acide ol&eacute;ique.|23. Concernant la formule : (18:2) Δ9,12 :|UE1T120123|FAUX|||||||
+B. Elle repr&eacute;sente l'acide linol&eacute;ique.|23. Concernant la formule : (18:2) Δ9,12 :|UE1T120123|VRAI|||||||
+C. Elle repr&eacute;sente l'acide octad&eacute;cadi&egrave;noique.|23. Concernant la formule : (18:2) Δ9,12 :|UE1T120123|VRAI|||||||
+D. C'est un ω9.|23. Concernant la formule : (18:2) Δ9,12 :|UE1T120123|FAUX|D. Faux : c'est un ω6 et correspond &agrave; l'acide linol&eacute;ique||||||
+E. C'est un acide gras indispensable.|23. Concernant la formule : (18:2) Δ9,12 :|UE1T120123|VRAI|||||||
+A. Ils poss&egrave;dent essentiellement du carbone, de l'oxyg&egrave;ne et de l'hydrog&egrave;ne.|24. Lipides simples :|UE1T120124|VRAI|||||||
+B. Les acides gras n'en font pas partie.|24. Lipides simples :|UE1T120124|FAUX|B. Faux : Les lipides simples sont compos&eacute;s des AG et de leurs d&eacute;riv&eacute;s par est&eacute;rification et amidification.||||||
+C. Les acides gras peuvent subir une r&eacute;action d'est&eacute;rification ou d'amidification.|24. Lipides simples :|UE1T120124|VRAI|||||||
+D. L'est&eacute;rification par le glyc&eacute;rol donne des lipides de r&eacute;serve.|24. Lipides simples :|UE1T120124|VRAI|||||||
+E. Les c&eacute;ramides sont le produit d'une est&eacute;rification.|24. Lipides simples :|UE1T120124|FAUX|E. Faux : AG + sphingosine => c&eacute;ramide + eau||||||
+A. Cette famille comporte exclusivement les glyc&eacute;rophospholipides.|25. Lipides complexes :|UE1T120125|FAUX|A. Faux : Ils rassemblent les glyc&eacute;rophospholipides et les sphingolipides.||||||
+B. Il existe des glyc&eacute;rophospholipides esters et &eacute;thers en fonction de la r&eacute;action sur le premier carbone du glyc&eacute;rol.|25. Lipides complexes :|UE1T120125|VRAI|||||||
+C. Ils peuvent contenir un acide amin&eacute; alcool tel que la s&eacute;rine.|25. Lipides complexes :|UE1T120125|VRAI|||||||
+D. Les sphingolipides comportent de la sphingosine.|25. Lipides complexes :|UE1T120125|VRAI|||||||
+E. Les c&eacute;r&eacute;brosides sont des sphingolipides constitu&eacute;s de c&eacute;ramides et de glucose et galactose.|25. Lipides complexes :|UE1T120125|VRAI|||||||
+A. Les triglyc&eacute;rides sont des lipides de structure.|26. Classification fonctionnelle des lipides :|UE1T120126|FAUX|A. Faux : Glyc&eacute;rol + 3AG => tri-glyc&eacute;ride = lipide de r&eacute;serve||||||
+B. Les glycosphingolipides sont utiles dans les interactions intercellulaires.|26. Classification fonctionnelle des lipides :|UE1T120126|VRAI|||||||
+C. Les sels biliaires sont des lipides de r&eacute;serve.|26. Classification fonctionnelle des lipides :|UE1T120126|FAUX|C. Faux : Ils solubilisent les lipides lors de la digestion.||||||
+D. Certains d&eacute;riv&eacute;s du cholest&eacute;rol solubilisent les lipides lors de la digestion.|26. Classification fonctionnelle des lipides :|UE1T120126|VRAI|||||||
+E. Les st&eacute;ro&iuml;des sont des hormones.|26. Classification fonctionnelle des lipides :|UE1T120126|VRAI|||||||

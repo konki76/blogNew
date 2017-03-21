@@ -1,0 +1,10 @@
+php app/console import:csv Grp
+php app/console import:csv UE
+User		=> OK
+UE		=> OK
+Answer 		=> KO			=> lien avec post KO
+Grp		=> OK 			=> les caractères spéciaux ne fonctionnent pas
+pGrp		=> KO			=> post_id cannot be null
+Post		=> OK
+ueGrp 		=> KO 			=> grp_id cannot be null
+Comment		=> KO			=> post_id cannot be null

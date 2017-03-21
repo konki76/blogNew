@@ -24,7 +24,28 @@ use Acme\UserBundle\Entity\UE;
  */
 class UERepository extends EntityRepository
 {
-   
-	
+    public function findLatest($limit = Post::NUM_ITEMS)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p')
+            ->where('p.publishedAt <= :now')->setParameter('now', new \DateTime())
+            ->orderBy('p.publishedAt', 'DESC')
+            ->setMaxResults($limit)
+            ->getQuery()
+            ->getResult()
+        ;
+    }
+
+	public function findUeByName($name)
+    {
+		return $this
+			->createQueryBuilder('p')
+			->select('p.id')
+			//->addSelect('t')
+			->where('p.slug = :name')->setParameter('name', $name)
+			->getQuery()
+			->getSingleScalarResult();
+    }
 	
 }

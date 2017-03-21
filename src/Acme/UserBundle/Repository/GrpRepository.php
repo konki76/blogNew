@@ -36,7 +36,32 @@ class GrpRepository extends EntityRepository
             ->getResult()
         ;
     }
-
+	
+	public function findAllByUe($ue)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p')
+            ->where('p.ue = :ue')->setParameter('ue', $ue)
+            ->orderBy('p.ordre', 'ASC')
+           // ->setMaxResults($limit)
+            ->getQuery()
+            ->getResult()
+        ;
+    }
+	
+    public function findAllBySlug($slug)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p')
+            ->where('p.slug = :slug')->setParameter('slug', $slug)
+           // ->orderBy('p.publishedAt', 'DESC')
+           // ->setMaxResults($limit)
+            ->getQuery()
+            ->getResult()
+        ;
+    }
 	public function nextGrpCt($currentPid)
     {
 		return $this->createQueryBuilder('p')

@@ -3,9 +3,9 @@ parameters:
     database_driver: pdo_mysql
     database_host: 127.0.0.1
     database_port: null
-    database_name: chikai
+    database_name: xTarget
     database_user: root
-    database_password: salade
+    database_password: 
     mailer_transport: gmail
     username: alex.planchot@gmail.com
     password: 

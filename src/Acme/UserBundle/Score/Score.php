@@ -13,7 +13,7 @@ class ScoreHTML
     $content = $response->getContent();
 
     // Code à rajouter
-    $html = '<span style="color: red; font-size: 0.5em;"> - FROM Score Beta J-'.(int) $remainingDays.' !</span>';
+    //$html = '<span style="color: red; font-size: 0.5em;"> - FROM Score Beta J-'.(int) $remainingDays.' !</span>';
 
     // Insertion du code dans la page, dans le premier <h1>
     $content = preg_replace(

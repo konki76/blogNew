@@ -1,0 +1,715 @@
+A. ADN	42) Indiquer 2 éléments appartenant au nucléosome	UE2S100642	VRAI							segmo
+A. Les techniques de culture cellulaire sont réservées à des laboratoires de recherche de haute technologie	1) Quelles sont les 2 réponses exactes	UE2S100601	FAUX							segmo
+B. On connaît très bien tous les facteurs nécessaires à la culture cellulaire	1) Quelles sont les 2 réponses exactes	UE2S100601	FAUX							segmo
+C. Les milieux de culture comportent entre autres des acides aminés, des vitamines et des sels	1) Quelles sont les 2 réponses exactes	UE2S100601	VRAI							segmo
+D. Il n'existe que quelques lignées cellulaires disponibles dans le commerce	1) Quelles sont les 2 réponses exactes	UE2S100601	FAUX							segmo
+E. Des cellules peuvent fusionner pour former des hybrides	1) Quelles sont les 2 réponses exactes	UE2S100601	VRAI							segmo
+A. En général un tissu doit être fixé et coupé pour être examiné au microscope	2) Concernant les méthodes d'études	UE2S100602	VRAI							segmo
+B. Le microscope à contraste de phase permet de voir des cellules vivantes	2) Concernant les méthodes d'études	UE2S100602	VRAI							segmo
+C. Le microscope électronique utilise des colorants qui dévient des photons	2) Concernant les méthodes d'études	UE2S100602	FAUX	C. Faux : Dévie les électrons						segmo
+D. Une molécule de la taille de la myosine échappe à l'observation par ME	2) Concernant les méthodes d'études	UE2S100602	FAUX							segmo
+E. La cryofracture permet d'observer l'intérieur des membranes	2) Concernant les méthodes d'études	UE2S100602	VRAI							segmo
+A. Une des limites de la résolution d'un MO tient à la longueur d'onde de la lumière	3) Quelles sont la ou les réponses exactes	UE2S100603	VRAI							segmo
+B. Les virus se voient en MO	3) Quelles sont la ou les réponses exactes	UE2S100603	FAUX							segmo
+C. Les bactéries se voient en MO	3) Quelles sont la ou les réponses exactes	UE2S100603	VRAI							segmo
+D. La ME à balayage nécessite des coupes ultra fines	3) Quelles sont la ou les réponses exactes	UE2S100603	FAUX							segmo
+E. La microscopie confocale a les meilleures applications en fluorescence	3) Quelles sont la ou les réponses exactes	UE2S100603	VRAI							segmo
+A. Le formol est le fixateur universel en MO	4) Concernant les méthodes d'études 3R	UE2S100604	FAUX	il existe aussi le formaldéhyde						segmo
+B. Un colorant universel émet toujours une lumière verte	4) Concernant les méthodes d'études 3R	UE2S100604	FAUX							segmo
+C. Le microscope confocal a bénéficié des techniques d'information d'analyse d'images	4) Concernant les méthodes d'études 3R	UE2S100604	VRAI							segmo
+D. Pour une bonne fixation le volume de fixateur doit être dix fois celui de l'échantillon	4) Concernant les méthodes d'études 3R	UE2S100604	VRAI							segmo
+E. Le temps de fixation dépend de la taille de l'échantillon	4) Concernant les méthodes d'études 3R	UE2S100604	VRAI							segmo
+A. Nécessite toujours la création de coupes ultra fines	5) Concernant le microscope électronique 3R	UE2S100605	FAUX	ex MEB						segmo
+B. Se pratique couramment dans un laboratoire de routine	5) Concernant le microscope électronique 3R	UE2S100605	FAUX							segmo
+C. Permet d'observer des molécules isolées	5) Concernant le microscope électronique 3R	UE2S100605	VRAI							segmo
+D. A perdu de son intérêt en recherche depuis la fluorescence	5) Concernant le microscope électronique 3R	UE2S100605	VRAI							segmo
+E. A une résolution environ 1000 fois meilleure que la MO	5) Concernant le microscope électronique 3R	UE2S100605	VRAI							segmo
+A. Beaucoup de protéines membranaires diffusent dans le plan de la membrane	6) Quelles sont les 4 réponses exactes	UE2S100606	VRAI							segmo
+B. Même dans les cellules épithéliales toutes les protéines membranaires peuvent diffuser librement	6) Quelles sont les 4 réponses exactes	UE2S100606	FAUX							segmo
+C. Pour analyser les protéines intégrales de membrane il faut utiliser un détergent	6) Quelles sont les 4 réponses exactes	UE2S100606	VRAI							segmo
+D. La pompe sodium — potassium de la membrane plasmique est une ATPase	6) Quelles sont les 4 réponses exactes	UE2S100606	VRAI							segmo
+E. L'enregistrement local ou « patch clamp recording » a révolutionné l'étude des canaux ioniques	6) Quelles sont les 4 réponses exactes	UE2S100606	VRAI							segmo
+A. Les lipides membranaires sont totalement hydrophobes	7) Concernant la membrane plasmique	UE2S100607	FAUX	amphiphile						segmo
+B. Les membranes cellulaires sont constituées d'une seule couche lipidique	7) Concernant la membrane plasmique	UE2S100607	FAUX	bicouche						segmo
+C. La constitution lipidique de la membrane lui confère sa fluidité	7) Concernant la membrane plasmique	UE2S100607	VRAI							segmo
+D. Les lipides membranaires représentent un solvant pour les protéines membranaires	7) Concernant la membrane plasmique	UE2S100607	VRAI							segmo
+E. La bicouche lipidique est symétrique	7) Concernant la membrane plasmique	UE2S100607	FAUX							segmo
+A. Les membranes sont constituées d'une couche lipidique prise en sandwich entre 2 couches de protéines	8) Concernant la membrane plasmique	UE2S100608	FAUX							segmo
+B. Les lipides membranaires forment spontanément une bicouche	8) Concernant la membrane plasmique	UE2S100608	VRAI							segmo
+C. La membrane plasmique est dépourvue de cholestérol	8) Concernant la membrane plasmique	UE2S100608	FAUX							segmo
+D. Seule la membrane plasmique est glycosylée	8) Concernant la membrane plasmique	UE2S100608	FAUX							segmo
+E. La membrane plasmique est une mosaïque fluide	8) Concernant la membrane plasmique	UE2S100608	VRAI							segmo
+A. Ce sont des lipides membranaires	9) Concernant les radeaux lipidiques de la membrane plasmique 3R	UE2S100609	FAUX							segmo
+B. Ils sont riches en sphingolipides	9) Concernant les radeaux lipidiques de la membrane plasmique 3R	UE2S100609	VRAI							segmo
+C. Ils ont une fluidité locale augmentée	9) Concernant les radeaux lipidiques de la membrane plasmique 3R	UE2S100609	FAUX							segmo
+D. Ils forment de grandes plaques de plusieurs dizaines de nanomètres dans la cellule	9) Concernant les radeaux lipidiques de la membrane plasmique 3R	UE2S100609	VRAI							segmo
+E. Ils organisent la fonction des protéines membranaires	9) Concernant les radeaux lipidiques de la membrane plasmique 3R	UE2S100609	VRAI							segmo
+A. Consomment de l'oxygène	10) Concernant les péroxysomes	UE2S100610	VRAI							segmo
+B. Consomment du peroxyde d'hydrogène (H2O2)	10) Concernant les péroxysomes	UE2S100610	FAUX	B. Faux : Ils produisent du peroxyde d'hydrogène						segmo
+C. Sont limités par une double membrane	10) Concernant les péroxysomes	UE2S100610	FAUX	C. Faux : Limité par une seule membrane						segmo
+D. Contiennent des oxydases	10) Concernant les péroxysomes	UE2S100610	VRAI							segmo
+E. Contiennent de l'ADN	10) Concernant les péroxysomes	UE2S100610	FAUX	E. Faux : Ils ne contiennent ni ADN ni ribosomes						segmo
+A. Existe sous forme lisse et granulaire	11) Concernant le reticulum endoplasmique 4R	UE2S100611	VRAI							segmo
+B. S'appelle RE sarcoplasmique dans le muscle	11) Concernant le reticulum endoplasmique 4R	UE2S100611	VRAI							segmo
+C. Possède une membrane hautement spécialisée dans la translocation co-traductionnelle des protéines	11) Concernant le reticulum endoplasmique 4R	UE2S100611	VRAI							segmo
+D. Détermine lui même la topographie des protéines dans les membranes	11) Concernant le reticulum endoplasmique 4R	UE2S100611	FAUX							segmo
+E. Est une étape de décision dans l'itinéraire intracellulaire des protéines	11) Concernant le reticulum endoplasmique 4R	UE2S100611	VRAI							segmo
+A. S'appelle aussi complexe de Golgi	12) Concernant l'appareil de Golgi 4R	UE2S100612	VRAI							segmo
+B. A en général une situation périphérique dans la cellule	12) Concernant l'appareil de Golgi 4R	UE2S100612	FAUX	B. Faux : A une situation centrale plutôt						segmo
+C. Est constitué de citerne	12) Concernant l'appareil de Golgi 4R	UE2S100612	VRAI							segmo
+D. Possède une face d'entrée appelée cis	12) Concernant l'appareil de Golgi 4R	UE2S100612	VRAI							segmo
+E. Possède une face de sortie appelée trans	12) Concernant l'appareil de Golgi 4R	UE2S100612	VRAI							segmo
+A. Concentration, ségrégation, tri des protéines	13) Concernant les propriétés de l'appareil de Golgi	UE2S100613	VRAI							segmo
+B. Glycosilation des protéines	13) Concernant les propriétés de l'appareil de Golgi	UE2S100613	VRAI							segmo
+C. Epissage des protéines	13) Concernant les propriétés de l'appareil de Golgi	UE2S100613	FAUX							segmo
+D. Synthèse des lipides membranaires	13) Concernant les propriétés de l'appareil de Golgi	UE2S100613	FAUX							segmo
+E. Synthèse de nouvelles protéines	13) Concernant les propriétés de l'appareil de Golgi	UE2S100613	FAUX							segmo
+A. Le complexe de pore se voit en MO	14) Concernant les échanges noyau / cytosol	UE2S100614	FAUX							segmo
+B. Les ARN peuvent circuler librement entre le noyau et le cytosol	14) Concernant les échanges noyau / cytosol	UE2S100614	FAUX							segmo
+C. Les ribosomes immatures empruntent une autre voie pour sortir du noyau	14) Concernant les échanges noyau / cytosol	UE2S100614	FAUX							segmo
+D. Ils se font dans les 2 sens	14) Concernant les échanges noyau / cytosol	UE2S100614	VRAI							segmo
+E. Ils sont maximaux pendant la mitose	14) Concernant les échanges noyau / cytosol	UE2S100614	FAUX							segmo
+A. Noyau	15) Indiquez les 4 structures appartenant à la mitochondrie	UE2S100615	FAUX							segmo
+B. Ribosomes	15) Indiquez les 4 structures appartenant à la mitochondrie	UE2S100615	VRAI							segmo
+C. ADN	15) Indiquez les 4 structures appartenant à la mitochondrie	UE2S100615	VRAI							segmo
+D. Crêtes	15) Indiquez les 4 structures appartenant à la mitochondrie	UE2S100615	VRAI							segmo
+E. Matrice	15) Indiquez les 4 structures appartenant à la mitochondrie	UE2S100615	VRAI							segmo
+A. Elle fait intervenir des SRP et leur récepteur	16) Concernant la translocation des protéines dans le RE	UE2S100616	VRAI							segmo
+B. Elle ne nécessite pas de signal d'import	16) Concernant la translocation des protéines dans le RE	UE2S100616	FAUX							segmo
+C. Elle ne s'applique qu'aux protéines solubles	16) Concernant la translocation des protéines dans le RE	UE2S100616	FAUX							segmo
+D. Elle est en général co-traductionelle	16) Concernant la translocation des protéines dans le RE	UE2S100616	VRAI							segmo
+E. Se fait qu'au niveau du REG	16) Concernant la translocation des protéines dans le RE	UE2S100616	VRAI							segmo
+A. Canal protéique hydrophile	17) Indiquez les 3 modes de passages d'une protéine pour changer de compartiments	UE2S100617	FAUX							segmo
+B. Utilisateur d'un translocateur	17) Indiquez les 3 modes de passages d'une protéine pour changer de compartiments	UE2S100617	VRAI							segmo
+C. Pompe	17) Indiquez les 3 modes de passages d'une protéine pour changer de compartiments	UE2S100617	FAUX							segmo
+D. Utilisation de vésicules	17) Indiquez les 3 modes de passages d'une protéine pour changer de compartiments	UE2S100617	VRAI							segmo
+E. Passage à travers un portillon	17) Indiquez les 3 modes de passages d'une protéine pour changer de compartiments	UE2S100617	VRAI							segmo
+A. La pinocytose	18) Indiquez les 3 fonctions faisant appel au processus d'endocytose au sens large	UE2S100618	VRAI							segmo
+B. Le traffic vésiculaire Golgi lysosomes	18) Indiquez les 3 fonctions faisant appel au processus d'endocytose au sens large	UE2S100618	FAUX							segmo
+C. L'endocytose constitutive	18) Indiquez les 3 fonctions faisant appel au processus d'endocytose au sens large	UE2S100618	VRAI							segmo
+D. La transcytose	18) Indiquez les 3 fonctions faisant appel au processus d'endocytose au sens large	UE2S100618	VRAI							segmo
+E. Le trafic vésiculaire endosome lysosome	18) Indiquez les 3 fonctions faisant appel au processus d'endocytose au sens large	UE2S100618	FAUX							segmo
+A. Peut se faire par des vésicules de clathrine	19) Concernant l'exocytose	UE2S100619	VRAI							segmo
+B. Elle n'a lieu que dans les phagocytes	19) Concernant l'exocytose	UE2S100619	FAUX	B. Faux : L'exocytose constitutive a lieu dans toutes les cellules						segmo
+C. C'est un des éléments de la transcytose	19) Concernant l'exocytose	UE2S100619	VRAI							segmo
+D. Elle est indépendante de la sécrétion	19) Concernant l'exocytose	UE2S100619	FAUX							segmo
+E. Elle implique des phénomènes de fusion de membrane spécifiques	19) Concernant l'exocytose	UE2S100619	FAUX	E. Faux : Ce fait par transport vésiculaire, il n'y a pas de fusion de membrane dans ce transport						segmo
+A. La duplication des centrioles débute en phase G2	20) Concernant le cycle du centrosome 2R	UE2S100620	FAUX							segmo
+B. Les centrosomes sont à l'origine de l'aster	20) Concernant le cycle du centrosome 2R	UE2S100620	VRAI							segmo
+C. Les centrosomes disparaissent à la fin de la mitose	20) Concernant le cycle du centrosome 2R	UE2S100620	FAUX							segmo
+D. Pendant la mitose il y a deux centrosomes	20) Concernant le cycle du centrosome 2R	UE2S100620	VRAI							segmo
+E. Les centrosomes sont les lieux des moteurs d'ascension des chromosomes anaphasiques	20) Concernant le cycle du centrosome 2R	UE2S100620	FAUX							segmo
+A. La réplication de l'ADN a lieu pendant la phase S	21) Concernant le cycle cellulaire 2R	UE2S100621	VRAI							segmo
+B. Pendant l'interphase la quantité d'ADN est toujours 2n ADN	21) Concernant le cycle cellulaire 2R	UE2S100621	FAUX	B. Faux : L'interphase correspond a G2, S et G1, il y a une quantité 4n en S par exemple						segmo
+C. Le cycle cellulaire est régulé par l'entrée en phase M	21) Concernant le cycle cellulaire 2R	UE2S100621	FAUX	Les cdks (Cyclin-dependant kinases), contrôlées par les cyclines phosphorylent les protéines régulatrices du cycle cellulaire lors des différentes phases, les rendant actives.						segmo
+D. Toutes les cellules sont cyclantes	21) Concernant le cycle cellulaire 2R	UE2S100621	FAUX							segmo
+E. Le cycle cellulaire a une durée très variable	21) Concernant le cycle cellulaire 2R	UE2S100621	VRAI							segmo
+A. La métaplasie c'est la transformation d'un tissu différencié en un tissu indiférencié	22) Concernant la variabilité tissulaire 2R	UE2S100622	FAUX	A. Faux : La métaplasie c'est la transformation d'un tissu indifférencié en un autre tissu indifférencié						segmo
+B. L'apoptose est un mort physiologique de la cellule	22) Concernant la variabilité tissulaire 2R	UE2S100622	VRAI							segmo
+C. L'ectopie est toujours acquise	22) Concernant la variabilité tissulaire 2R	UE2S100622	FAUX	C. Faux : L'ectopie peut être acquise ou congénitale						segmo
+D. La nécrose est un phénomène de dégénérescence	22) Concernant la variabilité tissulaire 2R	UE2S100622	VRAI							segmo
+E. Il existe des phénomènes de métaplasie dans le tissu musculaire	22) Concernant la variabilité tissulaire 2R	UE2S100622	FAUX	E. Faux : Pas de métaplasie dans le muscle et le tissu nerveux						segmo
+A. Le sang est un tissu conjonctif	23) Concernant le tissu sanguin 3R	UE2S100623	VRAI							segmo
+B. Le globule rouge descend de la lignée myéloïde	23) Concernant le tissu sanguin 3R	UE2S100623	VRAI							segmo
+C. Les monocytes possèdent des grains dans le cytoplasme de couleurs différentes	23) Concernant le tissu sanguin 3R	UE2S100623	FAUX	C. Faux : Les monocytes possèdent des grains mais ils ne sont pas colorable						segmo
+D. Les cellules dendritiques dérivent des macrophages	23) Concernant le tissu sanguin 3R	UE2S100623	FAUX	D. Faux : Les cellules dendritiques comme les macrophages proviennent du monocyte						segmo
+E. Les plaquettes proviennent des fragments de cytoplasme cortical du mégacaryocyte	23) Concernant le tissu sanguin 3R	UE2S100623	VRAI							segmo
+A. Le positionnement central de la myosine dépend de la titine	24) Dans un sarcomère de cellule musculaire striée squelettique 3R	UE2S100624	VRAI							segmo
+B. La nébuline détermine la longueur de chaque filament d'actine	24) Dans un sarcomère de cellule musculaire striée squelettique 3R	UE2S100624	VRAI							segmo
+C. La tropomyosine stabilise les myosines en se liant sur toute leur longueur	24) Dans un sarcomère de cellule musculaire striée squelettique 3R	UE2S100624	FAUX	C. Faux : Elle se lie sur toute la longueur de l'actine						segmo
+D. La tropomyosine coiffe l'extrémité moins de chaque filament d'actine	24) Dans un sarcomère de cellule musculaire striée squelettique 3R	UE2S100624	FAUX	D. Faux : C'est la tropomoduline						segmo
+E. L'extrémité plus des filaments d'actine est ancrée dans la strie Z	24) Dans un sarcomère de cellule musculaire striée squelettique 3R	UE2S100624	VRAI							segmo
+A. Bande A	25) Sur une fibre musculaire striée relâchée, dans quelle région trouve-t-on de la myosine 3R	UE2S100625	VRAI							segmo
+B. Ligne M	25) Sur une fibre musculaire striée relâchée, dans quelle région trouve-t-on de la myosine 3R	UE2S100625	VRAI							segmo
+C. Strie Z	25) Sur une fibre musculaire striée relâchée, dans quelle région trouve-t-on de la myosine 3R	UE2S100625	FAUX							segmo
+D. Bande I	25) Sur une fibre musculaire striée relâchée, dans quelle région trouve-t-on de la myosine 3R	UE2S100625	FAUX							segmo
+E. Bande H	25) Sur une fibre musculaire striée relâchée, dans quelle région trouve-t-on de la myosine 3R	UE2S100625	VRAI							segmo
+A. Sa contraction est influencée par des hormones	26) Concernant le muscle squelettique 3R	UE2S100626	FAUX							segmo
+B. Peut se contracter sans commande consciente	26) Concernant le muscle squelettique 3R	UE2S100626	VRAI	réflexe						segmo
+C. S'appelle aussi muscle volontaire	26) Concernant le muscle squelettique 3R	UE2S100626	VRAI							segmo
+D. Est innervé par le système végétatif	26) Concernant le muscle squelettique 3R	UE2S100626	FAUX							segmo
+E. Ne peut déclencher sa propre contraction	26) Concernant le muscle squelettique 3R	UE2S100626	VRAI							segmo
+A. Son cytoplasme s'appelle sarcolème	27) Concernant la cellule musculaire squelettique 2R	UE2S100627	FAUX	A. Faux : = sarcoplasme						segmo
+B. Contient beaucoup de mitochondrie	27) Concernant la cellule musculaire squelettique 2R	UE2S100627	VRAI							segmo
+C. Une seule cellule forme un muscle	27) Concernant la cellule musculaire squelettique 2R	UE2S100627	FAUX							segmo
+D. A l'intérieur d'une cellule on retrouve de nombreux myofibrilles	27) Concernant la cellule musculaire squelettique 2R	UE2S100627	VRAI							segmo
+E. Une triade = 2 tubule T et un prolongement du R. sarcoplasmique	27) Concernant la cellule musculaire squelettique 2R	UE2S100627	FAUX	E. Faux : Une triade = 1 tubule T entouré de 2 prolongements du R. sarcoplasmique						segmo
+A. Se fait en l'absence de calcium	28) Concernant la contraction musculaire 3R	UE2S100628	FAUX	A. Faux : Phénomène calcium dépendant						segmo
+B. Est inhibé par la tropomyosine	28) Concernant la contraction musculaire 3R	UE2S100628	VRAI							segmo
+C. Nécessite la formation de ponts actine — myosine	28) Concernant la contraction musculaire 3R	UE2S100628	VRAI							segmo
+D. Ne consomme pas d'énergie	28) Concernant la contraction musculaire 3R	UE2S100628	FAUX							segmo
+E. La zone H diminue de taille pendant la contraction	28) Concernant la contraction musculaire 3R	UE2S100628	VRAI							segmo
+A. Classé selon leur longueur	29) Concernant la classification des tissus musculaires squelettiques 3R	UE2S100629	FAUX	A. Faux : Classé selon leur vitesse de conduction et leur résistance à la fatigue						segmo
+B. Les fibres a secousses rapides oxydatives glycolytiques se fatiguent plus rapidement que les fibres glycolytiques	29) Concernant la classification des tissus musculaires squelettiques 3R	UE2S100629	FAUX	B. Faux : C'est l'inverse						segmo
+C. Il existe 3 classes de tissus musculaires squelettiques	29) Concernant la classification des tissus musculaires squelettiques 3R	UE2S100629	VRAI							segmo
+D. Les fibres rapides se contractent plus rapidement car elles peuvent pomper le calcium intracellulaire plus rapidement	29) Concernant la classification des tissus musculaires squelettiques 3R	UE2S100629	VRAI							segmo
+E. Les fibres glycolytiques peuvent avoir un métabolisme anaérobie	29) Concernant la classification des tissus musculaires squelettiques 3R	UE2S100629	VRAI							segmo
+A. C'est le curare qui est le neurotransmetteur	30) Concernant les jonctions neuromusculaires 3R	UE2S100630	FAUX	A. Faux : C'est l'acétylcholine						segmo
+B. La portion post synaptique est formé par les replis du sarcolemme	30) Concernant les jonctions neuromusculaires 3R	UE2S100630	VRAI							segmo
+C. Inhibition de l'acétylcholinéstérase est responsable d'une interruption de la signalisation neuromusculaire	30) Concernant les jonctions neuromusculaires 3R	UE2S100630	VRAI							segmo
+D. L'ensemble des fibres desservies par un neurone moteur est appelé unité motrice	30) Concernant les jonctions neuromusculaires 3R	UE2S100630	VRAI							segmo
+E. La portion pré synaptique correspond aux sarcomères	30) Concernant les jonctions neuromusculaires 3R	UE2S100630	FAUX							segmo
+A. Les cils	31) Quelles sont les 4 structures appartenant au neurone	UE2S100631	FAUX							segmo
+B. Le soma	31) Quelles sont les 4 structures appartenant au neurone	UE2S100631	VRAI							segmo
+C. Les corps de Nissl	31) Quelles sont les 4 structures appartenant au neurone	UE2S100631	VRAI							segmo
+D. Les axones	31) Quelles sont les 4 structures appartenant au neurone	UE2S100631	VRAI							segmo
+E. Les dendrites	31) Quelles sont les 4 structures appartenant au neurone	UE2S100631	VRAI							segmo
+A. Multiplication cellulaire active	32) Quelles sont les caractéristiques du tissu nerveux 3R	UE2S100632	FAUX	A. Faux : Les cellules nerveuses sont bloquées en GO						segmo
+B. Synthèse de collagène	32) Quelles sont les caractéristiques du tissu nerveux 3R	UE2S100632	FAUX							segmo
+C. Intégration	32) Quelles sont les caractéristiques du tissu nerveux 3R	UE2S100632	VRAI							segmo
+D. Excitabilité ou irritabilité	32) Quelles sont les caractéristiques du tissu nerveux 3R	UE2S100632	VRAI							segmo
+E. Conduction	32) Quelles sont les caractéristiques du tissu nerveux 3R	UE2S100632	VRAI							segmo
+A. Il a un diamètre constant	33) Concernant l'axone 2R	UE2S100633	VRAI							segmo
+B. Il est tout entier dans la substance blanche	33) Concernant l'axone 2R	UE2S100633	FAUX							segmo
+C. L'influx nerveux est centrifuge	33) Concernant l'axone 2R	UE2S100633	VRAI							segmo
+D. Il a un rôle de réception	33) Concernant l'axone 2R	UE2S100633	FAUX							segmo
+E. Il est toujours centrifuge par rapport au SNC	33) Concernant l'axone 2R	UE2S100633	FAUX							segmo
+A. Est une cellule conjonctive	34) Concernant la cellule de Schwann 1R	UE2S100634	FAUX							segmo
+B. Est une cellule épithéliale	34) Concernant la cellule de Schwann 1R	UE2S100634	FAUX							segmo
+C. Est une cellule nerveuse	34) Concernant la cellule de Schwann 1R	UE2S100634	FAUX							segmo
+D. Est une cellule gliale	34) Concernant la cellule de Schwann 1R	UE2S100634	VRAI							segmo
+E. Est un macrophage mononuclée	34) Concernant la cellule de Schwann 1R	UE2S100634	FAUX	cellule gliale						segmo
+A. Se poursuit tout le long de l'axone sans décrément	35) Concernant le potentiel gradué 2R	UE2S100635	FAUX							segmo
+B. Se poursuit sur de courtes distances	35) Concernant le potentiel gradué 2R	UE2S100635	VRAI							segmo
+C. Génère toujours un PA	35) Concernant le potentiel gradué 2R	UE2S100635	FAUX							segmo
+D. Peut être inhibiteur	35) Concernant le potentiel gradué 2R	UE2S100635	VRAI							segmo
+E. Existe grâce à l'ouverture des canaux cl-	35) Concernant le potentiel gradué 2R	UE2S100635	FAUX							segmo
+A. Commence par une hyperpolarisation	36) Concernant les potentiels d'actions 2R	UE2S100636	FAUX	dépolarisation						segmo
+B. Tous les stimuli entraînent un PA	36) Concernant les potentiels d'actions 2R	UE2S100636	FAUX							segmo
+C. Ce sont les canaux sodiques qui permettent la dépolarisation	36) Concernant les potentiels d'actions 2R	UE2S100636	VRAI							segmo
+D. Les PA sont conduit le long de l'axone dans un seul sens	36) Concernant les potentiels d'actions 2R	UE2S100636	VRAI							segmo
+E. L'axone non myélénisé ont une conduction très rapide de l'influx nerveux	36) Concernant les potentiels d'actions 2R	UE2S100636	FAUX							segmo
+A. L'histologie est la science qui étudie l'anatomie microscopique des cellules	37) Concernant la diversité des cellules	UE2S100637	FAUX	A. science qui étudie les tissus ( cellules = cytologie)						segmo
+B. Les procaryotes sont le plus souvent unicellulaires	37) Concernant la diversité des cellules	UE2S100637	VRAI							segmo
+C. Les procaryotes possèdent qu'un seul chromosome présent dans un noyau allongé	37) Concernant la diversité des cellules	UE2S100637	FAUX	C. pas de noyau chez le procaryote !!						segmo
+D. Mycoplasma genitalium est l'un des plus petits génomes connus	37) Concernant la diversité des cellules	UE2S100637	VRAI							segmo
+A. Les synapses électriques sont retrouvées dans les muscles lisses	38) Concernant les synapses 3R	UE2S100638	VRAI							segmo
+B. Le potentiel d'action polarise la terminaison axonale permettant l'ouverture des canaux Ca2+ voltages dépendant	38) Concernant les synapses 3R	UE2S100638	FAUX	B. dépolarise						segmo
+C. Si le potentiel synaptique est dépolarisant il est appelé potentiel post synaptique excitateur	38) Concernant les synapses 3R	UE2S100638	VRAI							segmo
+D. Les réponses post synaptiques lentes font intervenir un second messager	38) Concernant les synapses 3R	UE2S100638	VRAI							segmo
+E. La transmission neurocrine est plus lente que la transmission endocrine	38) Concernant les synapses 3R	UE2S100638	FAUX							segmo
+A. Recapture par la terminaison axonale de la cellule présynaptique	39) Quels sont les 3 mécanismes permettant l'inactivation du neuromédiateur	UE2S100639	VRAI							segmo
+B. Recapture par les cellules gliales	39) Quels sont les 3 mécanismes permettant l'inactivation du neuromédiateur	UE2S100639	VRAI							segmo
+C. Recapture par la cellule postsynaptique	39) Quels sont les 3 mécanismes permettant l'inactivation du neuromédiateur	UE2S100639	FAUX							segmo
+D. Inactivation par des enzymes dans la fente synaptique	39) Quels sont les 3 mécanismes permettant l'inactivation du neuromédiateur	UE2S100639	VRAI							segmo
+E. Phagocyté par des macrophages	39) Quels sont les 3 mécanismes permettant l'inactivation du neuromédiateur	UE2S100639	FAUX							segmo
+A. Tous les gènes de l'ADN codent pour des protéines	40) Concernant l'ADN 3R	UE2S100640	FAUX	A. ils synthétisent soit des proteines soit des ARNr soit sont inactifs						segmo
+B. L'ADN sert de matrice pour sa propre réplication	40) Concernant l'ADN 3R	UE2S100640	VRAI							segmo
+C. Un patient atteint de klinnefelter à un caryotype: 47, XXY	40) Concernant l'ADN 3R	UE2S100640	VRAI							segmo
+D. La complexité d'un organisme est corrélée à son nombre de gènes	40) Concernant l'ADN 3R	UE2S100640	VRAI							segmo
+E. Guanine, adénine sont des bases pyrimidiques	40) Concernant l'ADN 3R	UE2S100640	FAUX	puriques						segmo
+A. Origines de réplication	41) Les trois séquences nécessaires et suffisantes pour se dupliquer et passer d'une génération a l'autre sont:	UE2S100641	VRAI							segmo
+B. Télomères	41) Les trois séquences nécessaires et suffisantes pour se dupliquer et passer d'une génération a l'autre sont:	UE2S100641	VRAI							segmo
+C. Nucléosomes	41) Les trois séquences nécessaires et suffisantes pour se dupliquer et passer d'une génération a l'autre sont:	UE2S100641	FAUX							segmo
+D. Protéines de compaction	41) Les trois séquences nécessaires et suffisantes pour se dupliquer et passer d'une génération a l'autre sont:	UE2S100641	FAUX							segmo
+E. Centromères	41) Les trois séquences nécessaires et suffisantes pour se dupliquer et passer d'une génération a l'autre sont:	UE2S100641	VRAI							segmo
+B. Histone H1	42) Indiquer 2 éléments appartenant au nucléosome	UE2S100642	FAUX	B. H1 est extranucléosomale						segmo
+C. Histone H3	42) Indiquer 2 éléments appartenant au nucléosome	UE2S100642	VRAI							segmo
+D. Histone H3A	42) Indiquer 2 éléments appartenant au nucléosome	UE2S100642	FAUX							segmo
+E. Nucléoporine	42) Indiquer 2 éléments appartenant au nucléosome	UE2S100642	FAUX							segmo
+A. Tout l'ADN est sous forme nucléosomale	43) Concernant l'ADN 3R	UE2S100643	FAUX							segmo
+B. Le noyau nucléosomal est le premier niveau d'emballage de l'ADN	43) Concernant l'ADN 3R	UE2S100643	VRAI							segmo
+C. L'organisation supérieur de la chromatine en fibre de 30 nm est fréquente dans la cellule vivante	43) Concernant l'ADN 3R	UE2S100643	VRAI							segmo
+D. L'histone H1 joue un role primordiale dans la régulation de l'activité de la chromatine	43) Concernant l'ADN 3R	UE2S100643	FAUX							segmo
+E. L'acetylation des queues des histones rend possible la transcription des gènes	43) Concernant l'ADN 3R	UE2S100643	VRAI							segmo
+A. Ils sont constitués d'ARN et de protéines	44) Concernant les ribosomes 3R	UE2S100644	VRAI							segmo
+B. Ils sont synthétisés à partir de gènes situé sur les tiges satellites des chromosomes acrocentrique	44) Concernant les ribosomes 3R	UE2S100644	VRAI							segmo
+C. La synthèse des ARNr (ribosomaux) se fait dans un organite intranuclaire: le nucléole	44) Concernant les ribosomes 3R	UE2S100644	FAUX	C. Le nucléole n'est pas un organite car il n'est pas individualisé par une membrane						segmo
+D. Les ARNr sont les ARN les plus représentés dans la cellule	44) Concernant les ribosomes 3R	UE2S100644	VRAI							segmo
+E. L'amplification des ARNr se fait lors de la traduction	44) Concernant les ribosomes 3R	UE2S100644	FAUX	E. L'amplification des ARN r est possible grace à la présence de gènes en tandem						segmo
+A. Génes d'ARNr	45) Indiquer les 4 éléments présent dans le nucléole	UE2S100645	VRAI	protéines ribosomales, gènes d'ARNr, ARNt, Sno RNPs						segmo
+B. ARNt	45) Indiquer les 4 éléments présent dans le nucléole	UE2S100645	VRAI	protéines ribosomales, gènes d'ARNr, ARNt, Sno RNPs						segmo
+C. ARN m	45) Indiquer les 4 éléments présent dans le nucléole	UE2S100645	FAUX	protéines ribosomales, gènes d'ARNr, ARNt, Sno RNPs						segmo
+D. Sno RNPs	45) Indiquer les 4 éléments présent dans le nucléole	UE2S100645	VRAI	protéines ribosomales, gènes d'ARNr, ARNt, Sno RNPs						segmo
+E. protéines ribosomales	45) Indiquer les 4 éléments présent dans le nucléole	UE2S100645	VRAI	protéines ribosomales, gènes d'ARNr, ARNt, Sno RNPs						segmo
+A. Les neurones sont très pauvre en microtubules	46) Concernant le cytosquelette 2R	UE2S100646	FAUX							segmo
+B. Le muscle est particulièrement adapté à l'étude des microtubules	46) Concernant le cytosquelette 2R	UE2S100646	FAUX	B. MFA						segmo
+C. Les filaments intermédiaires sont abondants dans les cellules migratrices	46) Concernant le cytosquelette 2R	UE2S100646	FAUX	C. MFA						segmo
+D. On a une organisation en faisceau parallèle d'actine dans les microvilosités des entérocytes	46) Concernant le cytosquelette 2R	UE2S100646	VRAI							segmo
+E. Il peut se voir en microscopie optique	46) Concernant le cytosquelette 2R	UE2S100646	VRAI							segmo
+A. Mouvement des organites	47) Indiquez 3 rôles du cytosquelette 3R	UE2S100647	VRAI							segmo
+B. Fusion de membrane	47) Indiquez 3 rôles du cytosquelette 3R	UE2S100647	FAUX							segmo
+C. Réplication des chromosomes	47) Indiquez 3 rôles du cytosquelette 3R	UE2S100647	FAUX							segmo
+D. Migration des cellules	47) Indiquez 3 rôles du cytosquelette 3R	UE2S100647	VRAI	par l'actine						segmo
+E. Contraction musculaire	47) Indiquez 3 rôles du cytosquelette 3R	UE2S100647	VRAI							segmo
+A. Condensation des chromosomes	48) Indiquez 3 facteurs agissant sur la dynamique des microtubules	UE2S100648	FAUX							segmo
+B. Concentration en tubuline libre	48) Indiquez 3 facteurs agissant sur la dynamique des microtubules	UE2S100648	VRAI							segmo
+C. Position des filaments d'actine	48) Indiquez 3 facteurs agissant sur la dynamique des microtubules	UE2S100648	FAUX							segmo
+D. Existence de centre de nucléation	48) Indiquez 3 facteurs agissant sur la dynamique des microtubules	UE2S100648	VRAI							segmo
+E. Les protéines associées aux microtubules	48) Indiquez 3 facteurs agissant sur la dynamique des microtubules	UE2S100648	VRAI							segmo
+A. Leur polymérisation nécessite une nucléation	49) Indiquez 3 points communs à l'actine et à la tubuline	UE2S100649	VRAI	A. COMT : MT <br>ARP : MFA						segmo
+B. Ils sont codés par plusieurs gènes	49) Indiquez 3 points communs à l'actine et à la tubuline	UE2S100649	VRAI							segmo
+C. leur extrémité + est la plus dynamique	49) Indiquez 3 points communs à l'actine et à la tubuline	UE2S100649	VRAI							segmo
+D. Ils fixent l'ATP	49) Indiquez 3 points communs à l'actine et à la tubuline	UE2S100649	FAUX	GTP pour les MT						segmo
+E. Ils interviennent dans la contraction musculaire	49) Indiquez 3 points communs à l'actine et à la tubuline	UE2S100649	FAUX							segmo
+A. Le desmosome	50) Indiquez la structure qui n'appartient pas aux jonctions intercellulaires	UE2S100650	FAUX							segmo
+B. L'hémidesmosome	50) Indiquez la structure qui n'appartient pas aux jonctions intercellulaires	UE2S100650	VRAI	B. jonction cellule-matrice						segmo
+C. La jonction étanche	50) Indiquez la structure qui n'appartient pas aux jonctions intercellulaires	UE2S100650	FAUX							segmo
+D. L'adhésion en ceinture	50) Indiquez la structure qui n'appartient pas aux jonctions intercellulaires	UE2S100650	FAUX							segmo
+E. La jonction communicante	50) Indiquez la structure qui n'appartient pas aux jonctions intercellulaires	UE2S100650	FAUX							segmo
+A. Intégrine	51) Indiquez 4 molécules qui appartiennent au desmosome	UE2S100651	FAUX	A. Les intégrines sont les protéines d'adhesions transmembranaires intervenant dans les jonctions cellules-matrice						segmo
+B. desmoplakine	51) Indiquez 4 molécules qui appartiennent au desmosome	UE2S100651	VRAI							segmo
+C. desmogléine	51) Indiquez 4 molécules qui appartiennent au desmosome	UE2S100651	VRAI							segmo
+D. plakophiline	51) Indiquez 4 molécules qui appartiennent au desmosome	UE2S100651	VRAI							segmo
+E. plakoglobine	51) Indiquez 4 molécules qui appartiennent au desmosome	UE2S100651	VRAI							segmo
+A. Elles sont abondantes dans les tissus conjonctifs	52) Concernant les jonctions intercellulaires 4R	UE2S100652	FAUX	++ épithélial						segmo
+B. Elles se rencontrent surtout dans les tissus épithéliaux	52) Concernant les jonctions intercellulaires 4R	UE2S100652	VRAI							segmo
+C. Elles délimitent des domaines dans la membrane plasmique	52) Concernant les jonctions intercellulaires 4R	UE2S100652	VRAI							segmo
+D. Elles sont intimement liées au cytosquelette	52) Concernant les jonctions intercellulaires 4R	UE2S100652	VRAI							segmo
+E. Elles peuvent être visualisées en microscopie électronique après cryofracture.	52) Concernant les jonctions intercellulaires 4R	UE2S100652	VRAI							segmo
+A. Il existe quatre tissus fondamentaux	53) Concernant l'embryologie des tissus 3R	UE2S100653	FAUX	A. 3 tissus fondamentaux<br>ecto- ento- méso-blaste						segmo
+B. Le feuillet superficiel ou ectoblaste est à l'origine de l'épiderme	53) Concernant l'embryologie des tissus 3R	UE2S100653	VRAI							segmo
+C. Un tissu désigne un assemblage de cellules susceptibles d'exercer une activité physiologique quelconque	53) Concernant l'embryologie des tissus 3R	UE2S100653	FAUX	C. le but des tissus c'est d'acquérir une activité physiologique précise						segmo
+D. L'endoblaste ou feuillet profond donne naissance au tube digestif	53) Concernant l'embryologie des tissus 3R	UE2S100653	VRAI							segmo
+E. Les feuillets fondamentaux de l'embryon sont tous à l' origine de tissu épithéliaux	53) Concernant l'embryologie des tissus 3R	UE2S100653	VRAI							segmo
+A. Il repose sur une lame basale	54) Concernant l'épithélium urinaire 2R	UE2S100654	VRAI							segmo
+B. Il est kératinisé	54) Concernant l'épithélium urinaire 2R	UE2S100654	FAUX							segmo
+C. Il est cilié	54) Concernant l'épithélium urinaire 2R	UE2S100654	FAUX							segmo
+D. Il est pseudostratifié	54) Concernant l'épithélium urinaire 2R	UE2S100654	VRAI							segmo
+E. Il est pavimenteux	54) Concernant l'épithélium urinaire 2R	UE2S100654	FAUX	pseudo-stratifié						segmo
+A. Les cellules épithéliales reposent directement sur le tissu conjonctif sans interposition de lame basale	55) Concernant l'endothélium (épithélium des vaisseaux sanguins) 2R	UE2S100655	FAUX							segmo
+B. Il est pavimenteux	55) Concernant l'endothélium (épithélium des vaisseaux sanguins) 2R	UE2S100655	VRAI							segmo
+C. Il est épais	55) Concernant l'endothélium (épithélium des vaisseaux sanguins) 2R	UE2S100655	FAUX							segmo
+D. Il s'agit d'un épithélium d'échange	55) Concernant l'endothélium (épithélium des vaisseaux sanguins) 2R	UE2S100655	VRAI							segmo
+E. Il contient de nombreux fibroblastes	55) Concernant l'endothélium (épithélium des vaisseaux sanguins) 2R	UE2S100655	FAUX							segmo
+A. paracrine	56) Quels sont les trois types de sécrétion endocrine	UE2S100656	VRAI							segmo
+B. autocrine	56) Quels sont les trois types de sécrétion endocrine	UE2S100656	VRAI							segmo
+C. apocrine	56) Quels sont les trois types de sécrétion endocrine	UE2S100656	FAUX	autocrine, paracrine et neurocrine						segmo
+D. holocrine	56) Quels sont les trois types de sécrétion endocrine	UE2S100656	FAUX							segmo
+E. neurocrine	56) Quels sont les trois types de sécrétion endocrine	UE2S100656	VRAI							segmo
+A. de glycosaminoglycanes	57) La matrice extracellulaire est constituée: 3R	UE2S100657	VRAI							segmo
+B. de protéoglyeanes	57) La matrice extracellulaire est constituée: 3R	UE2S100657	VRAI							segmo
+C. d'acides nucléiques	57) La matrice extracellulaire est constituée: 3R	UE2S100657	FAUX							segmo
+D. de protéines fibreuses	57) La matrice extracellulaire est constituée: 3R	UE2S100657	VRAI							segmo
+E. de lipides membranaires	57) La matrice extracellulaire est constituée: 3R	UE2S100657	FAUX							segmo
+A. Le plus simple des glycosaminoglycannes (GAG)	58) Concernant l'acide hyaluronique 4R	UE2S100658	VRAI							segmo
+B. Il est présent dans tous les tissus	58) Concernant l'acide hyaluronique 4R	UE2S100658	VRAI							segmo
+C. Il est le composant majeur des protéoglycannes	58) Concernant l'acide hyaluronique 4R	UE2S100658	FAUX	C. l'acide hyaluronique ne se lie jamais de manière covalente à une proteine ! Donc ne peut pas former de PG						segmo
+D. Il joue un rôle dans la réparation des plaies	58) Concernant l'acide hyaluronique 4R	UE2S100658	VRAI							segmo
+E. Il est composé d'un seul type d'unité disaccharidique	58) Concernant l'acide hyaluronique 4R	UE2S100658	VRAI							segmo
+A. La formule [a 1(III)]3 correspond à un collagène de type III	59) Concernant le collagène 2R	UE2S100659	VRAI							segmo
+B. Le collagène est une molécule intracellulaire	59) Concernant le collagène 2R	UE2S100659	FAUX							segmo
+C. La chondrodysplasie est une mutation du gène codant pour le collagène de type I	59) Concernant le collagène 2R	UE2S100659	FAUX	C. les maladies cartilagineuses vont essentiellement toucher l'organisation du collagène de type II						segmo
+D. Le procollagène s'assemble en fibrilles dans l'appareil de Golgi	59) Concernant le collagène 2R	UE2S100659	FAUX	D. l'assemblage est extracellulaire						segmo
+E. Le collagène de type IV est abondant dans la lame basale	59) Concernant le collagène 2R	UE2S100659	VRAI							segmo
+A. Ils sont constitués de lamelles osseuses concentriques	60. Concernant les ostéons 2R	UE2S100660	VRAI							segmo
+B. Ils sont centrés par les canaux de Volkmann	60. Concernant les ostéons 2R	UE2S100660	FAUX	Havers						segmo
+C. On en trouve dans tous les types d'os adulte	60. Concernant les ostéons 2R	UE2S100660	FAUX	C. on les retrouve dans les os long						segmo
+D. Ils sont retrouvés uniquement au niveau de l'os compact	60. Concernant les ostéons 2R	UE2S100660	VRAI							segmo
+E. Ils contiennent de la moelle osseuse hématopoïétique	60. Concernant les ostéons 2R	UE2S100660	FAUX	E. la M.O. est située dans la cavité médullaire						segmo
+A. On trouve, au sein de l'os compact une cavité médullaire bordée par le périoste	61) Concernant les organes osseux 2R	UE2S100661	FAUX	bordé par l'endoste						segmo
+B. On trouve, au sein de l'os compact une cavité médullaire bordée par l'endoste	61) Concernant les organes osseux 2R	UE2S100661	VRAI							segmo
+C. L'endoste, contrairement au périoste, n'a aucune signification physiologique	61) Concernant les organes osseux 2R	UE2S100661	FAUX							segmo
+D. Les ostéons des os spongieux contiennent une grande quantité d'ostéocytes vieillis, signe de l'activité métabolique important de cet organe	61) Concernant les organes osseux 2R	UE2S100661	FAUX							segmo
+E. Le tissu osseux compact est de type lamellaire	61) Concernant les organes osseux 2R	UE2S100661	VRAI							segmo
+A. C'est une structure dynamique en perpétuel renouvellement, siège d'une destruction et d'une reconstruction permanentes	62) Concernant le tissu osseux 3R	UE2S100662	VRAI							segmo
+B. l'ossification endochondrale permet la croissance en longueur des os long	62) Concernant le tissu osseux 3R	UE2S100662	VRAI							segmo
+C. les ostéons sont reliés entre eux par les canaux de wolkman	62) Concernant le tissu osseux 3R	UE2S100662	VRAI							segmo
+D. Le canal de wolkman est situé au centre du système de Havers	62) Concernant le tissu osseux 3R	UE2S100662	FAUX							segmo
+E. L'ostéoporose est caractérisée par un gain de densité minérale osseuse	62) Concernant le tissu osseux 3R	UE2S100662	FAUX	E. l'ostéoporose est rencontrée essentiellement chez les personnes âgées et se traduit par un faiblesse osseuse par perte de Ca2+						segmo
+A. Ostéoblastes	63) Quelles sont les cellules qui ont une activité métabolique importante 2R	UE2S100663	VRAI							segmo
+B. Ostéoclastes	63) Quelles sont les cellules qui ont une activité métabolique importante 2R	UE2S100663	VRAI							segmo
+C. Ostéocytes	63) Quelles sont les cellules qui ont une activité métabolique importante 2R	UE2S100663	FAUX							segmo
+D. Cellules bordantes	63) Quelles sont les cellules qui ont une activité métabolique importante 2R	UE2S100663	FAUX							segmo
+E. Chondrocytes	63) Quelles sont les cellules qui ont une activité métabolique importante 2R	UE2S100663	FAUX							segmo
+A. les chondrocytes occupent des loges appelées chondroplastes	64) Concernant le tissu cartilagineux 4R	UE2S100664	VRAI							segmo
+B. les insertions tendineuses et les ménisques sont entre autre formés de cartillage fibreux.	64) Concernant le tissu cartilagineux 4R	UE2S100664	VRAI							segmo
+C. La couche externe du périchondre est qualifié de couche fibreuse car elle comporte une composante fibreuse collagénique majeure	64) Concernant le tissu cartilagineux 4R	UE2S100664	VRAI							segmo
+D. C'est un tissu non vascularisé et non innervé	64) Concernant le tissu cartilagineux 4R	UE2S100664	VRAI							segmo
+E. Le tissu cartillagineux a une faible teneur en eau permettant de lutter contre les forces de compression	64) Concernant le tissu cartilagineux 4R	UE2S100664	FAUX	Le cartilage est fortement hydraté						segmo
+A. La réplication des chromosomes précède chacune des divisions méiotique	65) Concernant la méiose 3R	UE2S100665	FAUX	A. seulement avant l'entrée en méiose I, quantité d'ADN 4n						segmo
+B. La méiose I est dite équationnelle	65) Concernant la méiose 3R	UE2S100665	FAUX	B méiose I = réductionnelle						segmo
+C. La méiose I est dite réductionnelle	65) Concernant la méiose 3R	UE2S100665	VRAI							segmo
+D. La méiose est un mécanisme de division cellulaire particulier à la lignée germinale	65) Concernant la méiose 3R	UE2S100665	VRAI							segmo
+E. Les recombinaisons génétiques surviennent au cours de la première division méiotique	65) Concernant la méiose 3R	UE2S100665	VRAI							segmo
+A. La ségrégation aléatoire des chromosomes survient en méiose II	66) concernant la méiose 3R	UE2S100666	FAUX	A. méiose I						segmo
+B. Au cours de la méiose II on a séparation des chromatides soeurs par clivage des télomères	66) concernant la méiose 3R	UE2S100666	FAUX	B. séparation des centromères						segmo
+C. La prophase de la première division méiotique comprend 5 stades	66) concernant la méiose 3R	UE2S100666	VRAI							segmo
+D. L'appariement des chromosomes homologues débute au stade zygotène par leurs télomères	66) concernant la méiose 3R	UE2S100666	VRAI							segmo
+E. C'est au stade pachytène que l'on a une condensation maximale des chromosomes	66) concernant la méiose 3R	UE2S100666	VRAI							segmo
+A. Ils permettent l'appariement des chromosomes homologues entre eux	67) Concernant les complexes synaptonémaux 3R	UE2S100667	VRAI							segmo
+B. Il est constitué de deux éléments latéraux fin et d'un élement central épais	67) Concernant les complexes synaptonémaux 3R	UE2S100667	FAUX	2 él lat épais relié par des filaments transversaux fins						segmo
+C. Sur les éléments latéraux se fixent la chromatine paternelle d'un côté et la chromatine maternelle de l'autre	67) Concernant les complexes synaptonémaux 3R	UE2S100667	VRAI							segmo
+D. Le complexe cohésine est constitué de 3 protéines ( SCP 1, 2 et 3)	67) Concernant les complexes synaptonémaux 3R	UE2S100667	FAUX	D. 4 protéines il y a aussi MLH1						segmo
+E. SCP1 est situé sur l'élément central	67) Concernant les complexes synaptonémaux 3R	UE2S100667	VRAI							segmo
+A. Au cours du stade pachytène les chromosomes X et Y appariés forment la vésicule sexuelle	68) Concernant la spermatogénése 3R	UE2S100668	VRAI							segmo
+B. L'appariement des chromosomes X et Y se fait dans les régions pseudo autosomales	68) Concernant la spermatogénése 3R	UE2S100668	VRAI							segmo
+C. Les tubes séminifères sont responsables uniquement de la fonction endocrine du testicule	68) Concernant la spermatogénése 3R	UE2S100668	FAUX							segmo
+D. Les cellules de sertolli sont situées dans le tissu interstitiel	68) Concernant la spermatogénése 3R	UE2S100668	FAUX	Leydig						segmo
+E. La membrane propre du tube séminifère fait partie de la barrière hémato testiculaire	68) Concernant la spermatogénése 3R	UE2S100668	VRAI							segmo
+A. Elle comprend: la spermatocytogénése, la spermiogénése et la spermiation	69) Concernant la spermatogénése 3R	UE2S100669	VRAI							segmo
+B. Le spermatocyte I contient 46 chromosomes à 4n ADN	69) Concernant la spermatogénése 3R	UE2S100669	VRAI							segmo
+C. Les spermatogonies sont en contact avec la lumière des tubes séminifères	69) Concernant la spermatogénése 3R	UE2S100669	FAUX	C. Elle est en contact avec la membrane basale des tubes séminifères						segmo
+D. Les spermatogonies sont des cellules haploides	69) Concernant la spermatogénése 3R	UE2S100669	FAUX	D. Diploide						segmo
+E. Les spermatogonies Ap ont une chromatine fine et dispersé	69) Concernant la spermatogénése 3R	UE2S100669	VRAI	E. Ap : P pour pale décondensé / Ad : D pour dark condensé						segmo
+A. L'acrosome provient de la coalescence des vésicules et vacuoles golgiennes	70) Concernant la spermiogénése 2R	UE2S100670	VRAI							segmo
+B. Le centriole proximal élabore le flagelle du spermatozoide	70) Concernant la spermiogénése 2R	UE2S100670	FAUX	B. Centriole distal						segmo
+C. On observe une migration postéro antérieur des mitochondries pour aller se placer dans la partie initiale du flagelle	70) Concernant la spermiogénése 2R	UE2S100670	FAUX	C. Migration antéro postérieure						segmo
+D. Le cytoplasme éliminé va étre phagocyté par les cellules de sertolie	70) Concernant la spermiogénése 2R	UE2S100670	VRAI							segmo
+E. Les manchettes sont des structures permanentes s'enroulent autour du noyau	70) Concernant la spermiogénése 2R	UE2S100670	FAUX	E. Structure transitoire						segmo
+A. L'ovogenèse est un processus continu de la puberté à la senescence	71) Concernant l'ovogénése 2R	UE2S100671	FAUX	processus discontinu de l'embryogenèse à la ménaupose						segmo
+B. L'ovogénése est un processus discontinu	71) Concernant l'ovogénése 2R	UE2S100671	VRAI							segmo
+C. L'ovogénése s'arréte a la ménopause	71) Concernant l'ovogénése 2R	UE2S100671	VRAI							segmo
+D. L'ovogénèse débute à la puberté	71) Concernant l'ovogénése 2R	UE2S100671	FAUX							segmo
+E. L'ovogénèse s'achève pendant la vie foetale	71) Concernant l'ovogénése 2R	UE2S100671	FAUX							segmo
+A. L'ovaire possède une double fonction endocrine et exocrine	72) Concernant l'ovaire 3R	UE2S100672	VRAI							segmo
+B. L'ovaire est composé d'une région corticale et médulaire	72) Concernant l'ovaire 3R	UE2S100672	VRAI							segmo
+C. Les follicules ovariens sont situés au sein de l'épithélium germinal	72) Concernant l'ovaire 3R	UE2S100672	FAUX	C. situés au sein du TC germinal : Le stroma						segmo
+D. A partir de la puberté, la corticale de l'ovaire contient des follicules à différents stades de leur évolution.	72) Concernant l'ovaire 3R	UE2S100672	VRAI							segmo
+E. Le follicule ovarien est séparé du stroma par une barrière hémato ovarienne	72) Concernant l'ovaire 3R	UE2S100672	FAUX							segmo
+A. L'ovocyte ovulé comporte 23 chromosomes, chacun composé de 2 chromatides	73) Concernant l'ovogénése 3R	UE2S100673	VRAI	fécondé : 23 K n Kt						segmo
+B. Le premier globule polaire comporte 23 chromosomes à 2 chromatides	73) Concernant l'ovogénése 3R	UE2S100673	VRAI							segmo
+C. L'ovulation est secondaire a un pic de FSH	73) Concernant l'ovogénése 3R	UE2S100673	FAUX	pic de LH						segmo
+D. L'ovocyte ovulé est un ovocyte II	73) Concernant l'ovogénése 3R	UE2S100673	VRAI							segmo
+E. Le folllicule de degraaf n'est pas visible a l'oeil nu	73) Concernant l'ovogénése 3R	UE2S100673	FAUX							segmo
+A. La capacitation des spermatozoïdes s'effectue dans les voies génitales mâles	74) Concernant la capacitation 2R	UE2S100674	FAUX	VGF						segmo
+B. La capacitation est maximale en phase ovulatoire	74) Concernant la capacitation 2R	UE2S100674	VRAI							segmo
+C. On peut observer une fécondation sans capacitation des spermatozoides	74) Concernant la capacitation 2R	UE2S100674	FAUX							segmo
+D. La capacitation rend possible la réaction acrosomale	74) Concernant la capacitation 2R	UE2S100674	VRAI							segmo
+E. La capacitation est facilement appréciable en MO	74) Concernant la capacitation 2R	UE2S100674	FAUX							segmo
+A. La rencontre des gamètes se fait au niveau de la portion interstitielle	75) Concernant la fécondation 2R	UE2S100675	FAUX							segmo
+B. La réaction acrosomique est indispensable à la fécondation de l'ovocyte par le spermatozoide	75) Concernant la fécondation 2R	UE2S100675	VRAI							segmo
+C. La réaction acrosomique est induite par la fixation du spermatozoide à la ZP2	75) Concernant la fécondation 2R	UE2S100675	FAUX							segmo
+D. La dissociation des cellules de la corona radiata intervient après la fixation du spermatozoide à la zone pellucide	75) Concernant la fécondation 2R	UE2S100675	FAUX							segmo
+E. La mise en route du développement embryonnaire est appelle activation ovocytaire	75) Concernant la fécondation 2R	UE2S100675	VRAI							segmo
+A) Permet d'observer des mitochondries	1) Concernant la MO :	UE2S110601	VRAI							segmo
+B) Permet d'observer des virus	1) Concernant la MO :	UE2S110601	FAUX	B : virus = 20 nm &lt; 0.2 µm						segmo
+C) Le microscope à contraste d'interférence différentiel permet d'observer des cellules vivantes	1) Concernant la MO :	UE2S110601	VRAI							segmo
+D) Le liquide de Bouin est un fixateur	1) Concernant la MO :	UE2S110601	VRAI							segmo
+E) Avec la fluorescence, il y a toujours un raccourcissement de la longueur d'onde	1) Concernant la MO :	UE2S110601	FAUX	E : allongement						segmo
+A) Le glutaraldéhyde est utilisé pour l'inclusion	2) Concernant la Microscopie électronique (ME) :	UE2S110602	FAUX	A : fixation						segmo
+B) La ME requiert la conception de coupe ultra-fine (50 µm)	2) Concernant la Microscopie électronique (ME) :	UE2S110602	FAUX	B : nm						segmo
+C) L'ombrage métallique permet un examen des caractéristiques de surface	2) Concernant la Microscopie électronique (ME) :	UE2S110602	VRAI							segmo
+D) L'immunomarquage à l'or se fait que lorsque l'échantillon est fixé	2) Concernant la Microscopie électronique (ME) :	UE2S110602	FAUX	D : Avant la fixation						segmo
+E) En culture cellulaire, les clones sont obtenus avec des lignées tumorales	2) Concernant la Microscopie électronique (ME) :	UE2S110602	VRAI							segmo
+A) Elle est très dynamique.	3) Concernant la membrane plasmique :	UE2S110603	VRAI							segmo
+B) Les lipides de la membrane ont une fonction de récepteurs.	3) Concernant la membrane plasmique :	UE2S110603	FAUX	B : Ce sont les protéines qui ont des fonctions de transports et de récepteurs.						segmo
+C) Le Réticulum Endoplasmique possède une membrane considérée asymétrique.	3) Concernant la membrane plasmique :	UE2S110603	FAUX	C: Le RE est l'exception à l'asymétrie des membranes.						segmo
+D) Les lipides membranaires sont amphotères.	3) Concernant la membrane plasmique :	UE2S110603	FAUX	D : Ils sont amphiphiles (amphophiles =amphipathiques). Amphotère= base et acide.						segmo
+E) Les phospholipides possèdent une tête polaire.	3) Concernant la membrane plasmique :	UE2S110603	VRAI							segmo
+A) Les liposomes sont constitués d'une seule couche de lipides.	4) Concernant les lipides membranaires :	UE2S110604	FAUX	A: Bicouche lipidique avec de l'eau en son cœur.						segmo
+B) Les micelles ne sont pas retrouvés dans le corps humain.	4) Concernant les lipides membranaires :	UE2S110604	FAUX	B : C'est les liposomes qui ne sont pas retrouvés dans le corps humain.						segmo
+C) Le cholestérol rend la membrane moins fluide.	4) Concernant les lipides membranaires :	UE2S110604	VRAI							segmo
+D) Le phosphatidyléthanolamine est chargé négativement.	4) Concernant les lipides membranaires :	UE2S110604	FAUX	D: PS est chargé négativement, les autres PL sont neutre						segmo
+E) La phosphatidylsérine se trouve majoritairement sur le feuillet cytosolique.	4) Concernant les lipides membranaires :	UE2S110604	VRAI							segmo
+A) Elles sont très présentes dans la membrane interne des mitochondries.	5. Concernant les protéines membranaires :	UE2S110605	VRAI							segmo
+B) Elles sont en quantité moins importante que les lipides membranaires.	5. Concernant les protéines membranaires :	UE2S110605	VRAI							segmo
+C) Les protéines intrinsèques nécessitent des procédés d'extraction énergiques.	5. Concernant les protéines membranaires :	UE2S110605	VRAI							segmo
+D) Les protéines périphériques nécessitent des procédés d'extraction doux (détergents ...)	5. Concernant les protéines membranaires :	UE2S110605	FAUX	D: détergents =procédés d'extraction énergique !!						segmo
+E) Les protéines transmembranaires ont une zone hydrophile qui traverse la bicouche lipidique.	5. Concernant les protéines membranaires :	UE2S110605	FAUX	E : zone hydrophobe qui traverse la bicouche.						segmo
+A) La formation de ponts disulfures intéresse principalement les protéines situées sur le feuillet cytosolique.	6) Concernant les membranes :	UE2S110606	FAUX	A : Pont disulfures = extra-cellulaires .						segmo
+B) Certaines protéines membranaires peuvent réaliser des mouvements de flip-flop.	6) Concernant les membranes :	UE2S110606	FAUX	B : Jamais de flip-flop chez les protéines.						segmo
+C) Certaines protéines membranaires peuvent réaliser des mouvements de diffusion latérale.	6) Concernant les membranes :	UE2S110606	VRAI							segmo
+D) Les jonctions serrées peuvent limiter la diffusion latérale des protéines membranaires.	6) Concernant les membranes :	UE2S110606	VRAI							segmo
+E) Le glycocalix est un « manteau cellulaire » constitués d'une grande variété de sucres intracellulaires.	6) Concernant les membranes :	UE2S110606	FAUX	E : sucres sont extra-cellulaires !						segmo
+A) CO2	7) Quelles sont les substances capables de diffuser à travers la bicouche lipidique :	UE2S110607	VRAI							segmo
+B) Na +	7) Quelles sont les substances capables de diffuser à travers la bicouche lipidique :	UE2S110607	FAUX	B, C et E : ce sont des ions, donc il ne diffuse pas à travers la bicouche lipidique						segmo
+C) K+	7) Quelles sont les substances capables de diffuser à travers la bicouche lipidique :	UE2S110607	FAUX	B, C et E : ce sont des ions, donc il ne diffuse pas à travers la bicouche lipidique						segmo
+D) H20	7) Quelles sont les substances capables de diffuser à travers la bicouche lipidique :	UE2S110607	VRAI							segmo
+E) HCO 3-	7) Quelles sont les substances capables de diffuser à travers la bicouche lipidique :	UE2S110607	FAUX	B, C et E : ce sont des ions, donc il ne diffuse pas à travers la bicouche lipidique						segmo
+A) Ce sont des protéines de la membrane plasmique dite périphérique	8)Concernant les canaux ioniques :	UE2S110608	FAUX	A: transmembranaire donc obligatoirement intrinsèque						segmo
+B) Ils sont saturables	8)Concernant les canaux ioniques :	UE2S110608	FAUX	B : non saturable						segmo
+C) Ils peuvent être continuellement ouverts	8)Concernant les canaux ioniques :	UE2S110608	VRAI							segmo
+D) Ils peuvent être fermé (= inactivé)	8)Concernant les canaux ioniques :	UE2S110608	FAUX	D : quand le canal est actif, il peut être ouvert ou fermé. Inactivé correspond encore à un autre état						segmo
+E) Ils sont la cible de toxines	8)Concernant les canaux ioniques :	UE2S110608	VRAI							segmo
+A) L'endocytose par récepteur réalise un transport spécifique	9)Concernant le transport vésiculaire :	UE2S110609	VRAI	A: vrai. Transport spécifique = molécule choisi. Les récepteurs sont spécifique d'une molécule donné.						segmo
+B) La phagocytose permet d'absorber du matériel de très grande taille et même des bactéries	9)Concernant le transport vésiculaire :	UE2S110609	VRAI							segmo
+C) La phagocytose n'utilise pas de récepteur	9)Concernant le transport vésiculaire :	UE2S110609	FAUX							segmo
+D) la phagocytose nécessite la participation de l'actine	9)Concernant le transport vésiculaire :	UE2S110609	VRAI							segmo
+E) Les fibroblastes sont des phagocytes professionnels	9)Concernant le transport vésiculaire :	UE2S110609	FAUX							segmo
+A) Elle sert notamment au remaniement de la membrane plasmique	10) Concernant l'exocytose :	UE2S110610	VRAI							segmo
+B) Les vésicules proviennent pour beaucoup d'entre elles de l'appareil de Golgi	10) Concernant l'exocytose :	UE2S110610	VRAI							segmo
+C) Les protéines SNAREs servent à la dissociation des vésicules	10) Concernant l'exocytose :	UE2S110610	FAUX	C : fusion						segmo
+D) Elle est obligatoirement régulée	10) Concernant l'exocytose :	UE2S110610	FAUX	D : elle est constitutive et peut aussi être régulé dans certaine cellule (les cellules sécrétrices)						segmo
+E) Le facteur NSF consomme du GTP	10) Concernant l'exocytose :	UE2S110610	FAUX	E: ATP						segmo
+A) Force mécanique de la cellule	11) Indiquer la fonction qui s'applique le plus aux microtubules :	UE2S110611	FAUX	A: FI						segmo
+B) Locomotion de la cellule	11) Indiquer la fonction qui s'applique le plus aux microtubules :	UE2S110611	FAUX	B&amp;C : FA						segmo
+C) Anneau contractile lors de la mitose	11) Indiquer la fonction qui s'applique le plus aux microtubules :	UE2S110611	FAUX	B&amp;C : FA						segmo
+D) Positionnement des organites	11) Indiquer la fonction qui s'applique le plus aux microtubules :	UE2S110611	VRAI							segmo
+E) Forme de la surface cellulaire	11) Indiquer la fonction qui s'applique le plus aux microtubules :	UE2S110611	FAUX	cortex cellulaire par FA						segmo
+A) Ils présentent le phénomène d'instabilité dynamique	12) Concernant les filaments intermédiaires :	UE2S110612	FAUX	A et B : présent en +/- grande quantité chez les MT et FA						segmo
+B) Ils présentent le phénomène de tapis roulant	12) Concernant les filaments intermédiaires :	UE2S110612	FAUX	A et B : présent en +/- grande quantité chez les MT et FA						segmo
+C) Ils sont peu cassants	12) Concernant les filaments intermédiaires :	UE2S110612	VRAI							segmo
+D) Ils ont un rôle dans le maintient des épithéliums	12) Concernant les filaments intermédiaires :	UE2S110612	VRAI							segmo
+E) Ils forment le fuseau mitotique	12) Concernant les filaments intermédiaires :	UE2S110612	FAUX	E: MT						segmo
+A) Spectrine	13) Indiquer l'élément intervenant le plus dans la nucléation des FA:	UE2S110613	FAUX	A : formation des réseaux						segmo
+B) Gamma-tubuline	13) Indiquer l'élément intervenant le plus dans la nucléation des FA:	UE2S110613	FAUX	B : MT						segmo
+C) Cofiline	13) Indiquer l'élément intervenant le plus dans la nucléation des FA:	UE2S110613	FAUX							segmo
+D) Actine Related Protein	13) Indiquer l'élément intervenant le plus dans la nucléation des FA:	UE2S110613	VRAI							segmo
+E) Thymosine	13) Indiquer l'élément intervenant le plus dans la nucléation des FA:	UE2S110613	FAUX							segmo
+A) Aux centrioles	14) Indiquer les 3 éléments auxquels se lie la Plectine :	UE2S110614	FAUX	aux FA, MT et FI						segmo
+B) Aux MT	14) Indiquer les 3 éléments auxquels se lie la Plectine :	UE2S110614	VRAI	aux FA, MT et FI						segmo
+C) Aux FA	14) Indiquer les 3 éléments auxquels se lie la Plectine :	UE2S110614	VRAI	aux FA, MT et FI						segmo
+D) Au noyau	14) Indiquer les 3 éléments auxquels se lie la Plectine :	UE2S110614	FAUX	aux FA, MT et FI						segmo
+E) Aux FI	14) Indiquer les 3 éléments auxquels se lie la Plectine :	UE2S110614	VRAI	aux FA, MT et FI						segmo
+A) La cellule musculaire possède plusieurs noyaux sous sa membrane.	15) Concernant la contraction musculaire (2R)	UE2S110615	VRAI							segmo
+B) Les myofibrilles sont constituées d'un sarcomère.	15) Concernant la contraction musculaire (2R)	UE2S110615	FAUX	B : Suite de sarcomères.						segmo
+C) Les disques A sont constitués par les filaments épais d'actine.	15) Concernant la contraction musculaire (2R)	UE2S110615	FAUX	C : Filaments épais = myosine !						segmo
+D) La strie Z est riche en alpha-actinine.	15) Concernant la contraction musculaire (2R)	UE2S110615	VRAI							segmo
+E) On observe des zones sombres au MO à contraste de phase, qui correspondent aux disques I.	15) Concernant la contraction musculaire (2R)	UE2S110615	FAUX	E : Sombre = Disque A (Anisotrope).						segmo
+A) L'extrémité plus des filaments fins est « capée » au milieu des sarcomères.	16) Concernant la contraction musculaire (2R):	UE2S110616	FAUX	A : Extrémité moins.						segmo
+B) On retrouve une organisation hexagonale des différents filaments des sarcomères.	16) Concernant la contraction musculaire (2R):	UE2S110616	VRAI							segmo
+C) Le filament épais reste immobile dans le sarcomère au cours de la contraction.	16) Concernant la contraction musculaire (2R):	UE2S110616	VRAI							segmo
+D) Le Réticulum Endoplasmique des cellules musculaires est appelé « Corps de Nissl ».	16) Concernant la contraction musculaire (2R):	UE2S110616	FAUX	D: Réticulum Endoplasmique Lisse de la cellule musculaire est le Réticulum Sarcoplasmique.						segmo
+E) Le Na se fixe sur la troponine C.	16) Concernant la contraction musculaire (2R):	UE2S110616	FAUX	E : Ca2+ !						segmo
+A) Un microfilament d'actine.	17) Parmi les propositions suivantes , quelles sont les 2 qui appartiennent à la triade de la fibre musculaire striée squelettique :	UE2S110617	FAUX	Triade : 1 tubule T (qui est une invagination de la membrane plasmique) et du réticulum sarcoplasmique qui entoure ce tubule T en formant 2 lumières.						segmo
+B) Deux microtubules T.	17) Parmi les propositions suivantes , quelles sont les 2 qui appartiennent à la triade de la fibre musculaire striée squelettique :	UE2S110617	FAUX	Triade : 1 tubule T (qui est une invagination de la membrane plasmique) et du réticulum sarcoplasmique qui entoure ce tubule T en formant 2 lumières.						segmo
+C) Du réticulum sarcoplasmique.	17) Parmi les propositions suivantes , quelles sont les 2 qui appartiennent à la triade de la fibre musculaire striée squelettique :	UE2S110617	VRAI	Triade : 1 tubule T (qui est une invagination de la membrane plasmique) et du réticulum sarcoplasmique qui entoure ce tubule T en formant 2 lumières.						segmo
+D) Une invagination de la membrane plasmique.	17) Parmi les propositions suivantes , quelles sont les 2 qui appartiennent à la triade de la fibre musculaire striée squelettique :	UE2S110617	VRAI	Triade : 1 tubule T (qui est une invagination de la membrane plasmique) et du réticulum sarcoplasmique qui entoure ce tubule T en formant 2 lumières.						segmo
+E) Deux lumières golgiennes.	17) Parmi les propositions suivantes , quelles sont les 2 qui appartiennent à la triade de la fibre musculaire striée squelettique :	UE2S110617	FAUX	Triade : 1 tubule T (qui est une invagination de la membrane plasmique) et du réticulum sarcoplasmique qui entoure ce tubule T en formant 2 lumières.						segmo
+A) La myosine II possède 6 chaînes.	18) Concernant les moteurs moléculaires (3R)	UE2S110618	VRAI	2 lourdes et 4 légères						segmo
+B) La myosine, comme son nom l'indique, est retrouvée uniquement dans le muscle.	18) Concernant les moteurs moléculaires (3R)	UE2S110618	FAUX	B : Pas uniquement dans les muscles !						segmo
+C) La kinésine est un moteur moléculaire qui se lie aux microtubules.	18) Concernant les moteurs moléculaires (3R)	UE2S110618	VRAI							segmo
+D) La dynéine est un moteur moléculaire qui, lui, se lie aux filaments d'actine.	18) Concernant les moteurs moléculaires (3R)	UE2S110618	FAUX	D: MT aussi.						segmo
+E) Les dynéines sont très grosses et très rapides.	18) Concernant les moteurs moléculaires (3R)	UE2S110618	VRAI							segmo
+A) Les muscles squelettiques sont « des muscles involontaires »	19)	UE2S110619	FAUX							segmo
+B) Le muscle cardiaque est un muscle strié	19)	UE2S110619	VRAI							segmo
+C) Les muscles squelettiques sont sensibles aux hormones	19)	UE2S110619	FAUX	C : muscle lisse et cardiaque						segmo
+D) Les péricytes sont des cellules des muscles lisses de l'intestin	19)	UE2S110619	FAUX	D : péricytes, cellule capable de contraction entourant les capillaires						segmo
+A) L'endomysium entoure chaque myofibrille	20)	UE2S110620	FAUX	A : fibre musculaire (cellule musculaire)						segmo
+B) Le périmysium entoure chaque fibre musculaire	20)	UE2S110620	FAUX	B: faisceaux de fibre musculaire						segmo
+C) L'épimysium est en lien avec les tendons	20)	UE2S110620	VRAI							segmo
+D) Un muscle est toujours avascularisé	20)	UE2S110620	FAUX							segmo
+A) l'arrivé d'un PA dans les boutons terminaux provoque l'ouverture des canaux calciques	21)  Dans une jonction neuromusculaire :	UE2S110621	VRAI							segmo
+B) cette ouverture entraîne la sortie du Ca 2+	21)  Dans une jonction neuromusculaire :	UE2S110621	FAUX							segmo
+C) l'acétylcholine (Ach) est libérée dans la fente synaptique par des canaux cholinergique	21)  Dans une jonction neuromusculaire :	UE2S110621	FAUX							segmo
+D) l'Ach provoque sur la plaque motrice, l'ouverture de canaux calcique	21)  Dans une jonction neuromusculaire :	UE2S110621	FAUX	sodique						segmo
+A) Tension musculaire : force exercée par un muscle contracté sur un objet	22)	UE2S110622	VRAI							segmo
+B) Lors d'une contraction musculaire, il y a toujours un raccourcissement musculaire	22)	UE2S110622	FAUX	B : non, ex : contraction isotonique excentrique						segmo
+C) Si la tension augmente mais que la charge reste immobile, la contraction est dite isométrique	22)	UE2S110622	VRAI							segmo
+A) Lors de la période de latence, le myogramme n'enregistre aucune réponse	23)	UE2S110623	VRAI							segmo
+B) Plus la fréquence des stimulations augmente et plus la tension augmente	23)	UE2S110623	VRAI							segmo
+C) Le curare se lie aux récepteurs à acétylcholine	23)	UE2S110623	VRAI							segmo
+D) La contraction musculaire ne peut être modulée que par l'intensité d'un stimulus	23)	UE2S110623	FAUX	D : non, aussi par la fréquence des stimulations, Plus la fréquence des stimulations augmente et plus la tension augmente						segmo
+A) La liaison d'ATP à la tête de myosine renforce l'affinité myosine/actine	24)	UE2S110624	FAUX	A : diminue						segmo
+B) Le coup de rame s'établi au moment ou l'ATP est libéré	24)	UE2S110624	FAUX	B : le pi est libéré						segmo
+C) Le Ca 2+ se lie à la tropomyosine	24)	UE2S110624	FAUX	troponine						segmo
+D) Le Ca 2+ se lie à la troponine	24)	UE2S110624	VRAI							segmo
+A) Muscle soléaire	25) Indiquer la ou les propositions faisant référence aux muscles lisses :	UE2S110625	FAUX	A et D : muscle squelettique						segmo
+B) Muscle vésical	25) Indiquer la ou les propositions faisant référence aux muscles lisses :	UE2S110625	VRAI							segmo
+C) Muscle gastro-intestinal	25) Indiquer la ou les propositions faisant référence aux muscles lisses :	UE2S110625	VRAI							segmo
+D) Le muscle diaphragmatique	25) Indiquer la ou les propositions faisant référence aux muscles lisses :	UE2S110625	FAUX	A et D : muscle squelettique						segmo
+A) Ils apparaissent striée en MET	26)  Concernant les muscles lisses :	UE2S110626	FAUX							segmo
+B) Dans les muscles multi-unitaire, les cellules se contractent toujours toute d'un seul bloc	26)  Concernant les muscles lisses :	UE2S110626	FAUX	chaque cellule peut être stimulé de façon indépendante						segmo
+C) Dans les muscles unitaires, chaque cellule peut être stimulée de façon indépendante	26)  Concernant les muscles lisses :	UE2S110626	FAUX	les cellules se contractent toujours d'un bloc						segmo
+D) Les cellules des muscles lisses possèdent un seul noyau	26)  Concernant les muscles lisses :	UE2S110626	VRAI							segmo
+A) Dans un muscle lisse, un PA n'est pas toujours à l'origine d'une contraction	27)	UE2S110627	VRAI							segmo
+B) Le biceps brachial est un muscle lisse	27)	UE2S110627	FAUX							segmo
+C) Le muscle cardiaque est un muscle lisse	27)	UE2S110627	FAUX	strié						segmo
+D) La cellule du muscle squelettique est ronde avec un noyau central	27)	UE2S110627	FAUX							segmo
+A) Les dendrites ont pour rôle de recevoir l'information	28)	UE2S110628	VRAI							segmo
+B) Le transport axonal se fait le long des filaments intermédiaires	28)	UE2S110628	FAUX	B : MT						segmo
+C) Dans les neurones pseudo-unipolaires, le corps cellulaire n'est pas sur la voie de passage	28)	UE2S110628	VRAI							segmo
+D) Les interneurones sont entièrement dans le SNC	28)	UE2S110628	VRAI							segmo
+A) Les cellules gliales ont pour rôle de soutenir le système nerveux	29)	UE2S110629	VRAI							segmo
+B) Les astrocytes appartiennent au système nerveux périphérique	29)	UE2S110629	FAUX	B : SNC						segmo
+C) Les cellules de Schwann appartiennent au système nerveux périphérique	29)	UE2S110629	VRAI							segmo
+D) Les cellules gliales conduisent des PA, mais ne peuvent pas le générer	29)	UE2S110629	FAUX	D : les cellules gliales ne conduisent pas et ne génère pas de PA						segmo
+A) Les astrocytes communiquent entre eux par des jonctions gap	30)	UE2S110630	VRAI							segmo
+B) les astrocytes ne participent pas au processus de myélinisation	30)	UE2S110630	FAUX							segmo
+C) les astrocytes fibrillaires sont en contact avec les neurones au niveau des nœuds de Ranvier	30)	UE2S110630	VRAI							segmo
+D) les astrocytes fibrillaires sont en contact avec les neurones au niveau des terminaisons axonales	30)	UE2S110630	VRAI							segmo
+A) Les cellules microgliales sont des cellules immunitaires spécialisées	31)	UE2S110631	VRAI							segmo
+B) Les cellules épendymaires sécrètent de la myéline	31)	UE2S110631	FAUX	B : ils sécrètent le LCR						segmo
+C) Les cellules épendymaires forme une source de cellule souche	31)	UE2S110631	VRAI							segmo
+D) Il existe 3 types d'oligodendrocytes	31)	UE2S110631	FAUX	D : 2 types						segmo
+A) Les cellules gliales peuvent communiquer entre elles	32)	UE2S110632	VRAI							segmo
+B) Les astrocytes protoplasmiques se situent essentiellement dans la substance blanche	32)	UE2S110632	FAUX	B : substance grise						segmo
+C) Les oligodendrocytes appartiennent au système nerveux périphérique	32)	UE2S110632	FAUX	C: SNC						segmo
+D) Si l'on sectionne un axone, la section isolée de ce dernier peut se régénérer	32)	UE2S110632	FAUX	D : l'axone se régénère du corps cellulaire						segmo
+A) Dans un neurone, il existe 4 principaux types de canaux : Na + ; Ca 2+; Cl -; Mg 2+	33)	UE2S110633	FAUX	A: K+ à la place de Mg 2+						segmo
+B) Les canaux ioniques peuvent s'ouvrir suite à un étirement de la cellule	33)	UE2S110633	VRAI							segmo
+C) Les canaux ioniques peuvent s'ouvrir suite à une variation du potentiel de membrane	33)	UE2S110633	VRAI							segmo
+D) Un PA modifie obligatoirement les gradients de concentration ionique du Na + et du K+	33)	UE2S110633	FAUX	D : un PA n'affecte pas les gradients de concentrations ioniques						segmo
+A) La majorité des synapses du système nerveux sont chimiques	34)	UE2S110634	VRAI							segmo
+B) L'ouverture des canaux Na + post synaptique entraîne un PPSE	34)	UE2S110634	VRAI							segmo
+C) La fermeture des canaux K + post synaptique entraîne un PPSE	34)	UE2S110634	VRAI							segmo
+D) En hypokaliémie, un neurone va avoir tendance à être plus facilement excitable	34)	UE2S110634	FAUX	D : en hyperkaliémie						segmo
+A) Les sécrétions séreuses sont riches en glycolipide et protéoglycannes	35)	UE2S110635	FAUX	A : sécrétion muqueuse						segmo
+B) Les sécrétions muqueuses sont très aqueuses avec souvent des enzymes	35)	UE2S110635	FAUX	B : sécrétion séreuse						segmo
+C) Le mucus a pour fonction de lubrifier les aliments	35)	UE2S110635	VRAI							segmo
+D) La sueur est une sécrétion muqueuse	35)	UE2S110635	FAUX	D: aqueuse						segmo
+A) La cellule caliciforme est une glande endocrine	36)	UE2S110636	FAUX	A: glande exocrine						segmo
+B) La thyroïde stocke son produit de sécrétion	36)	UE2S110636	VRAI							segmo
+C) Les glandes salivaires utilisent une sécrétion mérocrine	36)	UE2S110636	VRAI							segmo
+D) Le pancréas est une glande à la fois endocrine et exocrine	36)	UE2S110636	VRAI							segmo
+A) Les jonctions serrées sont composés de dandine et occludine	37)	UE2S110637	VRAI							segmo
+B) Les desmogléines sont des cadhérines	37)	UE2S110637	VRAI							segmo
+C) Les desmosomes s'attachent à des filaments intermédiaires du cytosquelette	37)	UE2S110637	VRAI							segmo
+D) Les intégrines interviennent dans les jonctions cellule/cellule	37)	UE2S110637	FAUX	D : jonctions cellule/matrice						segmo
+A) Les gap jonctions sont composés de structures cannalaires hexamériques dénommées connexines	38)	UE2S110638	FAUX	A : connexon						segmo
+B) Les connexines sont formées de 6 connexons	38)	UE2S110638	FAUX	B : un connexon est composé de 6 connexines						segmo
+C) Le pH intracellulaire peut jouer sur la conductance des gap jonctions	38)	UE2S110638	VRAI							segmo
+D) La connexine 40 est absente du myocarde ventriculaire	38)	UE2S110638	VRAI							segmo
+A) Il est responsable du métabolisme potassocalcique	39)  Concernant le tissu osseux	UE2S110639	FAUX	A : phosphocalcique						segmo
+B) Il comprend du collagène de type II	39)  Concernant le tissu osseux	UE2S110639	FAUX	B : collagène de type I						segmo
+C) La substance minérale de l'os est surtout formée de cristaux d'hydroxyapatite de Calcium	39)  Concernant le tissu osseux	UE2S110639	VRAI							segmo
+D) Les GAG sont absents du tissu osseux	39)  Concernant le tissu osseux	UE2S110639	FAUX	D : présent						segmo
+A) L'os tissé ou fibreux est caractéristique de l'os adulte	40)	UE2S110640	FAUX	A : l'os foetal						segmo
+B) Au fur et à mesure de la maturation des pièces osseuses, l'os lamellaire est remplacé par l'os fibreux	40)	UE2S110640	FAUX	B: c'est l'inverse						segmo
+C) La trame collagénique de l'os fibreux est très régulière	40)	UE2S110640	FAUX	C : irrégulière						segmo
+D) Dans l'os lamellaire, les lamelles sont parallèles entre elle	40)	UE2S110640	VRAI							segmo
+A) L'ostéocalcine est une protéine quasi-spécifique du tissu osseux	41)	UE2S110641	VRAI							segmo
+B) La synthèse de l'ostéo-calcine dépend de la vitamine K	41)	UE2S110641	VRAI							segmo
+C) Le taux d'ostéopontine est très bas lors du développement tumoral	41)	UE2S110641	FAUX	C : très haut						segmo
+D) L'ostéonectine présente des propriétés anti-adhésives pour les ostéoblastes	41)	UE2S110641	VRAI							segmo
+A) L'endoste tapisse la face externe des os	42)	UE2S110642	FAUX	A et B : c'est le périoste						segmo
+B) L'endoste est fixé à l'os sous jacent par des fibres de Sharpey sur l'os	42)	UE2S110642	FAUX	A et B : c'est le périoste						segmo
+C) Les fibres de Sharpey permettent la fixation des tendons et des ligaments sur l'os	42)	UE2S110642	VRAI							segmo
+D) Le périoste comporte une couche de cellule souche	42)	UE2S110642	VRAI							segmo
+A) Le tissu cartilagineux a une forte teneur en H20	43)	UE2S110643	VRAI							segmo
+B) Le cartilage hyalin contient du collagène de type II	43)	UE2S110643	VRAI							segmo
+C) Il y a 2 types de croissance cartilagineuse (endochondral et intra-membraneuse)	43)	UE2S110643	FAUX	C : croissance interstitielle et par aposition						segmo
+D) Le cartilage cesse sa croissance à l'adolescence, en même temps que le squelette	43)	UE2S110643	VRAI							segmo
+A) Le cartilage hyalin est le cartilage majoritaire du corps humain	44)	UE2S110644	VRAI							segmo
+B) Le cartilage élastique est comme son nom l'indique, riche en fibre élastique	44)	UE2S110644	VRAI							segmo
+C) Le cartilage fibreux se localise notamment à la jonction ligament, os	44)	UE2S110644	VRAI							segmo
+D) La cellule du cartilage est le chondrocyte	44)	UE2S110644	VRAI							segmo
+A) Le REG synthétise majoritairement des protéines solubles.	45)Concernant le RE :	UE2S110645	FAUX	A : protéines transmembranaires 4-HF (environ 9/10)						segmo
+B) Les ribosomes cytosoliques ont un fonctionnement différent des ribosomes liés au RE.	45)Concernant le RE :	UE2S110645	FAUX	B : même structure, même fonctionnement.						segmo
+C) Le signal « patch » utilise des acides aminés (AA) qui se suivent en début de protéine.	45)Concernant le RE :	UE2S110645	FAUX	C : AA disséminés dans la protéine mais repliement de la protéine rapproche ces AA.						segmo
+D) Il existe des signaux de nature glucidique.	45)Concernant le RE :	UE2S110645	VRAI							segmo
+E) La mitochondrie utilise l'importation post-traductionnelle.	45)Concernant le RE :	UE2S110645	VRAI							segmo
+A) Les différents exemplaires d'une même protéine peuvent être orientés de plusieurs façons dans la membrane du RE.	46) Concernant la synthèse des protéines :	UE2S110646	FAUX	A: tous orientés de façon identique  !						segmo
+B) L'orientation acquise par la protéine au moment de sa synthèse est définitive.	46) Concernant la synthèse des protéines :	UE2S110646	VRAI							segmo
+C) L'asymétrie des protéines peut être modifiée pendant les phénomènes de fusion des membranes.	46) Concernant la synthèse des protéines :	UE2S110646	FAUX	C : conservée pendant les phénomènes de bourgeonnement et de fusion des membranes.						segmo
+D) Le transport des protéines est toujours co-traductionnel.	46) Concernant la synthèse des protéines :	UE2S110646	FAUX	D : pas toujours ! (ex : protéines synthétisées dans le cytosol peuvent être ensuite insérées dans la mitochondrie)						segmo
+E) L'orientation cytosol/non-cytosol est toujours conservée, sauf dans les vésicules.	46) Concernant la synthèse des protéines :	UE2S110646	FAUX	E : toujours conservée, même dans les vésicules et les différents compartiments.						segmo
+A) Les chloroplastes sont présents dans toutes les cellules eucaryotes.	47) Concernant les mitochondries :	UE2S110647	FAUX	A : Vrai pour les mitochondries. Chloroplastes sont spécifiques des végétaux.						segmo
+B) Ce sont les organites chargés de la conversion de l'énergie en une forme utilisable par la cellule.	47) Concernant les mitochondries :	UE2S110647	VRAI							segmo
+C) Elles sont mobiles, pouvant ainsi passer de cellules en cellules.	47) Concernant les mitochondries :	UE2S110647	FAUX	C : Elles sont mobiles, mais ne peuvent passer d'une cellule à l'autre.						segmo
+D) Elles sont entourées d'une paire de membranes qui forment l'espace intermembranaire.	47) Concernant les mitochondries :	UE2S110647	VRAI							segmo
+E) Ces 2 membranes laissent passer les petites molécules (PM inférieur à 10 000).	47) Concernant les mitochondries :	UE2S110647	FAUX	E: Seule la membrane externe ... La membrane interne est très imperméable.						segmo
+A) Elle contient plus de 1000 types différents de protéines.	48) Concernant la mitochondrie : :	UE2S110648	VRAI							segmo
+B) L'importation des protéines mitochondriales d'origine cytosolique nécessite un gradient de proton.	48) Concernant la mitochondrie : :	UE2S110648	VRAI							segmo
+C) La mitochondrie contient son propre ADN simple brin.	48) Concernant la mitochondrie : :	UE2S110648	FAUX	C: Elle contient son propre ADN double brin circulaire.						segmo
+D) La majorité des protéines mitochondriales sont synthétisés par les ribosomes propres de la mitochondrie.	48) Concernant la mitochondrie : :	UE2S110648	FAUX	majorité importé du cytosol						segmo
+E) Elle peut fusionner avec d'autres mitochondries.	48) Concernant la mitochondrie : :	UE2S110648	VRAI							segmo
+A) Les gènes sont dits « discontinus » en raison de l'alternance des bases A, T, G, C.	49) Concernant l'ADN :	UE2S110649	FAUX	A : Discontinus à cause des exons/introns.						segmo
+B) L'information génétique est contenue dans les désoxyriboses de la double hélice d'ADN.	49) Concernant l'ADN :	UE2S110649	FAUX	B: Contenue dans les bases (ATGC).						segmo
+C) Le noyau contient tout l'ADN nucléaire.	49) Concernant l'ADN :	UE2S110649	VRAI							segmo
+D) Un seul brin d'ADN peut se comporter comme une matrice.	49) Concernant l'ADN :	UE2S110649	FAUX	D: Chaque brin peut se comporter comme une matrice.						segmo
+E) Francis Crick, né le 8 juin 1916, a reçu le prix Nobel en 1962 pour ses travaux sur l'ADN.	49) Concernant l'ADN :	UE2S110649	VRAI							segmo
+A) La chromatine est colorable.	50) Concernant l'ADN, indiquer les quatre propositions vraies :	UE2S110650	VRAI							segmo
+B) Chez certains êtres humains, la formule chromosomique est 45, X.	50) Concernant l'ADN, indiquer les quatre propositions vraies :	UE2S110650	VRAI							segmo
+C) Il existe une corrélation positive entre le nombre de gènes et la complexité de l'organisme.	50) Concernant l'ADN, indiquer les quatre propositions vraies :	UE2S110650	VRAI							segmo
+D) Il existe une corrélation positive entre le nombre de chromosomes et la complexité de l'organisme.	50) Concernant l'ADN, indiquer les quatre propositions vraies :	UE2S110650	FAUX	D: Faux. Toujours penser au Muntjac !!						segmo
+E) Il existe des éléments génétiques mobiles en différents endroits du génome.	50) Concernant l'ADN, indiquer les quatre propositions vraies :	UE2S110650	VRAI							segmo
+A) Dans la cellule, l'ADN est très compacté et prend une forme en « collier de perles ».	51) Concernant l'ADN :	UE2S110651	FAUX	A: Dans la cellule, fibre de 30nm +++						segmo
+B) Le noyau nucléosomal est le premier niveau d'emballage de l'ADN.	51) Concernant l'ADN :	UE2S110651	VRAI							segmo
+C) Un noyau nucléosomal correspond à 146 paires de nucléotides.	51) Concernant l'ADN :	UE2S110651	FAUX	C: 146pn + octamère d'histones.						segmo
+D) L'ADN est une molécule qui est chargée négativement.	51) Concernant l'ADN :	UE2S110651	VRAI							segmo
+E) Les nucléosomes gardent constamment leurs positions le long de l'ADN.	51) Concernant l'ADN :	UE2S110651	FAUX	E: nucléosomes peuvent changer de position le long de l'ADN.						segmo
+A) Les chromosomes en écouvillon sont invisibles en interphase.	52) Concernant l'ADN :	UE2S110652	FAUX	A : Ils sont visibles en interphase, au contraire des chromosomes humains.						segmo
+B) Chez l'homme, on peut voir les chromosomes polythènes en microscopie optique.	52) Concernant l'ADN :	UE2S110652	FAUX	B: Pas de chr. Polythènes chez l'homme.						segmo
+C) L'hétérochromatine est condensée en interphase.	52) Concernant l'ADN :	UE2S110652	VRAI							segmo
+D) Certains gènes ont besoin d'être localisés dans l'hétérochromatine pour s'exprimer.	52) Concernant l'ADN :	UE2S110652	VRAI							segmo
+E) Certains gènes ont besoin d'être localisés dans l'euchromatine pour s'exprimer.	52) Concernant l'ADN :	UE2S110652	VRAI							segmo
+A) Les télomères permettent la ségrégation des télomères au cours de la mitose.	53) Concernant l'ADN :	UE2S110653	VRAI							segmo
+B) L'hétérochromatine est un phénomène aléatoire qui n'est pas transmis aux générations suivantes.	53) Concernant l'ADN :	UE2S110653	FAUX	B: Héritabilité de l'hétérochromatine !!						segmo
+C) Dans un chromosome bichromatidien, on a deux molécules d'ADN identiques.	53) Concernant l'ADN :	UE2S110653	VRAI							segmo
+D) Les condensines consomment de l'ATP.	53) Concernant l'ADN :	UE2S110653	VRAI							segmo
+E) On n'observe pas de bande chez les poneys.	53) Concernant l'ADN :	UE2S110653	FAUX	E: Bandes observables chez toutes les espèces.						segmo
+A) Il est colorable au bleu de méthylène.	54) Concernant le nucléole :	UE2S110654	VRAI							segmo
+B) C'est un compartiment cellulaire.	54) Concernant le nucléole :	UE2S110654	FAUX	B: Pas de membrane = pas un compartiment.						segmo
+C) Il peut exister plusieurs nucléoles pour une seule et même cellule.	54) Concernant le nucléole :	UE2S110654	VRAI							segmo
+D) Pendant la mitose, le nucléole est observable au ME.	54) Concernant le nucléole :	UE2S110654	FAUX	D: Pendant la mitose il n'y a pas de synthèse de ribosome, donc pas de nucléole.						segmo
+E) Il contient des snoRNP.	54) Concernant le nucléole :	UE2S110654	VRAI							segmo
+A) Gap 2 -› mitose —&gt; cytocinèse -› Gap 1	55) Concernant le cycle cellulaire :	UE2S110655	VRAI							segmo
+B) G 1 —&gt; M&nbsp;—&gt;&nbsp;G2&nbsp;—&gt;&nbsp;S	55) Concernant le cycle cellulaire :	UE2S110655	FAUX	G1 S G2 M						segmo
+C) GO —&gt; S --&gt; G1 ---&gt; M	55) Concernant le cycle cellulaire :	UE2S110655	FAUX							segmo
+D) G2 --&gt; M —&gt; G1 -› Réplication de l'ADN	55) Concernant le cycle cellulaire :	UE2S110655	VRAI							segmo
+A) M-Cdk entraîne la phosphorylation des lamines nucléaires.	56) Concernant le cycle cellulaire :	UE2S110656	VRAI							segmo
+B) APC (Anaphase Proinoting Complex) active M-Cdk.	56) Concernant le cycle cellulaire :	UE2S110656	FAUX	B: APC inactive M-Cdk à la fin de la mitose.						segmo
+C) La cytocinèse fait partie de la phase M.	56) Concernant le cycle cellulaire :	UE2S110656	VRAI							segmo
+D) Deux chromatides sont maintenues par les condensines.	56) Concernant le cycle cellulaire :	UE2S110656	FAUX	D: -Chromatides maintenues par les cohésines. - Condensines servent à la condensation des chromosomes.						segmo
+E) L'anneau contractile utilise de l'actine et de la myosine.	56) Concernant le cycle cellulaire :	UE2S110656	VRAI							segmo
+A) Triple hélice.	57) Concernant le collagène, quels sont les deux éléments entrant dans sa définition	UE2S110657	VRAI	Séquence d'acides aminés Glycine - X - Y et triple hélice.						segmo
+B) Séquence d'acides aminés Glycine - X - Y.	57) Concernant le collagène, quels sont les deux éléments entrant dans sa définition	UE2S110657	VRAI	Séquence d'acides aminés Glycine - X - Y et triple hélice.						segmo
+C) Riche en hydroxy-proline et hydroxylysine.	57) Concernant le collagène, quels sont les deux éléments entrant dans sa définition	UE2S110657	FAUX	Séquence d'acides aminés Glycine - X - Y et triple hélice.						segmo
+D) Forme des fibrilles.	57) Concernant le collagène, quels sont les deux éléments entrant dans sa définition	UE2S110657	FAUX	Séquence d'acides aminés Glycine - X - Y et triple hélice.						segmo
+E) Perd ses propeptides à l'extérieur de la cellule.	57) Concernant le collagène, quels sont les deux éléments entrant dans sa définition	UE2S110657	FAUX	Séquence d'acides aminés Glycine - X - Y et triple hélice.						segmo
+A) L'élastine est très hydrophile pour permettre au plasma sanguin de diffuser dans les capillaires.	58) Concernant l'élastine : vraies :	UE2S110658	FAUX	A: hydrophobe (protéine fibreuse)						segmo
+B) Tout comme le collagène elle est glycosylée.	58) Concernant l'élastine : vraies :	UE2S110658	FAUX	B: Non glycosylée, à l'inverse du collagène.						segmo
+C) Elle contient de la desmosine et de l'isodesmosine.	58) Concernant l'élastine : vraies :	UE2S110658	VRAI							segmo
+D) Elle peut être colorée avec l'Orcéine pour être observée au ME.	58) Concernant l'élastine : vraies :	UE2S110658	FAUX	D: Pas de colorant en ME!! Orcéine -&gt; MO.						segmo
+E) C'est la principale protéine de la MEC des artères.	58) Concernant l'élastine : vraies :	UE2S110658	VRAI							segmo
+A) Elle est omnipotente	59) Concernant la cellule souche hématopoïétique, indiquer la proposition exacte	UE2S110659	FAUX	multipotente						segmo
+B) Elle est multipotente	59) Concernant la cellule souche hématopoïétique, indiquer la proposition exacte	UE2S110659	VRAI							segmo
+C) Elle est totipotente	59) Concernant la cellule souche hématopoïétique, indiquer la proposition exacte	UE2S110659	FAUX	multipotent						segmo
+D) Elle est pluripotente	59) Concernant la cellule souche hématopoïétique, indiquer la proposition exacte	UE2S110659	FAUX	multipotente						segmo
+E) Elle est pseudo-unipotente	59) Concernant la cellule souche hématopoïétique, indiquer la proposition exacte	UE2S110659	FAUX							segmo
+A) Les basophiles	60) Indiquer les 3 grandes catégories de leucocytes	UE2S110660	FAUX	A et B appartiennent à la classe des granulocytes.						segmo
+B) Les neutrophiles	60) Indiquer les 3 grandes catégories de leucocytes	UE2S110660	FAUX	A et B appartiennent à la classe des granulocytes.						segmo
+C) Les monocytes	60) Indiquer les 3 grandes catégories de leucocytes	UE2S110660	VRAI							segmo
+D) Les granulocytes	60) Indiquer les 3 grandes catégories de leucocytes	UE2S110660	VRAI							segmo
+E) Les lymphocytes	60) Indiquer les 3 grandes catégories de leucocytes	UE2S110660	VRAI							segmo
+A) Le tissu cible du glucagon, hormone hyperglycémiante, est le foie.	61) Concernant la communication cellulaire :	UE2S110661	VRAI							segmo
+B) La vasopressine et l'ocytocine ont une structure très proche.	61) Concernant la communication cellulaire :	UE2S110661	VRAI							segmo
+C) TSH, FSH, LH et GH possèdent des récepteurs de type RCPG.	61) Concernant la communication cellulaire :	UE2S110661	FAUX	C : GH possède un récepteur couplé à une Tyrosine Kinase.						segmo
+D) La vitamine A agit sur la transcription des gènes.	61) Concernant la communication cellulaire :	UE2S110661	VRAI							segmo
+E) Les hormones thyroïdiennes sont hydrophobes et nécessitent TBG pour être transportées dans la circulation sanguine.	61) Concernant la communication cellulaire :	UE2S110661	VRAI							segmo
+A) Les cations sont des activateurs des canaux ioniques.	62) Concernant la communication cellulaire :	UE2S110662	VRAI							segmo
+B) Le récepteur nicotinique de l'acétylcholine est un canal non sélectif ayant pour antagoniste la nicotine.	62) Concernant la communication cellulaire :	UE2S110662	FAUX	B :Nicotine AGONISTE . Curare= ANTAGONISTE.						segmo
+C) Le récepteur du GABA est un canal sélectif fonctionnant avec les ions chlore.	62) Concernant la communication cellulaire :	UE2S110662	VRAI							segmo
+D) Les récepteurs enzymes n'ont qu'une fonction de reconnaissance du signal.	62) Concernant la communication cellulaire :	UE2S110662	FAUX	D: Reconnaissance et effecteur.						segmo
+E) Le domaine de transduction est situé dans la région extracellulaire.	62) Concernant la communication cellulaire :	UE2S110662	FAUX	E : Région intracellulaire.						segmo
+A) La protéine G est inactive lorsqu'elle est liée au GDP.	63) Concernant la communication cellulaire, quelle est la ou les réponses vraies	UE2S110663	VRAI							segmo
+B) IP3 est une molécule hydrophobe qui se lie à un canal calcique situé dans le RE.	63) Concernant la communication cellulaire, quelle est la ou les réponses vraies	UE2S110663	FAUX	B: molécule hydrophile.						segmo
+D) Le monoxyde d'azote peut être délétère car il a une action de longue durée.	63) Concernant la communication cellulaire, quelle est la ou les réponses vraies	UE2S110663	FAUX	D: NO a une action courte.						segmo
+A) 0	64) Rodriguez, 30ans, a un frère atteint de mucoviscidose, maladie autosomique récessive s'exprimant dès l'enfance. Quelle est la probabilité pour Rodriguez d'être porteur de l'allèle mutant sachant qu'il n'est pas malade :	UE2S110664	FAUX	Soit « A » l'allèle dominant et « a » l'allèle récessif. Il n'est pas malade donc il n'est pas « aa ». Il peut donc être soit AA, soit Aa, soit Aa. Il a donc 2 chances sur 3 d'avoir l'allèle «a ».						segmo
+B) 1/4	64) Rodriguez, 30ans, a un frère atteint de mucoviscidose, maladie autosomique récessive s'exprimant dès l'enfance. Quelle est la probabilité pour Rodriguez d'être porteur de l'allèle mutant sachant qu'il n'est pas malade :	UE2S110664	FAUX	Soit « A » l'allèle dominant et « a » l'allèle récessif. Il n'est pas malade donc il n'est pas « aa ». Il peut donc être soit AA, soit Aa, soit Aa. Il a donc 2 chances sur 3 d'avoir l'allèle «a ».						segmo
+C) 1/2	64) Rodriguez, 30ans, a un frère atteint de mucoviscidose, maladie autosomique récessive s'exprimant dès l'enfance. Quelle est la probabilité pour Rodriguez d'être porteur de l'allèle mutant sachant qu'il n'est pas malade :	UE2S110664	FAUX	Soit « A » l'allèle dominant et « a » l'allèle récessif. Il n'est pas malade donc il n'est pas « aa ». Il peut donc être soit AA, soit Aa, soit Aa. Il a donc 2 chances sur 3 d'avoir l'allèle «a ».						segmo
+D) 2/3	64) Rodriguez, 30ans, a un frère atteint de mucoviscidose, maladie autosomique récessive s'exprimant dès l'enfance. Quelle est la probabilité pour Rodriguez d'être porteur de l'allèle mutant sachant qu'il n'est pas malade :	UE2S110664	VRAI	Soit « A » l'allèle dominant et « a » l'allèle récessif. Il n'est pas malade donc il n'est pas « aa ». Il peut donc être soit AA, soit Aa, soit Aa. Il a donc 2 chances sur 3 d'avoir l'allèle «a ».						segmo
+E) 1	64) Rodriguez, 30ans, a un frère atteint de mucoviscidose, maladie autosomique récessive s'exprimant dès l'enfance. Quelle est la probabilité pour Rodriguez d'être porteur de l'allèle mutant sachant qu'il n'est pas malade :	UE2S110664	FAUX	Soit « A » l'allèle dominant et « a » l'allèle récessif. Il n'est pas malade donc il n'est pas « aa ». Il peut donc être soit AA, soit Aa, soit Aa. Il a donc 2 chances sur 3 d'avoir l'allèle «a ».						segmo
+A) Il y a deux croisements possibles.<div>B) La FI peut donner 100% d'hétérozygotes de type sauvage.</div><div>C) La FI peut donner 50% d'hétérozygotes de type sauvage.</div><div>D) La FI peut donner 100% d'homozygotes de type roux.</div><div>E) La Fi peut donner 50% d'homozygotes de type roux.</div>	65) Soit le gène responsable de la coloration des cheveux chez l'Homme. On note « B » l'allèle sauvage dominant et « R» l'allèle récessif qui conduit à des cheveux roux. Un homme de type sauvage est testé par une femme rousse. Quel est ou quels sont les réponses vraies ?	UE2S110665	ABCE	L'homme de type sauvage peut être homozygote ou hétérozygote pour l'allèle dominant B (pas roux), on aura donc 2 croisements possibles :<br />100% hétérozygote BR qd homozygote BB<div>50% hétérozygote BR + 50 % homozygote BB qd hétérozygote BR</div><div>mais il ne pourra pas y avoir 100% d'homozygote RR car l'homme ne présente pas le caractère récessif</div>						segmo
+A) La méiose I est dite équationnelle.	66) Concernant la méiose : vraies :	UE2S110666	FAUX	réductionnelle						segmo
+B) La méiose II est dite équationnelle.	66) Concernant la méiose : vraies :	UE2S110666	VRAI							segmo
+C) Les spermatogonies et les ovogonies sont haploïdes.	66) Concernant la méiose : vraies :	UE2S110666	FAUX	C: Spermatogonies et ovogonies sont diploïdes. Spermatozoïdes et ovocytes sont des gamètes et sont haploïdes.						segmo
+D) La méiose est ubiquitaire.	66) Concernant la méiose :	UE2S110666	FAUX	D: La méiose est propre aux cellules germinales.						segmo
+E) Au cours de la méiose I, il n'y a pas de clivage des centromères.	66) Concernant la méiose : vraies :	UE2S110666	VRAI							segmo
+A) Les spermatocytes entrent en méiose au cours de la spermatogenèse.	67) Concernant la méiose spermatocytaire, quelles sont les trois réponses vraies	UE2S110667	FAUX	A: Ce sont les spermatogonies qui entrent en méiose.						segmo
+B) Le stade pachytène de la méiose I dure 15 jours.	67) Concernant la méiose spermatocytaire, quelles sont les trois réponses vraies	UE2S110667	VRAI							segmo
+C) On peut colorer facilement la vésicule sexuelle au stade pachytène.	67) Concernant la méiose spermatocytaire, quelles sont les trois réponses vraies	UE2S110667	VRAI							segmo
+D) Au stade pachytène on a une activité transcriptionnelle intense dans cette vésicule sexuelle.	67) Concernant la méiose spermatocytaire, quelles sont les trois réponses vraies	UE2S110667	FAUX	D: Dans la VS, les chromosomes sont inactivés donc pas d'activité transcriptionnelle.						segmo
+E) La méiose II permet d'obtenir des spermatides à23 chromosomes et n ADN.	67) Concernant la méiose spermatocytaire, quelles sont les trois réponses vraies	UE2S110667	VRAI							segmo
+A) Les cellules souches germinales sont multipotentes.	68) Concernant la spermatogenèse, quelles sont les trois réponses vraies :	UE2S110668	VRAI							segmo
+B) Une grande partie des spermatogonies va mourir par apoptose.	68) Concernant la spermatogenèse, quelles sont les trois réponses vraies :	UE2S110668	VRAI							segmo
+C) Les cellules de Sertoli sont en contact avec toutes les cellules de l'épithélium séminifère.	68) Concernant la spermatogenèse, quelles sont les trois réponses vraies :	UE2S110668	VRAI							segmo
+D) Dans le testicule, on dénombre 1 à 4 lobules et 200 à 300 tubes séminiferes.	68) Concernant la spermatogenèse, quelles sont les trois réponses vraies :	UE2S110668	FAUX	D: 200 à 300 lobules contenant 1 à 4 tubes séminiferes.						segmo
+E) L'albuginée est une coque fibreuse riche en tissu conjonctif et donc faiblement vascularisée.	68) Concernant la spermatogenèse, quelles sont les trois réponses vraies :	UE2S110668	FAUX	E: Richement vascularisée.						segmo
+A) L'acrosome dérive du réticulum endoplasmique des spermatides rondes.	69) Concernant la spermiogenèse, quelles sont les deux propositions yaks:	UE2S110669	FAUX	A : Dérive du Golgi.						segmo
+B) L'espace sous-acrosomal est situé entre la membrane acrosomique interne et la membrane acrosomique externe.	69) Concernant la spermiogenèse, quelles sont les deux propositions yaks:	UE2S110669	FAUX	B: entre l'enveloppe nucléaire et la membrane acrosomiqe interne.						segmo
+C) Le centriole distal va donner naissance au flagelle du futur spermatozoïde.	69) Concernant la spermiogenèse, quelles sont les deux propositions yaks:	UE2S110669	VRAI							segmo
+D) Les mitochondries migrent dans la pièce principale du flagelle.	69) Concernant la spermiogenèse, quelles sont les deux propositions vraies:	UE2S110669	FAUX	D : pièce intermédiaire.						segmo
+E) La cellule de Sertoli va phagocyter les corps résiduels qui correspondent au cytoplasme.	69) Concernant la spermiogenèse, quelles sont les deux propositions yaks:	UE2S110669	VRAI							segmo
+A) Le processus d'élongation du noyau débute au milieu de la spermiogenèse.	70) Concernant la maturation nucléaire :	UE2S110670	VRAI							segmo
+B) Le phénomène de compaction débute au pôle antérieur du noyau et s'étend à la future partie postérieure.	70) Concernant la maturation nucléaire :	UE2S110670	FAUX	B: c'est l'inverse.						segmo
+C) Les spermatides rondes sont riches en protamines.	70) Concernant la maturation nucléaire :	UE2S110670	FAUX	C : Spermatides rondes = histones somatiques. Spermatides allongées = protamines.						segmo
+D) Les spermatides en élongation possèdent des nucléoprotéines basiques de transition.	70) Concernant la maturation nucléaire :	UE2S110670	VRAI							segmo
+E) Au cours de la maturation nucléaire, la chromatine va être condensée par l'ajout de protéines de plus en plus basiques.	70) Concernant la maturation nucléaire :	UE2S110670	VRAI							segmo
+A) La pièce intermédiaire est la plus longue.	71) Concernant le spermatozoïde :	UE2S110671	FAUX	A : pièce principale.						segmo
+B) L' acrosome contient des enzymes (proacrosine, hyaluronidase ...)	71) Concernant le spermatozoïde :	UE2S110671	VRAI							segmo
+C) Sa fonction céphalique est la fécondance.	71) Concernant le spermatozoïde :	UE2S110671	VRAI							segmo
+D) Dans l'axonème, le triplet central de MT est entouré par 9 doublets de MT.	71) Concernant le spermatozoïde :	UE2S110671	FAUX	D: Doublet central de MT.						segmo
+E) Sa localisation dans le testicule, lui permet d'être dans un environnement à environ 34°C.	71) Concernant le spermatozoïde :	UE2S110671	VRAI							segmo
+A) Il y a un arrêt en prophase 1 au stade zygotène.	72) Concernant l'ovogenèse et la folliculogenèse, quelles sont les deux propositions vraies	UE2S110672	FAUX	A: Premier arrêt en prophase I au stade diplotène						segmo
+B) Le noyau de l'ovocyte I est appelé vésicule germinative.	72) Concernant l'ovogenèse et la folliculogenèse, quelles sont les deux propositions vraies	UE2S110672	VRAI							segmo
+C) Au cours de la vie, seule une centaine d'ovocyte II vont achever la méiose II.	72) Concernant l'ovogenèse et la folliculogenèse, quelles sont les deux propositions vraies	UE2S110672	FAUX	C : C'est la fécondation qui achève la méiose II, donc en France, en moyenne 2 ovocytes par femme						segmo
+D) La plupart des follicules primordiaux va dégénérer.	72) Concernant l'ovogenèse et la folliculogenèse, quelles sont les deux propositions vraies	UE2S110672	VRAI							segmo
+E) Dans le follicule tertiaire, la granulosa possède des récepteurs FSH et LH, elle est donc richement vascularisée pour permettre à ces hormones d'agir en masse.	72) Concernant l'ovogenèse et la folliculogenèse, quelles sont les deux propositions vraies	UE2S110672	FAUX	E : Granulosa n'est pas du tout vascularisée !						segmo
+A) Elle survient généralement à J14 du cycle menstruel.	73) Concernant l'ovulation, quelles sont les quatre réponses vraies :	UE2S110673	VRAI							segmo
+B) Il y a une accentuation du phénomène d'involution au cours de la puberté.	73) Concernant l'ovulation, quelles sont les quatre réponses vraies :	UE2S110673	VRAI							segmo
+C) Le corps jaune est une glande exocrine temporaire qui résulte de la transformation du follicule déhiscent.	73) Concernant l'ovulation, quelles sont les quatre réponses vraies :	UE2S110673	FAUX	C : glande endocrine.						segmo
+D) Le corps jaune cyclique sécrète des oestrogènes et de la progestérone.	73) Concernant l'ovulation, quelles sont les quatre réponses vraies :	UE2S110673	VRAI							segmo
+E) Le corpus albicans est une cicatrice fibreuse blanchâtre.	73) Concernant l'ovulation, quelles sont les quatre réponses vraies :	UE2S110673	VRAI							segmo
+A) La phase folliculaire du cycle a lieu de J14 à J28.	74) Concernant le cycle menstruel :	UE2S110674	FAUX	A: JO à J14.						segmo
+B) Les règles sont déclenchées par la chute du taux de progestérone.	74) Concernant le cycle menstruel :	UE2S110674	FAUX	B: Chute du taux d'oestrogène.						segmo
+C) Au cours de la phase lutéale les cellules de la thèque interne deviennent les grandes cellules lutéales.	74) Concernant le cycle menstruel :	UE2S110674	FAUX	GRanulosa GRandes cellules lutéales<br />théque interne petites						segmo
+D) Au cours de la phase lutéale les cellules de la granulosa deviennent les grandes cellules lutéales.	74) Concernant le cycle menstruel :	UE2S110674	VRAI	GRanulosa GRandes cellules lutéales<br />théque interne petites						segmo
+E) Au cours de la maturation ovocytaire, il y a diminution d'OMI pour favoriser la reprise de la méiose.	74) Concernant le cycle menstruel :	UE2S110674	VRAI							segmo
+A) La capacitation des spermatozoïdes a lieu dans l'épididyme.	75) Concernant la fécondation, quelles sont les trois réponses vraies :	UE2S110675	FAUX	A : La capacitation s'effectue pendant le transit dans les voies génitales féminines.						segmo
+B) L'ovocyte ovulé est un ovocyte II.	75) Concernant la fécondation, quelles sont les trois réponses vraies :	UE2S110675	FAUX	B: L'ovocyte ovulé est bloqué en méiose I.						segmo
+C) La maturation épididymaire permet au spermatozoïde d'acquérir la mobilité fléchante.	75) Concernant la fécondation, quelles sont les trois réponses vraies :	UE2S110675	VRAI							segmo
+D) La proacrosine devient acrosine pendant la capacitation et la réaction acrosomiale.	75) Concernant la fécondation, quelles sont les trois réponses vraies :	UE2S110675	VRAI							segmo
+E) Le liquide épididymaire contient des facteurs empêchant la mobilité des spermatozoïdes.	75) Concernant la fécondation, quelles sont les trois réponses vraies :	UE2S110675	VRAI							segmo

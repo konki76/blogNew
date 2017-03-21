@@ -1,0 +1,123 @@
+A. Elle doit aborder l'organisme dans sa totalité	1. Concernant la psychologie médicale	UE7S110701	VRAI							segmo
+B. Le médecin doit être à la fois celui de l'âme et du corps	1. Concernant la psychologie médicale	UE7S110701	VRAI							segmo
+C. La personnalité se construit à partir de la vie intra-utérine	1. Concernant la psychologie médicale	UE7S110701	VRAI							segmo
+D. le tempérament est très malléable	1. Concernant la psychologie médicale	UE7S110701	FAUX	D. Le tempérament est très peu malléable.						segmo
+E. La personnalité est sous la dépendance de mécanismes physiologiques énergétiques comme activité et réactivité	1. Concernant la psychologie médicale	UE7S110701	FAUX	E. Le tempérament est sous la dépendance de mécanismes physiologiques énergétiques						segmo
+A. un diagnostic de pathologie autre	2. Donner les risques liés au non diagnostic de plaintes fonctionnelles	UE7S110702	VRAI							segmo
+B. Des examens inutiles	2. Donner les risques liés au non diagnostic de plaintes fonctionnelles	UE7S110702	VRAI							segmo
+C. des traitements inadaptés	2. Donner les risques liés au non diagnostic de plaintes fonctionnelles	UE7S110702	VRAI							segmo
+D. Pas de prise en charge de la souffrance	2. Donner les risques liés au non diagnostic de plaintes fonctionnelles	UE7S110702	VRAI							segmo
+E. Risque de chronicité des troubles	2. Donner les risques liés au non diagnostic de plaintes fonctionnelles	UE7S110702	VRAI							segmo
+A. S. Freud, à partir de ses travaux est le précurseur de la psychanalyse	3. Concernant la psychanalyse	UE7S110703	VRAI							segmo
+B. Lapsus, actes manqués et rêves sont des émergences de notre inconscient	3. Concernant la psychanalyse	UE7S110703	VRAI							segmo
+C. La psychanalyse nécessite un analyste très proche sentimentalement du patient	3. Concernant la psychanalyse	UE7S110703	FAUX	C. analyste neutre						segmo
+D. La sublimation dans la psychanalyse est le fait de ne pas reconnaître les émergences de l'inconscient	3. Concernant la psychanalyse	UE7S110703	FAUX	D. définition de la résistance						segmo
+E. La psychanalyse permet de mettre en évidence les mécanismes de résistance et de sublimation	3. Concernant la psychanalyse	UE7S110703	VRAI							segmo
+A. Le registre comportemental comprend les composantes corporel, visuel et vocal	4. Concernant le développement affectif	UE7S110704	VRAI							segmo
+B. La période de latence correspond à la réactualisation des positions oedipiennes entre autres	4. Concernant le développement affectif	UE7S110704	FAUX	B. période de l'adolescence ;						segmo
+C. Le principe de plaisir correspond à une augmentation de tension	4. Concernant le développement affectif	UE7S110704	FAUX	C. Le principe de plaisir correspond au niveau le plus bas de tension						segmo
+D. Le principe de réalité utilise des voies détournées ne mettant l'individu en conflit	4. Concernant le développement affectif	UE7S110704	VRAI							segmo
+E. Au fur et à mesure, le principe de plaisir prend le pas sur le principe de réalité	4. Concernant le développement affectif	UE7S110704	FAUX	E. Le principe de réalité prend le pas sur le principe de plaisir						segmo
+A. Le ça représente les interdits, les consignes morales	5. Concernant le développement affectif	UE7S110705	FAUX	A. Le ça représente le principe de plaisir, le pôle pulsionnel						segmo
+B. Le moi est issu du ça par différenciation progressive au contact de la réalité	5. Concernant le développement affectif	UE7S110705	VRAI							segmo
+C. l'attachement primaire du bébé à sa mère a une double fonction : la protection et la socialisation	5. Concernant le développement affectif	UE7S110705	VRAI							segmo
+D. Dans le développement cognitif selon Piaget, la pensée naît de l'action	5. Concernant le développement affectif	UE7S110705	VRAI							segmo
+E. Le stade de l'intelligence sensori-motrice s'observe de 0 à 2 ans	5. Concernant le développement affectif	UE7S110705	VRAI							segmo
+A. L'acquisition du langage est dépendant de l'environnement	6. Quelles sont la ou les réponses vraies	UE7S110706	VRAI							segmo
+B. Le signifiant correspond au sens du mot	6. Quelles sont la ou les réponses vraies	UE7S110706	FAUX	B. Le signifiant correspond à l'expression phonique						segmo
+C. Les premiers mots s'acquièrent de 12 à 16 mois	6. Quelles sont la ou les réponses vraies	UE7S110706	VRAI							segmo
+D. Le langage est une expression du monde extérieur et une représentation du monde intérieur	6. Quelles sont la ou les réponses vraies	UE7S110706	FAUX	D.Le langage est une représentation du monde extérieur et une expression du monde intérieur						segmo
+E. La psychose correspond à un excès de symbolisation	6. Quelles sont la ou les réponses vraies	UE7S110706	FAUX	E. La psychose correspond à une carence en symbolisation						segmo
+A. C'est à partir de la petite enfance que nous acceptons l'idée d'un corps sexué	7. Quelles sont la ou les réponses vraies	UE7S110707	FAUX	A. A partir de l'adolescence						segmo
+B. Lors du deuil des images parentales idéalisées, il existe chez l'adolescent un retrait sur soi, une régression	7. Quelles sont la ou les réponses vraies	UE7S110707	VRAI							segmo
+C. Lors de l'adolescence, il existe un renforcement narcissique: sentiment de toute puissance, de supériorité face aux adultes	7. Quelles sont la ou les réponses vraies	UE7S110707	FAUX	C. Adolescence: fragilisation narcissique avec sentiment d'infériorité						segmo
+D. A l'âge adulte, la personnalité est globalement stable et constituée	7. Quelles sont la ou les réponses vraies	UE7S110707	VRAI							segmo
+E. Lors de la vieillesse il existe une fragilisation narcissique	7. Quelles sont la ou les réponses vraies	UE7S110707	FAUX	E. Vieillesse: sollicitation des assises narcissiques						segmo
+A. C'est dans le modèle de Schneider que l'on retrouve la participation mutuelle et réciproque	8. Quelles sont la ou les réponses vraies	UE7S110708	FAUX	A. C'est dans le modèle de Hollender						segmo
+B. L'image maternelle est une image d'admiration	8. Quelles sont la ou les réponses vraies	UE7S110708	FAUX	B. L'image maternelle est une image protectrice						segmo
+C. Le contre transfert doit être théoriquement neutre	8. Quelles sont la ou les réponses vraies	UE7S110708	VRAI							segmo
+D. Le transfert est une projection affective inconsciente du malade sur le médecin	8. Quelles sont la ou les réponses vraies	UE7S110708	VRAI							segmo
+E. La conception exogène de la maladie est culpabilisante pour le malade	8. Quelles sont la ou les réponses vraies	UE7S110708	FAUX	E. Cette conception est au contraire déculpabilisante						segmo
+A. Le médecin peut par une communication non verbale créer des symptômes pathologiques chez un patient	9. Quelles sont la ou les réponses vraies	UE7S110709	VRAI							segmo
+B. La dépendance peut être amplifiée par le patient	9. Quelles sont la ou les réponses vraies	UE7S110709	VRAI							segmo
+C. Il existe environ 30% d'efficacité moyenne du placébo chez des sujets malades	9. Quelles sont la ou les réponses vraies	UE7S110709	VRAI							segmo
+D. Le placébo est plus efficace sur des céphalées migraineuses que non migraineuses	9. Quelles sont la ou les réponses vraies	UE7S110709	FAUX	D. Le placebo est moins efficace sur des céphalées migraineuses que non migraineuses						segmo
+E. Le placébo active les mêmes régions cérébrales que la morphine	9. Quelles sont la ou les réponses vraies	UE7S110709	VRAI							segmo
+A. Le signal d'angoisse est un dispositif du surmoi	10. Quelles sont la ou les réponses vraies	UE7S110710	FAUX	A. du moi						segmo
+B. L'angoisse du 8ème mois et le stade de la permanence de l'objet sont concomitants	10. Quelles sont la ou les réponses vraies	UE7S110710	VRAI							segmo
+C. La projection, le déni sont des mécanismes de défenses contre l'angoisse et permettent d'éviter l'apparition de symptômes psychiatriques	10. Quelles sont la ou les réponses vraies	UE7S110710	VRAI							segmo
+D. Il n'existe pas de régulateurs endogènes de l'angoisse, ce qui nécessite l'utilisation de benzodiazépines	10. Quelles sont la ou les réponses vraies	UE7S110710	FAUX	D. Il existe des régulateurs endogènes de l'angoisse (par l'organisme lui même, c'est pour cela que l'on ne rend pas compte de notre angoisse lors d'une simple angine) mais parfois ils ne suffisent pas quand la maladie est trop mal vécue ou trop grave, il est alors nécessaire de faire appel à des régulateurs externes						segmo
+E. Toutes maladies entrainent inévitablement angoisse, anxiété, douleur dû au lien indissociable psyché-soma	10. Quelles sont la ou les réponses vraies	UE7S110710	VRAI							segmo
+D. La base de la théorie de Darwin est qu'il existe une notion de sélection naturelle	11. Concernant l'évolution des espèces	UE7S110711	VRAI							segmo
+A. Alexandre Fleming est le père des antibiotiques	22. Quelles sont la ou les réponses vraies:	UE7S110722	VRAI							segmo
+A. 30% de la population n'a pas de diplôme	26. Concernant la démographie	UE7S110726	VRAI							segmo
+B. ce sont surtout les jeunes qui sont touchés par le chômage car ils sont moins diplômés que les personnes âgées ne l'étaient	26. Concernant la démographie	UE7S110726	FAUX	B. les jeunes sont plus diplômés que les PA						segmo
+C. un immigré est une personne résidant en France mais n'ayant pas la nationalité française	26. Concernant la démographie	UE7S110726	FAUX	C. un immigré peut avoir la nationalité française						segmo
+D. on note un forte augmentation de la natalité lors de la seconde guerre mondiale c'est ce qu'on appelle le baby-boom	26. Concernant la démographie	UE7S110726	FAUX	D. 20 ans après la deuxième guerre mondiale						segmo
+E. les enquêtes ad hoc, basées sur des échantillons de la population ont un biais plus important que les enquêtes exhaustives comme le recensement	26. Concernant la démographie	UE7S110726	VRAI							segmo
+A. en termes de mortalité le cancer du côlon touche plus de personnes que le cancer de sein	27. Concernant les cancers	UE7S110727	VRAI	mortalité : Poumon &gt; Colon/rectum &gt; sein						segmo
+B. en termes de morbidité le cancer du côlon touche plus de personnes que le cancer de sein	27. Concernant les cancers	UE7S110727	FAUX	mortalité : Poumon &gt; Colon/rectum &gt; sein<div>morbidité : prostate &gt; sein &gt; colon/rectum, poumon</div>						segmo
+C. il y a 1 200 000 séjours en établissement pour des cancers par an dont 700 000 hospitalisations de jour	27. Concernant les cancers	UE7S110727	VRAI							segmo
+D. un seuil d'activité minimale est nécessaire pour qu'un établissement ait l'autorisation de traiter les cancers	27. Concernant les cancers	UE7S110727	VRAI							segmo
+E. si lors d'un dépistage on découvre un cancer chez une personne on peut donc dire qu'elle souffre de déficience	27. Concernant les cancers	UE7S110727	FAUX	E. un cancer latent ne constitue pas une déficience						segmo
+A. maladies de l'appareil cardiovasculaire<div>B. maladies infectieuses</div><div>C. maladies professionnelles</div><div>D. cancers</div><div>E. maladies mentales</div>	28. Quelles sont les principales causes de mortalité ?	UE7S110728	AD							segmo
+A. les SSIAD s'occupent essentiellement des personnes invalides	29. Concernant les professionnels de santé	UE7S110729	FAUX	A. personnes âgées (invalide est un terme qui s'applique aux personnes de moins de 60ans, si >60ans : dépendance)						segmo
+B. la syndicalisation est forte en France	29. Concernant les professionnels de santé	UE7S110729	FAUX	B. faible						segmo
+C. le médecin traitant doit être un médecin généraliste	29. Concernant les professionnels de santé	UE7S110729	FAUX	C. pas forcément mais c'est le cas le plus souvent						segmo
+D. en terme de densité : infirmiers> médecins> pharmaciens>kinés> dentiste>sf	29. Concernant les professionnels de santé	UE7S110729	VRAI							segmo
+E. les spécialités des médecins sont en terme de densité : spé med> spé chir> biologie med> santé publique	29. Concernant les professionnels de santé	UE7S110729	VRAI							segmo
+A. les médecins généralistes sont plus souvent conventionnés en secteur 1 que les spécialistes	30. Concernant les professionnels de santé :	UE7S110730	VRAI							segmo
+B. aujourd'hui le nombre de médecin est en augmentation	30. Concernant les professionnels de santé :	UE7S110730	FAUX	B. diminution jusqu'en 2020 puis ré augmentation						segmo
+C. les consultations des médecins conventionnés en secteur 2 sont remboursées sur le même taux que les consultations des médecins de secteur 1	30. Concernant les professionnels de santé :	UE7S110730	FAUX	C. même montant mais pas le même taux !! (sinon pas d'avantage à être en secteur 1)						segmo
+D. l'exercice de groupe est majoritaire chez les jeunes médecins mais minoritaire en général	30. Concernant les professionnels de santé :	UE7S110730	FAUX	D. majoritaire en général aussi 54%						segmo
+E. les cabinets de médecins généralistes sont en majorité constitués uniquement de médecins	30. Concernant les professionnels de santé :	UE7S110730	VRAI							segmo
+A. Un risque social peut être un évènement heureux	31. Concernant le financement des soins	UE7S110731	VRAI							segmo
+B. Les dépenses et les recettes de la sécurité sociale dépendent de l'économie	31. Concernant le financement des soins	UE7S110731	FAUX	B. les dépenses dépendent des risques sociaux qui touchent la population						segmo
+C. Les soins lourds sont pris en charge par la sécurité sociale	31. Concernant le financement des soins	UE7S110731	VRAI							segmo
+D. Le tiers payant est majoritaire en établissement	31. Concernant le financement des soins	UE7S110731	VRAI							segmo
+E. A cause de l'involution du secteur primaire, les régimes de la sécurité sociale ont fusionné pour répartir équitablement les ressources	31. Concernant le financement des soins	UE7S110731	FAUX	E.&nbsp;les régimes existent et sont indépendant bien qu'il y ait des compensations pour parer l'involution du secteur primaire						segmo
+A. Si ses revenus sont jugés insuffisants, un patient bénéficiant de la CMU de base peut toucher la CMU complémentaire	32. Concernant le financement des soins	UE7S110732	FAUX	A. la CMU de base s'adresse à des personnes non couvertes par l'assurance maladie, tandis que la CMU complémentaire s'adresse à des personnes assurées mais aux revenus insuffisants.						segmo
+B. Le prix des médicaments est fixé par l'HAS	32. Concernant le financement des soins	UE7S110732	FAUX	B. taux de remboursement et non prix						segmo
+C. Un médicament vendu sans ordonnance n'est pas remboursé	32. Concernant le financement des soins	UE7S110732	VRAI							segmo
+D. Les officines s'approvisionnent auprès des grossistes répartiteurs selon une logique de marché	32. Concernant le financement des soins	UE7S110732	FAUX	D. pas de logique de marché, prix fixe						segmo
+E. Les soins financés par MIGAC vont progressivement être financé par la T2A	32. Concernant le financement des soins	UE7S110732	FAUX	E. le MIGAC finance des soins dont on ne peut prédire le cout à l'avance le système de T2A ne peut donc pas s'adapter						segmo
+A. L'enquête « Baromètre santé » est un sondage permanent basé sur un échantillonnage	33. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110733	FAUX	A. C'est un sondage périodique par téléphone sur la santé perçu mené par l'INPES						segmo
+B. Alcool = 45000 décès par an	33. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110733	VRAI							segmo
+C. Alcool, tabac, pollution atmosphérique sont les principaux facteurs comportementaux	33. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110733	FAUX	C. La pollution est un facteur environnemental						segmo
+D. La capacité d'action sur les facteurs environnementaux est très importante	33. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110733	FAUX	D. On ne peut que faiblement agir sur les facteurs environnementaux						segmo
+E. 15% des décès sont liés au tabac	33. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110733	VRAI							segmo
+A. La prévalence est un indicateur statique de morbidité	34. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110734	VRAI	et l'incidence est dynamique						segmo
+B. La prévalence est un indicateur dynamique de morbidité	34. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110734	FAUX							segmo
+C. Tiphaine est schizo, elle croit que tous les p1 sont des clowns terrifiants, elle ne peut plus donner de cours : c'est une invalidité	34. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110734	VRAI							segmo
+D. Elle chute et se casse une jambe : c'est un handicap	34. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110734	VRAI							segmo
+E. La mortalité due au tabac est en baisse chez les hommes et en hausse chez les femmes	34. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110734	VRAI							segmo
+A. Les agences sanitaires sont chargées du pilotage au niveau régional	35. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110735	FAUX	A. au niveau national						segmo
+B. L'efficacité des soins est garantie par l'ARS grâce à la création de protocole de soins	35. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110735	FAUX	B. C'est l'HAS						segmo
+C. L'ONDAM est créé avec la LFSS = Loi de Financement de la Sécurité Sociale	35. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110735	VRAI							segmo
+D. L'OQOS = Objectif Quantifié de l'Offre de Soins vise à réaliser un maximum de séjours pour garantir une prise en charge optimal des patients	35. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110735	FAUX	D. Son but est de limiter l'activité						segmo
+E. Les études post inscription visent à connaître les modalités d'utilisation, le bénéfice et l'impact d'un médicament après sa mise sur le marché	35. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110735	VRAI							segmo
+A. Le SNIIR-AM est une base de données nationale permettant notamment la connaissance des dépenses de l'ensemble des Régimes de l'Assurance Maladie	36. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110736	VRAI							segmo
+B. L'INVS est indépendante de l'Etat = décentralisation	36. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110736	FAUX	B. L'INVS est dépendante de l'Etat = déconcentration						segmo
+C. L'HAS est constituée de 5 commissions	36. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110736	FAUX	C. 7 commissions						segmo
+D. L'Assurance Maladie est une branche de la protection sociale	36. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110736	FAUX	D. Branche de la sécurité sociale						segmo
+E. L'Assurance Maladie participe au pilotage du système de santé	36. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110736	VRAI							segmo
+A. Le mécanisme prix-volume pour les médicaments permet l'adaptation des prix en fonction du nombre de vente	37. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110737	VRAI							segmo
+B. ARH = ARS + DRASS + URCAM	37. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110737	FAUX	B. ARS = ARH + DRASS + URCAM						segmo
+C. Les ARS pilotent le Projet Régional de Santé	37. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110737	VRAI							segmo
+D. Les ARS ont un rôle de prévention	37. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110737	VRAI							segmo
+E. L'HAS remplace l'ANDEM en 2004	37. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110737	FAUX	E. remplace l'ANAES en 2004						segmo
+A. Les établissements de santé qui participent au SPH comptent environ 60% des lits d'hospitalisation	38. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110738	VRAI							segmo
+B. 1/3 des lits d'hospitalisation sont concentrés dans le privés	38. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110738	VRAI							segmo
+C. On compte 10% de médecins libéraux dans les établissements de santé	38. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110738	FAUX	C. 30% (les établissements de santé comportent aussi les établissements privés)						segmo
+D. Les Hôpitaux locaux sont les établissements publics les plus nombreux	38. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110738	FAUX	D. ce sont les CH						segmo
+E. La moitié des lits d'hospitalisation sont des lits de courts séjours	38. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110738	VRAI							segmo
+A. 30% des décès concerne les plus de 75 ans	39. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110739	FAUX	A. 64%						segmo
+B. Chez les plus de 80 ans, la morbidité cardio vasculaire l'emporte sur la morbidité oculaire	39. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110739	FAUX	B. Non, c'est l'inverse						segmo
+C. En 2008, on observe 22% de plus de 60 ans	39. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110739	VRAI							segmo
+D. L'Allocation Personnalisée d'Autonomie s'adresse aux personnes âgées de 65 ans ou plus (60 si incapacité) dont le niveau de dépendance est évalué en GIR 1 à 4	39. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110739	VRAI							segmo
+E. On observe plus de PA dans le Nord	39. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110739	FAUX	E. On observe plus de PA dans le centre et le Sud-Ouest						segmo
+A. On compte environ 500 Centre Hospitalier	40. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110740	VRAI							segmo
+B. On retrouve environ le même nombre de médecins dans les établissements privés et publics	40. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110740	FAUX	B. Non, 60% dans le public et 40% dans le privé						segmo
+C. On compte plus de séjours que d'hospitalisations	40. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110740	VRAI							segmo
+D. La moitié des places sont des places de psychiatrie	40. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110740	VRAI							segmo
+E. Il existe deux fois plus d'établissements privés que d'établissements publics	40. Parmi les réponses suivantes la ou lesquelles sont exactes	UE7S110740	VRAI							segmo

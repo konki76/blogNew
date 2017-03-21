@@ -33,6 +33,7 @@ class GrpType extends AbstractType
         // see http://symfony.com/doc/current/reference/forms/types.html
         $builder
             ->add('title')
+            ->add('ordre')
             ->add('publishedAt', 'datetime', array('widget' => 'single_text',))
 		//	->add('postEnd',      new PostType()) // Ajoutez cette ligne
         ;

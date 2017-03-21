@@ -19,16 +19,22 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Security;
 use Symfony\Component\HttpFoundation\Response;
 use Acme\UserBundle\Entity\Post;
+use Acme\UserBundle\Entity\Skill;
 use Acme\UserBundle\Entity\Answer;
 use Acme\UserBundle\Entity\UE;
+use Acme\UserBundle\Entity\UserSkill;
 use Acme\UserBundle\Entity\Grp;
 use Acme\UserBundle\Entity\ueGrp;
 use Acme\UserBundle\Entity\pGrp;
+use Acme\UserBundle\Entity\Qcm;
 use Acme\UserBundle\Form\AnswerType;
 use Acme\UserBundle\Form\GrpType;
+use Acme\UserBundle\Form\SkillType;
+use Acme\UserBundle\Form\UserSkillType;
 use Acme\UserBundle\Form\UEType;
 use Acme\UserBundle\Form\pGrpType;
 use Acme\UserBundle\Form\ueGrpType;
+use Acme\UserBundle\Form\QcmType;
 /**
  * Controller used to manage blog contents in the backend.
  *
@@ -58,11 +64,85 @@ class BlogController extends Controller
     public function indexAction()
     {
         $em = $this->getDoctrine()->getManager();
-        $posts = $em->getRepository('AcmeUserBundle:Post')->findAll();
+        //$posts = $em->getRepository('AcmeUserBundle:Post')->findAll();
 
-        return $this->render('admin/blog/index.html.twig', array('posts' => $posts));
+        //return $this->render('admin/blog/index.html.twig', array('posts' => $posts));
+		return $this->render('admin/blog/index.html.twig');
     }
-    /**
+    
+	/**
+     *
+     * @Route("/{slug}/index", name="admin_ue")
+     * @Method({"GET", "POST"})
+     *
+     */
+    public function ueShowPageAction(Request $request,$slug)
+    {
+	
+		//doit afficher les liens des groupes
+	//	return new Response('<html>toto</html>');
+		$em = $this->getDoctrine()->getManager();
+		$ue = $em->getRepository('AcmeUserBundle:UE')->findOneBySlug($slug);
+		//charger les groupes liés à l'ue
+		//$em = $this->getDoctrine()->getManager();
+		//var_dump($ue);
+		//$grps = $em->getRepository('AcmeUserBundle:Grp')->findAllByUe($ue->getSlug());
+		$grps = $em->getRepository('AcmeUserBundle:Grp')->findAllBySlug($slug);
+		//var_dump($grps);
+
+		return $this->render('admin/blog/ue_index.html.twig', array('ue' => $ue,'grps'=> $grps));
+    }
+	
+	/**
+     * @Route("/grp/{slug}/index", name="admin_grpPage")
+     */
+    public function grpShowPageAction(Request $request,$slug, Grp $grp) 
+	{
+		//faire une boucle qui supprime les  remove($id) [ou pas]
+		//générer un tableau avec les posts du groupe à partir de grpSlug (slug)
+		$em = $this->getDoctrine()->getManager();
+		$pGrps = $em->getRepository('AcmeUserBundle:pGrp')->findAllByGrpSlug($slug);
+
+		//$pGrpTab = array();
+		$conn = $this->get('database_connection');
+		$pGrps = $conn->executeQuery("SELECT post_id FROM pGrp WHERE grpSlug='".$slug."'");
+		$items = $pGrps->fetchAll(\PDO::FETCH_ASSOC);
+
+		$pGrpTab = '';
+		$stop = 0;
+		//$stopBis = 0;
+		foreach ($items as $item) 
+		{	
+			//echo '$item['.$item['id'].']';	
+			if($stop == 0)
+			{
+				$pGrpNextId = $item['post_id'];
+				$pGrpTab = $pGrpTab.$item['post_id'];
+			}
+			else
+			{
+
+					$pGrpTab = $pGrpTab.','.$item['post_id'];
+			}
+			$stop = 1;
+		}
+		//contient les identifiants des posts du groupe de question
+		$str_pGrpTab = $pGrpTab;
+		$this->getRequest()->query->get('str_pGrpTab');
+		
+		//requete pour récupérer tous les titres des questions du groupes
+		
+		//$em = $this->getDoctrine()->getManager();
+		//$currentPost = $em->getRepository('AcmeUserBundle:Post')->getPost($page);
+		$postsRq = $conn->executeQuery("SELECT id, title FROM post WHERE id IN (".$str_pGrpTab.")");
+		$posts = $postsRq->fetchAll(\PDO::FETCH_ASSOC);
+		
+		//var_dump($str_pGrpTab);
+		//var_dump($posts);
+		return $this->render('admin/blog/grp_index.html.twig', array('grp' => $grp,'pGrpNextId' => $pGrpNextId,'str_pGrpTab' => $str_pGrpTab,'posts' => $posts));
+	}
+	
+	/**
      * Creates a new Post entity.
      *
      * @Route("/post/new", name="admin_post_new")
@@ -116,6 +196,40 @@ class BlogController extends Controller
         ));
     }
 
+//	admin_userSkill_edit
+    /**
+     * Displays a form to edit an existing Post entity.
+     *
+     * @Route("/userSkill/{id}/edit", requirements={"id" = "\d+"}, name="admin_userSkill_edit")
+//     * @Method({"GET", "POST"})
+     */
+    public function userSkillEditAction(UserSkill $userSkill, Request $request)
+    {
+       $em = $this->getDoctrine()->getManager();
+
+        $editForm = $this->createForm(new UserSkillType(), $userSkill);
+        $deleteForm = $this->createDeleteUserSkillForm($userSkill);
+
+        $editForm->handleRequest($request);
+
+        if ($editForm->isSubmitted() && $editForm->isValid()) {
+            //$userSkill->setSlug($this->get('slugger')->slugify($userSkill->getTitle()));
+            $em->flush();
+
+            return $this->redirectToRoute('admin_userSkill_edit', array('id' => $userSkill->getId()));
+        }
+
+//	  return new Response('<html><body>n ueIndex  varDump[.var_dump($ues).]</body></html>');
+		
+        return $this->render('admin/blog/userSkillEdit.html.twig', array(
+            'userSkill'   => $userSkill,
+            'edit_form'   => $editForm->createView(),
+            'delete_form' => $deleteForm->createView(),
+        ));
+
+    }
+	
+	
     /**
      * Displays a form to edit an existing Post entity.
      *
@@ -219,6 +333,44 @@ class BlogController extends Controller
         ;
     }
 
+	
+	
+	private function createDeleteUserSkillForm(UserSkill $userSkill)
+    {
+        return $this->createFormBuilder()
+            ->setAction($this->generateUrl('admin_userSkill_delete', array('id' => $userSkill->getId())))
+            ->setMethod('DELETE')
+            ->getForm()
+        ;
+    }
+
+    /**
+     * Deletes a UserSkill entity.
+     *
+     * @Route("/userSkill/{id}", name="admin_userSkill_delete")
+     * @Method("DELETE")
+//     * @Security("userSkill.isAuthor(userSkill)")
+     *
+     * The Security annotation value is an expression (if it evaluates to false,
+     * the authorization mechanism will prevent the user accessing this resource).
+     * The isAuthor() method is defined in the Acme\UserBundle\Entity\UserSkill entity.
+     */
+    public function deleteUserSkillAction(Request $request, UserSkill $userSkill)
+    {
+        $form = $this->createDeleteUserSkillForm($userSkill);
+        $form->handleRequest($request);
+
+        if ($form->isValid()) {
+            $em = $this->getDoctrine()->getManager();
+
+            $em->remove($userSkill);
+            $em->flush();
+        }
+
+        return $this->redirectToRoute('admin_userSkill_index');
+    }
+
+	
     /**
      * Creates a form to delete a Grp entity by id.
      *
@@ -240,7 +392,6 @@ class BlogController extends Controller
             ->getForm()
         ;
     }	
-/******************************************************************************/
 
 	/**
      * Lists all UE entities.
@@ -253,7 +404,7 @@ class BlogController extends Controller
      *     could move this annotation to any other controller while maintaining
      *     the route name and therefore, without breaking any existing link.
      *
-     * @Route("/ue/index", name="admin_ue_index")
+     * @Route("/ue/indexa", name="admin_ue_index")
      * @Method("GET")
      */
     public function ueIndexAction()
@@ -262,11 +413,38 @@ class BlogController extends Controller
        //$ues = $em->getRepository('AcmeUserBundle:ueGrp')->findGrpByUe($ue);
        $em = $this->getDoctrine()->getManager();
        $ues = $em->getRepository('AcmeUserBundle:UE')->findAll();
-				
-	   //return new Response('<html><body>ueIndex  varDump['.var_dump($ues).']</body></html>');
+
+	 //  return new Response('<html><body>n ueIndex  varDump['.var_dump($ues).']</body></html>');
        return $this->render('admin/blog/ueIndex.html.twig', array('ues' => $ues));
     }
+	
+	/**
+     * Lists all Qcm entities.
+     *
+     * This controller responds to two different routes with the same URL:
+     *   * 'admin_qcm_index' is the route with a name that follows the same
+     *     structure as the rest of the controllers of this class.
+     *   * 'admin_index' is a nice shortcut to the backend homepage. This allows
+     *     to create simpler links in the templates. Moreover, in the future we
+     *     could move this annotation to any other controller while maintaining
+     *     the route name and therefore, without breaking any existing link.
+     *
+     * @Route("/qcm/indexa", name="admin_qcm_index")
+     * @Method("GET")
+     */
+    public function qcmIndexAction()
+    {
+       //$em = $this->getDoctrine()->getManager();
+       //$qcms = $em->getRepository('AcmeUserBundle:qcmGrp')->findGrpByUe($qcm);
+       $em = $this->getDoctrine()->getManager();
+       $qcms = $em->getRepository('AcmeUserBundle:Qcm')->findAll();
 
+	 //  return new Response('<html><body>n qcmIndex  varDump['.var_dump($qcms).']</body></html>');
+       return $this->render('admin/blog/qcmIndex.html.twig', array('qcms' => $qcms));
+    }
+
+
+	
 	/**
      * Lists all ueGrp entities.
      *
@@ -290,7 +468,7 @@ class BlogController extends Controller
 		
 		$ueGrp = $em->getRepository('AcmeUserBundle:ueGrp')->currentueGrp($ue->getId());
 		
-        return $this->render('admin/blog/ueGrpShow.html.twig', array('ueGrps' => $ueGrps,'ueGrp' => $ueGrp,'ueGrpsCt' => $ueGrpsCt, 'ueId' => $ue->getId()));
+        return $this->render('admin/blog/ueGrpShow.html.twig', array('ueGrps' => $ueGrps,'ueGrp' => $ueGrp,'ueGrpsCt' => $ueGrpsCt, 'ueId' => $ue->getId(), 'ueTitle' => $ue->getTitle()));
     }
 	
 	/**
@@ -438,6 +616,121 @@ class BlogController extends Controller
     }
 /******************************************************************************/
 	/**
+     * Creates a new Qcm entity.
+     *
+     * @Route("/qcm/new", name="admin_qcm_new")
+     * @Method({"GET", "POST"})
+     *
+     * NOTE: the Method annotation is optional, but it's a recommended practice
+     * to constraint the HTTP methods each controller responds to (by default
+     * to constraint the HTTP methods each controller responds to (by default
+     * it responds to all methods).
+     */
+    public function qcmNewAction(Request $request)
+    {
+        $qcm = new Qcm();
+        //$qcm->setAuthorEmail($this->getUser()->getEmail());
+        $form = $this->createForm(new QcmType(), $qcm);
+        $form->handleRequest($request);
+        if ($form->isSubmitted() && $form->isValid()) {
+			//enregistrement du qcm
+            $qcm->setSlug($this->get('slugger')->slugify($qcm->getTitle()));
+            $em = $this->getDoctrine()->getManager();
+            $em->persist($qcm);
+            $em->flush();
+            return $this->redirectToRoute('admin_qcm_index');
+        }
+
+        return $this->render('admin/blog/qcmNew.html.twig', array(
+            'qcm' => $qcm,
+            'form' => $form->createView(),
+        ));
+    }
+
+	/**
+     * Edit Qcm entity.
+     *
+     * @Route("/qcm/{id}/edit",requirements={"id" = "\d+"}, name="admin_qcm_edit")
+     * @Method({"GET", "POST"})
+	 
+     * NOTE: the Method annotation is optional, but it's a recommended practice
+     * to constraint the HTTP methods each controller responds to (by default
+     * it responds to all methods).
+     */
+    public function qcmEditAction(Qcm $qcm,Request $request)
+    {
+        $em = $this->getDoctrine()->getManager();
+
+        $editForm = $this->createForm(new QcmType(), $qcm);
+        $deleteForm = $this->createDeleteQcmForm($qcm);
+
+        $editForm->handleRequest($request);
+
+        if ($editForm->isSubmitted() && $editForm->isValid()) {
+            $qcm->setSlug($this->get('slugger')->slugify($qcm->getTitle()));
+            $em->flush();
+
+            return $this->redirectToRoute('admin_qcm_edit', array('id' => $qcm->getId()));
+        }
+
+        return $this->render('admin/blog/qcmEdit.html.twig', array(
+            'qcm'        => $qcm,
+            'edit_form'   => $editForm->createView(),
+            'delete_form' => $deleteForm->createView(),
+        ));
+    }
+
+	/**
+     * Creates a form to delete a Qcm entity by id.
+     *
+     * This is necessary because browsers don't support HTTP methods different
+     * from GET and POST. Since the controller that removes the blog posts expects
+     * a DELETE method, the trick is to create a simple form that *fakes* the
+     * HTTP DELETE method.
+     * See http://symfony.com/doc/current/cookbook/routing/method_parameters.html.
+     *
+     * @param Qcm $qcm The Qcm object
+     *
+     * @return \Symfony\Component\Form\Form The form
+     */
+    private function createDeleteQcmForm(Qcm $qcm)
+    {
+        return $this->createFormBuilder()
+            ->setAction($this->generateUrl('admin_qcm_delete', array('id' => $qcm->getId())))
+            ->setMethod('DELETE')
+            ->getForm()
+        ;
+    }	
+
+/**
+     * Deletes a qcm entity.
+     *
+     * @Route("/qcm/{id}/delete", name="admin_qcm_delete")
+     * @Method("DELETE")
+     * @Security("qcm.isAuthor(user)")
+     *
+     * The Security annotation valqcm is an expression (if it evaluates to false,
+     * the authorization mechanism will prevent the user accessing this resource).
+     * The isAuthor() method is defined in the Acme\UserBundle\Entity\Qcm entity.
+     */
+    public function deleteQcmAction(Request $request, Qcm $qcm)
+    {
+        $form = $this->createDeleteForm($qcm);
+        $form->handleRequest($request);
+
+        if ($form->isValid()) {
+            $em = $this->getDoctrine()->getManager();
+
+            $em->remove($grp);
+            $em->flush();
+        }
+
+        return $this->redirectToRoute('admin_qcm_index');
+    }	
+	
+	
+/******************************************************************************/
+	/**
      * Displays a form to edit an existing Answers entity.
      *
      * @Route("/post/{id}/answsers", requirements={"id" = "\d+"}, name="admin_post_answer_list")
@@ -454,6 +747,95 @@ class BlogController extends Controller
         //return $this->render('admin/blog/index.html.twig', array('posts' => $answers));
 	
     }
+	
+//	admin_skill_index
+	/**
+     * Lists all Skill entities.
+     *
+     * This controller responds to two different routes with the same URL:
+     *   * 'admin_post_index' is the route with a name that follows the same
+     *     structure as the rest of the controllers of this class.
+     *   * 'admin_index' is a nice shortcut to the backend homepage. This allows
+     *     to create simpler links in the templates. Moreover, in the future we
+     *     could move this annotation to any other controller while maintaining
+     *     the route name and therefore, without breaking any existing link.
+     *
+     * @Route("/skill", name="admin_skill_index")
+     * @Method("GET")
+     */
+    public function skillIndexAction()
+    {
+        $em = $this->getDoctrine()->getManager();
+        $skills = $em->getRepository('AcmeUserBundle:Skill')->findAll();
+		//return $this->render('admin/blog/skillIndex.html.twig');
+        return $this->render('admin/blog/skillIndex.html.twig', array('skills' => $skills));
+    }
+	
+	/**
+     * Creates a new Skill entity.
+     *
+     * @Route("/skill/new", name="admin_skill_new")
+     * @Method({"GET", "POST"})
+     *
+     * NOTE: the Method annotation is optional, but it's a recommended practice
+     * to constraint the HTTP methods each controller responds to (by default
+     * it responds to all methods).
+     */
+    public function skillNewAction(Request $request)
+    {
+        $skill = new Skill();
+        //$skill->setAuthorEmail($this->getUser()->getEmail());
+        $form = $this->createForm(new SkillType(), $skill);
+        $form->handleRequest($request);
+        if ($form->isSubmitted() && $form->isValid()) {
+			//enregistrement du skill
+            $skill->setSlug($this->get('slugger')->slugify($skill->getTitle()));
+            $em = $this->getDoctrine()->getManager();
+            $em->persist($skill);
+            $em->flush();
+            return $this->redirectToRoute('admin_skill_index');
+        }
+
+        return $this->render('admin/blog/skillNew.html.twig', array(
+            'skill' => $skill,
+            'form' => $form->createView(),
+        ));
+    }
+
+	/**
+     * Edit Skill entity.
+     *
+     * @Route("/skill/{id}/edit",requirements={"id" = "\d+"}, name="admin_skill_edit")
+     * @Method({"GET", "POST"})
+	 
+     * NOTE: the Method annotation is optional, but it's a recommended practice
+     * to constraint the HTTP methods each controller responds to (by default
+     * it responds to all methods).
+     */
+    public function skillEditAction(Skill $skill,Request $request)
+    {
+        $em = $this->getDoctrine()->getManager();
+
+        $editForm = $this->createForm(new SkillType(), $skill);
+        $deleteForm = $this->createDeleteSkillForm($skill);
+
+        $editForm->handleRequest($request);
+
+        if ($editForm->isSubmitted() && $editForm->isValid()) {
+            $skill->setSlug($this->get('slugger')->slugify($skill->getTitle()));
+            $em->flush();
+
+            return $this->redirectToRoute('admin_skill_edit', array('id' => $skill->getId()));
+        }
+
+        return $this->render('admin/blog/skillEdit.html.twig', array(
+            'skill'        => $skill,
+            'edit_form'   => $editForm->createView(),
+            'delete_form' => $deleteForm->createView(),
+        ));
+    }
+
+
 	
 	/**
      * Lists all Group entities.
@@ -540,6 +922,73 @@ class BlogController extends Controller
             'delete_form' => $deleteForm->createView(),
         ));
     }
+	
+//	admin_userSkill_list
+	/**
+     * Lists all userSkill entities.
+     *
+     * This controller responds to two different routes with the same URL:
+     *   * 'admin_post_index' is the route with a name that follows the same
+     *     structure as the rest of the controllers of this class.
+     *   * 'admin_index' is a nice shortcut to the backend homepage. This allows
+     *     to create simpler links in the templates. Moreover, in the future we
+     *     could move this annotation to any other controller while maintaining
+     *     the route name and therefore, without breaking any existing link.
+     *
+     * @Route("/userSkill/{id}/list", name="admin_userSkill_list")
+     * @Method({"GET", "POST"})
+     */
+    public function userSkillListAction(Skill $skill, Request $request)
+    {
+        $em = $this->getDoctrine()->getManager();
+		$skillId = $skill->getId();
+        $userSkills = $em->getRepository('AcmeUserBundle:UserSkill')->findUsersBySkillId($skillId);
+
+  //      $pGrpsCt = $em->getRepository('AcmeUserBundle:userSkill')->nextpGrpCt($skill->getId());
+		
+	//	$userSkill = $em->getRepository('AcmeUserBundle:userSkill')->currentpGrp($skill->getId());
+	//	return 
+   // return $this->render('admin/blog/pGrpShow.html.twig', array('pGrps' => $pGrps,'pGrp' => $pGrp,'pGrpsCt' => $pGrpsCt, 'grpId' => $grp->getId()));
+ // return new Response('<html><body>n ueIndex  varDump['.var_dump($skillId).']</body></html>');
+  return $this->render('admin/blog/userSkillShow.html.twig',array('userSkills' => $userSkills,'skillId' => $skillId ) );
+    }
+
+	
+	//
+	/**
+     * Creates a new userSkill entity.
+     *
+     * @Route("/userSkill/{skillId}/new", requirements={"skillId" = "\d+"}, name="admin_userSkill_new")	 
+     * @Method({"GET", "POST"})
+     *
+     * NOTE: the Method annotation is optional, but it's a recommended practice
+     * to constraint the HTTP methods each controller responds to (by default
+     * it responds to all methods).
+     */
+    public function userSkillNewAction(Request $request)
+    {
+
+        $userSkill = new UserSkill();
+        $form = $this->createForm(new userSkillType(), $userSkill);
+
+        $form->handleRequest($request);
+
+        if ($form->isSubmitted() && $form->isValid()) {
+           // $group->setSlug($this->get('slugger')->slugify($group->getTitle()));
+
+            $em = $this->getDoctrine()->getManager();
+            $em->persist($userSkill);
+            $em->flush();
+
+            return $this->redirectToRoute('admin_skill_index');
+        }
+
+        return $this->render('admin/blog/userSkillNew.html.twig', array(
+            'userSkill' => $userSkill,
+            'form' => $form->createView(),
+        ));
+
+	}
 	
 	/**
      * Lists all pGrp entities.

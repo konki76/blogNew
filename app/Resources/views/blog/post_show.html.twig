@@ -3,8 +3,47 @@
 {% block body_id 'blog_post_show' %}
 
 {% block main %}
-    <h1>{{ post.title }} /simple/</h1>
-//md2html ko
+    <h1>{{ post.title }} </h1>
+    <h4>{{ post.summary }} </h4>
+
+    <h3>{{ post.p1Titre }}</h3>
+    <h4>{{ post.p1SousTitre }}</h4>
+    {{ post.p1Content }}
+    {{ post.p1Transition }}
+	    <h3>{{ post.p2Titre }}</h3>
+    <h4>{{ post.p2SousTitre }}</h4>
+    {{ post.p2Content }}
+    {{ post.p2Transition }}
+	    <h3>{{ post.p3Titre }}</h3>
+    <h4>{{ post.p3SousTitre }}</h4>
+    {{ post.p3Content }}
+    {{ post.p3Transition }}
+
+	
+
+
+
+	    <h3>{{ post.p4Titre }}</h3>
+    <h4>{{ post.p4SousTitre }}</h4>
+    {{ post.p4Content }}
+    {{ post.p4Transition }}
+
+	    <h3>{{ post.p5Titre }}</h3>
+    <h4>{{ post.p5SousTitre }}</h4>
+    {{ post.p5Content }}
+    {{ post.p5Transition }}
+
+	    <h3>{{ post.p6Titre }}</h3>
+    <h4>{{ post.p6SousTitre }}</h4>
+    {{ post.p6Content }}
+    {{ post.p6Transition }}
+
+	    <h3>{{ post.p7Titre }}</h3>
+    <h4>{{ post.p7SousTitre }}</h4>
+    {{ post.p7Content }}
+    {{ post.p7Transition }}
+
+	
     {{ post.content }}
 	
     <div id="post-add-answer" class="well">
@@ -16,7 +55,7 @@
         #}
        
 		{% if is_granted('IS_AUTHENTICATED_FULLY') %}
-		{{ render(controller('AcmeUserBundle:Blog:answerForm', { 'id': post.id })) }}
+		{={ render(controller('AcmeUserBundle:Blog:answerForm', { 'id': post.id })) }}
         {% endif %}
     </div>
 	
@@ -47,7 +86,7 @@
         See http://symfony.com/doc/current/cookbook/security/remember_me.html#forcing-the-user-to-re-authenticate-before-accessing-certain-resources
         #}
         {% if is_granted('IS_AUTHENTICATED_FULLY') %}
-            {{ render(controller('AcmeUserBundle:Blog:commentForm', { 'id': post.id })) }}
+            {={ render(controller('AcmeUserBundle:Blog:commentForm', { 'id': post.id })) }}
         {% else %}
             <p>
                 <a class="btn btn-success" href="{{ path('fos_user_security_login') }}">

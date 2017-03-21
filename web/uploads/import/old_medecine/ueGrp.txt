@@ -1,0 +1,68 @@
+title|grp_slug|ue_slug|annee_slug
+index UE1 chimie organique|P1_ue1_index|ue1|P1
+index UE2 biologie|P1_ue2_index|ue2|P1
+index UE3 physique|P1_ue3_index|ue3|P1
+index UE4 statistiques|P1_ue4_index|ue4|P1
+index UE5 anatomie|P1_ue5_index|ue5|P1
+index UE6 pharmacologie|P1_ue6_index|ue6|P1
+index UE7 histoire de la médecine et de la biologie végétale|P1_ue7_index|ue7|P1
+index UE MOFSK Ondontologie, sage-femme, kiné|P1_uemofsk_index|uemofsk|p1
+P1 UE5 Anatomie colle 3|P1_ue5_colle3|ue5|P1
+UEP|P1_uep_colle4|uep|P1
+UEP|P1_uep_colle3|uep|P1
+UEP|P1_uep_colle2|uep|P1
+MOFSK|P1_uemofsk_colle4|uemofsk|P1
+MOFSK|P1_uemofsk_colle3|uemofsk|P1
+MOFSK|P1_uemofsk_colle2|uemofsk|P1
+MOFSK|P1_uemofsk_colle1|uemofsk|P1
+UE7|P1_ue7_biologie_vegetale|ue7|P1
+UE7|P1_ue7_colle7|ue7|P1
+UE7|P1_ue7_colle6|ue7|P1
+UE7|P1_ue7_colle5|ue7|P1
+UE7|P1_ue7_colle4|ue7|P1
+UE7|P1_ue7_colle3|ue7|P1
+UE7|P1_ue7_colle2|ue7|P1
+UE7|P1_ue7_colle1|ue7|P1
+Pharmacologie|P1_ue6_colle6|ue6|P1
+Pharmacologie|P1_ue6_colle5|ue6|P1
+Pharmacologie|P1_ue6_colle4|ue6|P1
+Pharmacologie|P1_ue6_colle3|ue6|P1
+Pharmacologie|P1_ue6_colle2|ue6|P1
+Pharmacologie|P1_ue6_colle1|ue6|P1
+Anatomie|P1_ue5_colle5|ue5|P1
+Anatomie|P1_ue5_colle4|ue5|P1
+Anatomie|P1_ue5_colle3|ue5|P1
+Anatomie|P1_ue5_colle2|ue5|P1
+Anatomie|P1_ue5_colle1|ue5|P1
+Physique|P1_ue3_colle11|ue3|P1
+Physique|P1_ue3_colle10|ue3|P1
+Physique|P1_ue3_colle9|ue3|P1
+Physique|P1_ue3_colle8|ue3|P1
+Physique|P1_ue3_colle7|ue3|P1
+Physique|P1_ue3_colle6|ue3|P1
+Physique|P1_ue3_colle5|ue3|P1
+Physique|P1_ue3_colle4|ue3|P1
+Physique|P1_ue3_colle3|ue3|P1
+Physique|P1_ue3_colle2|ue3|P1
+Physique|P1_ue3_colle1|ue3|P1
+Biologie|P1_ue2_colle6|ue2|P1
+Biologie|P1_ue2_colle5|ue2|P1
+Biologie|P1_ue2_colle4|ue2|P1
+Biologie|P1_ue2_colle3|ue2|P1
+Biologie|P1_ue2_colle2|ue2|P1
+Biologie|P1_ue2_colle1|ue2|P1
+Biologie|P1_ue2_colle0|ue2|P1
+Biologie|P1_ue2_colle1|ue2|P1
+Chimie organique|P1_ue1_chimieOrganique_colle3|ue1|P1
+Chimie organique|P1_ue1_chimieOrganique_colle2|ue1|P1
+Chimie organique|P1_ue1_chimieOrganique_colle1|ue1|P1
+Biochimie|P1_ue1_biochimie_colle6|ue1|P1
+Biochimie|P1_ue1_biochimie_colle5|ue1|P1
+Biochimie|P1_ue1_biochimie_colle4|ue1|P1
+Biochimie|P1_ue1_biochimie_colle3|ue1|P1
+Biochimie|P1_ue1_biochimie_colle2|ue1|P1
+Biochimie|P1_ue1_biochimie_colle1|ue1|P1
+Anatomie|P1_ue5_schema|ue5|P1
+UE6|P1_ue6_VF1|ue6|P1
+Redaction|P1_ue5_anatomie_redac1|ue5|P1
+Redaction|P1_ue7_redac1|ue7|P1

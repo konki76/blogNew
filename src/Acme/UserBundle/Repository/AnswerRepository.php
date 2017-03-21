@@ -12,7 +12,7 @@ use Acme\UserBundle\Entity\Answer;
 
 /**
  * This custom Doctrine repository contains some methods which are useful when
- * querying for blog post information.
+ * querying for blog qcm information.
  * See http://symfony.com/doc/current/book/doctrine.html#custom-repository-classes
  *
  * @author Ryan Weaver <weaverryan@gmail.com>
@@ -21,13 +21,13 @@ use Acme\UserBundle\Entity\Answer;
 class AnswerRepository extends EntityRepository
 {
 	
-	public function findOneByGrpUserPost($grp,$user,$post)
+	public function findOneByGrpUserQcm($grp,$user,$qcm)
 	{
 		return $q = $this
 			->createQueryBuilder('a')
 			->where('a.authorEmail = :user')->setParameter('user', $user->getEmail())
 			->andwhere('a.grp = :grp')->setParameter('grp', $grp)
-			->andwhere('a.post = :ps')->setParameter('ps', $post)
+			->andwhere('a.qcm = :ps')->setParameter('ps', $qcm)
 			->getQuery()
 			->getScalarResult();
 	}
@@ -44,23 +44,23 @@ class AnswerRepository extends EntityRepository
 	}
 	
 	//a deporter dans un repository
-	public function findAnswsersByPostId($postId)
+	public function findAnswsersByQcmId($qcmId)
     {
         return $this
             ->createQueryBuilder('p')
             ->select('p')
-            ->where('p.id = :postId')->setParameter('postId', $postId)
+            ->where('p.id = :qcmId')->setParameter('qcmId', $qcmId)
             ->getQuery()
             ->getResult()
         ;
     }
 	
-	//Calcul les réponses par rapport à la table post
+	//Calcul les réponses par rapport à la table qcm
 	public function statByGrpUser($grp, $user)
     {
         return $this
             ->createQueryBuilder('a')
-			->leftJoin('a.post', 'ps')
+			->leftJoin('a.qcm', 'ps')
             ->addSelect('ps')
             ->where('a.authorEmail = :user')->setParameter('user', $user)
 			->andwhere('a.grp = :grp')->setParameter('grp', $grp)

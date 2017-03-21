@@ -35,24 +35,42 @@ class PostType extends AbstractType
             ->add('title')
             ->add('id')
             ->add('summary', 'textarea')
-            ->add('content', 'textarea', array(
+            ->add('p1Titre','text', array('attr' => array('class' => 'fieldClass')))
+			->add('p1SousTitre')
+			->add('p1Content', 'textarea')
+			->add('p1Transition')
+            ->add('p2Titre')
+			->add('p2SousTitre')
+			->add('p2Content', 'textarea')
+			->add('p2Transition')
+            ->add('p3Titre')
+			->add('p3SousTitre')
+			->add('p3Content', 'textarea')
+			->add('p3Transition')
+			->add('p4Titre')
+			->add('p4SousTitre')
+			->add('p4Content', 'textarea')
+			->add('p4Transition')
+			->add('p5Titre')
+			->add('p5SousTitre')
+			->add('p5Content', 'textarea')
+			->add('p5Transition')			
+			->add('p6Titre')
+			->add('p6SousTitre')
+			->add('p6Content', 'textarea')
+			->add('p6Transition')			
+			->add('p7Titre')
+			->add('p7SousTitre')
+			->add('p7Content', 'textarea')
+			->add('p7Transition')
+			->add('content', 'textarea', array(
                 'attr' => array('rows' => 20),
             ))
-			->add('labelAnswer1')
-			->add('answer1', 'checkbox', array('required' => false))
-			->add('labelAnswer2', 'textarea')
-			->add('answer2', 'checkbox', array('required' => false))
-			->add('labelAnswer3', 'textarea')
-			->add('answer3', 'checkbox', array('required' => false))
-			->add('labelAnswer4', 'textarea')
-			->add('answer4', 'checkbox', array('required' => false))
-			->add('labelAnswer5', 'textarea')
-			->add('answer4', 'checkbox', array('required' => false))
             ->add('authorEmail', 'email')
             ->add('publishedAt', 'datetime', array('widget' => 'single_text',))
         ;
     }
-
+	
     /**
      * @param OptionsResolverInterface $resolver
      */

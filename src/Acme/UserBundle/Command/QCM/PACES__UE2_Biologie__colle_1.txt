@@ -1,0 +1,1059 @@
+1. La microscopie photonique  permet d'observer des cellules vivantes.		UE2S1101		Vrai						segmo
+La microscopie photonique, L'angle créé par le condenseur doit être le plus petit possible pour avoir la meilleure résolution.	1	UE2S1101		Faux le plus grand						segmo
+La microscopie photonique, <br><br>Plus la longueur d'onde est grande et plus la résolution est grande.	1	UE2S1101		Vrai						segmo
+Les microscopes photoniques industriels permettent d'avoir une résolution de 0.2 micron.	1	UE2S1101		Faux 0,5 micron						segmo
+On peut observer des mitochondries au microscope photonique.	1	UE2S1101		Vrai						segmo
+En microscopie à fluorescence, l'échantillon est coloré avec un fluorochrome.	2	UE2S1101		Vrai						segmo
+2. Le fluorochrome émet de la lumière lorsqu'il est excité par un type de longueur d'onde précis.		UE2S1101		Vrai						segmo
+2. La résolution de la microscopie électronique est environ 1000 fois supérieure à celle de l'optique.		UE2S1101		Faux c'est une résolution 1000 fois inférieure						segmo
+La microscopie électronique est plus onéreuse que l'optique.	2	UE2S1101		Vrai						segmo
+3. Parmi ces différents colorants, trouver l'intrus <br>A) Noir soudan <br>B) Orcéine <br>C) Giemsa <br>D) Aniline <br>E) Eosine		UE2S1101		C <br>giemsa colorant synthétique						segmo
+Les bactéries et les virus ont le même ordre de grandeur.	4	UE2S1101		Faux <br>le virus est beaucoup plus petit (c'est mitochondrie=bactérie)						segmo
+On peut observer en détail un ribosome avec un microscope optique.	4	UE2S1101		Faux						segmo
+Mitochondrie = 20 µm	4.	UE2S1101		Faux						segmo
+Ribosome = 0.2 µm	4	UE2S1101		Faux<br>20 nm						segmo
+Quelles sont les deux techniques qui permettent d'observer des cellules vivantes <br>A) La microscopie à contraste de phase. <br>B) La microscopie a transmission. <br>C) La microscopie électronique à balayage. <br>D) L'observation à l'oeil nu. <br>E) La technique du fond noir.	5	UE2S1101		AE						segmo
+L'inclusion sert à conserver la configuration et la structure des protéines et organites de la cellule.	7	UE2S1101		Faux c'est la fixation						segmo
+On réalise avec les résines des coupes plus fines qu'avec la paraffine.	7	UE2S1101		Vrai						segmo
+7. La congélation doit se faire après l'inclusion.		UE2S1101		Faux						segmo
+On peut obtenir des images en 3 D avec la microscopie photonique.	7	UE2S1101		Vrai						segmo
+MO, <br>la fixation permet de conserver l'activité biologique des protéines.	8.	UE2S1101		Faux						segmo
+La fixation sert à tuer les cellules dans un état structurel proche de celui du vivant.	8	UE2S1101		Vrai						segmo
+La congélation permet d'éviter l'étape de fixation.	8	UE2S1101		Vrai						segmo
+En évitant la fixation (par exemple congélation), on peut changer le résultat de l'observation.	8	UE2S1101		Vrai						segmo
+8. L'inclusion dans de la paraffine ne permet pas d'obtenir des coupes « semi-fine » (inférieure à 1 µm).		UE2S1101		Vrai						segmo
+9. Concernant la préparation d'échantillon en MET<br><br>On peut utiliser lors de la fixation le liquide de Bouin.		UE2S1101		Faux pour le MO						segmo
+Concernant la préparation d'échantillon en MET <br><br>On peut inclure les spécimens dans de la paraffine.	9	UE2S1101		Faux <br>pour le MO						segmo
+Concernant la préparation d'échantillon en MET <br><br>La coupe au couteau en diamant permet d'obtenir des échantillons ultra-fins.	9	UE2S1101		Vrai						segmo
+Concernant la préparation d'échantillon en MET ; La cryofixation permet une observation directe.	9	UE2S1101		Vrai						segmo
+Concernant la préparation d'échantillon en MET ; On peut observer un échantillon qui a subi une cryofixation suivi d'une inclusion-coupe.	9	UE2S1101		Vrai						segmo
+Quelles sont les deux contraintes majeures de l'observation en MET: <br>A) L'utilisation de beaucoup de colorants <br>B) La nécessité d'avoir des coupes très fines <br>C) Le travail sous vide <br>D) Sa corpulence <br>E) Son coût	10	UE2S1101		BC						segmo
+Le tetroxyde d'osmium est un colorant.	11	UE2S1101		Vrai						segmo
+En MET, on peut réaliser l'immunomarquage avec de l'or.	11	UE2S1101		Vrai						segmo
+L'immunomarquage à l'or se fait après la fixation.	11	UE2S1101		Faux c'est avant						segmo
+La cryofracture-cryodécapage permet une observation de surface de l'intérieur des membranes.	11	UE2S1101		Vrai						segmo
+Le MEB permet une observation en surface.	11	UE2S1101		Vrai						segmo
+Quelle sont les deux méthodes les plus intéressantes et utilisées pour faire entrer un réactif dans une cellule : <br>A) La vésiculation <br>B) L'électroporation <br>C) La projection de particules d'or à grande vitesse <br>D) La nano-superforation <br>E) La microinjection	12	UE2S1101		AE						segmo
+Le fluorochrome DAPI fait ressortir l'ADN en rouge.	13	UE2S1101		Faux<br>en bleu						segmo
+Le fluorochrome GFP fait ressortir les éléments marqués en vert.	13	UE2S1101		Faux<br>pas un fluorochrome						segmo
+13. La fluorescence permet d'étudier la physiologie des cellules vivantes.		UE2S1101		Vrai						segmo
+En fluorescence, il y a toujours un raccourcissement de la longueur d'onde entre la lumière absorbée et la lumière émise.	13	UE2S1101		Faux<br>toujours allongement						segmo
+On peut utiliser la fluorescence en MET.	13	UE2S1101		Faux						segmo
+Concernant l'ombrage, <br><br>On utilise une réplique pour l'observation des grands spécimens.	14	UE2S1101		Vrai						segmo
+Concernant l'ombrage, <br><br>On détruit le spécimen lors de la préparation de la réplique.	14	UE2S1101		Vrai						segmo
+Concernant l'ombrage, La MET associée à l'ombrage métallique permet un examen des caractéristiques de surface.	14	UE2S1101		Vrai						segmo
+Concernant l'ombrage, <br><br>On utilise rarement l'ombrage après la cryofracture.	14	UE2S1101		Faux						segmo
+Concernant l'ombrage, <br><br>Les spécimens sont recouverts de platine.	14	UE2S1101		Vrai						segmo
+Concernant le MET, Nécessite une observation sous vide.	15	UE2S1101		Vrai						segmo
+Concernant le MET, l'augmentation de l'intensité permet une augmentation de la résolution.	15	UE2S1101		Faux<br>la résolution diminue quand l'intensité du voltage augmente						segmo
+15. Concernant le MET, Sa résolution théorique est inférieure au nm.		UE2S1101		Vrai						segmo
+15. Concernant le MET, Utilise du glutaraldéhyde pour l'inclusion.		UE2S1101		Faux						segmo
+Concernant le MET, La congélation peut se faire à l'aide d'hydrogène liquide sous « haute pression ».	15	UE2S1101		Vrai						segmo
+Concernant la membrane plasmique, Elle est très dynamique.	16	UE2S1101		Vrai						segmo
+Concernant la membrane plasmique, Elle est fluide grâce aux liaisons covalentes.	16	UE2S1101		Faux						segmo
+Concernant la membrane plasmique, <br><br>Elle est asymétrique, en particulier dans le réticulum endoplasmique (RE).	16	UE2S1101		Faux						segmo
+Concernant la membrane plasmique, <br><br>On parle de mosaïque de lipides en solution dans des protéines.	16	UE2S1101		Faux						segmo
+Concernant la membrane plasmique, Elle a un rôle dans les échanges d'informations au sein de la cellule.	16	UE2S1101		Vrai						segmo
+La membrane extra-cellulaire est plus importante en quantité que la membrane intra-cellulaire.	17	UE2S1101		Faux						segmo
+Les lipides membranaires forment une barrière perméable aux molécules hydrosolubles.	17	UE2S1101		Faux						segmo
+Les lipides membranaires assurent les fonctions principales de la membrane.	17	UE2S1101		Faux						segmo
+30% des protéines codées par le génome sont des protéines membranaires	17	UE2S1101		Vrai						segmo
+Les protéines membranaires peuvent servir au transport tandis que les lipides servent de récepteurs.	17	UE2S1101		Faux						segmo
+Concernant les lipides membranaires, Ils représentent 50% en nombre des éléments de la membrane.	18	UE2S1101		Faux						segmo
+Concernant les lipides membranaires, <br><br>Ils sont amphiphiles mais pas amphipathiques.	18	UE2S1101		Faux<br>amphiphile = amphipathique = amphophile<br>(mais pas amphotère)						segmo
+Concernant les lipides membranaires, Ils possèdent un pôle hydrophobe et un pôle hydrophile.	18	UE2S1101		Vrai						segmo
+Concernant les lipides membranaires, Les chaînes hydrocarbonées sont très polymorphes.	18	UE2S1101		Vrai						segmo
+Concernant les lipides membranaires, La tête des lipides est dite « polaire » car elle est très froide.	18	UE2S1101		Faux						segmo
+Concernant les lipides membranaires, Les phospholipides sont les plus abondants des lipides de la membrane.	19	UE2S1101		Vrai						segmo
+19. Concernant les lipides membranaires, Un phospholipide est mobile et peut passer d'un bout à l'autre d'une bactérie en une seconde.		UE2S1101		Vrai						segmo
+Concernant les lipides membranaires, Le liposome est très présent dans les cellules de l'organisme.	19	UE2S1101		Faux						segmo
+Concernant les lipides membranaires, Le micelle contient de l'eau en son coeur.	19	UE2S1101		Faux						segmo
+Concernant les lipides membranaires, <br><br>Le liposome contient de l'eau en son coeur.	19	UE2S1101		Vrai						segmo
+Dans la bicouche lipidique, il y a environ 1000 diffusions latérales par seconde !	20	UE2S1101		Faux						segmo
+Concernant les lipides membranaires, Les mouvements de rotations sont les plus fréquents dans la bicouche.	20	UE2S1101		Faux						segmo
+Concernant les lipides membranaires, <br><br>Les chaines hydrocarbonées insaturées sont coudées.	20	UE2S1101		Vrai						segmo
+20. Concernant les lipides membranaires, Les mouvements de fiip-flop sont très rares (environ une fois par jour).		UE2S1101		Faux						segmo
+Concernant les lipides membranaires, <br><br>Les principaux mouvements au sein de la bicouche sont diffusion latérale, rotation et inversion.	20	UE2S1101		Faux<br>flexion<br>flip flop (inversion) rare						segmo
+Pour les membranes artificielles à un seul type de phospholipide il existe un point de fusion.	21	UE2S1101		Vrai						segmo
+Pour les membranes artificielles à plusieurs types de phospholipides il n'existe pas de point de fusion.	21	UE2S1101		Vrai						segmo
+La baisse de la température diminue la rigidité membranaire.	21	UE2S1101		Faux						segmo
+L'augmentation de la longueur et de la saturation des chaines d'acides gras (AG) réduit les performances des protéines de la membrane.	21	UE2S1101		Vrai						segmo
+La membrane est plus épaisse lorsque les chaines carbonées des phospholipides sont insaturées.	21	UE2S1101		Faux						segmo
+Pendant l'hibernation, les protéines membranaires de la marmotte sont moins efficaces.	22	UE2S1101		Vrai						segmo
+Le noyau stéroïde du cholestérol est extrêmement rigide.	22	UE2S1101		Vrai						segmo
+Le cholestérol est amphiphile grâce à la présence d'un seul hydroxyle (-OH).	22	UE2S1101		Faux<br>COOH						segmo
+On peut avoir jusqu'à deux molécules de cholestérol pour un phospholipide.	22	UE2S1101		Vrai						segmo
+Le cholestérol rend la membrane très fluide.	22	UE2S1101		Faux						segmo
+23. Concernant les lipides, Les glycolipides sont les plus abondants des lipides de la membrane.		UE2S1101		Faux						segmo
+Concernant les lipides, Le phosphatidylsérine possède une charge négative.	23	UE2S1101		Vrai						segmo
+Concernant les lipides, La composition des membranes est relativement constante d'une cellule à l'autre.	23	UE2S1101		Faux						segmo
+23. Concernant les lipides, La sphyngomyéline contient de la choline.		UE2S1101		Vrai						segmo
+Concernant les lipides<br><br>La queue du phosphatidyl éthanolamine est en contact avec le cytosol.	23	UE2S1101		Faux						segmo
+Concernant les lipides, <br><br>La phosphatidylsérine joue un rôle dans le processus de mort programmée de la cellule.	24	UE2S1101		Vrai						segmo
+Concernant les lipides, Les radeaux lipidiques sont des microdomaines de la membrane dépourvus de cholestérol.	24	UE2S1101		Faux						segmo
+Concernant les lipides, Les radeaux lipidiques mesurent environ 70 microns de diamètre.	24	UE2S1101		Faux						segmo
+Concernant les lipides, La membrane est plus épaisse au niveau des radeaux car elle est riche en acides gras insaturés.	24	UE2S1101		Faux<br>AG saturé						segmo
+Concernant les lipides, Les radeaux lipidiques on un rôle important dans le trafic transmembranaire.	24	UE2S1101		Vrai						segmo
+Concernant les glycolipides, Ils sont situés sur la face intra-cellulaire uniquement.	25	UE2S1101		Faux						segmo
+Concernant les glycolipides, Ils tendent à s'associer les uns aux autres, et sont surtout présents dans les radeaux lipidiques.	25	UE2S1101		Vrai						segmo
+Concernant les glycolipides, L'addition de sucres par le Golgi se fait du côté non-cytosolique.	25	UE2S1101		Vrai						segmo
+Concernant les glycolipides, Les gangliosides ont la même charge que les pliosphatidylsérine.	25	UE2S1101		Vrai						segmo
+Concernant les glycolipides, <br><br>Leur absence est sans conséquence pour l'Homme.	25	UE2S1101		Faux						segmo
+Concernant les protéines membranaires, Les protéines membranaires sont présentes en concentration variable selon le rôle de la cellule.	26	UE2S1101		Vrai						segmo
+Concernant les protéines membranaires, <br><br>Les protéines intrinsèques nécessitent des procédés d'extraction doux pour être libérés.	26	UE2S1101		Faux						segmo
+Concernant les protéines membranaires, <br><br>Les protéines transmembranaires nécessitent des procédés d'extraction énergiques pour être libérés.	26	UE2S1101		Vrai						segmo
+Concernant les protéines membranaires, <br><br>Les protéines périphériques sont liées de façon covalente aux autres protéines de la membrane.	26	UE2S1101		Faux						segmo
+Concernant les protéines membranaires<br><br>Les protéines transmembranaires ne possèdent pas toujours de zone hydrophobe.	26	UE2S1101		Faux						segmo
+27. Concernant les protéines membranaires, L'orientation des protéines transmembranaires se fait au hasard après la synthèse dans le RE.		UE2S1101		Faux						segmo
+Concernant les protéines membranaires<br><br>Les protéines transmembranaires sont presque toujours en hélice alpha chez l'ornithorynque.	27	UE2S1101		Vrai						segmo
+Concernant les protéines membranaires, <br><br>Les protéines non transmembranaires permettent le transport de molécules (ex : canaux ioniques).	27	UE2S1101		Faux						segmo
+Concernant les protéines membranaires, <br><br>On peut prédire la localisation d'hélices alpha d'une protéine si on connaît son nombre d'acides aminés (AA).	27	UE2S1101		Faux						segmo
+27. Concernant les protéines membranaires, <br><br>Chez les bactéries, la membrane du noyau est également composée de protéines et de lipides.		UE2S1101		Faux<br>pas de mb nucléaire chez les procaryote						segmo
+La glycosylation se fait du côté non-cytosolique.	28	UE2S1101		Vrai						segmo
+Les ponts disulfures se forment du côté cytosolique.	28	UE2S1101		Faux						segmo
+La cryofracture-cryodécapage est une méthode utilisée pour montrer le caractère transmembranaire de certaines protéines.	28	UE2S1101		Vrai						segmo
+On peut utiliser des détergents pour solubiliser les protéines membranaires.	28	UE2S1101		Vrai						segmo
+Les détergents sont de grosses molécules hydrophiles.	28	UE2S1101		Faux<br>petit amphiphile						segmo
+L'hétérocaryon est une technique quantitative d'étude des protéines membranaires.	29	UE2S1101		Faux<br>que qualitative						segmo
+La technique «FRAP »utilise les propriétés de la fluorescence.	29	UE2S1101		Vrai						segmo
+29. En « FRAP », une zone de la membrane est blanchie, et l'on observe l'évolution de cette zone dans le temps.		UE2S1101		Vrai						segmo
+Tout comme les lipides, les protéines peuvent réaliser des mouvements de « flip-flop ».	29	UE2S1101		Faux<br>pas les protéines						segmo
+29. Les éléments du cytosquelette favorisent la diffusion latérale des protéines.		UE2S1101		Faux						segmo
+Concernant les sucres membranaires, Les protéoglycanes sont des chaînes oligosaccharidiques liées aux protéines.	30	UE2S1101		Faux						segmo
+Concernant les sucres membranaires, <br><br>Le glycocalyx, ou manteau cellulaire, est composé d'une grande variété de glucides.	30	UE2S1101		Vrai						segmo
+30. Concernant les sucres membranaires, Le glycoc,alyx est mis en évidence grâce au rouge de ruthenitun.		UE2S1101		Vrai						segmo
+30 Concernant les sucres membranaires,&nbsp;<div><br /></div><div>Le glycocalyx a un rôle de protection chimique de la cellule.</div>		UE2S1101		Vrai<div>le glycocalyx a pour rôles :</div><div><div>-protection, mécanique et chimique, de la cellule</div><div>-identification des cellules, des tissus (reconnaissance cellulaire)</div><div>-facteur majeur d'antigénicité,</div><div>-adhésion cellule-cellule</div></div>						segmo
+Concernant les sucres membranaires, <br><br>Le spermatozoïde est dépourvu de glycocalyx, ce qui favorise sa fusion avec l'ovocyte.	30	UE2S1101		Faux						segmo
+31. Les deux brins d'ADN sont parallèles.		UE2S1101		Faux						segmo
+L'ADN est formé de l'assemblage de nucléotides dont les bases sont A, U, G et C.	31	UE2S1101		Faux<br>A, T, G et C						segmo
+Les liaisons entre les deux brins d'ADN sont covalentes.	31	UE2S1101		Faux						segmo
+Une molécule d'ARN peut s'auto-apparier.	31	UE2S1101		Vrai						segmo
+31. La traduction de l'ARN en ADN varie légèrement selon les espèces.		UE2S1101		Faux						segmo
+L'ADN contenu dans le noyau code pour toutes les protéines de la cellule.	32	UE2S1101		Faux<br>ex mitochondrie						segmo
+L'ADN codant se trouve en quantité plus importante que l'ADN non-codant.	32	UE2S1101		Faux						segmo
+Toutes les cellules utilisent l'ATP pour synthétiser l'ADN et l'ARN.	32	UE2S1101		Vrai						segmo
+L'ADN non-codant contient beaucoup de gènes régulateurs.	32	UE2S1101		Vrai						segmo
+Le globule rouge est un procaryote car il n'a pas de noyau.	32	UE2S1101		Faux						segmo
+A. Ils sont toujours unicellulaires	1. Concernant les procaryotes 3R	UE2S100101	FAUX	A. faux : Ils peuvent être pluricellulaire						segmo
+B. Ils présentent un noyau	1. Concernant les procaryotes 3R	UE2S100101	FAUX	B. faux : Ce sont les eucaryotes qui possèdent un noyau						segmo
+C. Les bactéries sont des procaryotes	1. Concernant les procaryotes 3R	UE2S100101	VRAI							segmo
+D. Les organismes phototrophiques fournissent de l'02	1. Concernant les procaryotes 3R	UE2S100101	VRAI							segmo
+E. Le monde procaryote est très peu exploré	1. Concernant les procaryotes 3R	UE2S100101	VRAI							segmo
+A. La double hélice de l'ADN est une structure très stable	2. Concernant l'ADN 2R	UE2S100102	VRAI							segmo
+B. La traduction survient avant la transcription	2. Concernant l'ADN 2R	UE2S100102	FAUX	B. faux : La transcription a toujours lieu avant la traduction						segmo
+C. L'expression des gènes n'est régulée qu'au niveau de la transcription	2. Concernant l'ADN 2R	UE2S100102	FAUX	aussi au nv de la traduction						segmo
+D. L'ADN régulateur est non codant	2. Concernant l'ADN 2R	UE2S100102	VRAI							segmo
+E. La majeure partie de l'ADN code pour des protéines	2. Concernant l'ADN 2R	UE2S100102	FAUX	en grande majorité de l'ADN non codant (98,5% du génome humain)						segmo
+A. Permet d'observer des spécimens à l'état vivant	3. Concernant la microscopie électronique (ME)	UE2S100103	FAUX	A. faux : La préparation d'une coupe ainsi que son observation au ME tue le spécimen						segmo
+B. La congélation est une amélioration dans l'étude des cellules	3. Concernant la microscopie électronique (ME)	UE2S100103	VRAI							segmo
+C. La technique d'ombrage permet de visualiser l'intérieure d'une cellule	3. Concernant la microscopie électronique (ME)	UE2S100103	FAUX	C. faux : Elle permet d'observer les surfaces cellulaires						segmo
+D. Le microscope électronique a balayage permet l'observation des surfaces cellulaires	3. Concernant la microscopie électronique (ME)	UE2S100103	VRAI							segmo
+E. La tomographie en ME permet une reconstruction tridimensionnelle de l'objet observé	3. Concernant la microscopie électronique (ME)	UE2S100103	VRAI							segmo
+A. La fixation a pour but de se débarrasser de l'eau contenue dans la cellule	4. Concernant les méthodes d'étude de la cellule	UE2S100104	FAUX	A. faux : C'est le rôle de la déshydratation						segmo
+B. La coupe d'objet inclus a la paraffine se fait obligatoirement à l'ultra microtome	4. Concernant les méthodes d'étude de la cellule	UE2S100104	FAUX	B. faux : c'est en ME						segmo
+C. Les coupes d'objet a examiner au ME a transmission sont recueillies sur de l'eau	4. Concernant les méthodes d'étude de la cellule	UE2S100104	VRAI							segmo
+D. La coloration a pour but de renforcer le contraste des objets biologiques entre eux	4. Concernant les méthodes d'étude de la cellule	UE2S100104	VRAI							segmo
+E. La fixation s'effectue généralement a l'aide d'aldéhyde ou de sels de métaux lourds	4. Concernant les méthodes d'étude de la cellule	UE2S100104	VRAI							segmo
+A. Le microscope a contraste de phase	5. Dans les méthodes d'étude de la cellule les microscopes optiques permettant l'examen des objets vivants	UE2S100105	VRAI							segmo
+B. Le microscope interférentiel	5. Dans les méthodes d'étude de la cellule les microscopes optiques permettant l'examen des objets vivants	UE2S100105	VRAI							segmo
+C. Le microscope à fond noir	5. Dans les méthodes d'étude de la cellule les microscopes optiques permettant l'examen des objets vivants	UE2S100105	VRAI							segmo
+D. Le microscope à lumière polarisée	5. Dans les méthodes d'étude de la cellule les microscopes optiques permettant l'examen des objets vivants	UE2S100105	VRAI							segmo
+E. Le microscope électronique a balayage (MEB)	5. Dans les méthodes d'étude de la cellule les microscopes optiques permettant l'examen des objets vivants	UE2S100105	FAUX	ME se fait dans le vide donc les cellules meurrent						segmo
+A. La fixation permet de tuer les cellules dans un état aussi proche que possible de l'état vivant	6. Concernant les méthodes d'étude	UE2S100106	VRAI							segmo
+B. La fixation est indispensable au maintien des structures cellulaires observées au microscope	6. Concernant les méthodes d'étude	UE2S100106	VRAI							segmo
+C. La déshydratation est réalisée a l'aide de la paraffine	6. Concernant les méthodes d'étude	UE2S100106	FAUX	C. faux : c'est l'alcool, la paraffine permet le durcissement favorisant la coupe						segmo
+D. La déshydratation ne s'effectue jamais a l'alcool, ce qui risque de tuer la cellule	6. Concernant les méthodes d'étude	UE2S100106	FAUX	.						segmo
+E. Les coupes observées au MET nécessitent un ombrage métallique préalable	6. Concernant les méthodes d'étude	UE2S100106	VRAI							segmo
+A. C'est une mosaïque fluide et asymétrique	7. Concernant la bicouche lipidique	UE2S100107	VRAI							segmo
+B. Les liaisons entre les phospholipides sont covalentes	7. Concernant la bicouche lipidique	UE2S100107	FAUX	B. faux : les liaisons sont toujours non covalentes						segmo
+C. La bicouche lipidique est un fluide à 2D	7. Concernant la bicouche lipidique	UE2S100107	VRAI							segmo
+D. Les lipides représentent 90% de la masse de la membrane	7. Concernant la bicouche lipidique	UE2S100107	FAUX	D. faux : Ils représentent 50% de la masse						segmo
+E. Le liposome est le seul moyen d'étude de la bicouche lipidique	7. Concernant la bicouche lipidique	UE2S100107	FAUX	E. faux : Il y a aussi la membrane noire						segmo
+A. Les lipides sont des molécules amphiphiles	8. Concernant les lipides	UE2S100108	VRAI							segmo
+B. Les queues des lipides sont polaires	8. Concernant les lipides	UE2S100108	FAUX	B. faux : les queues sont apolaires						segmo
+C. Les lipides présentent toujours une queue saturée et une queue insaturée	8. Concernant les lipides	UE2S100108	FAUX	C. faux : Une est saturée et l'autre est insaturée						segmo
+D. Ils peuvent avoir un mouvement de diffusion latérale	8. Concernant les lipides	UE2S100108	VRAI							segmo
+C. Le flip flop est un mouvement fréquent	8. Concernant les lipides	UE2S100108	FAUX	E.faux : C'est un mouvement rare, à peu près une fois par mois						segmo
+A. Saccharose	9. Quels sont les lipides membranaires	UE2S100109	FAUX	c'est sucre						segmo
+B. Phospholipides	9. Quels sont les lipides membranaires	UE2S100109	VRAI							segmo
+C. Cholestérol	9. Quels sont les lipides membranaires	UE2S100109	VRAI							segmo
+D. Glycolipides	9. Quels sont les lipides membranaires	UE2S100109	VRAI							segmo
+E. Galactose	9. Quels sont les lipides membranaires	UE2S100109	FAUX	c'est sucre						segmo
+A. L'asymétrie de la membrane plasmique permet l'orientation des protéines	10. Concernant la membrane plasmique	UE2S100110	VRAI							segmo
+B. La phosphatidylsérine (PS) est chargé négativement	10. Concernant la membrane plasmique	UE2S100110	VRAI							segmo
+C. La membrane plasmique s'oppose au passage des molécules hydrosolubles	10. Concernant la membrane plasmique	UE2S100110	FAUX	ce sont les lipides qui s'y oppose mais dans les MP, il y a aussi des canaux transmembranaires !						segmo
+D. La micelle est une structure de moindre énergie	10. Concernant la membrane plasmique	UE2S100110	VRAI							segmo
+E. La membrane plasmique a pour fonction de délimiter la cellule	10. Concernant la membrane plasmique	UE2S100110	VRAI							segmo
+A. Phosphatidyléthanolamine (PE)	11. Quels sont les phospholipides situés majoritairement sur le feuillet externe de la membrane plasmique	UE2S100111	FAUX	PC SM<br>PEPSI pour interne						segmo
+B. PS	11. Quels sont les phospholipides situés majoritairement sur le feuillet externe de la membrane plasmique	UE2S100111	FAUX	PC SM<br>PEPSI pour interne						segmo
+C. Phosphatidylcholine	11. Quels sont les phospholipides situés majoritairement sur le feuillet externe de la membrane plasmique	UE2S100111	VRAI							segmo
+D. Phosphatidylinositol	11. Quels sont les phospholipides situés majoritairement sur le feuillet externe de la membrane plasmique	UE2S100111	FAUX	PC SM<br>PEPSI pour interne						segmo
+E. Sphingomyéline	11. Quels sont les phospholipides situés majoritairement sur le feuillet externe de la membrane plasmique	UE2S100111	VRAI							segmo
+A. La présence de cholestérol dans la membrane plasmique augmente la perméabilité de la cellule	12. Concernant le cholestérol	UE2S100112	FAUX	A. faux : Cela diminue la perméabilité						segmo
+B. Augmente la rigidité de la membrane plasmique	12. Concernant le cholestérol	UE2S100112	VRAI							segmo
+C. Est absent du feuillet interne	12. Concernant le cholestérol	UE2S100112	FAUX	C.faux : le cholestérol est présent sur les 2 feuillets						segmo
+D. Est en abondance dans les radeaux lipidiques	12. Concernant le cholestérol	UE2S100112	VRAI							segmo
+E. S'organise autour d'un noyau stéroïde	12. Concernant le cholestérol	UE2S100112	VRAI							segmo
+A. La flippase est responsable de l'asymétrie de la membrane plasmique	13. Concernant l'asymétrie de la membrane plasmique	UE2S100113	VRAI							segmo
+B. La scramblase est responsable de l'asymétrie de la membrane plasmique	13. Concernant l'asymétrie de la membrane plasmique	UE2S100113	FAUX	flip, flop -ases						segmo
+C. La flippase est calcium dépendante	13. Concernant l'asymétrie de la membrane plasmique	UE2S100113	FAUX	scramblase est calcium dépendante						segmo
+D. La scramblase est calcium dépendante	13. Concernant l'asymétrie de la membrane plasmique	UE2S100113	VRAI							segmo
+E. L'asymétrie membranaire a un rôle fonctionnel important	13. Concernant l'asymétrie de la membrane plasmique	UE2S100113	VRAI							segmo
+A. Domaine présentant des lipides a chaîne d'acide gras longue et insaturé	14. Concernant les radeaux lipidiques	UE2S100114	FAUX	A. faux : Longue chaîne d'AG mais qui est saturé						segmo
+B. La concentration en cholestérol est importante	14. Concernant les radeaux lipidiques	UE2S100114	VRAI							segmo
+C. Rôle dans le trafic transmembranaire	14. Concernant les radeaux lipidiques	UE2S100114	VRAI							segmo
+D. Correspond a un épaississement de membrane	14. Concernant les radeaux lipidiques	UE2S100114	VRAI							segmo
+E. La microscopie de force atomique permet bien les visualiser	14. Concernant les radeaux lipidiques	UE2S100114	VRAI							segmo
+A. Répartition de manière symétrique dans la membrane	15. Concernant les glycolipides	UE2S100115	FAUX	A. faux : Répartition asymétrique						segmo
+B. Uniquement situé sur la face cytosolique	15. Concernant les glycolipides	UE2S100115	FAUX	B. faux : uniquement situé sur la face non cytosolique encore appelée face extra cellulaire ou face externe						segmo
+C. Sont des cibles reconnues par certains virus	15. Concernant les glycolipides	UE2S100115	VRAI							segmo
+D. Ils n'ont pas de rôle biologique au niveau de la cellule	15. Concernant les glycolipides	UE2S100115	FAUX	D.faux : le glycocalyx a pour rôles :<div><div>-protection, mécanique et chimique, de la cellule</div><div>-identification des cellules, des tissus (reconnaissance cellulaire)</div><div>-facteur majeur d'antigénicité,</div><div>-adhésion cellule-cellule</div></div>						segmo
+E. Les gangliosides contiennent de l'acide sialique	15. Concernant les glycolipides	UE2S100115	VRAI							segmo
+A. L'orientation de la protéine dans la membrane se fait au moment de la synthèse dans le reticulum endoplamsique	16. Concernant les protéines	UE2S100116	VRAI							segmo
+B. Les ponts dissulfure surviennent uniquement sur les protéines en contact avec le milieu extra cellulaire	16. Concernant les protéines	UE2S100116	VRAI							segmo
+C. Cryofracture, cryodécapage permettent l'étude des protéines membranaires	16. Concernant les protéines	UE2S100116	VRAI							segmo
+D. Les mouvements de flip flop sont rares	16. Concernant les protéines	UE2S100116	FAUX	pas de flip-flop pour les protéines						segmo
+E. Les jonctions serrées marquent les limites de diffusion latérales des protéines	16. Concernant les protéines	UE2S100116	VRAI							segmo
+A. Permet la protection mécanique et chimique de la cellule	17. Concernant le glycocalyx	UE2S100117	VRAI							segmo
+B. Est un facteur majeur d'antigénicité	17. Concernant le glycocalyx	UE2S100117	VRAI							segmo
+C. A un rôle d'adhésion entre les cellules	17. Concernant le glycocalyx	UE2S100117	VRAI	<div>le glycocalyx a pour rôles :</div><div><div>-protection, mécanique et chimique, de la cellule</div><div>-identification des cellules, des tissus (reconnaissance cellulaire)</div><div>-facteur majeur d'antigénicité,</div><div>-adhésion cellule-cellule</div></div>						segmo
+D. Les sucres se fixent aux protéines en épargnant les lipides	17. Concernant le glycocalyx	UE2S100117	FAUX	glycolipide = lipide + sucre						segmo
+E. Il est mis en évidence par le rouge de ruthénium	17. Concernant le glycocalyx	UE2S100117	VRAI							segmo
+A. Les protéines transmembranaires ont un domaine hydrophobe et 2 domaines hydrophiles	18. Concernant les protéines	UE2S100118	VRAI							segmo
+B. Les canaux ioniques sont des protéines transmembranaires	18. Concernant les protéines	UE2S100118	VRAI							segmo
+C. Les protéines périphériques peuvent être individualisées par des procédés d'extraction doux	18. Concernant les protéines	UE2S100118	VRAI							segmo
+D. Une protéine membranaire peut être périphérique	18. Concernant les protéines	UE2S100118	VRAI							segmo
+E. Une protéine membranaire peut être intrinsèque	18. Concernant les protéines	UE2S100118	VRAI							segmo
+A. Rigide	19. Quels sont les adjectifs correspondant au cytosquelette 3R	UE2S100119	FAUX	dynamique, robuste, adaptable						segmo
+B. Dynamique	19. Quels sont les adjectifs correspondant au cytosquelette 3R	UE2S100119	VRAI							segmo
+C. Désorganisés	19. Quels sont les adjectifs correspondant au cytosquelette 3R	UE2S100119	FAUX	dynamique, robuste, adaptable						segmo
+D. Robuste	19. Quels sont les adjectifs correspondant au cytosquelette 3R	UE2S100119	VRAI							segmo
+E. Adaptable	19. Quels sont les adjectifs correspondant au cytosquelette 3R	UE2S100119	VRAI							segmo
+A. Est absent des procaryotes	20. Concernant le cytosquelette 3R	UE2S100120	VRAI							segmo
+B. Constitué de 2 types de filaments	20. Concernant le cytosquelette 3R	UE2S100120	FAUX	B. faux : constitué de 3 types de filaments : MT, FA, FI						segmo
+C. Participe a la croissance des plantes	20. Concernant le cytosquelette 3R	UE2S100120	VRAI							segmo
+D. Au niveau des filaments il y a de nombreuses protéines accessoires	20. Concernant le cytosquelette 3R	UE2S100120	VRAI							segmo
+E. Est invisible en microscopie photonique	20. Concernant le cytosquelette 3R	UE2S100120	FAUX	.						segmo
+A. Sont des polymères protéiques.	21. Concernant les éléments du cytosquelette 3R	UE2S100121	VRAI							segmo
+B. Ont tous le même diamètre	21. Concernant les éléments du cytosquelette 3R	UE2S100121	FAUX	actine 5-9 nm / FI 10 nm / MT 25 nm						segmo
+C. Assurent la forme générale de la cellule	21. Concernant les éléments du cytosquelette 3R	UE2S100121	VRAI							segmo
+D. Forment un squelette statique dans le cytoplasme cellulaire	21. Concernant les éléments du cytosquelette 3R	UE2S100121	FAUX	D.faux : Forme un squelette dynamique						segmo
+E. Peuvent participer, pour certains d'entre eux, à des déplacements intracellulaires d'organites	21. Concernant les éléments du cytosquelette 3R	UE2S100121	VRAI							segmo
+A. Filament transitoire	22. Quels sont les filaments appartenant au cytosquelette 2R	UE2S100122	FAUX	actine 5-9 nm / FI 10 nm / MT 25 nm						segmo
+B. Microtubule	22. Quels sont les filaments appartenant au cytosquelette 2R	UE2S100122	VRAI							segmo
+C. Filament corpusculaire	22. Quels sont les filaments appartenant au cytosquelette 2R	UE2S100122	FAUX	actine 5-9 nm / FI 10 nm / MT 25 nm						segmo
+D. Microfilament d'actine	22. Quels sont les filaments appartenant au cytosquelette 2R	UE2S100122	VRAI							segmo
+E. Microtube	22. Quels sont les filaments appartenant au cytosquelette 2R	UE2S100122	FAUX	actine 5-9 nm / FI 10 nm / MT 25 nm						segmo
+A. Les polymères sont très mobiles. Ils sont formés à partir de petites molécules moins mobiles	23. Concernant le cytosquelette 1R	UE2S100123	FAUX							segmo
+B. Les liaisons latérales sont des liaisons faibles assurant la cohésion entre 2 monomères pouvant appartenir à un même protofilament	23. Concernant le cytosquelette 1R	UE2S100123	FAUX	protofilament différent						segmo
+E. Plusieurs monomères mis bout à bout forment des polymères, plusieurs polymères forment un protofilament	23. Concernant le cytosquelette 1R	UE2S100123	FAUX							segmo
+D. Associer des protofilaments en polymères améliore la résistance ainsi que la capacité d'adaptation de la cellule	23. Concernant le cytosquelette 1R	UE2S100123	VRAI							segmo
+E. Les liaisons latérales, contrairement aux longitudinales, sont des liaisons fortes	23. Concernant le cytosquelette 1R	UE2S100123	FAUX	faibles						segmo
+A. Un filament intermédiaire (FI) est composé de 8 protofilaments	24. Concernant les filaments du cytosquelette 2R	UE2S100124	VRAI							segmo
+B. Tout comme les polymères de FI, ceux des microtubules (MT) sont peu résistants	24. Concernant les filaments du cytosquelette 2R	UE2S100124	FAUX	B.faux : Les FI sont très résistants						segmo
+C. Les polymères de FI composent le squelette cellulaire et associent donc résistance et dynamisme	24. Concernant les filaments du cytosquelette 2R	UE2S100124	FAUX	C. Faux : Les FI sont peu dynamique						segmo
+D. Dans l'ordre du nombre de protofilament croissants, on a: filament d'actine (FA), FI et MT avec respectivement 2, 8 et 13 protofilaments	24. Concernant les filaments du cytosquelette 2R	UE2S100124	VRAI							segmo
+C. Les monomères de MF et de FI sont des protéines globulaires	24. Concernant les filaments du cytosquelette 2R	UE2S100124	FAUX	MF (actine) et MT<br>FI : filamenteux						segmo
+A. Ils tapissent la face interne de l'enveloppe nucléaire	25. Concernant les MT 2R	UE2S100125	FAUX	A. faux : Ce sont les FI qui tapissent la face interne de l'enveloppe nucléaire						segmo
+B. Les protéines constituant l'hétérodimère sont reliées ensemble grâce a des liaisons covalentes	25. Concernant les MT 2R	UE2S100125	FAUX	B. faux : Liaisons non covalentes						segmo
+C. Ils peuvent fixer du GTP	25. Concernant les MT 2R	UE2S100125	VRAI							segmo
+D. Les contacts latéraux sont du type alpha-alpha et bêta-bêta	25. Concernant les MT 2R	UE2S100125	VRAI							segmo
+E. Les protofilaments sont assemblés de manière antiparallèle	25. Concernant les MT 2R	UE2S100125	FAUX	E.faux : 13 protofilaments assemblés de manière parallèle						segmo
+A. Peut fixer du GTP	26. Concernant les FA 3R	UE2S100126	FAUX	A. faux : Fixe de l'ATP						segmo
+B. Est le plus épais des filaments	26. Concernant les FA 3R	UE2S100126	FAUX	B. faux : C'est le MT qui est le plus épais						segmo
+C. L'extrémité la plus dynamique est l'extrémité barbue	26. Concernant les FA 3R	UE2S100126	VRAI	extrémité +						segmo
+D. Sont impliqués dans les phénomènes de locomotion de la cellule	26. Concernant les FA 3R	UE2S100126	VRAI							segmo
+E. Constitué de sous unité monomérique	26. Concernant les FA 3R	UE2S100126	VRAI							segmo
+A. Le phénomène de tapis roulant y est prédominant	27. Concernant les FI 3R	UE2S100127	FAUX	A. faux : Il n'y a pas de phénomène de ce genre car les FI sont non polarisé						segmo
+B. Est toujours absent dans les oligodendrocytes	27. Concernant les FI 3R	UE2S100127	VRAI							segmo
+C. Les filaments sont polarisés	27. Concernant les FI 3R	UE2S100127	FAUX	actine et MT sont polarisés mais pas les FI						segmo
+D. Formés de protéines fibreuses	27. Concernant les FI 3R	UE2S100127	VRAI							segmo
+E. Il existe plusieurs familles de filament intermédiaire	27. Concernant les FI 3R	UE2S100127	VRAI							segmo
+A. Ils peuvent se lier à un nucléotide	28. Quels sont les points communs des MT et FA 3R	UE2S100128	VRAI							segmo
+B. Leurs protofilaments sont de même forme	28. Quels sont les points communs des MT et FA 3R	UE2S100128	FAUX	.						segmo
+C. Ils sont polarisés	28. Quels sont les points communs des MT et FA 3R	UE2S100128	VRAI							segmo
+D. Ont été peu conservées au cours de l'évolution	28. Quels sont les points communs des MT et FA 3R	UE2S100128	FAUX	très conservé						segmo
+E. Ils sont formés de protéines globulaires	28. Quels sont les points communs des MT et FA 3R	UE2S100128	VRAI							segmo
+A. Les FI sont constitués surtout de liaisons longitudinales	29. Concernant les filaments 3R	UE2S100129	FAUX	latérales faible						segmo
+B. Les MT sont constitués essentiellement de liaisons longitudinales	29. Concernant les filaments 3R	UE2S100129	VRAI							segmo
+C. Les FI possèdent des liaisons latérales hydrophobes	29. Concernant les filaments 3R	UE2S100129	VRAI							segmo
+D. Les MT se cassent plus facilement que les FI	29. Concernant les filaments 3R	UE2S100129	VRAI							segmo
+E. Les FI se cassent plus facilement que les MT	29. Concernant les filaments 3R	UE2S100129	FAUX	par croissant de résistance : MT > actine > FI						segmo
+A. La nucléation est l'étape qui limite la vitesse de formation d'un polymère du cytosquelette	30. Concernant la nucléation des filaments 3R	UE2S100130	VRAI							segmo
+B. Cc= Kon/Koff	30. Concernant la nucléation des filaments 3R	UE2S100130	FAUX	Koff (dissociation) / Kon (association)						segmo
+C. Le phénomène de tapis roulant prédomine chez l'actine	30. Concernant la nucléation des filaments 3R	UE2S100130	VRAI							segmo
+D. Le phénomène d'instabilité dynamique est absent chez l'actine	30. Concernant la nucléation des filaments 3R	UE2S100130	FAUX	mais plus présent chez MT						segmo
+E. Le phénomène d'instabilité est important chez les sous unités de tubuline	30. Concernant la nucléation des filaments 3R	UE2S100130	VRAI							segmo
+A. Cellule	17. Indiquez les 4 mots clés se rapportant à l'histologie	UE2T130117	VRAI							
+B. Structure	17. Indiquez les 4 mots clés se rapportant à l'histologie	UE2T130117	VRAI							
+C. Microscope	17. Indiquez les 4 mots clés se rapportant à l'histologie	UE2T130117	VRAI							
+D. Anatomie pathologique	17. Indiquez les 4 mots clés se rapportant à l'histologie	UE2T130117	VRAI							
+E. Macroscopie	17. Indiquez les 4 mots clés se rapportant à l'histologie	UE2T130117	FAUX	E. Faux : La macroscopie est la deuxième partie de l'anatomie pathologique (qui est une spécialité médicale) avec l'histo(patho)logie. L'histologie se pratique seulement à l'aide d'un microscope.						
+A. Cellule &nbsp;	18. A quel item se rapporte cette définition : Structure destinée à assurer une fonction dans un appareil ?	UE2T130118	FAUX							
+B. appareil	18. A quel item se rapporte cette définition : Structure destinée à assurer une fonction dans un appareil ?	UE2T130118	FAUX	organe						
+C. Système	18. A quel item se rapporte cette définition : Structure destinée à assurer une fonction dans un appareil ?	UE2T130118	FAUX							
+D. Organe	18. A quel item se rapporte cette définition : Structure destinée à assurer une fonction dans un appareil ?	UE2T130118	VRAI							
+E.Tissu	18. A quel item se rapporte cette définition : Structure destinée à assurer une fonction dans un appareil ?	UE2T130118	FAUX	organe						
+A. Est un acide ribonucléique	19. Indiquez les 2 caractéristiques de l'ADN	UE2T130119	FAUX	A. Faux : ADN signifie Acide DésoxyriboNucléique. Le sucre composant l'ADN est un désoxyribose, tandis que celui de l'ARN est un ribose, d'où son nom d'Acide RiboNucléique.						
+B. Est une molécule souple	19. Indiquez les 2 caractéristiques de l'ADN	UE2T130119	FAUX	B. Faux : L'ADN est rigide, au contraire de l'ARN qui lui est souple.						
+C. Il est double brin	19. Indiquez les 2 caractéristiques de l'ADN	UE2T130119	VRAI							
+D. Est composé de 5 bases	19. Indiquez les 2 caractéristiques de l'ADN	UE2T130119	FAUX	D. Faux : Il est composé de 4 bases différentes : A (Adénine), T (Thymine), C (Cytosine) et G (Guanine). Le T est remplacé par le U (Uracyl) dans l'ARN.						
+E. Contient du phosphore	19. Indiquez les 2 caractéristiques de l'ADN	UE2T130119	VRAI	E. Vrai : L'ADN est composé d'une chaîne squelette de phosphore et de désoxyribose. Les bases font saillie en se fixant sur le sucre.						
+A. Il est anglais	20. Indiquez les 4 propositions exactes concernant Sir John B. Gurdon	UE2T130120	VRAI	A. Vrai : Aidez-vous du « sir ».						
+B. Il a découvert qu'une cellule différenciée pouvait redevenir pluripotente	20. Indiquez les 4 propositions exactes concernant Sir John B. Gurdon	UE2T130120	VRAI	B. Vrai : Découverte majeur qui trouvera certainement un jour une application thérapeutique.						
+C. Il a été anobli	20. Indiquez les 4 propositions exactes concernant Sir John B. Gurdon	UE2T130120	VRAI	C. Vrai : Toujours le “sir”.						
+D. Il a obtenu le prix Nobel en 1912	20. Indiquez les 4 propositions exactes concernant Sir John B. Gurdon	UE2T130120	FAUX	D. Faux : En 2012. 1912 semble trop lointain pour une découverte si moderne.						
+A. Ribosome	21. A quel organite intracellulaire la phrase suivante fait-elle référence “mastodonte qui s'empare de l'ARNm pour se traîner jusqu'à son extrémité en cousant ensemble les acides aminés qu'ils portent pour en faire une protéine” ?	UE2T130121	VRAI	Cette phrase (très appréciée du Pr Macé) fait référence à la traduction (formation d'une protéine à partir d'un ARNm(essager)) et au ribosome (très gros, multimoléculaire).						
+B. Mitochondrie	21. A quel organite intracellulaire la phrase suivante fait-elle référence “mastodonte qui s'empare de l'ARNm pour se traîner jusqu'à son extrémité en cousant ensemble les acides aminés qu'ils portent pour en faire une protéine” ?	UE2T130121	FAUX	Cette phrase (très appréciée du Pr Macé) fait référence à la traduction (formation d'une protéine à partir d'un ARNm(essager)) et au ribosome (très gros, multimoléculaire).						
+C. Lysozyme	21. A quel organite intracellulaire la phrase suivante fait-elle référence “mastodonte qui s'empare de l'ARNm pour se traîner jusqu'à son extrémité en cousant ensemble les acides aminés qu'ils portent pour en faire une protéine” ?	UE2T130121	FAUX	Cette phrase (très appréciée du Pr Macé) fait référence à la traduction (formation d'une protéine à partir d'un ARNm(essager)) et au ribosome (très gros, multimoléculaire).						
+D. ARNt	21. A quel organite intracellulaire la phrase suivante fait-elle référence “mastodonte qui s'empare de l'ARNm pour se traîner jusqu'à son extrémité en cousant ensemble les acides aminés qu'ils portent pour en faire une protéine” ?	UE2T130121	FAUX	Cette phrase (très appréciée du Pr Macé) fait référence à la traduction (formation d'une protéine à partir d'un ARNm(essager)) et au ribosome (très gros, multimoléculaire).						
+E. Réticulum endoplasmique	21. A quel organite intracellulaire la phrase suivante fait-elle référence “mastodonte qui s'empare de l'ARNm pour se traîner jusqu'à son extrémité en cousant ensemble les acides aminés qu'ils portent pour en faire une protéine” ?	UE2T130121	FAUX	Cette phrase (très appréciée du Pr Macé) fait référence à la traduction (formation d'une protéine à partir d'un ARNm(essager)) et au ribosome (très gros, multimoléculaire).						
+A. Pas de noyau	22. Indiquez les 3 propositions se rapportant aux organismes eucaryotes	UE2T130122	FAUX	A. Faux : Elles en possèdent un, au contraire des procaryotes qui n'en ont pas.						
+B. Evolués	22. Indiquez les 3 propositions se rapportant aux organismes eucaryotes	UE2T130122	VRAI	B. Vrai : Les plantes, les champignons et les animaux sont eucaryotes. Les procaryotes sont des bactéries, simples, le plus souvent unicellulaires.						
+C. Champignons	22. Indiquez les 3 propositions se rapportant aux organismes eucaryotes	UE2T130122	VRAI							
+D. Petits	22. Indiquez les 3 propositions se rapportant aux organismes eucaryotes	UE2T130122	FAUX							
+E. Plantes	22. Indiquez les 3 propositions se rapportant aux organismes eucaryotes	UE2T130122	VRAI							
+A. Ils sont organotrophiques	23. Indiquez les 2 propositions exactes concernant les organismes lithotrophes	UE2T130123	FAUX	A. Faux : Ils se nourrissent de nutriments chimiques inorganiques, de minéraux.						
+B. Ils vivent au dépend du monde vivant	23. Indiquez les 2 propositions exactes concernant les organismes lithotrophes	UE2T130123	FAUX	B. Faux : C'est la définition des organismes organotrophiques.						
+C. Ils constituent la majorité des êtres vivants sur Terre	23. Indiquez les 2 propositions exactes concernant les organismes lithotrophes	UE2T130123	VRAI	C. Vrai : Bien qu'ils soient invisibles car microscopiques et vivants là où nous sommes rarement (dans la croûte terrestre par exemple...).						
+D. Ils sont toujours microscopiques	23. Indiquez les 2 propositions exactes concernant les organismes lithotrophes	UE2T130123	VRAI							
+E. Certains organismes lithotrophes aérobies vivent dans les cheminées hydrothermiques	23. Indiquez les 2 propositions exactes concernant les organismes lithotrophes	UE2T130123	FAUX	E. Faux : Ils sont anaérobies, l'O2 étant inexistant dans ces cheminées. On distingue deux catégories d'organismes lithotrophes : les aérobies et les anaérobies. Dans ces fameuses cheminées hydrothermiques vivent aussi des moules, palourdes, vers marins géants... organotrophiques eux, se nourrisant de ces microbes lithotrophes.						
+A. Les procaryotes sont des prédateurs	24. Indiquez les 3 propositions exactes concernant les hypothèses sur la prédation	UE2T130124	FAUX	A. Faux : Seuls les cellules eucaryotes peuvent pratiquer la prédation car elle nécessite de pouvoir pratiquer la phagocytose (« manger » d'autres cellules) grâce à une membrane souple, sans paroi, un cytosquelette pour englober la cellule cible, et une enveloppe nucléaire pour protéger l'ADN contre les mouvements du cytosquelette qui pourraient l'endommager.						
+C. La prédation a permis la création du réticulum endoplasmique	24. Indiquez les 3 propositions exactes concernant les hypothèses sur la prédation	UE2T130124	FAUX	C. Faux : La phagocytose d'une ancienne bactérie aérobique produisant de l'ATP à partir d'O2, par un eucaryote ancestral est à l'origine des mitochondries. De même, cet eucaryote ancestral ayant déjà phagocyté des mitochondries internalise aussi une ancienne bactérie photosynthétique, ce qui est à l'origine des chloroplastes dans les cellules eucaryotes végétales. C'est le phénomène de symbiose : Les bactéries phagocytées reçoivent protection et nourriture et fournissent de l'énergie à leur cellule eucaryote hôte.						
+D. Les chloroplastes dérivent de bactéries photosynthétiques	24. Indiquez les 3 propositions exactes concernant les hypothèses sur la prédation	UE2T130124	VRAI							
+E. Les eucaryotes ont un génome hybride	24. Indiquez les 3 propositions exactes concernant les hypothèses sur la prédation	UE2T130124	VRAI	E. Vrai : Car mélange de l'ADN nucléaire et de l'ADN d'origine bactérienne (circulaire) contenu dans les mitochondries (et les chloroplastes pour les cellules végétales).						
+A. Mitose	25. Fonctions du cytosquelette	UE2T130125	VRAI							
+B. Contraction musculaire	25. Fonctions du cytosquelette	UE2T130125	VRAI							
+C. Immobilité de la cellule	25. Fonctions du cytosquelette	UE2T130125	FAUX	C. Faux : Au contraire, le cytoquelette permet la mobilité de la cellule, bien qu'il lui donne sa forme et sa robustesse aussi.						
+D. Trafic des organites	25. Fonctions du cytosquelette	UE2T130125	VRAI							
+E. Croissance des plantes	25. Fonctions du cytosquelette	UE2T130125	VRAI							
+A. Donnent la force mécanique à la cellule	26. Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T130126	VRAI	(3 diapos sur les 3 filaments à connaître par coeur !)						
+B. Tapissent la face interne de la membrane plasmique	26. Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T130126	FAUX	B. Faux : Ils tapissent la face interne de l'enveloppe nucléaire.						
+C. Protègent les neurones	26. Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T130126	VRAI							
+D. Forment l'anneau contractile durant la cytodiérèse	26. Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T130126	FAUX	D. Faux : C'est le rôle de du filament d'actine (= microfilament).						
+E. Permettent le battement des cils et flagelles	26. Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T130126	FAUX	E. Faux : Ce sont les microtubules.						
+A. Il est constitué de monomères	27. Indiquez la proposition exacte concernant la structure du microtubule	UE2T130127	FAUX	A. Faux : Il est constitué de tubuline, qui est une protéine hétérodimérique, avec une sous-unité α et une sous unité β. La β-tubuline contient un site de liaison pour un GTP échangeable en GDP, car elle est en surface. Le GTP fixé à l'α- tubuline n'est pas échangeable.						
+B. Il est creux	27. Indiquez la proposition exacte concernant la structure du microtubule	UE2T130127	VRAI	B. Vrai : Car c'est un tubule, tout petit, un micro-tubule.						
+C. Il se lie à de l'ATP	27. Indiquez la proposition exacte concernant la structure du microtubule	UE2T130127	FAUX	C. Faux : Du GTP. C'est le microfilament (MF) d'actine qui possède des sites de liaison à l'ATP.						
+D. Il est constitué de 2 protofilaments en hélice	27. Indiquez la proposition exacte concernant la structure du microtubule	UE2T130127	FAUX	D. Faux : C'est ce qu'on dit du microfilament (on ne sait pas vraiment s'il est formé d'1 seul filament ou de 2 enroulés en une hélice). Le microtubule (MT) est composé de 13 protofilaments parralèles entre eux.						
+E. Il est apolaire	27. Indiquez la proposition exacte concernant la structure du microtubule	UE2T130127	FAUX	E. Faux : Il est polarisé : il possède une extrémité + au niveau des β-tubulines et une extrémité – au niveau des α-tubulines.						
+A. Elle suit une courbe sigmoïde	28. Indiquez les 3 propositions exactes concernant la cinétique de l'assemblage d'un filament	UE2T130128	VRAI	A. Vrai (voir graphique)						
+B. La nucléation correspond à la phase limitante	28. Indiquez les 3 propositions exactes concernant la cinétique de l'assemblage d'un filament	UE2T130128	VRAI	B. Vrai : C'est la première phase de la formation d'un filament in vitro. Elle consiste en la formation de petits nucléus (noyaux) de quelques sous-unités d'actine ou de tubuline (oligomères), qui peuvent ensuite être allongés pour former les filaments. Cette phase n'existe pas in vivo car il existe toujours des filaments pré-formés près à être allongés.						
+C. La concentration critique est atteinte à la phase d'équilibre	28. Indiquez les 3 propositions exactes concernant la cinétique de l'assemblage d'un filament	UE2T130128	VRAI	C. Vrai : La concentration critique (Cc) est atteinte lorsque l'association de sous-unités est égale à leur dissociation, au niveau d'une des deux extrémité du filament.						
+D. La phase de latence correspond à la phase d'équilibre	28. Indiquez les 3 propositions exactes concernant la cinétique de l'assemblage d'un filament	UE2T130128	FAUX	D. Faux : La phase de latence correspond à la nucléation.						
+E. La phase de latence existe dans toutes nos cellules	28. Indiquez les 3 propositions exactes concernant la cinétique de l'assemblage d'un filament	UE2T130128	FAUX	E. Faux : Elle existe seulement dans les tubes à essais, in vitro.						
+A. Il permet d'observer une cellule.	29. Indiquez la (les) proposition(s) exacte(s) concernant le microscope photonique :	UE2T130129	VRAI	A. Vrai : Il faut retenir qu'un microscope photonique permet d'observer des objets d'une taille de 0,5 μm. Cellule = 20μm.						
+B. Il comprend 3 ensembles de lentilles.	29. Indiquez la (les) proposition(s) exacte(s) concernant le microscope photonique :	UE2T130129	VRAI	B. Vrai : Ces trois ensembles de lentilles sont de la source de lumière /condenseur, l'objectif et l'oculaire. NB : entre le condenseur et l'objectif se trouve le spécimen = objet que l'on regarde.						
+C. Il permet de détecter une bactérie.	29. Indiquez la (les) proposition(s) exacte(s) concernant le microscope photonique :	UE2T130129	VRAI	C. Vrai : voir A, une bactérie mesure 2 μm.						
+D. Il a été mis au point au XIVème siècle.	29. Indiquez la (les) proposition(s) exacte(s) concernant le microscope photonique :	UE2T130129	FAUX	D. Faux : Les premiers microscopes photoniques datent du XVII ème siècle.						
+E. L'oculaire concentre la source lumineuse sur le spécimen.	29. Indiquez la (les) proposition(s) exacte(s) concernant le microscope photonique :	UE2T130129	FAUX	E. Faux : C'est le condenseur qui concentre la source lumineuse, l'oculaire reçoit l'image de l'objectif et la transmet à l'œil.						
+A. Pour une bonne analyse on n'a besoin que d'un bon microscope.	30. Indiquez la (les) proposition(s) exacte(s) concernant l'observation en microscopie photonique :	UE2T130130	FAUX	A. Faux : Elle dépend aussi de la qualité de la préparation de l'échantillon de qualité.						
+B. La résolution de l'œil est une des limites à la qualité de l'observation.	30. Indiquez la (les) proposition(s) exacte(s) concernant l'observation en microscopie photonique :	UE2T130130	VRAI	B. Vrai : Cette résolution de l'œil est plus ou moins bonne d'un individu à l'autre.						
+C. On cherche à obtenir une valeur de résolution de l'appareil la plus grande possible.	30. Indiquez la (les) proposition(s) exacte(s) concernant l'observation en microscopie photonique :	UE2T130130	FAUX	C. Faux : La valeur de la résolution doit être la plus faible possible.						
+D. La résolution dépend de l'intensité lumineuse.	30. Indiquez la (les) proposition(s) exacte(s) concernant l'observation en microscopie photonique :	UE2T130130	FAUX	D. Faux : De la longueur d'onde.						
+E. La résolution dépend de la longueur d'onde de la lumière.	30. Indiquez la (les) proposition(s) exacte(s) concernant l'observation en microscopie photonique :	UE2T130130	VRAI	Résolution = 0.61 λ / n sin θ avec λ = longueur d'onde, θ = la moitié de l'angle du cône de rayons émis par le condenseur et reçus par l'objectif et n = indice du milieu.						
+A. L'enchaînement des opérations est le suivant : fixation, inclusion, coupe, étalement et coloration.	31. Indiquez les 2 propositions exactes concernant la préparation d'échantillons durables destinés à la microscopie photonique :	UE2T130131	VRAI	A. Vrai						
+B. L'épaisseur des coupes est de l'ordre du millimètre (mm).	31. Indiquez les 2 propositions exactes concernant la préparation d'échantillons durables destinés à la microscopie photonique :	UE2T130131	FAUX	B. Faux : De l'ordre du μm.						
+C. Lors de la fixation, le formol réalise le pontage des protéines.	31. Indiquez les 2 propositions exactes concernant la préparation d'échantillons durables destinés à la microscopie photonique :	UE2T130131	VRAI	C. Vrai . Et l'alcool fixe les glucides						
+D. Le Giemsa est un colorant naturel.	31. Indiquez les 2 propositions exactes concernant la préparation d'échantillons durables destinés à la microscopie photonique :	UE2T130131	FAUX	D. Faux : C'est un colorant synthétique (le seul cité en cours).						
+E. Ce mode de préparation permet d'observer des cellules en mouvement.	31. Indiquez les 2 propositions exactes concernant la préparation d'échantillons durables destinés à la microscopie photonique :	UE2T130131	FAUX	E. Faux : Attention, la fixation et l'inclusion de l'échantillon tuent la cellule, elle ne peut plus être en mouvement.						
+A. Elle nécessite au préalable inclusion, étalement et coloration de l'échantillon	32. Indiquez les 3 propositions exactes concernant la congélation d'échantillon destiné à la microscopie photonique :	UE2T130132	FAUX	A. Faux : C'est le fait de congeler qui va fixer et rigidifier la préparation pour qu'elle puisse être coupée.						
+B. L'abaissement de la température doit se faire très rapidement pour éviter une association des molécules d'eau en un réseau cristallin régulier et la dilacération de la préparation qui en résulte.	32. Indiquez les 3 propositions exactes concernant la congélation d'échantillon destiné à la microscopie photonique :	UE2T130132	VRAI	B. Vrai.						
+C. Cette technique nécessite plus de préparation que le protocole classique passant par une fixation, et donc plus de temps.	32. Indiquez les 3 propositions exactes concernant la congélation d'échantillon destiné à la microscopie photonique :	UE2T130132	FAUX	C. Faux : C'est un des avantages de la congélation, la préparation de l'échantillon est plus rapide car la congélation « remplace » la fixation et inclusion du protocole classique passant par la fixation et surtout cette congélation doit se faire en très peu de temps (voir B).						
+D. La structure des constituants cellulaires n'est pas modifiée et les antigènes présents dans la préparation sont donc respectés.	32. Indiquez les 3 propositions exactes concernant la congélation d'échantillon destiné à la microscopie photonique :	UE2T130132	VRAI	D.Vrai : C'est un autre avantage de la congélation.						
+E. La préparation congelée sera débitée en coupes à l'aide d'un cryomicrotome.	32. Indiquez les 3 propositions exactes concernant la congélation d'échantillon destiné à la microscopie photonique :	UE2T130132	VRAI	E. Vrai						
+A. La longueur d'onde d'émission du colorant fluorescent est inférieure à la longueur d'onde d'excitation.	33. Indiquez les 3 propositions exactes concernant la microscopie en fluorescence :	UE2T130133	FAUX	A. Faux : Il s'agit d'une augmentation de la longueur d'onde. Il faut retenir que chaque colorant fluorescent est excité par une longueur d'onde précise et émettra une longueur d'onde précise. La longueur d'onde d'excitation est toujours plus faible que la longueur d'onde d'émission. Par ex la GFP a une longueur d'onde d'excitation bleue à environ 470 nm et une longueur d'onde d'émission verte à environ 510 nm.						
+B. Le microscope à fluorescence doit permettre de sélectionner des longueurs d'onde d'excitation et d'émission.	33. Indiquez les 3 propositions exactes concernant la microscopie en fluorescence :	UE2T130133	VRAI	B. Vrai : Le principe du microscope à fluorescence est qu'il va sélectionner par un filtre la longueur d'onde d'émission du colorant fluo (qu'on a fixé spécifiquement dans la préparation) puis sa longueur d'onde d'émission pour avoir une image spécifique de la fixation du colorant sur la préparation. Donc, le microscope filtre la longueur d'onde d'excitation , cette longueur d'onde va ensuite exciter le colorant fluo qui émet alors une onde, c'est l'onde d'émission. Pour finir un deuxième filtre ne laisse passer que l'onde d'émission donnant ainsi une image montrant la fixation, ou la non fixation du colorant sur la préparation.						
+C. Le DAPI est un colorant fluorescent.	33. Indiquez les 3 propositions exactes concernant la microscopie en fluorescence :	UE2T130133	VRAI	C. Vrai : Il est spécifique de l'ADN						
+D. L'immunofluorescence permet de repérer une cible spécifique dans une préparation à l'aide d'un anticorps marqué par un colorant fluorescent.	33. Indiquez les 3 propositions exactes concernant la microscopie en fluorescence :	UE2T130133	VRAI	D. Vrai						
+E. En immunofluorescence, le signal peut être amplifié par marquage d'un anticorps primaire.	33. Indiquez les 3 propositions exactes concernant la microscopie en fluorescence :	UE2T130133	FAUX	E. Faux : l'amplification se fait grâce au marquage d'anticorps secondaires venant s'associer en nombre à l'anticorps primaire non marqué.						
+A. L'image a été obtenue en microscopie électronique à transmission.	34. Indiquez les 2 propositions exactes concernant l'image ci-après :	UE2T130134	FAUX		"<img src=""UE2T13s1.png"" />"					
+B. L'image a été obtenue en microscopie électronique à balayage.	34. Indiquez les 2 propositions exactes concernant l'image ci-après :	UE2T130134	VRAI		"<img src=""UE2T13s1.png"" />"					
+C. Il s'agit d'une bactérie.	34. Indiquez les 2 propositions exactes concernant l'image ci-après :	UE2T130134	FAUX		"<img src=""UE2T13s1.png"" />"					
+D. Il s'agit de la tête d'un insecte.	34. Indiquez les 2 propositions exactes concernant l'image ci-après :	UE2T130134	VRAI		"<img src=""UE2T13s1.png"" />"					
+E. L'image a été obtenue en microscopie photonique.	34. Indiquez les 2 propositions exactes concernant l'image ci-après :	UE2T130134	FAUX		"<img src=""UE2T13s1.png"" />"					
+A. La source lumineuse utilisée est la même que pour le microscope photonique.	35. Indiquez la (les) proposition(s) exacte(s) concernant la microscopie électronique :	UE2T130135	FAUX	A. Faux : On utilise un faisceau d'électron et non une source de photons.						
+B. Le microscope électronique est plus performant que le microscope photonique.	35. Indiquez la (les) proposition(s) exacte(s) concernant la microscopie électronique :	UE2T130135	VRAI	B. Vrai : La résolution est jusqu'à 1000 fois inférieure.						
+C. La préparation est observée sous vide.	35. Indiquez la (les) proposition(s) exacte(s) concernant la microscopie électronique :	UE2T130135	VRAI	C. Vrai						
+D. On peut distinguer un atome grâce à un microscope électronique.	35. Indiquez la (les) proposition(s) exacte(s) concernant la microscopie électronique :	UE2T130135	VRAI	D. Vrai : Un microscope électronique peut distinguer un objet de la taille d'un Ångström = 0,1 nm. Un atome mesure environ 2 Angströms.						
+E. On peut observer des cellules vivantes en microscopie électronique.	35. Indiquez la (les) proposition(s) exacte(s) concernant la microscopie électronique :	UE2T130135	FAUX	E. Faux : Le fait que la préparation soit sous vide est incompatible avec la survie des cellules.						
+A. C'est une protéine artificielle.	36. Indiquez les 2 propositions exactes concernant la Green Fluorescent Protein (GFP) :	UE2T130136	FAUX	A. et B. C'est une protéine fluorescente provenant de la méduse.						
+B. Elle provient de végétaux.	36. Indiquez les 2 propositions exactes concernant la Green Fluorescent Protein (GFP) :	UE2T130136	FAUX	A. et B. C'est une protéine fluorescente provenant de la méduse.						
+C. Elle permet de marquer d'autres protéines.	36. Indiquez les 2 propositions exactes concernant la Green Fluorescent Protein (GFP) :	UE2T130136	VRAI							
+D. Elle émet une fluorescence bleue.	36. Indiquez les 2 propositions exactes concernant la Green Fluorescent Protein (GFP) :	UE2T130136	FAUX							
+E. Elle permet de marquer, d'identifier et de décrire la configuration des cellules dans un échantillon.	36. Indiquez les 2 propositions exactes concernant la Green Fluorescent Protein (GFP) :	UE2T130136	VRAI							
+A. La fixation se fait avec les mêmes produits que ceux utilisés en microscopie photonique.	37. Indiquez les 2 propositions exactes concernant la préparation des échantillons destinés à la microscopie électronique :	UE2T130137	FAUX	A. Faux : Alors qu'on utilisait du formol et de l'alcool en microscopie photonique, on utilise du glutaraldéhyde et du tétroxyde d'osmium pour la microscopie électronique.						
+B. C'est un ultramicrotome qui réalise les coupes “ultrafines”.	37. Indiquez les 2 propositions exactes concernant la préparation des échantillons destinés à la microscopie électronique :	UE2T130137	VRAI	B. Vrai						
+C. La coloration peut se faire avec le trichrome de Masson.	37. Indiquez les 2 propositions exactes concernant la préparation des échantillons destinés à la microscopie électronique :	UE2T130137	FAUX	C. Faux : La coloration se fait avec des sels de métaux lourds qui vont dévier les électrons (trichrome de Masson pour microscopie photonique).						
+D. L'ombrage est une méthode particulière de coloration qui fait ressortir le relief de la préparation.	37. Indiquez les 2 propositions exactes concernant la préparation des échantillons destinés à la microscopie électronique :	UE2T130137	VRAI	D. Vrai						
+E. On ne peut pas faire de cryofixation en microscopie électronique.	37. Indiquez les 2 propositions exactes concernant la préparation des échantillons destinés à la microscopie électronique :	UE2T130137	FAUX	E. Faux : Elle est utilisée par exemple pour la cryofracture et le cryodécapage.						
+A. La cryofracture permet d'étudier les membranes de la cellule.	38. Indiquez les 3 propositions exactes concernant la cryofracture et le cryodécapage :	UE2T130138	VRAI							
+B. La cryofracture à pour but de séparer les feuillets de la membrane.	38. Indiquez les 3 propositions exactes concernant la cryofracture et le cryodécapage :	UE2T130138	VRAI	B. Vrai : On effectue un choc sur la préparation pour la casser et séparer les feuillets de la membrane.						
+C. Les feuillets se séparent difficilement car la membrane est un zone de grande robustesse.	38. Indiquez les 3 propositions exactes concernant la cryofracture et le cryodécapage :	UE2T130138	FAUX	C. Faux : Les membranes sont des lignes de grande fragilité de la cellule donc le choc en séparera les feuillets.						
+D. L'échantillon ne nécessite pas de congélation préalable.	38. Indiquez les 3 propositions exactes concernant la cryofracture et le cryodécapage :	UE2T130138	FAUX	D. Faux: L'échantillon doit être congelé pour pouvoir être cassé.						
+E. Le cryodécapage sert à faire ressortir le relief de la préparation.	38. Indiquez les 3 propositions exactes concernant la cryofracture et le cryodécapage :	UE2T130138	VRAI	E. Vrai.						
+A. Ces méthodes sont utilisées pour étudier les cellules.	39. Indiquez la (les) proposition(s) exacte(s) concernant les méthodes d'introduction de molécules dans la cellule :	UE2T130139	VRAI							
+B. La vésiculation utilise une fusion de membranes.	39. Indiquez la (les) proposition(s) exacte(s) concernant les méthodes d'introduction de molécules dans la cellule :	UE2T130139	VRAI							
+C. La microinjection consiste à mettre une cellule dans un champ électrique pour permettre l'ouverture de pores et l'entrée de molécules dans cette cellule.	39. Indiquez la (les) proposition(s) exacte(s) concernant les méthodes d'introduction de molécules dans la cellule :	UE2T130139	FAUX	C. Faux : C'est la définition de l'électroporation.						
+D. Ces méthodes peuvent être utilisées pour faire entrer dans la cellule des molécules qui seront activées par la suite.	39. Indiquez la (les) proposition(s) exacte(s) concernant les méthodes d'introduction de molécules dans la cellule :	UE2T130139	VRAI							
+E. L'électroporation est traumatisante pour la cellule.	39. Indiquez la (les) proposition(s) exacte(s) concernant les méthodes d'introduction de molécules dans la cellule :	UE2T130139	VRAI							
+A. Le Fluorescence Activated Cell Sorter (FACS) est utilisé pour trier les différents types de cellules constituant un prélèvement.	40. Indiquez la (les) proposition(s) exacte(s) concernant les cultures cellulaires :	UE2T130140	VRAI	A. Vrai						
+B. Les lignées cellulaires sont des cellules peu ou pas différenciées capables de proliférer et de se différencier en d'autres types cellulaires.	40. Indiquez la (les) proposition(s) exacte(s) concernant les cultures cellulaires :	UE2T130140	FAUX	B. Faux : C'est la définition des cellules souches.						
+C. L'opération de cancérisation d'une lignée cellulaire permet d'obtenir des cellules qui se divisent à l'infini.	40. Indiquez la (les) proposition(s) exacte(s) concernant les cultures cellulaires :	UE2T130140	VRAI	C. Vrai						
+D. Les cellules clones sont génétiquement identiques.	40. Indiquez la (les) proposition(s) exacte(s) concernant les cultures cellulaires :	UE2T130140	VRAI	D. Vrai						
+E. Les cellules en culture n'ont besoin que d'oxygène pour proliférer.	40. Indiquez la (les) proposition(s) exacte(s) concernant les cultures cellulaires :	UE2T130140	FAUX	E. Faux : Il faut notamment des hormones de croissance et des acides aminés, des glucides, des ions.						
+A. C'est un fluide tridimensionnel.	41. Indiquez la (les) proposition(s) exacte(s) concernant la membrane plasmique :	UE2T130141	FAUX	A. Faux : C'est un fluide bidimensionnel						
+B. C'est une mosaïque de lipides en solution dans une bicouche de protéines.	41. Indiquez la (les) proposition(s) exacte(s) concernant la membrane plasmique :	UE2T130141	FAUX	B. Faux : C'est l'inverse, ce ne sont pas les protéines mais les lipides qui sont en bicouche !						
+C. La bicouche est asymétrique.	41. Indiquez la (les) proposition(s) exacte(s) concernant la membrane plasmique :	UE2T130141	VRAI	C. Vrai						
+D. Les liaisons covalentes entre protéines et lipides permettent une grande fluidité.	41. Indiquez la (les) proposition(s) exacte(s) concernant la membrane plasmique :	UE2T130141	FAUX	D. Faux : Ce sont très généralement des liaisons faibles qui lient les lipides et protéines entre eux et qui permettent la fluidité (la covalence est une liaison forte qui diminuerait la fluidité).						
+E. La fluidité de la membrane plasmique en fait une structure dynamique.	41. Indiquez la (les) proposition(s) exacte(s) concernant la membrane plasmique :	UE2T130141	VRAI	E. Vrai						
+A. La membrane plasmique a une structure très spécifique.	42. Parmi les propositions suivantes, indiquez la (les) propositions exacte(s) concernant les membranes cellulaires :	UE2T130142	FAUX	A. Faux : La structure des membranes plasmiques et intracellulaires est globalement la même.						
+B. Une des fonctions des membranes est de délimiter des compartiments.	42. Parmi les propositions suivantes, indiquez la (les) propositions exacte(s) concernant les membranes cellulaires :	UE2T130142	VRAI	B. Vrai : C'est même une fonction primordiale.						
+C. Les différents compartiments de la cellule ont la même composition.	42. Parmi les propositions suivantes, indiquez la (les) propositions exacte(s) concernant les membranes cellulaires :	UE2T130142	FAUX	C. Faux : La compartimentation sert à séparer des milieux différents (pH, enzymes, protéines fonctions etc...)						
+D. Les membranes permettent le passage de certaines molécules.	42. Parmi les propositions suivantes, indiquez la (les) propositions exacte(s) concernant les membranes cellulaires :	UE2T130142	VRAI	D. Vrai : Attention à cette phrase, les membranes servent à limiter des compartiments et donc à empêcher le passage direct des molécules par une barrière de lipides mais laissent quand même passer quelques molécules indispensables à la cellule et c'est le rôle d'une partie des protéines. Le terme « membrane » correspond bien à une association de lipides et de protéines et non pas seulement à la bicouche lipidique.						
+E. La présence des membranes nécessite un échange d'informations entre compartiments.	42. Parmi les propositions suivantes, indiquez la (les) propositions exacte(s) concernant les membranes cellulaires :	UE2T130142	VRAI	E. Vrai						
+A. Ce sont des molécules amphiphiles.	43. Indiquez les 3 propositions exactes concernant les lipides membranaires :	UE2T130143	VRAI	A. Vrai						
+B. Il en existe 3 types : les phospholipides, le cholestérol et les sucres membranaires.	43. Indiquez les 3 propositions exactes concernant les lipides membranaires :	UE2T130143	FAUX	B. Faux : Les 3 types sont les phospholipides, le cholestérol et les glycolipides.						
+C. Les lipides peuvent s'organiser en micelle.	43. Indiquez les 3 propositions exactes concernant les lipides membranaires :	UE2T130143	VRAI	C. Vrai : C'est un des deux modes d'organisation spontanée des lipides avec l'organisation en bicouche lipidique.						
+D. Les lipides représentent la moitié de la masse de la membrane.	43. Indiquez les 3 propositions exactes concernant les lipides membranaires :	UE2T130143	VRAI	D. Vrai						
+E. On ne note que des mouvements de flexion chez les lipides.	43. Indiquez les 3 propositions exactes concernant les lipides membranaires :	UE2T130143	FAUX	E. Faux : On note également des mouvements de rotation du lipide sur lui même et des mouvements de diffusion latérale au sein de la bicouche.						
+A. Ils représentent 90% des lipides membranaires.	44. Indiquez la (les) proposition(s) exacte(s) concernant les phospholipides :	UE2T130144	FAUX	A. Faux : Il représentent la moitié des lipides membranaires.						
+B. La phosphatidylsérine est globalement négative.	44. Indiquez la (les) proposition(s) exacte(s) concernant les phospholipides :	UE2T130144	VRAI	B. Vrai : C'est très important car cette charge va participer aux phénomènes de signalisations des membranes avec les composants de la cellule, mais aussi aux signaux des cellules entre elles.						
+C. Les phospholipides présentent une tête polaire hydrophile et 2 chaînes carbonées hydrophobes.	44. Indiquez la (les) proposition(s) exacte(s) concernant les phospholipides :	UE2T130144	VRAI	C. Vrai						
+D. La phosphatidylcholine est globalement négative.	44. Indiquez la (les) proposition(s) exacte(s) concernant les phospholipides :	UE2T130144	FAUX	D. Faux : Elle est globalement neutre.						
+E. La phosphatidyléthanolamine et la phosphatidylsérine sont normalement dans le feuillet externe de la membrane plasmique.	44. Indiquez la (les) proposition(s) exacte(s) concernant les phospholipides :	UE2T130144	FAUX	E. Faux : Ils sont dans le feuillet cytosolique avec le phosphatidylinositol ; dans le feuillet externe, on trouve le phosphatidylcholine et la sphingomyéline.						
+A. Ce sont des domaines de la membrane plasmique où se maintiennent des lipides à chaînes carbonées courtes et insaturées.	45. Indiquez les 3 propositions exactes concernant les radeaux lipidiques :	UE2T130145	FAUX	A. Faux : Les lipides des radeaux lipidiques ont des chaînes longues et saturées pour augmenter les interactions entre chaînes carbonées et stabiliser la membrane à ces endroits.						
+B. On y trouve de fortes concentrations de cholestérol.	45. Indiquez les 3 propositions exactes concernant les radeaux lipidiques :	UE2T130145	VRAI	B. Vrai : Le cholestérol permet de renforcer la stabilité de la membrane.						
+C. La présence du cholestérol à ce niveau augmente la perméabilité aux molécules hydrophiles.	45. Indiquez les 3 propositions exactes concernant les radeaux lipidiques :	UE2T130145	FAUX	C. Faux : Au contraire, le cholestérol réduit la perméabilité de la membrane aux petites molécules hydrophiles.						
+D. On y trouve de nombreuses glycoprotéines.	45. Indiquez les 3 propositions exactes concernant les radeaux lipidiques :	UE2T130145	VRAI	D. Vrai : D'où les nombreux rôles des radeaux lipidiques : voir E.						
+E. Ces radeaux ont un rôle de trafic transmembranaire, de signalisation et d'organisation du cytosquelette.	45. Indiquez les 3 propositions exactes concernant les radeaux lipidiques :	UE2T130145	VRAI							
+A. Ils interviennent sous forme libre dans la composition de la membrane.	46. Indiquez la (les) proposition(s) exacte(s) concernant les sucres membranaires :	UE2T130146	FAUX	A. Faux : On les trouve uniquement associés aux lipides et protéines, formant des glycolipides, glycoprotéines et protéoglycanes.						
+B. Ils sont associés à des lipides et des protéines membranaires.	46. Indiquez la (les) proposition(s) exacte(s) concernant les sucres membranaires :	UE2T130146	VRAI							
+C. Ils forment le glycocalyx.	46. Indiquez la (les) proposition(s) exacte(s) concernant les sucres membranaires :	UE2T130146	VRAI							
+D. Ils donnent une identité aux cellules qui les présentent au niveau extracellulaire de leur membrane plasmique.	46. Indiquez la (les) proposition(s) exacte(s) concernant les sucres membranaires :	UE2T130146	VRAI							
+E. Ils jouent un rôle de protection de la cellule.	46. Indiquez la (les) proposition(s) exacte(s) concernant les sucres membranaires :	UE2T130146	VRAI	E. Vrai : Ils servent de protection de la cellule, notamment contre les acides gastriques dans l'épithélium de l'estomac.						
+A. une mitochondrie	1. En microscopie photonique, il est possible d'observer ou d'apercevoir (3 bonnes réponses)	UE2T120101	VRAI	La résolution minimum en microscopie photonique est de l'ordre de 0,2 0.5 μm A. vrai ; 2 μm						
+B. un atome	1. En microscopie photonique, il est possible d'observer ou d'apercevoir (3 bonnes réponses)	UE2T120101	FAUX	B. faux ; 0,2 nm						
+C. une cellule	1. En microscopie photonique, il est possible d'observer ou d'apercevoir (3 bonnes réponses)	UE2T120101	VRAI	C. vrai ; 20 μm						
+D. une bactérie	1. En microscopie photonique, il est possible d'observer ou d'apercevoir (3 bonnes réponses)	UE2T120101	VRAI	D. vrai = mitochondrie = 2 μm						
+E. les détails d'un ribosome	1. En microscopie photonique, il est possible d'observer ou d'apercevoir (3 bonnes réponses)	UE2T120101	FAUX	E. faux ; 20 nm						
+A. une mauvaise acuité visuelle.	2. Parmi les facteurs suivants, lesquels réduisent la qualité de l'observation en microscopie photonique ?	UE2T120102	VRAI	A. vrai d'un point de vue théorique ; cela peut être contourné par les techniques de photographie						
+B. la réfraction de la lumière.	2. Parmi les facteurs suivants, lesquels réduisent la qualité de l'observation en microscopie photonique ?	UE2T120102	FAUX	B. faux, la diffraction						
+C. le faible indice de réfraction du milieu véhiculant la lumière entre le condenseur et l'objectif.	2. Parmi les facteurs suivants, lesquels réduisent la qualité de l'observation en microscopie photonique ?	UE2T120102	VRAI	C. vrai (n indice de réfraction du milieu séparant le condenseur de l'objectif)						
+D. la puissance du microscope.	2. Parmi les facteurs suivants, lesquels réduisent la qualité de l'observation en microscopie photonique ?	UE2T120102	FAUX	D. faux						
+E. l'augmentation de la longueur d'onde de la lumière éclairant l'objet.	2. Parmi les facteurs suivants, lesquels réduisent la qualité de l'observation en microscopie photonique ?	UE2T120102	VRAI	E. vrai (relativement à votre affirmation : faux pour des coupes histologiques, beaucoup moins évident pour des cellules vivantes par exemple)						
+A. R= (0,61 x sin téta) / (n x lambda)	3. Relativement à la formule de la résolution (R) en microscopie (2 bonnes réponses)	UE2T120103	FAUX							
+B. R= (0,61 x lambda) / (n x sin téta)	3. Relativement à la formule de la résolution (R) en microscopie (2 bonnes réponses)	UE2T120103	VRAI							
+C. plus téta est grand et meilleure est la résolution.	3. Relativement à la formule de la résolution (R) en microscopie (2 bonnes réponses)	UE2T120103	VRAI	C. vrai (téta moitié de l'angle du cône de lumière émis par le condenseur et entrant dans l'objectif)						
+D. plus lambda est grand et meilleure est la résolution.	3. Relativement à la formule de la résolution (R) en microscopie (2 bonnes réponses)	UE2T120103	FAUX							
+E. plus R est petit et pire est la qualité de l'observation.	3. Relativement à la formule de la résolution (R) en microscopie (2 bonnes réponses)	UE2T120103	FAUX	E. faux, plus R est petit et meilleure est la qualité.						
+A. inclusion / fixation/ étalement/ coloration / coupe	4. La chronologie de préparation des échantillons colorés destinés à la microscopie photonique est la suivante :	UE2T120104	FAUX							
+B. inclusion/ étalement/ fixation/ coloration/ coupe	4. La chronologie de préparation des échantillons colorés destinés à la microscopie photonique est la suivante :	UE2T120104	FAUX							
+C. inclusion/ fixation/ coupe/ étalement / coloration	4. La chronologie de préparation des échantillons colorés destinés à la microscopie photonique est la suivante :	UE2T120104	FAUX							
+D. fixation/ inclusion/ coupe/ étalement/ coloration	4. La chronologie de préparation des échantillons colorés destinés à la microscopie photonique est la suivante :	UE2T120104	VRAI							
+E. fixation/ inclusion/ étalement/coupe/coloration	4. La chronologie de préparation des échantillons colorés destinés à la microscopie photonique est la suivante :	UE2T120104	FAUX	FICEColoration						
+A. l'immunohistochimie repose sur le principe de la reconnaissance spécifique antigène/ anticorps.	5. Concernant la caractérisation de molécules en microscopie photonique (3 bonnes réponses)	UE2T120105	VRAI							
+B. les études en fluorescence nécessitent généralement l'utilisation de fluorochrome(s).	5. Concernant la caractérisation de molécules en microscopie photonique (3 bonnes réponses)	UE2T120105	VRAI	B. vrai, très peu de structures cellulaires sont spontanément fluorescentes						
+C. l'autohistoradiographie utilise des marqueurs colorés.	5. Concernant la caractérisation de molécules en microscopie photonique (3 bonnes réponses)	UE2T120105	FAUX	C. faux, radioactifs						
+D. le DAPI est spécifique de l'ADN et le colore en vert.	5. Concernant la caractérisation de molécules en microscopie photonique (3 bonnes réponses)	UE2T120105	FAUX	D. faux, spécifique de l'ADN mais coloration bleue						
+E. la Protéine Fluorescente Verte (GFP) est une protéine d'origine naturelle.	5. Concernant la caractérisation de molécules en microscopie photonique (3 bonnes réponses)	UE2T120105	VRAI							
+A. la résolution diminue quand l'intensité du voltage augmente.	6. En microscopie électronique en transmission	UE2T120106	VRAI							
+B. la résolution est environ mille fois plus grande qu'en microscopie photonique.	6. En microscopie électronique en transmission	UE2T120106	FAUX	B. faux, plus petite						
+C. la cryo-fixation permet de conserver au mieux les structures cellulaires que l'on souhaite observer.	6. En microscopie électronique en transmission	UE2T120106	VRAI							
+D. la coloration n'est pas obligatoire.	6. En microscopie électronique en transmission	UE2T120106	VRAI	D. pas ‘obligatoire' c'est vrai, mais le plus souvent nécessaire						
+E. la technique d'ombrage avec des sels de métaux lourds permet de mettre en évidence des composants cellulaires.	6. En microscopie électronique en transmission	UE2T120106	VRAI	E. vrai, met en évidence des reliefs (et pourquoi pas des bactéries ?)						
+A. ils permettent de visualiser parfaitement un atome.	7. Concernant les microscopes électroniques (3 bonnes réponses)	UE2T120107	FAUX							
+B. le microscope électronique à transmission est plus puissant que le microscope électronique à balayage.	7. Concernant les microscopes électroniques (3 bonnes réponses)	UE2T120107	VRAI							
+C. pour le microscope électronique à balayage, ce sont les électrons réfléchis ou ré-émis par l'objet qui sont captés par les détecteurs pour construire l'image et ses reliefs.	7. Concernant les microscopes électroniques (3 bonnes réponses)	UE2T120107	VRAI	C. vrai : le faisceau d'e- balaye la surface de l'échantillon et les e- sont réfléchis- ré-émis						
+D. les objets observés en microscopie électronique sont plus petits que ceux qui le sont en microscopie photonique.	7. Concernant les microscopes électroniques (3 bonnes réponses)	UE2T120107	FAUX	D. faux (grandissement minimum de l'ordre de 10)						
+E. le microscope électronique à balayage donne plus facilement une idée de l'arrangement spatial d'un spécimen que le microscope à transmission.	7. Concernant les microscopes électroniques (3 bonnes réponses)	UE2T120107	VRAI							
+A. il trie des cellules vivantes.	8. Indiquer la ou les proposition(s) exacte(s) concernant le trieur de cellules activé par fluorescence (FACS) :	UE2T120108	VRAI							
+B. il utilise pour fonctionner le principe de reconnaissance spécifique antigène-anticorps.	8. Indiquer la ou les proposition(s) exacte(s) concernant le trieur de cellules activé par fluorescence (FACS) :	UE2T120108	VRAI							
+C. un champ électrique permet de séparer les clones de cellules fluorescentes.	8. Indiquer la ou les proposition(s) exacte(s) concernant le trieur de cellules activé par fluorescence (FACS) :	UE2T120108	FAUX	C et D. faux ; les gouttelettes, électriquement chargées et contenant une cellule fluorescente, sont triées dans un champ électrique						
+D. les gouttelettes, électriquement chargées et contenant une cellule fluorescente, sont triées dans un champ magnétique.	8. Indiquer la ou les proposition(s) exacte(s) concernant le trieur de cellules activé par fluorescence (FACS) :	UE2T120108	FAUX	C et D. faux ; les gouttelettes, électriquement chargées et contenant une cellule fluorescente, sont triées dans un champ électrique						
+E. les appareils les plus récents permettent de séparer plusieurs types cellulaires d'un mélange.	8. Indiquer la ou les proposition(s) exacte(s) concernant le trieur de cellules activé par fluorescence (FACS) :	UE2T120108	VRAI							
+A. les cellules souches sont très différenciées.	9. Relativement à la culture cellulaire (3 bonnes réponses)	UE2T120109	FAUX	A. faux : peu différenciées						
+B. les cellules d'un clone sont génétiquement identiques.	9. Relativement à la culture cellulaire (3 bonnes réponses)	UE2T120109	VRAI							
+C. les cellules de lignées cellulaires sont trop hétérogènes pour constituer un bon matériel d'étude.	9. Relativement à la culture cellulaire (3 bonnes réponses)	UE2T120109	FAUX	C. faux : populations stables et homogènes, division et durée de vie illimitée après hybridation						
+D. après trop de repiquages les cellules de culture primaire arrêtent de proliférer : c'est la sénescence.	9. Relativement à la culture cellulaire (3 bonnes réponses)	UE2T120109	VRAI							
+E. il faut apporter des facteurs de croissance aux cellules pour qu'elles prolifèrent.	9. Relativement à la culture cellulaire (3 bonnes réponses)	UE2T120109	VRAI							
+A. certaines cellules en sont dépourvues.	10. Concernant la membrane plasmique :	UE2T120110	FAUX							
+B. elle présente toujours globalement la même structure faite de lipides et de protéines maintenus entre eux par des liaisons covalentes.	10. Concernant la membrane plasmique :	UE2T120110	FAUX	B. faux ; liaisons faibles						
+C. c'est une structure rigide.	10. Concernant la membrane plasmique :	UE2T120110	FAUX	C. faux ; fluide et dynamique						
+D. elle présente une structure de base similaire à celle des membranes intracellulaires.	10. Concernant la membrane plasmique :	UE2T120110	VRAI							
+E. une de ses principales fonctions est de créer un compartiment cellulaire clos.	10. Concernant la membrane plasmique :	UE2T120110	VRAI							
+A. sont perméables aux éléments hydrophiles.	11. Les bicouches lipidiques constituant les membranes plasmiques (3 bonnes réponses)	UE2T120111	FAUX							
+B. sont symétriques.	11. Les bicouches lipidiques constituant les membranes plasmiques (3 bonnes réponses)	UE2T120111	FAUX							
+C. voient leur fluidité évoluer en fonction de leur composition et de la température.	11. Les bicouches lipidiques constituant les membranes plasmiques (3 bonnes réponses)	UE2T120111	VRAI							
+D. voient leur fluidité diminuer quand les chaînes d'acides gras constitutives sont longues et saturées.	11. Les bicouches lipidiques constituant les membranes plasmiques (3 bonnes réponses)	UE2T120111	VRAI							
+E. ont un comportement de fluide bidimensionnel.	11. Les bicouches lipidiques constituant les membranes plasmiques (3 bonnes réponses)	UE2T120111	VRAI							
+A. constituent généralement 50% de la masse des membranes.	12. Les lipides membranaires	UE2T120112	VRAI							
+B. sont présents sous la forme de phospholipides, de glycolipides et de cholestérol.	12. Les lipides membranaires	UE2T120112	VRAI							
+C. sont des molécules amphiphiles présentant une queue hydrophile et une tête hydrophobe.	12. Les lipides membranaires	UE2T120112	FAUX	C. faux ; queue hydrophobe, tête hydrophile						
+D. passent très fréquemment d'un feuillet à l'autre par un mouvement de flip flop.	12. Les lipides membranaires	UE2T120112	FAUX	D. faux ; ce mouvement est spontanément rare, mais considérablement accéléré dans certaines membranes, dont la plasmique, par les flippases/floppases						
+E. diffusent latéralement au sein d'un des deux éléments de la bicouche.	12. Les lipides membranaires	UE2T120112	VRAI							
+A. rend la membrane plus souple.	13. Le cholestérol (3 bonnes réponses)	UE2T120113	FAUX	A. faux ; + rigide						
+B. est plus ou moins abondant selon sa localisation dans la membrane.	13. Le cholestérol (3 bonnes réponses)	UE2T120113	VRAI							
+C. est en partie formé d'une tête polaire de grande taille.	13. Le cholestérol (3 bonnes réponses)	UE2T120113	FAUX	C. faux (groupement OH petit relativement au reste de la molécule/ aux têtes polaires des phospholipides)						
+D. présente une partie apolaire constituée d'une queue flexible et d'un corps rigide.	13. Le cholestérol (3 bonnes réponses)	UE2T120113	VRAI							
+E. diminue la perméabilité membranaire aux petites molécules hydrosolubles.	13. Le cholestérol (3 bonnes réponses)	UE2T120113	VRAI							
+A. ils sont pour partie constitués de chaînes d'acides gras chargés électriquement.	14. Concernant les 4 principaux phospholipides de la membrane plasmique	UE2T120114	FAUX	A. faux, non chargés						
+B. ils sont pour partie constitués d'acides gras hydrophobes.	14. Concernant les 4 principaux phospholipides de la membrane plasmique	UE2T120114	VRAI							
+C. ils présentent une extrémité hydrophile.	14. Concernant les 4 principaux phospholipides de la membrane plasmique	UE2T120114	VRAI							
+D. la phosphatidylcholine et la sphingomyéline sont, globalement, électriquement neutres.	14. Concernant les 4 principaux phospholipides de la membrane plasmique	UE2T120114	VRAI							
+E. la phosphatidylsérine et la phosphatidylétanolamine présentent une charge électrique globale négative.	14. Concernant les 4 principaux phospholipides de la membrane plasmique	UE2T120114	FAUX	E. faux (la charge globale de la phosphatidyléthanolamine est nulle)						
+A. est générée par des protéines consommant de l'ATP.	15. L'asymétrie de répartition des phospholipides entre les deux éléments de la bicouche (4 bonnes réponses)	UE2T120115	VRAI							
+B. se traduit par une accumulation de la phosphatidylsérine et de la phosphatidylétanolamine dans le feuillet cytosolique.	15. L'asymétrie de répartition des phospholipides entre les deux éléments de la bicouche (4 bonnes réponses)	UE2T120115	VRAI							
+C. est détruite par la scramblase.	15. L'asymétrie de répartition des phospholipides entre les deux éléments de la bicouche (4 bonnes réponses)	UE2T120115	VRAI							
+D. est responsable de l'apoptose.	15. L'asymétrie de répartition des phospholipides entre les deux éléments de la bicouche (4 bonnes réponses)	UE2T120115	FAUX	D. faux ; la disparition de l'asymétrie, avec l'arrivée de la phosphatidylsérine dans le feuillet extracellulaire, fait partie des événements de l'apoptose et signale que la cellule est en train de mourir.						
+E. est impliquée dans la formation de vésicules destinées à l'endocytose ou l'exocytose.	15. L'asymétrie de répartition des phospholipides entre les deux éléments de la bicouche (4 bonnes réponses)	UE2T120115	VRAI							
+A. introduisent une asymétrie au sein de chacun des deux éléments de la bicouche.	16. Les radeaux lipidiques	UE2T120116	VRAI							
+B. sont des domaines présentant une forte concentration de lipides à courtes chaines d'acides gras saturés.	16. Les radeaux lipidiques	UE2T120116	FAUX	B. faux longues chaines						
+C. sont riches en cholestérol.	16. Les radeaux lipidiques	UE2T120116	VRAI							
+D. sont des structures temporaires.	16. Les radeaux lipidiques	UE2T120116	VRAI							
+E. ont un rôle dans le trafic transmembranaire et la signalisation par récepteurs.	16. Les radeaux lipidiques	UE2T120116	VRAI							
+A. sont répartis dans les membranes de manière homogène.	17. Les glycolipides (2 bonnes réponses)	UE2T120117	FAUX	A. faux, seulement dans le feuillet membranaire non cytosolique et, pour la membrane plasmique, surtout (mais pas exclusivement) au niveau des radeaux lipidiques (feuillet non cytosolique, extracellulaire)						
+B. représentent environ 50% des lipides de la membrane.	17. Les glycolipides (2 bonnes réponses)	UE2T120117	FAUX	B. faux 5 à 10% généralement						
+C. dérivent pour la plupart de la sphingosine.	17. Les glycolipides (2 bonnes réponses)	UE2T120117	VRAI							
+D. peuvent appartenir à 2 grandes familles de sphingolipides : les cérébrosides et les gangliosides.	17. Les glycolipides (2 bonnes réponses)	UE2T120117	VRAI							
+E. sont chargés négativement quand ce sont des cérébrosides.	17. Les glycolipides (2 bonnes réponses)	UE2T120117	FAUX	neutre						
+A. interviennent dans la formation des synapses.	18. Les glycolipides	UE2T120118	VRAI							
+B. jouent un rôle secondaire puisque leur absence est bénigne.	18. Les glycolipides	UE2T120118	FAUX							
+C. constituent des marqueurs de types cellulaires.	18. Les glycolipides	UE2T120118	VRAI							
+D. ont un rôle de protection de la membrane.	18. Les glycolipides	UE2T120118	VRAI							
+E. sont constitués de glycogène et de lipides.	18. Les glycolipides	UE2T120118	FAUX							
+A. peuvent être libres dans la membrane.	19. Les sucres membranaires (2 bonnes réponses)	UE2T120119	FAUX							
+B. constituent des polysaccharides quand ils sont associés à une protéine.	19. Les sucres membranaires (2 bonnes réponses)	UE2T120119	FAUX	B. faux ; des glycoprotéines						
+C. entrent dans la composition d'un protéoglycane quand ils sont de type glycoaminoglycane et liés à une protéine porteuse.	19. Les sucres membranaires (2 bonnes réponses)	UE2T120119	VRAI							
+D. forment dans leur ensemble le glycocalyx.	19. Les sucres membranaires (2 bonnes réponses)	UE2T120119	VRAI							
+E. sont rares et peu variés.	19. Les sucres membranaires (2 bonnes réponses)	UE2T120119	FAUX	E. faux ; nombreux et variés						
+A. est mis en évidence par la fuchsine.	20. Le glycocalyx	UE2T120120	FAUX							
+B. est coloré par le rouge de ruthénium.	20. Le glycocalyx	UE2T120120	VRAI							
+C. peut-être révélé par des lectines qui reconnaissent spécifiquement certains sucres constitutifs.	20. Le glycocalyx	UE2T120120	VRAI							
+D. a un rôle d'identification cellulaire.	20. Le glycocalyx	UE2T120120	VRAI	<div>le glycocalyx a pour rôles :</div><div><div>-protection, mécanique et chimique, de la cellule</div><div>-identification des cellules, des tissus (reconnaissance cellulaire)</div><div>-facteur majeur d'antigénicité,</div><div>-adhésion cellule-cellule</div></div>						
+E. a un pouvoir antigénique majeur.	20. Le glycocalyx	UE2T120120	VRAI							
+A. C'est une image issue du microscope à contraste de phase	21. Concernant la figure 1 (2 réponses bonnes)	UE2T120121	FAUX		"<img src=""UE2T12s1.png"" />"					
+B. C'est une image issue du microscope à fond noir	21. Concernant la figure 1 (2 réponses bonnes)	UE2T120121	FAUX		"<img src=""UE2T12s1.png"" />"					
+C. C'est une image issue du microscope à interference	21. Concernant la figure 1 (2 réponses bonnes)	UE2T120121	FAUX		"<img src=""UE2T12s1.png"" />"					
+D. C'est une image issue du microscope à fluorescence	21. Concernant la figure 1 (2 réponses bonnes)	UE2T120121	VRAI		"<img src=""UE2T12s1.png"" />"					
+E. La microscopie à fluorescence est une technique avec un microscope optique	21. Concernant la figure 1 (2 réponses bonnes)	UE2T120121	VRAI		"<img src=""UE2T12s1.png"" />"					
+A. c'est une image faite au microscope optique	22. Concernant la figure 2 (1 réponse bonne)	UE2T120122	FAUX		"<img src=""UE2T12s2.png"" />"					
+B. c'est une image faite au microscope électronique à transmission	22. Concernant la figure 2 (1 réponse bonne)	UE2T120122	FAUX		"<img src=""UE2T12s2.png"" />"					
+C. c'est une image faite au microscope électronique à balayage	22. Concernant la figure 2 (1 réponse bonne)	UE2T120122	FAUX		"<img src=""UE2T12s2.png"" />"					
+D. c'est une image faite à l'ordinateur	22. Concernant la figure 2 (1 réponse bonne)	UE2T120122	VRAI		"<img src=""UE2T12s2.png"" />"					
+E. en tout cas ce sont des spermatozoides	22. Concernant la figure 2 (1 réponse bonne)	UE2T120122	FAUX	E. faux, c'est un caillot sanguin	"<img src=""UE2T12s2.png"" />"					
+A. Anatomie macroscopique des tissus	23. Indiquez les 3 propositions qui se rapportent à l'histologie	UE2T120123	FAUX	A. Faux : L'anatomie microscopique des tissus						
+B. Etude des cellules à l'échelle microscopique	23. Indiquez les 3 propositions qui se rapportent à l'histologie	UE2T120123	VRAI							
+C. Biologie des tissus	23. Indiquez les 3 propositions qui se rapportent à l'histologie	UE2T120123	VRAI							
+D. Utilisation du microscope	23. Indiquez les 3 propositions qui se rapportent à l'histologie	UE2T120123	VRAI							
+E. Vient de « histos » en grec : cellule	23. Indiquez les 3 propositions qui se rapportent à l'histologie	UE2T120123	FAUX	E. Faux : Vient de « histos » en grec : tissu						
+A. Cellule&nbsp;	24. Indiquez à quelle proposition se rapporte un ensemble de structures orientées vers une fonction d'un individu	UE2T120124	FAUX							
+B. Appareil	24. Indiquez à quelle proposition se rapporte un ensemble de structures orientées vers une fonction d'un individu	UE2T120124	VRAI	B. Vrai : Appareil						
+C. Organe	24. Indiquez à quelle proposition se rapporte un ensemble de structures orientées vers une fonction d'un individu	UE2T120124	FAUX	appareil						
+D. Système	24. Indiquez à quelle proposition se rapporte un ensemble de structures orientées vers une fonction d'un individu	UE2T120124	FAUX	appareil						
+E. Tissu	24. Indiquez à quelle proposition se rapporte un ensemble de structures orientées vers une fonction d'un individu	UE2T120124	FAUX	appareil						
+A. Toutes les cellules fonctionnent différement	25. Indiquez les 2 propositions exactes	UE2T120125	FAUX	A. Faux : Il existe une grande similitude des mécanismes internes entre les cellules.						
+B. Toutes les “choses” vivantes sont faites de cellules	25. Indiquez les 2 propositions exactes	UE2T120125	VRAI							
+C. Toutes les cellules se ressemblent extérieurement	25. Indiquez les 2 propositions exactes	UE2T120125	FAUX	C. Faux : Il existe une grande diversité externe des cellules.						
+D. La vie est une notion bien définie	25. Indiquez les 2 propositions exactes	UE2T120125	FAUX	D. Faux : Il existe encore de nombreuses questions sur la définition de la vie.						
+E. Toutes les cellules ont le même fonctionnement de base	25. Indiquez les 2 propositions exactes	UE2T120125	VRAI							
+A. L'hérédité et la lumière solaire sont les pivots de la vie	26. Indiquez les 2 propositions exactes	UE2T120126	FAUX	A. Faux : La lumière solaire n'est pas primordiale pour la vie (cf les moules géantes des cheminées hydrothermiques)						
+B. La plupart des organismes sont pluricellulaires	26. Indiquez les 2 propositions exactes	UE2T120126	FAUX	B. Faux : La plupart des organismes sont unicellulaires.						
+C. L'être humain provient d'une seule cellule	26. Indiquez les 2 propositions exactes	UE2T120126	VRAI							
+D. La majorité des organismes sont procaryotes	26. Indiquez les 2 propositions exactes	UE2T120126	VRAI	D. Vrai : Les bactéries par exemple sont bien plus nombreuses que nous.						
+E. L'être humain est constitué d'environ 10 cellules indépendantes	26. Indiquez les 2 propositions exactes	UE2T120126	FAUX	E. Faux : Les cellules communiquent entre elles afin notamment de former des systèmes.						
+A. Elle est stockée dans des cellules spécialisées	27. Indiquez les 3 propositions exactes concernant l'information héréditaire	UE2T120127	FAUX	A. Faux : L'info héréditaire est stockée dans toutes les cellules.						
+B. Les bactéries peuvent contenir de l'ADN humain	27. Indiquez les 3 propositions exactes concernant l'information héréditaire	UE2T120127	VRAI							
+C. L'information héréditaire n'a pas évolué depuis 3,5 milliards d'années	27. Indiquez les 3 propositions exactes concernant l'information héréditaire	UE2T120127	FAUX	C. Faux : L'information a évolué, c'est le support de stockage qui est inchangé depuis 3,5 milliards d'années.						
+D. Toutes les cellules possèdent le même support de stockage de l'information héréditaire	27. Indiquez les 3 propositions exactes concernant l'information héréditaire	UE2T120127	VRAI							
+E. Ce support de l'hérédité est l'ADN	27. Indiquez les 3 propositions exactes concernant l'information héréditaire	UE2T120127	VRAI							
+A. Il est plan	28. Indiquez la proposition exacte concernant l'ADN	UE2T120128	FAUX	A. Faux : Il est en double hélice						
+B. Il est constitué de nucléotomes	28. Indiquez la proposition exacte concernant l'ADN	UE2T120128	FAUX	B. Faux : Il est constitué de nucléotides						
+C. Il contient du sucre	28. Indiquez la proposition exacte concernant l'ADN	UE2T120128	VRAI	C. Vrai : Ce sucre est le désoxyribose						
+D. Il est traduit	28. Indiquez la proposition exacte concernant l'ADN	UE2T120128	FAUX	D. Faux : Il est transcrit						
+E. Il est monobrin	28. Indiquez la proposition exacte concernant l'ADN	UE2T120128	FAUX	E. Faux : Il est double brin						
+A. Il existe des liaisons covalentes entre les deux brins d'ADN	29. Indiquez la proposition exacte concernant l'ADN	UE2T120129	FAUX	A. Faux : Les liaisons covalentes se situent au sein d'un même brin d'ADN.<br>A::T / G:::C liaisons hydrogènes						
+B. Le phosphate et la base sont reliés par une liaison covalente	29. Indiquez la proposition exacte concernant l'ADN	UE2T120129	FAUX	B. Faux : Le phosphate et la base ne sont pas reliés.						
+C. L'ajout de monomère se fait selon la règle A-G et T-C	29. Indiquez la proposition exacte concernant l'ADN	UE2T120129	FAUX	C. Faux : L'ajout de nucléotides se fait selon la règle A-T C-G						
+D. Les brins d'ADN sont toujours organisés en double hélice	29. Indiquez la proposition exacte concernant l'ADN	UE2T120129	FAUX	D. Faux : Lors de la réplication par exemple, les deux brins d'ADN se séparent.						
+E. Il existe des liaisons H dans une molécule d'ADN	29. Indiquez la proposition exacte concernant l'ADN	UE2T120129	VRAI	E. Vrai : Les liaisons H relient les bases complémentaires de deux brins.						
+A. L'ADN et l'ARN d'un même gêne contiennent la même information génétique	30. Indiquez les 4 propositions exactes concernant l'ARN	UE2T120130	VRAI							
+B. L'ARN peut être double brin lorsque qu'il effectue des autoappariements	30. Indiquez les 4 propositions exactes concernant l'ARN	UE2T120130	FAUX	B. Faux : L'ARN n'est jamais double brin.						
+C. L'ARN est un intermédiaire entre l'ADN et la protéine	30. Indiquez les 4 propositions exactes concernant l'ARN	UE2T120130	VRAI							
+D. L'ARN est plus court que l'ADN	30. Indiquez les 4 propositions exactes concernant l'ARN	UE2T120130	VRAI							
+E. L'uracyl remplace la thymine dans l'ARN et peut donc se lier à de l'adénine	30. Indiquez les 4 propositions exactes concernant l'ARN	UE2T120130	VRAI							
+A. Une protéine est issue d'une traduction	31. Indiquez les 3 propositions exactes concernant les protéines	UE2T120131	VRAI							
+B. Il existe 24 acides aminés différents	31. Indiquez les 3 propositions exactes concernant les protéines	UE2T120131	FAUX	B. Faux : Il existe 20 acides aminés différents.						
+C. Un gène code toujours pour une protéine	31. Indiquez les 3 propositions exactes concernant les protéines	UE2T120131	FAUX	C. Faux : Il existe de l'ADN non codant.						
+D. Un même gène peut donner plusieurs protéines différentes	31. Indiquez les 3 propositions exactes concernant les protéines	UE2T120131	VRAI	D. Vrai : Des ARNmessagers provenant d'un même gène peuvent maturer différement et donner différentes versions d'une protéine .						
+E. Les enzymes sont des protéines qui construisent ou détruisent des liaisons covalentes	31. Indiquez les 3 propositions exactes concernant les protéines	UE2T120131	VRAI							
+A. Les cellules des champignons ne possèdent pas de membrane plasmique	32. Indiquez les 2 propositions exactes concernant la membrane plasmique	UE2T120132	FAUX	A. Faux : Toutes les cellules ont une membrane plasmique, elle est indispensable.						
+B. La membrane plasmique est principalement composée de phospholipides	32. Indiquez les 2 propositions exactes concernant la membrane plasmique	UE2T120132	VRAI							
+C. Ces phospholipides sont hydrophobes puisque ce sont des lipides	32. Indiquez les 2 propositions exactes concernant la membrane plasmique	UE2T120132	FAUX	C. Faux : Les phospholipides sont amphiphiles : ils possèdent une partie hydrophobe et une partie hydrophile						
+D. La membrane est perméable	32. Indiquez les 2 propositions exactes concernant la membrane plasmique	UE2T120132	VRAI	D. Vrai : Elle laisse entrer et sortir toute sorte de molécules, notamment grâce aux protéines transporteuses qu'elle contient.						
+E. Il existe des transporteurs dans la membrane très spécifiques des différentes espèces	32. Indiquez les 2 propositions exactes concernant la membrane plasmique	UE2T120132	FAUX	E. Faux : Les transporteurs sont très conservés dans des espèces même éloignées						
+A. L'Homme est l'espèce la plus évoluée sur Terre	33. Indiquez les 3 propositions exactes concernant les sources d'énergie libre des cellules	UE2T120133	VRAI							
+B. Certaines bactéries sont organotrophiques	33. Indiquez les 3 propositions exactes concernant les sources d'énergie libre des cellules	UE2T120133	VRAI							
+C. Les organismes organotrophiques vivent aux dépends de l'énergie lumineuse	33. Indiquez les 3 propositions exactes concernant les sources d'énergie libre des cellules	UE2T120133	FAUX	C. Faux : Les organotrophes vivent aux dépends d'autres organismes vivants ou de leurs produits						
+D. Les organismes lithotrophiques se développent uniquement dans un environnement anaérobique	33. Indiquez les 3 propositions exactes concernant les sources d'énergie libre des cellules	UE2T120133	FAUX	D. Faux : les lithotrophes vivent aussi bien en milieux aérobique que anaérobique.						
+E. Les organismes non organotrophiques fournissent l'énergie aux organismes organotrophiques	33. Indiquez les 3 propositions exactes concernant les sources d'énergie libre des cellules	UE2T120133	VRAI							
+A. Une cellule a besoin de phosphore pour vivre	34. Indiquez la proposition exacte	UE2T120134	VRAI							
+B. Nos cellules ont besoin du diazote de l'atmosphère pour se multiplier	34. Indiquez la proposition exacte	UE2T120134	FAUX	B. Faux : le N2 de l'atmosphère est aréactif.						
+C. Les champignons sont des procaryotes	34. Indiquez la proposition exacte	UE2T120134	FAUX	C. Faux : les champignons sont eucaryotes.						
+D. Les cellules procaryotes possèdent un noyau	34. Indiquez la proposition exacte	UE2T120134	FAUX	D. Faux : Les procaryotes n'ont pas de noyau.						
+E. Les procaryotes sont plus complexes que les eucaryotes	34. Indiquez la proposition exacte	UE2T120134	FAUX	E. Faux : C'est le contraire.						
+A. C'est une bactérie	35. Indiquez les 4 propositions exactes concernant Vibrio Cholerae	UE2T120135	VRAI							
+B. Elle possède une paroi épaisse	35. Indiquez les 4 propositions exactes concernant Vibrio Cholerae	UE2T120135	VRAI							
+C. Elle ne possède pas de ribosome dans son cytoplasme	35. Indiquez les 4 propositions exactes concernant Vibrio Cholerae	UE2T120135	FAUX	C. Faux : Elle possède des ribosomes dans son cytoplasme						
+D. Elle provoque le choléra	35. Indiquez les 4 propositions exactes concernant Vibrio Cholerae	UE2T120135	VRAI							
+E. Vibrio Cholerae et Escherichia Coli sont proches mais cette dernière ne possède pas de flagelle contrairement à Vibrio Cholerae	35. Indiquez les 4 propositions exactes concernant Vibrio Cholerae	UE2T120135	VRAI							
+A. Elle peut phagocyter un organisme procaryote à travers sa paroi.	36. Indiquez la proposition exacte concernant la cellule eucaryote	UE2T120136	FAUX	A. Faux : Les cellules eucaryotes n'ont pas de paroi.						
+B. Tous ses organites sont limités par une membrane.	36. Indiquez la proposition exacte concernant la cellule eucaryote	UE2T120136	FAUX	B. Faux : certains organites n'ont pas de membrane, comme les ribosomes par exemple.						
+C. Elle ne contient pas d'enveloppe nucléaire.	36. Indiquez la proposition exacte concernant la cellule eucaryote	UE2T120136	FAUX	C. Faux : L'enveloppe nucléaire est la caractéristique des cellules eucaryotes						
+D. Le milieu intracellulaire ne comprend que des éléments cytosoliques.	36. Indiquez la proposition exacte concernant la cellule eucaryote	UE2T120136	FAUX	D. Faux : Certains organites sont à l'intérieur de la cellules (donc intracellulaires) mais limités par une membrane, donc leur lumière est non cytosolique (exemple : la mitochondrie). De même, le noyau des non cytosolique.						
+E. Les mitochondries dérivent de bactéries intégrées à la cellule.	36. Indiquez la proposition exacte concernant la cellule eucaryote	UE2T120136	VRAI							
+A. Il est composé d'actine.	37. Indiquez les 2 réponses exactes concernant le cortex cellulaire du cytosquelette	UE2T120137	VRAI							
+B. Il est composé de tubuline.	37. Indiquez les 2 réponses exactes concernant le cortex cellulaire du cytosquelette	UE2T120137	FAUX	actine						
+C. Il constitue la force mécanique de la cellule.	37. Indiquez les 2 réponses exactes concernant le cortex cellulaire du cytosquelette	UE2T120137	FAUX	C. Ce sont les filaments intermédiaires qui assurent la force mécanique de la cellule						
+D. Il est à l'origine des lamellipodes.	37. Indiquez les 2 réponses exactes concernant le cortex cellulaire du cytosquelette	UE2T120137	VRAI							
+E. Il n'a aucun rôle dans le cycle cellulaire.	37. Indiquez les 2 réponses exactes concernant le cortex cellulaire du cytosquelette	UE2T120137	FAUX	E. Faux ! Ils ont un rôle important dans la cytocinèse car ils forment l'anneau contractile qui va permettre de passer d'une cellule mère à 2 cellules filles.						
+A. Ils ont une capacité d'autoassemblage.	38. Indiquez les 3 réponses exactes concernant les filaments	UE2T120138	VRAI							
+B. Leur longueur peut varier.	38. Indiquez les 3 réponses exactes concernant les filaments	UE2T120138	VRAI	B. C'est ce qui donne ce caractère dynamique, lié à l'assemblage et le désassemblage quasi permanents, pour que la cellule puisse s'adapter à son environnement.						
+C. Ils peuvent se lier à d'autres éléments cellulaires.	38. Indiquez les 3 réponses exactes concernant les filaments	UE2T120138	VRAI							
+D. Les protéines accessoires qui leur sont associées sont peu nombreuses.	38. Indiquez les 3 réponses exactes concernant les filaments	UE2T120138	FAUX	D. Elles sont très nombreuses et différentes pour chaque type de filaments.						
+E. La tubuline est un moteur moléculaire.	38. Indiquez les 3 réponses exactes concernant les filaments	UE2T120138	FAUX	E. L'actine et la tubuline ne sont pas des moteurs moléculaires						
+A. Ils ont une longueur de 10 nm.	39. Indiquez les 2 réponses exactes concernant les filaments intermédiaires	UE2T120139	FAUX	A. Faux ! Attention la longueur varie constamment, les données pour chaque filament correspondent au diamètre						
+B. Ils tapissent uniquement la face interne de l'enveloppe nucléaire.	39. Indiquez les 2 réponses exactes concernant les filaments intermédiaires	UE2T120139	FAUX	B. On en trouve aussi en dehors du noyau puisqu'ils assurent la force mécanique de la cellule entière						
+C. Ils radient à partir du centre de la cellule.	39. Indiquez les 2 réponses exactes concernant les filaments intermédiaires	UE2T120139	FAUX	C. Ce sont les microtubules						
+D. Ils assurent la force mécanique de la cellule.	39. Indiquez les 2 réponses exactes concernant les filaments intermédiaires	UE2T120139	VRAI							
+E. Ils assurent la protection du noyau.	39. Indiquez les 2 réponses exactes concernant les filaments intermédiaires	UE2T120139	VRAI							
+A. Ils sont creux.	40. Indiquez les 3 propositions exactes concernant les microtubules	UE2T120140	VRAI	A. En effet, c'est une sorte de cylindre creux						
+B. Ils sont présents dans les flagelles des spermatozoïdes.	40. Indiquez les 3 propositions exactes concernant les microtubules	UE2T120140	VRAI	B. Ils participent à l'axonème du flagelle						
+C. Ils sont formés de 15 filaments.	40. Indiquez les 3 propositions exactes concernant les microtubules	UE2T120140	FAUX	C. Ce ne sont pas 15 mais 13 filaments qui forment ce cylindre						
+D. Ils participent à la formation du fuseau mitotique.	40. Indiquez les 3 propositions exactes concernant les microtubules	UE2T120140	VRAI							
+E. Ils assurent la locomotion de la cellule.	40. Indiquez les 3 propositions exactes concernant les microtubules	UE2T120140	FAUX	E. Ce sont les microfilaments (actine) qui assurent la locomotion de la cellule en modifiant sa conformation, les microtubules assurent quant à eux la mobilité des organites à membranes comme les vésicules et ont aussi un rôle dans la mitose en formant le fuseau mitotique						
+A. La molécule principale est la tubuline.	41. Indiquez les 2 propositions exactes concernant les microfilaments	UE2T120141	FAUX	A. Pour vous en rappelez, dites-vous que ce sont des “microfilaments d'actine”						
+B. Ils sont à l'origine des prolongements cellulaires.	41. Indiquez les 2 propositions exactes concernant les microfilaments	UE2T120141	VRAI	B. les lamellipides et filipodes par exemple						
+C. Ils sont statiques.	41. Indiquez les 2 propositions exactes concernant les microfilaments	UE2T120141	FAUX	C. Au contraire, ils sont dynamiques						
+D. Ils participent à la formation du fuseau mitotique.&nbsp;	41. Indiquez les 2 propositions exactes concernant les microfilaments	UE2T120141	FAUX	D. Ce sont les microtubules qui participent au fuseau mitotique						
+E. Ils participent à la formation de l'anneau contractile.	41. Indiquez les 2 propositions exactes concernant les microfilaments	UE2T120141	VRAI							
+A. Une cellule	1- A quel mot se rapporte la définition suivante : ensemble de cellules orientées vers une même fonction ?	UE2T110101	FAUX	A. Une cellule : unité de constitution de la matière vivante.						
+B. Un organe	1- A quel mot se rapporte la définition suivante : ensemble de cellules orientées vers une même fonction ?	UE2T110101	FAUX	B. Un organe : structure destinée à assurer une fonction dans un appareil.						
+C. Un tissu	1- A quel mot se rapporte la définition suivante : ensemble de cellules orientées vers une même fonction ?	UE2T110101	VRAI							
+D. Un système	1- A quel mot se rapporte la définition suivante : ensemble de cellules orientées vers une même fonction ?	UE2T110101	FAUX	D. Un système : c'est un concept fonctionnel.						
+E. Un appareil	1- A quel mot se rapporte la définition suivante : ensemble de cellules orientées vers une même fonction ?	UE2T110101	FAUX	E. Un appareil : ensemble de structures orientées vers une fonction d'un individu.						
+A. La majorité des organismes vivants sont des êtres unicellulaires.	2- Concernant les espèces vivantes, indiquez les 2 propositions exactes :	UE2T110102	VRAI	A. En effet la grande majorité des êtres vivants sont des procaryotes (unicellulaires). Bien qu'ils soient invisibles à l'œil nu, il n'en reste pas moins qu'ils sont extrêmement nombreux ( juste pour information, il y a environ 100 000 milliards de bactéries anaérobies dans un tube digestif humain soit 12 500 fois plus qu'il n'y a d'êtres humains sur Terre).						
+B. La majorité des organismes vivants sont des êtres pluricellulaires.	2- Concernant les espèces vivantes, indiquez les 2 propositions exactes :	UE2T110102	FAUX							
+C. L'hérédité n'est pas un élément clef de la vie.	2- Concernant les espèces vivantes, indiquez les 2 propositions exactes :	UE2T110102	FAUX	C. L'hérédité est un élément clef de la vie et repose sur des structures universelles à toutes choses vivantes : l'ADN ou l'ARN (les supports génétiques de la vie).						
+D. Un être humain est formé en moyenne de 10^13 cellules.	2- Concernant les espèces vivantes, indiquez les 2 propositions exactes :	UE2T110102	VRAI							
+E. Chez les êtres vivants, il arrive parfois qu'il n'y ait aucune relation entre les parents et la descendance.	2- Concernant les espèces vivantes, indiquez les 2 propositions exactes :	UE2T110102	FAUX	E. Le vivant étant en partie défini par l'hérédité, on a forcément une relation entre les parents et la descendance, notamment s'ils appartiennent à la même espèce.						
+A. Les œufs fécondés (zygotes) sont très semblables peu importe l'espèce qu'ils donneront en se développant.	3- Concernant les informations héréditaires, indiquez les 2 propositions exactes :	UE2T110103	VRAI							
+B. Il existe des cellules sans informations héréditaires, ce sont les procaryotes.	3- Concernant les informations héréditaires, indiquez les 2 propositions exactes :	UE2T110103	FAUX	B. Les procaryotes possèdent une information héréditaire mais pas de noyau ! Toutes les cellules possèdent un matériel génétique : c'est une caractéristique universelle à toutes les cellules.						
+C. Toutes les cellules possèdent le même support pour l'hérédité.	3- Concernant les informations héréditaires, indiquez les 2 propositions exactes :	UE2T110103	FAUX	C. Cela peut être de l' ADN ou de l' ARN.						
+D. L'information héréditaire est la même dans toutes les cellules.	3- Concernant les informations héréditaires, indiquez les 2 propositions exactes :	UE2T110103	FAUX	D. Impossible! L'information héréditaire contenue dans l'oeuf fécondé va définir l'espèce que va donner l'oeuf à la fin de son dévellopement (souris, êtres humains, algues ...) . Il existe plusieurs espèces vivantes différentes sur Terre donc autant d'informations héréditaires différentes et encore au sein de chaque être vivant il existe des variations spécifiques.						
+E. Il est possible d'insérer de l'ADN (Acide Désoxyribonucléique) humain dans une bactérie à ADN.	3- Concernant les informations héréditaires, indiquez les 2 propositions exactes :	UE2T110103	VRAI							
+A. C'est une structure en double hélice.	4- Concernant l'ADN ( Acide Désoxyribonucléique), indiquez les 3 propositions exactes :	UE2T110104	VRAI							
+B. Elle est formée d'un enchaînement de monomères : les nucléotides.	4- Concernant l'ADN ( Acide Désoxyribonucléique), indiquez les 3 propositions exactes :	UE2T110104	VRAI							
+C. Elle est formée d'un enchaînement de monomères : les nucléosides.	4- Concernant l'ADN ( Acide Désoxyribonucléique), indiquez les 3 propositions exactes :	UE2T110104	FAUX	C. Les monomères qui constituent l'ADN sont les nucléotides, c'est-à-dire un enchaînement de sucres (sous forme de désoxyribose), de phosphates et de bases ! Les nucléosides sont juste constitués d'une base et d'un ribose (le désoxyribose) .						
+D. Les brins d'ADN sont des brins non polarisés.	4- Concernant l'ADN ( Acide Désoxyribonucléique), indiquez les 3 propositions exactes :	UE2T110104	FAUX	D. Ce sont des brins polarisés avec une extrémité 5' et une extrémité 3'.						
+E. Il existe une loi de complémentarité stricte entre les deux brins d'ADN.	4- Concernant l'ADN ( Acide Désoxyribonucléique), indiquez les 3 propositions exactes :	UE2T110104	VRAI	E. Bien sûr, la loi de complémentarité de Watson et Crick : l'adénine s'apparie avec la thymine (A=T) et la cytosine s' apparie avec la guanine (C=G).						
+A. Le support de l'hérédité n'a pas changé depuis 3.5 milliards d'années.	5- Concernant l'information héréditaire d'une cellule, indiquez les 3 propositions exactes :	UE2T110105	VRAI							
+B. Le support de l'hérédité a changé depuis 3.5 milliards d'années.	5- Concernant l'information héréditaire d'une cellule, indiquez les 3 propositions exactes :	UE2T110105	FAUX							
+C. L'information génétique n'a pas changé depuis 3.5 milliards d'années.	5- Concernant l'information héréditaire d'une cellule, indiquez les 3 propositions exactes :	UE2T110105	FAUX							
+D. L'information génétique a changé depuis 3.5 milliards d'années.	5- Concernant l'information héréditaire d'une cellule, indiquez les 3 propositions exactes :	UE2T110105	VRAI							
+E. Les brins d' ADN sont anti-parrallèles.	5- Concernant l'information héréditaire d'une cellule, indiquez les 3 propositions exactes :	UE2T110105	VRAI							
+A. L'adénine et la thymine placées sur les brins opposés.	6- Dans l'ADN (Acide Désoxyribonucléique), quelles sont parmi les structures suivantes celles reliées par une (ou des) liaison(s) covalente(s) ? (2 réponses exactes)	UE2T110106	FAUX	A/B. Les bases relient les deux brins d'ADN selon les règles de complémentarité de Watson et Crick mais les liaisons qui les unissent sont des liaisons hydrogènes qui n'appartiennent pas aux liaisons covalentes !						
+B. La guanine et la cytosine placées sur les brins opposés.	6- Dans l'ADN (Acide Désoxyribonucléique), quelles sont parmi les structures suivantes celles reliées par une (ou des) liaison(s) covalente(s) ? (2 réponses exactes)	UE2T110106	FAUX	A/B. Les bases relient les deux brins d'ADN selon les règles de complémentarité de Watson et Crick mais les liaisons qui les unissent sont des liaisons hydrogènes qui n'appartiennent pas aux liaisons covalentes !						
+C. Le désoxyribose et le phosphate.	6- Dans l'ADN (Acide Désoxyribonucléique), quelles sont parmi les structures suivantes celles reliées par une (ou des) liaison(s) covalente(s) ? (2 réponses exactes)	UE2T110106	VRAI							
+D. Le désoxyribose et les bases.	6- Dans l'ADN (Acide Désoxyribonucléique), quelles sont parmi les structures suivantes celles reliées par une (ou des) liaison(s) covalente(s) ? (2 réponses exactes)	UE2T110106	VRAI							
+E. Le phosphate et les bases.	6- Dans l'ADN (Acide Désoxyribonucléique), quelles sont parmi les structures suivantes celles reliées par une (ou des) liaison(s) covalente(s) ? (2 réponses exactes)	UE2T110106	FAUX	E. Il n'y a aucun lien entre les phosphates et les bases contenus dans les nucléotides, le désoxyribose s'interpose entre les deux.						
+A. Il est simple brin (monobrin = monocaténaire).	7- Concernant l'ARN (Acide Ribonucléique), indiquez les 3 propositions exactes :	UE2T110107	VRAI							
+B. Il est double brin (bicaténaire).	7- Concernant l'ARN (Acide Ribonucléique), indiquez les 3 propositions exactes :	UE2T110107	FAUX							
+C. Il est souple.	7- Concernant l'ARN (Acide Ribonucléique), indiquez les 3 propositions exactes :	UE2T110107	VRAI							
+D. Il est capable d'autoappariements.	7- Concernant l'ARN (Acide Ribonucléique), indiquez les 3 propositions exactes :	UE2T110107	VRAI							
+E. On y retrouve de la thymine en tant que base.	7- Concernant l'ARN (Acide Ribonucléique), indiquez les 3 propositions exactes :	UE2T110107	FAUX	E. L'uracyl est présent dans l'ARN et remplace la thymine, on ne retrouve donc pas de thymine dans l'ARN. Par contre la thymine est présente dans l'ADN mais on ne retrouve pas d'uracyl dans celui-ci. Entre thymine et uracyl, il faut faire son choix, l'un ou l'autre mais pas les deux!						
+A. L'ARN est issu de l' ADN par le processus de transcription.	8- Concernant l'ARN (Acide Ribonucléique), indiquez les 4 propositions exactes :	UE2T110108	VRAI							
+B. Les autoappariements dont l'ARN est capable vont lui donner une forme spécifique.	8- Concernant l'ARN (Acide Ribonucléique), indiquez les 4 propositions exactes :	UE2T110108	VRAI							
+C. Sa forme va être directement influencée par sa séquence en acide ribonucléique.	8- Concernant l'ARN (Acide Ribonucléique), indiquez les 4 propositions exactes :	UE2T110108	VRAI							
+D. Les autoappariements influencent la fonction de l'ARN.	8- Concernant l'ARN (Acide Ribonucléique), indiquez les 4 propositions exactes :	UE2T110108	VRAI							
+E. On peut dire que l'ARN est une molécule double brin.	8- Concernant l'ARN (Acide Ribonucléique), indiquez les 4 propositions exactes :	UE2T110108	FAUX							
+A. Elles sont formées d'un enchaînement d'acides aminés.	9- Concernant les protéines, indiquez les 3 propositions exactes :	UE2T110109	VRAI							
+B. Il existe 20 acides aminés différents qui entrent dans la composition des protéines.	9- Concernant les protéines, indiquez les 3 propositions exactes :	UE2T110109	VRAI							
+C. Les protéines n'ont aucun rôle particulier au sein des cellules.	9- Concernant les protéines, indiquez les 3 propositions exactes :	UE2T110109	FAUX	C/E. Les protéines sont à la base du métabolisme cellulaire et ont un rôle majeur à jouer au sein des cellules pour permettre leur survie (transports, réaction chimiques, échanges cellulaires ... ). Les réactions catalytiques ayant lieu dans les cellules sont permises par les enzymes qui ont également un rôle clef dans les voix métaboliques cellulaires.						
+D. Le lysozyme est une enzyme.	9- Concernant les protéines, indiquez les 3 propositions exactes :	UE2T110109	VRAI							
+E. Les enzymes interviennent très peu dans dans les réactions chimiques des cellules.	9- Concernant les protéines, indiquez les 3 propositions exactes :	UE2T110109	FAUX	C/E. Les protéines sont à la base du métabolisme cellulaire et ont un rôle majeur à jouer au sein des cellules pour permettre leur survie (transports, réaction chimiques, échanges cellulaires ... ). Les réactions catalytiques ayant lieu dans les cellules sont permises par les enzymes qui ont également un rôle clef dans les voix métaboliques cellulaires.						
+A. Certaines cellules ne possèdent pas de membrane plasmique.	10- Indiquez les 3 propositions exactes concernant les membranes plasmiques :	UE2T110110	FAUX	A. Les membranes font parti des éléments universels présents dans les cellules: sans membrane plasmique il n'y aurait pas de cellule car rien ne délimiterait un mileu cellulaire d'un milieu extracellulaire, ces deux derniers étant chimiquements différents.						
+B. Les membranes plasmiques sont formées de molécules hydrophiles : les phospholipides.	10- Indiquez les 3 propositions exactes concernant les membranes plasmiques :	UE2T110110	FAUX	B. Ce sont bien les phospholipides qui sont les composants principaux des membranes mais ce sont des molécules amphiphiles / amphophiles, c'est-à-dire qu'elles possèdent un pôle hydrophile (qui aime l'eau et l'attire = la tête du phospholipide) et un pôle hydrophobe (qui déteste l'eau et la repousse = les queues du phospholipide).						
+C. Les membranes plasmiques servent d'interface entre les entrées et sorties pour la cellule.	10- Indiquez les 3 propositions exactes concernant les membranes plasmiques :	UE2T110110	VRAI							
+D. Les échanges entre les milieux intracellulaire et extracellulaire peuvent nécessiter des transporteurs dans la membrane plasmique.	10- Indiquez les 3 propositions exactes concernant les membranes plasmiques :	UE2T110110	VRAI							
+E. La membrane est perméable.	10- Indiquez les 3 propositions exactes concernant les membranes plasmiques :	UE2T110110	VRAI							
+A. Les protéines des membranes plasmiques sont très variables d'une espèce à l'autre.	11- Indiquez les 2 propositions exactes concernant les protéines des membranes plasmiques :	UE2T110111	FAUX	A. Les protéines membranaires sont au contraire très conservées entre les espèces et donc sont peu variables entre elles.						
+B. Les protéines des membranes interviennent dans le choix des molécules qui rentrent et qui sortent de la cellule.	11- Indiquez les 2 propositions exactes concernant les protéines des membranes plasmiques :	UE2T110111	VRAI	B. Par leurs spécificités de passage (soit des ions, du glucose, des acides aminés ...) et le sens du passage qu'elles déterminent, elles vont en effet être un acteur de premier choix dans le choix des éléments qui entrent et qui sortent de la cellule.						
+C. La composition en protéines des membranes plasmiques est déterminée par l'ADN de la cellule.	11- Indiquez les 2 propositions exactes concernant les protéines des membranes plasmiques :	UE2T110111	VRAI	C. Comme la grande majorité des protéines d'une cellule, c'est l'ADN qui va être à la base de leurs synthèse (cycle transcription et traduction ; cf. programme génétique) et en déterminer la séquence en acides aminés et donc leurs fonctions.						
+D. Les protéines confèrent un caractère imperméable à la membrane plasmique.	11- Indiquez les 2 propositions exactes concernant les protéines des membranes plasmiques :	UE2T110111	FAUX	D. Permettant le passage d'élément à travers la membrane, au contraire elle l'a rend perméable.						
+E. Les protéines membranaires n'ont pas d'influence sur les réactions intracellulaires.	11- Indiquez les 2 propositions exactes concernant les protéines des membranes plasmiques :	UE2T110111	FAUX	E. Certaines protéines membranaires sont directement ou indirectement liées à des enzymes intracellulaires.						
+A. Les organotrophiques dépendent du monde non vivant pour tirer leur énergie.	12- Indiquez la proposition exacte :	UE2T110112	FAUX	A. Les organotrophes dépendent du monde vivant pour tirer leur énergie, ce sont les non organotrophes qui tirent leur énergie du monde non vivant.						
+B. Les lithotrophes font partis des organotrophes.	12- Indiquez la proposition exacte :	UE2T110112	FAUX	B. Ils font parti des non organotrophes car ils tirent leur énergie de produits chimiques donc du non vivant.						
+C. Les phototrophes tirent leur énergie de la lumière.	12- Indiquez la proposition exacte :	UE2T110112	VRAI							
+D. Les organotrophes fournissent de l'énergie aux non organotrophes.	12- Indiquez la proposition exacte :	UE2T110112	FAUX	D. C'est l'inverse, les non organotrophes fournissent de l'énergie aux organotrophes.						
+E. On peut retrouver des organismes lithotrophes aérobies près des cheminées hydrothermiques au fond de l'océan.	12- Indiquez la proposition exacte :	UE2T110112	FAUX	E. Ce sont des organismes anaérobies car au fond des océans il n'y a pas d'oxygène.						
+A.C'est un organisme lithotrophe.	13- Concernant l'Anabaena cylindrica, indiquez les 4 propositions exactes :	UE2T110113	FAUX							
+B.C'est un organisme phototrophe.	13- Concernant l'Anabaena cylindrica, indiquez les 4 propositions exactes :	UE2T110113	VRAI	B. Il tire son énergie de la lumière car il peut notamment effectuer la photosynthèse.						
+C.C'est un organisme pluricellulaire.	13- Concernant l'Anabaena cylindrica, indiquez les 4 propositions exactes :	UE2T110113	VRAI	C. Il est formé de filaments, eux-mêmes composés de plusieurs cellules.						
+D.C'est un procaryote.	13- Concernant l'Anabaena cylindrica, indiquez les 4 propositions exactes :	UE2T110113	VRAI	D. Ces cellules ne possèdent pas de noyau.						
+E.Ils possèdent 3 types de cellules chacune spécialisée dans une fonction.	13- Concernant l'Anabaena cylindrica, indiquez les 4 propositions exactes :	UE2T110113	VRAI	E. Les trois types de cellules sont les cellules V qui font la photosynthèse, H qui fixent l'azote et S qui se dévellopent en spore.						
+A. C'est une bactérie.	14- Concernant le Beggiatoa, indiquez les 3 propositions exactes :	UE2T110114	VRAI							
+B. C'est un organisme lithotrophe.	14- Concernant le Beggiatoa, indiquez les 3 propositions exactes :	UE2T110114	VRAI							
+C. C'est un organisme phototrophe.	14- Concernant le Beggiatoa, indiquez les 3 propositions exactes :	UE2T110114	FAUX							
+D. C'est un procaryote.	14- Concernant le Beggiatoa, indiquez les 3 propositions exactes :	UE2T110114	VRAI							
+E. Il ne peut pas fixer le carbone sans lumière.	14- Concernant le Beggiatoa, indiquez les 3 propositions exactes :	UE2T110114	FAUX	E. Il peut fixer le carbone sans lumière !						
+A. On peut diviser le monde vivant en deux grandes catégories : les procaryotes et les eucaryotes.	15 – Indiquez les 3 propositions exactes parmi les suivantes :	UE2T110115	VRAI							
+B. Les bactéries sont des eucaryotes.	15 – Indiquez les 3 propositions exactes parmi les suivantes :	UE2T110115	FAUX	B. Les bactéries ne possèdent pas de noyau, ce sont par conséquent des procaryotes.						
+C. Les procaryotes sont le plus souvent unicellulaires.	15 – Indiquez les 3 propositions exactes parmi les suivantes :	UE2T110115	VRAI							
+D. Les procaryotes sont plus complexes que les eucaryotes.	15 – Indiquez les 3 propositions exactes parmi les suivantes :	UE2T110115	FAUX	D. Ce sont les eucaryotes qui sont plus complexes de manière générale que les procaryotes.						
+E. Les mécanismes cellulaires de base entre eucaryotes et procaryotes sont similaires.	15 – Indiquez les 3 propositions exactes parmi les suivantes :	UE2T110115	VRAI	E. Les cellules (procaryotes et eucaryotes), bien qu'elles possèdent une très grande diversité externe, possèdent des mécanismes de bases similaires !						
+A. La taille de l'atome est de l'ordre de 0,2 nm.	16- Indiquez les propositions exactes (4 réponses) :	UE2T110116	VRAI	A. Vrai.						
+B. La taille d'une mitochondrie est de l'ordre de 20 nm.	16- Indiquez les propositions exactes (4 réponses) :	UE2T110116	FAUX	B. Faux, la taille d'une mitochondrie est de l'ordre de 2 μm.						
+C. La taille d'une bactérie est de l'ordre de 2 μm.	16- Indiquez les propositions exactes (4 réponses) :	UE2T110116	VRAI	C. Vrai.						
+D. La taille d'une cellule est de l'ordre de 20 μm.	16- Indiquez les propositions exactes (4 réponses) :	UE2T110116	VRAI	D. Vrai.						
+E. La taille d'une cellule est de l'ordre de 0,02 mm.	16- Indiquez les propositions exactes (4 réponses) :	UE2T110116	VRAI	E. Vrai car 0,02 mm = 20 μm.						
+A. Les conditions de qualité de l'observation comprennent la qualité de l'échantillon.	17- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110117	VRAI	A. Vrai.						
+B. Les limites de l'observation comprennent la résolution de l'œil.	17- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110117	VRAI	B. Vrai.						
+C. La résolution de l'œil est d'autant plus petite que la densité des photorécepteurs augmente sur la rétine.	17- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110117	VRAI	C. Vrai, il faut diminuer la résolution si l'on veut observer de plus petits objets.						
+D. Les effets de diffraction ne posent pas de problèmes dans ce type de microscopie.	17- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110117	FAUX	D. Faux, les effets de diffraction posent de gros problèmes en microscopie photonique avec de forts grossissements.						
+E. Dans un microscope photonique les photons suivent un trajet strictement rectiligne.	17- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110117	FAUX	E. Faux, les électrons suivent des trajets légèrement différents, c'est ce qui provoque les effets de diffraction.						
+A. La lumière suit le trajet : objectif, condenseur, spécimen, oculaire et œil.	18- Indiquez la proposition exacte concernant le trajet de la lumière dans le microscope photonique (1 réponse) :	UE2T110118	FAUX	A. Faux.						
+B. La lumière suit le trajet : condenseur, spécimen, oculaire, objectif et œil.	18- Indiquez la proposition exacte concernant le trajet de la lumière dans le microscope photonique (1 réponse) :	UE2T110118	FAUX	B. Faux.						
+C. La lumière suit le trajet : condenseur, spécimen, objectif, oculaire et œil.	18- Indiquez la proposition exacte concernant le trajet de la lumière dans le microscope photonique (1 réponse) :	UE2T110118	VRAI	C. Vrai, la lumière qui provient de la source lumineuse est ensuite concentrée par le condenseur sur le spécimen. Elle passe ensuite par l'objectif et l'oculaire et arrive enfin à l'œil de l'observateur.						
+D. La lumière suit le trajet : oculaire, condenseur, spécimen, objectif et œil.	18- Indiquez la proposition exacte concernant le trajet de la lumière dans le microscope photonique (1 réponse) :	UE2T110118	FAUX	D. Faux.						
+E. La lumière suit le trajet : oculaire, spécimen, condenseur, objectif et œil.	18- Indiquez la proposition exacte concernant le trajet de la lumière dans le microscope photonique (1 réponse) :	UE2T110118	FAUX	E. Faux.						
+A. La résolution se calcule en utilisant la formule (0.61λ)/(n cos Θ).	19- Indiquez les propositions exactes concernant la résolution (3 réponses) :	UE2T110119	FAUX	A. Faux, la résolution se calcule en utilisant la formule (0.61 λ)/(n sin Θ).						
+B. Θ est l'angle du cône des rayons recueillis par la lentille de l'objectif.	19- Indiquez les propositions exactes concernant la résolution (3 réponses) :	UE2T110119	FAUX	B. Faux, Θ est la moitié de l'angle du cône des rayons recueillis par la lentille de l'objectif à partir d'un point typique du spécimen.						
+C. n est l'indice de réfraction du milieu qui sépare le spécimen de la lentille du condenseur et de celle de l'objectif.	19- Indiquez les propositions exactes concernant la résolution (3 réponses) :	UE2T110119	VRAI	C. Vrai.						
+D. λ est la longueur d'onde de la lumière qui provient de la source lumineuse.	19- Indiquez les propositions exactes concernant la résolution (3 réponses) :	UE2T110119	VRAI	D. Vrai.						
+E. Lorsque λ diminue, la résolution diminue.	19- Indiquez les propositions exactes concernant la résolution (3 réponses) :	UE2T110119	VRAI	E. Vrai, lorsque λ diminue alors le quotient (0.61 λ)/(n sin Θ) diminue, l'observation permet alors de distinguer des objets plus petits.						
+A. La microscopie en contraste de phase peut être obtenue en utilisant deux techniques différentes.	20- Indiquez les propositions exactes concernant les améliorations possibles de la microscopie photonique (2 réponses) :	UE2T110120	VRAI	A. Vrai, on peut obtenir un contraste de phase en modifiant l'amplitude de la coloration ou en modifiant la phase du spécimen.						
+B. La polarisation permet grâce à un polarisateur placé après le spécimen, d'obtenir une lumière de biréfringence dans deux plans de vibrations perpendiculaires lorsque la lumière polarisée rencontre le spécimen.	20- Indiquez les propositions exactes concernant les améliorations possibles de la microscopie photonique (2 réponses) :	UE2T110120	FAUX	B. Faux, le polarisateur se trouve avant le spécimen.						
+C. La microscopie en fond noir utilise un éclairage rasant permettant de mieux observer les objets diffractant la lumière.	20- Indiquez les propositions exactes concernant les améliorations possibles de la microscopie photonique (2 réponses) :	UE2T110120	VRAI	C. Vrai.						
+D. Dans la technique de la polarisation, la lumière de biréfringence se trouve dans un seul plan de polarisation.	20- Indiquez les propositions exactes concernant les améliorations possibles de la microscopie photonique (2 réponses) :	UE2T110120	FAUX	D. Faux, la lumière de biréfringence se trouve dans deux plans de vibration perpendiculaires.						
+E. La polarisation permet grâce au prisme de Wollaston de créer une lumière de biréfringence.	20- Indiquez les propositions exactes concernant les améliorations possibles de la microscopie photonique (2 réponses) :	UE2T110120	FAUX	E. Faux, le prisme de Wollaston permet de créer deux faisceaux de lumière polarisée dans la technique du contraste d'interférence différentiel.						
+A. La résolution maximale est de l'ordre de 0,2 - 0,1 nm.	21- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110121	FAUX	A. Faux, elle est de l'ordre de 0.5-0.2 μm, car 0.2 nm correspondrait à la taille de l'atome.						
+B. Le traitement informatique de l'image est rendu possible grâce aux photons qui endommagent le spécimen.	21- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110121	FAUX	B. Faux, au contraire c'est grâce au fait que les photons n'agressent pas la préparation que l'observation prolongée est possible.						
+C. Le traitement informatique de l'image permet d'éliminer les artefacts.	21- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110121	VRAI	C. Vrai.						
+D. La résolution maximale est de l'ordre de 0,5 – 0,2 μm.	21- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110121	VRAI	D. Vrai.						
+E. La microscopie photonique permet d'observer une mitochondrie.	21- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110121	VRAI	E. Vrai, car la limite de résolution est de 0.2 μm alors que la mitochondrie a une taille de l'ordre de 2 μm.						
+A. L'inclusion de la préparation se fait dans la paraffine	22- Indiquez les propositions exactes concernant les étapes de préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110122	VRAI	A. Vrai, cela peut être de la paraffine grâce à une déshydratation préalable dans des solutions d'alcool de plus en plus concentrée, mais cela peut aussi se faire dans des résines (acrylique ou époxy) ou de la celloïdine.						
+B. Lors de la fixation, on peut utiliser l'alcool pour fixer les protéines par pontage.	22- Indiquez les propositions exactes concernant les étapes de préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110122	FAUX	B. Faux, l'alcool sert à fixer les glucides et le formol à ponter les protéines.<br>/!\ pas pour ME						
+C. Une coupe dans la paraffine fait environ 5 nm.	22- Indiquez les propositions exactes concernant les étapes de préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110122	FAUX	C. Faux, les coupes dans la paraffine font environ 5 μm d'épaisseur.						
+D. Le microtome est l'appareil permettant d'effectuer l'inclusion des préparations.	22- Indiquez les propositions exactes concernant les étapes de préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110122	FAUX	D. Faux, le microtome permet d'effectuer les coupes de la préparation.						
+E. Les étapes de préparation comprennent : la fixation, l'inclusion, la coupe, l'étalement, la coloration.	22- Indiquez les propositions exactes concernant les étapes de préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110122	VRAI	E. Vrai.						
+A. Les colorants sont d'origine naturelle uniquement.	23- Indiquez les propositions exactes concernant les étapes de la préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110123	FAUX	A. Faux, ils peuvent être d'origine naturelle ou synthétique.						
+B. L'hémalun-éosine-safran est un trichrome qui colore le noyau, le cytoplasme et le tissu interstitiel.	23- Indiquez les propositions exactes concernant les étapes de la préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110123	FAUX	B. Faux, l'hémalun colore le noyau, l'éosine le cytoplasme et le safran le tissu conjonctif.						
+C. La congélation est un autre mode de préparation.	23- Indiquez les propositions exactes concernant les étapes de la préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110123	VRAI	C. Vrai.						
+D. La congélation de la préparation doit être lente.	23- Indiquez les propositions exactes concernant les étapes de la préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110123	FAUX	D. Faux, elle doit être rapide pour ne pas laisser le temps à l'eau de former un réseau cristallin.						
+E. Le trichrome de Masson est utilisable lors de l'étape de coloration.	23- Indiquez les propositions exactes concernant les étapes de la préparation de l'échantillon en microscopie photonique (2 réponses) :	UE2T110123	VRAI	E. Vrai.						
+A. Dans la méthode de la fluorescence, la lumière d'émission permet d'exciter l'objet qui émet ensuite une fluorescence.	24- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110124	VRAI	A. Vrai.						
+B. Dans la méthode de la fluorescence, le microscope comporte un miroir réfléchissant.	24- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110124	FAUX	B. Faux, c'est un miroir semi-réflechissant.						
+C. La fluorescéïne est une molécule qui permet la méthode de fluorescence.	24- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110124	VRAI	C. Vrai.						
+D. Il existe de nombreux colorants fluorescents, ceux-ci diminuant toujours la longueur d'onde.	24- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110124	FAUX	D. Faux, les colorants fluorescents augmentent toujours la longueur d'onde.						
+E. Le DAPI est un colorant reconnaissant l'ADN.	24- Indiquez les propositions exactes concernant la microscopie photonique (3 réponses) :	UE2T110124	VRAI	E. Vrai						
+A. L'immunofluorescence peut utiliser des anticorps primaires ou secondaires.	25- Indiquez les propositions exactes concernant les techniques de microscopie photonique (2 réponses) :	UE2T110125	VRAI	A. Vrai						
+B. L'immunofluorescence n'utilise que des anticorps monoclonaux.	25- Indiquez les propositions exactes concernant les techniques de microscopie photonique (2 réponses) :	UE2T110125	FAUX	B. Faux, l'immonufluorescence utilise des anticorps mono ou poly-clonaux.						
+C. La reconstruction 3D en microscopie photonique se fait grâce à une coupe unique.	25- Indiquez les propositions exactes concernant les techniques de microscopie photonique (2 réponses) :	UE2T110125	FAUX	C. Faux, la reconstruction 3D se fait grâce à une série de coupes optiques qui une fois assemblées forment une image 3D.						
+D. La technique du contraste d'interférence différentielle est utile pour des échantillons épais.	25- Indiquez les propositions exactes concernant les techniques de microscopie photonique (2 réponses) :	UE2T110125	FAUX	D. Faux, dans ce cas on utilise plutôt la microscopie en confocal.						
+E. Grâce à la microscopie confocale, il est possible d'éliminer les images inférieures et supérieures pour mettre au point le microscope sur un plan précis de la préparation.	25- Indiquez les propositions exactes concernant les techniques de microscopie photonique (2 réponses) :	UE2T110125	VRAI	E. Vrai						
+A. Le microscope électronique en transmission (MET) comprend un condenseur, un objectif et un oculaire tout comme le microscope photonique.	26- Indiquez les propositions exactes concernant la microscopie électronique en transmission (MET) (4 réponses) :	UE2T110126	VRAI	A. Vrai						
+B. L'observation en MET ne se fait pas directement.	26- Indiquez les propositions exactes concernant la microscopie électronique en transmission (MET) (4 réponses) :	UE2T110126	VRAI	B. Vrai, l'observation des électrons ne peut se faire directement. Cela endommagerait l'œil et donc elle se fait grâce à un écran de visualisation						
+C. La résolution en MET se calcule avec la formule (0.61 λ)/ (N sin Θ).	26- Indiquez les propositions exactes concernant la microscopie électronique en transmission (MET) (4 réponses) :	UE2T110126	VRAI	C. Vrai, c'est la même formule qu'en microscopie photonique.						
+D. En microscopie électronique à haut voltage (HVEM) la résolution pratique atteinte est de l'ordre 0,1 - 0,3 pm.	26- Indiquez les propositions exactes concernant la microscopie électronique en transmission (MET) (4 réponses) :	UE2T110126	FAUX	D. Faux, elle est de l'ordre de 0,1-0,3 nm, les pm étant des picomètres.						
+E. La qualité de l'observation dépend de la qualité du microscope.	26- Indiquez les propositions exactes concernant la microscopie électronique en transmission (MET) (4 réponses) :	UE2T110126	VRAI	E. Vrai						
+A. L'inclusion peut se faire dans de la paraffine.	27- Indiquez les propositions exactes concernant les étapes de la préparation du spécimen en MET (3 réponses) :	UE2T110127	FAUX	A. Faux, la paraffine n'est utilisée qu'en microscopie photonique.						
+B. L'inclusion peut se faire dans des résines époxy.	27- Indiquez les propositions exactes concernant les étapes de la préparation du spécimen en MET (3 réponses) :	UE2T110127	VRAI	B. Vrai						
+C. Le pontage des protéines lors de l'étape de fixation peut se faire grâce au formol.	27- Indiquez les propositions exactes concernant les étapes de la préparation du spécimen en MET (3 réponses) :	UE2T110127	FAUX	C. Faux, en microscopie électronique le pontage des protéines se fait au glutaraldéhyde.						
+D. Les coupes sont dites ultra fines et sont de l'ordre de 50 nm.	27- Indiquez les propositions exactes concernant les étapes de la préparation du spécimen en MET (3 réponses) :	UE2T110127	VRAI	D. Vrai						
+E. La cryofixation est possible.	27- Indiquez les propositions exactes concernant les étapes de la préparation du spécimen en MET (3 réponses) :	UE2T110127	VRAI	E. Vrai						
+A. La coloration peut se faire avec des sels de métaux lourds.	28- Indiquez la ou les propositions exactes concernant les étapes de la préparation du spécimen en MET :	UE2T110128	VRAI	A. Vrai, les métaux lourds permettent de dévier les électrons, ce que le spécimen ne fait pas toujours.						
+B. Une coloration négative est possible.	28- Indiquez la ou les propositions exactes concernant les étapes de la préparation du spécimen en MET :	UE2T110128	VRAI	B. Vrai, grâce au phosphotungstate de potassium.						
+C. L'ombrage est une technique de préparation du spécimen en MET.	28- Indiquez la ou les propositions exactes concernant les étapes de la préparation du spécimen en MET :	UE2T110128	VRAI	C. Vrai.						
+D. L'ombrage se réalise à l'aide de métaux lourds.	28- Indiquez la ou les propositions exactes concernant les étapes de la préparation du spécimen en MET :	UE2T110128	VRAI	D. Vrai.						
+E. Dans la technique de l'ombrage, il est parfois nécessaire de dissoudre l'échantillon.	28- Indiquez la ou les propositions exactes concernant les étapes de la préparation du spécimen en MET :	UE2T110128	VRAI	E. Vrai, on forme alors des répliques.						
+A. La cryofracture peut se faire à l'aide de propane liquide pour qu'elle soit très rapide.	29- Indiquez les propositions exactes concernant la cryofracture-cryodécapage (3 réponses) :	UE2T110129	VRAI	A. Vrai.						
+B. La cassure se fait au niveau des zones de fortes résistances.	29- Indiquez les propositions exactes concernant la cryofracture-cryodécapage (3 réponses) :	UE2T110129	FAUX	B. Faux.						
+C. La cassure se fait à l'aide d'un couteau.	29- Indiquez les propositions exactes concernant la cryofracture-cryodécapage (3 réponses) :	UE2T110129	VRAI	C. Vrai.						
+D. Le cryodécapage permet de sublimer l'eau de surface.	29- Indiquez les propositions exactes concernant la cryofracture-cryodécapage (3 réponses) :	UE2T110129	VRAI	D. Vrai.						
+E. Le cryodécapage ne change pas le contraste.	29- Indiquez les propositions exactes concernant la cryofracture-cryodécapage (3 réponses) :	UE2T110129	FAUX	E. Faux.						
+A. La tomographie en microscopie électronique en transmission permet, grâce à des observations sous différents angles, de voir les crêtes mitochondriales.	30- Indiquez les propositions exactes concernant la microscopie électronique (4 réponses) :	UE2T110130	VRAI	A. Vrai.						
+B. En microscopie électronique à balayage (MEB), le spécimen sera souvent congelé ou fixé.	30- Indiquez les propositions exactes concernant la microscopie électronique (4 réponses) :	UE2T110130	VRAI	B. Vrai.						
+C. En MEB, le spécimen sera souvent recouvert d'une pellicule métallique.	30- Indiquez les propositions exactes concernant la microscopie électronique (4 réponses) :	UE2T110130	VRAI	C. Vrai.						
+D. En MEB, il est possible d'observer un ribosome.	30- Indiquez les propositions exactes concernant la microscopie électronique (4 réponses) :	UE2T110130	VRAI	D. Vrai						
+E. La microscopie photonique permet de voir des objets plus petits que la microscopie électronique.	30- Indiquez les propositions exactes concernant la microscopie électronique (4 réponses) :	UE2T110130	FAUX	E. Faux						
+A. Les techniques les plus traumatisantes pour la cellule sont utilisées pour observer les cellules vivantes.	31- Indiquez les propositions exactes concernant les techniques d'observation des cellules vivantes (3 réponses) :	UE2T110131	FAUX	A. Faux.						
+B. La microscopie électronique est adaptée à ce type d'étude.	31- Indiquez les propositions exactes concernant les techniques d'observation des cellules vivantes (3 réponses) :	UE2T110131	FAUX	B. Faux, car les électrons agressent la préparation vivante.						
+C. Il est possible d'utiliser des marquages fluorescents pour suivre les molécules étudiées.	31- Indiquez les propositions exactes concernant les techniques d'observation des cellules vivantes (3 réponses) :	UE2T110131	VRAI	C. Vrai.						
+D. Il est possible de faire des cultures cellulaires.	31- Indiquez les propositions exactes concernant les techniques d'observation des cellules vivantes (3 réponses) :	UE2T110131	VRAI	D. Vrai.						
+E. Il est possible de marquer des types cellulaires pour l'étude.	31- Indiquez les propositions exactes concernant les techniques d'observation des cellules vivantes (3 réponses) :	UE2T110131	VRAI	E. Vrai grâce à l'immuno-cyto-chimie.						
+A. Les microélectrodes permettent une étude aisée des concentrations des espèces chargées.	32- Indiquez la proposition exacte concernant l'étude cellulaire (1 réponse) :	UE2T110132	FAUX	A. Faux, la réponse des microélectrodes est assez lente et la mise en œuvre est difficile.						
+B. L'aéquorine est une protéine luminescente sensible au Calcium K+.	32- Indiquez la proposition exacte concernant l'étude cellulaire (1 réponse) :	UE2T110132	FAUX	B. Faux, l'aéquorine est sensible au Calcium, Ca2+.						
+C. L'introduction par microinjection dans la cellule se fait grâce à une macropipette.	32- Indiquez la proposition exacte concernant l'étude cellulaire (1 réponse) :	UE2T110132	FAUX	C. Faux, c'est une micropipette.						
+D. L'introduction dans la cellule par électroporation se pratique grâce à une micropipette.	32- Indiquez la proposition exacte concernant l'étude cellulaire (1 réponse) :	UE2T110132	FAUX	D. Faux, l'électroporation forme des pores transitoires dans la paroi cellulaire grâce à un choc électrique bref.						
+E. L'introduction dans la cellule d'un produit se trouvant dans le milieu entourant celle-ci est permise par l'électroporation.	32- Indiquez la proposition exacte concernant l'étude cellulaire (1 réponse) :	UE2T110132	VRAI	E. Vrai, les pores formés permettent de mettre en communication les milieux intra et extra cellulaire.						
+A. La molécule d'intérêt doit être photoactivable.	33- Indiquez la ou les propositions exactes concernant les molécules captives :	UE2T110133	VRAI	A. Vrai, pour pouvoir l'activer une fois celle-ci dans la cellule.						
+B. L'introduction de la molécule dans la cellule est toujours simple.	33- Indiquez la ou les propositions exactes concernant les molécules captives :	UE2T110133	FAUX	B. Faux.						
+C. Les principales difficultés de mise en œuvre de cette technique sont dues au fait que la molécule encagée doit rester active malgré la modification.	33- Indiquez la ou les propositions exactes concernant les molécules captives :	UE2T110133	VRAI	C. Vrai.						
+D. Cette technique peut permettre de déterminer la présence ou non d'une protéine.	33- Indiquez la ou les propositions exactes concernant les molécules captives :	UE2T110133	VRAI	D. Vrai, par exemple si la molécule encagée est un anticorps spécifique de la molécule que l'on veut mettre en évidence.						
+E. La synthèse de la molécule encagée est facilement réalisable.	33- Indiquez la ou les propositions exactes concernant les molécules captives :	UE2T110133	FAUX	E. Faux, il faut beaucoup tâtonner pour trouver une molécule qui reste active un fois libérée.						
+A. Le FACS est un outil permettant de fabriquer des molécules photoactivables.	34- Indiquez la proposition exacte concernant les techniques de visualisation des molécules dans les cellules vivantes (1 réponse) :	UE2T110134	FAUX	A. Faux, le FACS permet de trier des cellules en fonction de la présence ou non d'une molécule.						
+B. Le nombre de passage ou repiquage est illimité.	34- Indiquez la proposition exacte concernant les techniques de visualisation des molécules dans les cellules vivantes (1 réponse) :	UE2T110134	FAUX	B. Faux, au bout d'un certain nombre de passages ou repiquages, il y a une sénescence.						
+C. Les lignées cellulaires sont des populations théoriquement stables et capables de se diviser de manière limitée.	34- Indiquez la proposition exacte concernant les techniques de visualisation des molécules dans les cellules vivantes (1 réponse) :	UE2T110134	FAUX	C. Faux, les lignées cellulaires sont théoriquement capables de se diviser de manière illimitée.						
+D. Il est possible de congeler les cellules et de les réutiliser plus tard.	34- Indiquez la proposition exacte concernant les techniques de visualisation des molécules dans les cellules vivantes (1 réponse) :	UE2T110134	VRAI	D. Vrai						
+E. La GFP (Green Fluorescent Protein) est un glucide spontanément fluorescent.	34- Indiquez la proposition exacte concernant les techniques de visualisation des molécules dans les cellules vivantes (1 réponse) :	UE2T110134	FAUX	E. Faux, la GFP est une protéine spontanément fluorescente.						
+A. La membrane plasmique possède des propriétés statiques.	35- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110135	FAUX	A. Faux, la membrane plasmique possède des propriétés dynamiques.						
+B. La membrane plasmique est formée d'une monocouche de phospholipides.	35- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110135	FAUX	B. Faux, la membrane est formée d'une bicouche de phospholipides.						
+C. Elle a pour rôle de délimiter la cellule du milieu externe.	35- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110135	VRAI	C. Vrai						
+D. Elle peut être traversée par certains éléments.	35- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110135	VRAI	D. Vrai, notamment grâce à des transporteurs.						
+E. La membrane plasmique est asymétrique.	35- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110135	VRAI	E. Vrai, les phospholipides trouvés de part et d'autre de la membrane ne sont pas forcement les mêmes.						
+A. Les lipides de la membrane plasmique forment une barrière imperméable aux molécules hydrosolubles.	36- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110136	VRAI	A. Vrai.						
+B. La membrane plasmique comporte des protéines.	36- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110136	VRAI	B. Vrai.						
+C. Parmi les lipides membranaires on trouve des phospholipides, du cholestérol et du glucose.	36- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110136	FAUX	C. Faux, le glucose n'est pas un lipide mais un glucide.						
+D. Les lipides représentent environ 95% de la masse de la membrane plasmique.	36- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110136	FAUX	D. Faux car c'est environ 50%.						
+E. Les lipides de la membrane plasmique sont formés d'un pôle hydrophile et d'un pôle hydrophobe.	36- Indiquez les propositions exactes concernant la membrane plasmique (3 réponses) :	UE2T110136	VRAI	E. Vrai.						
+A. Les phospholipides nécessitent de l'énergie pour s'assembler ensemble en milieu aqueux.	37- Indiquez la ou les propositions exactes concernant les lipides membranaires :	UE2T110137	FAUX	A. Faux, les phospholipides possèdent une propriété d'auto-assemblage.						
+B. Les phospholipides peuvent effectuer des mouvements au sein de la membrane plasmique.	37- Indiquez la ou les propositions exactes concernant les lipides membranaires :	UE2T110137	VRAI	B. Vrai.						
+C. Le flip-flop est un mouvement fréquent dans la membrane plasmique	37- Indiquez la ou les propositions exactes concernant les lipides membranaires :	UE2T110137	FAUX	C. Faux, il est assez rare.						
+D. La diffusion latérale des phospholipides est assez difficile.	37- Indiquez la ou les propositions exactes concernant les lipides membranaires :	UE2T110137	FAUX	D. Faux, il est aisé.						
+E. Le mouvement de flip-flop est un mouvement de basculement du phospholipide.	37- Indiquez la ou les propositions exactes concernant les lipides membranaires :	UE2T110137	VRAI	E. Vrai, le phospholipide se retrouve sur l'autre côté de la bicouche lipidique.						
+A. Dans la membrane plasmique les têtes hydrophobes sont au contact du milieu intra et extra cellulaire aqueux.	38- Indiquez la ou les propositions exactes concernant les lipides de la membrane plasmique :	UE2T110138	FAUX	A. Faux, ce sont les têtes hydrophiles qui sont au contact du milieu intra et extra cellulaire aqueux.						
+B. Les chaînes d'acides gras saturés permettent d'accroître les interactions et donc de rigidifier la membrane.	38- Indiquez la ou les propositions exactes concernant les lipides de la membrane plasmique :	UE2T110138	VRAI	B. Vrai, (une chaîne saturée est une chaîne sans double liaison).						
+C. Les simples liaisons créent des coudes dans la chaîne des acides gras.	38- Indiquez la ou les propositions exactes concernant les lipides de la membrane plasmique :	UE2T110138	FAUX	C. Faux, les doubles liaisons créent des coudes dans les chaînes d'acide gras.						
+D. Le cholestérol ne permet pas de combler l'espace laissé à cause des doubles liaisons dans les phospholipides.	38- Indiquez la ou les propositions exactes concernant les lipides de la membrane plasmique :	UE2T110138	FAUX	D. Faux, au contraire le cholestérol vient s'intercaler dans ces espaces.						
+E. La membrane possède une asymétrie maintenue par des protéines nommées scramblases.	38- Indiquez la ou les propositions exactes concernant les lipides de la membrane plasmique :	UE2T110138	FAUX	E. Faux, ce sont les flippases qui maintiennent l'asymétrie de la membrane.						
+A. Les radeaux lipidiques sont de grands domaines de la membrane plasmique.	39- Indiquez la ou les propositions exactes concernant les radeaux lipidiques :	UE2T110139	FAUX	A. Faux, au contraire, ce sont de petits domaines.						
+B. Ce sont des zones de densité supérieure à celle de la membrane cellulaire du fait de la présence de nombreuses insaturations dans les chaînes des acides gras.	39- Indiquez la ou les propositions exactes concernant les radeaux lipidiques :	UE2T110139	FAUX	B. Faux, ce sont des domaines de densité plus élevée justement parce-que les chaînes d'acides gras y sont toutes ou presque saturées.						
+C. Le cholestérol est peu présent dans les radeaux lipidiques.	39- Indiquez la ou les propositions exactes concernant les radeaux lipidiques :	UE2T110139	FAUX	C. Faux, le cholestérol dans les radeaux lipidiques atteint de forte concentration.						
+D. Ce sont des zones définitives qui restent toujours en place.	39- Indiquez la ou les propositions exactes concernant les radeaux lipidiques :	UE2T110139	FAUX	D. Faux, ce sont des zones temporaires.						
+E. La membrane y est plus épaisse.	39- Indiquez la ou les propositions exactes concernant les radeaux lipidiques :	UE2T110139	VRAI	E. Vrai.						
+A. La phosphatidyl-choline et la sphingomyéline se trouvent préférentiellement sur la face externe.	40- Indiquez la ou les propositions exactes la répartition des lipides de la membrane plasmique :	UE2T110140	VRAI							
+B. La phosphatidyl-sérine est chargée négativement et se trouve sur la face interne.	40- Indiquez la ou les propositions exactes la répartition des lipides de la membrane plasmique :	UE2T110140	VRAI							
+C. Les glycolipides se situent exclusivement sur la face externe.	40- Indiquez la ou les propositions exactes la répartition des lipides de la membrane plasmique :	UE2T110140	VRAI							
+D. Les glycolipides représentent en général 5 à 10% des lipides membranaires.	40- Indiquez la ou les propositions exactes la répartition des lipides de la membrane plasmique :	UE2T110140	VRAI							
+E. Les cérébrosides sont des glycolipides.	40- Indiquez la ou les propositions exactes la répartition des lipides de la membrane plasmique :	UE2T110140	VRAI							
+A. Epithéliaux	1- Quels sont les 4 tissus principaux du corps humain ?	UE2T100101	VRAI							
+B. Conjonctifs	1- Quels sont les 4 tissus principaux du corps humain ?	UE2T100101	VRAI							
+C. Osseux	1- Quels sont les 4 tissus principaux du corps humain ?	UE2T100101	FAUX							
+D. Nerveux	1- Quels sont les 4 tissus principaux du corps humain ?	UE2T100101	VRAI							
+E. Musculaires	1- Quels sont les 4 tissus principaux du corps humain ?	UE2T100101	VRAI							
+A. Il existe entre 10 et 100 millions d'espèces vivantes sur Terre	2- Indiquez les 3 propositions exactes parmi les suivantes	UE2T100102	VRAI							
+B. La majorité des organismes sur Terre sont pluricellulaires	2- Indiquez les 3 propositions exactes parmi les suivantes	UE2T100102	FAUX	B. La majorité sont unicellulaires						
+C. L' Homme est constitué de 10^14 cellules	2- Indiquez les 3 propositions exactes parmi les suivantes	UE2T100102	FAUX	C. On a 10^13 cellules						
+D. Les cellules ont des mécanismes de bases similaires	2- Indiquez les 3 propositions exactes parmi les suivantes	UE2T100102	VRAI							
+E. La vie est un processus auto-catalytique	2- Indiquez les 3 propositions exactes parmi les suivantes	UE2T100102	VRAI							
+A. Se situe toujours dans un noyaux cellulaire	3- Indiquez la propositions exacte concernant l' ADN	UE2T100103	FAUX	A. Pas chez les procaryotes						
+B. Il contient du ribose comme sucre	3- Indiquez la propositions exacte concernant l' ADN	UE2T100103	FAUX	B. C'est du désoxyribose						
+C. Il présente des liaisons covalentes entre les deux brins	3- Indiquez la propositions exacte concernant l' ADN	UE2T100103	FAUX	C. Les liaisons hydrogènes entre les deux brins sont des liaisons faibles						
+D. Seul un brin peut servir de matrice lors de la réplication de l'ADN	3- Indiquez la propositions exacte concernant l' ADN	UE2T100103	FAUX	D. Les deux servent de matrice						
+E. Il est formé d'une succession de nucléotides polarisés	3- Indiquez la propositions exacte concernant l' ADN	UE2T100103	VRAI							
+A. Thymine	4- Indiquez les 4 composants pouvant entrer dans la constitution d'un ribonucléotide	UE2T100104	FAUX							
+B. Phosphate	4- Indiquez les 4 composants pouvant entrer dans la constitution d'un ribonucléotide	UE2T100104	VRAI							
+C. Uracile	4- Indiquez les 4 composants pouvant entrer dans la constitution d'un ribonucléotide	UE2T100104	VRAI							
+D. Ribose	4- Indiquez les 4 composants pouvant entrer dans la constitution d'un ribonucléotide	UE2T100104	VRAI							
+E. Adénine	4- Indiquez les 4 composants pouvant entrer dans la constitution d'un ribonucléotide	UE2T100104	VRAI							
+A. ARNt	5- Indiquez les 2 éléments entrant dans la constitution des ribosomes	UE2T100105	FAUX							
+B. ARNm	5- Indiquez les 2 éléments entrant dans la constitution des ribosomes	UE2T100105	FAUX							
+C. ARNr	5- Indiquez les 2 éléments entrant dans la constitution des ribosomes	UE2T100105	VRAI							
+D. Protéines	5- Indiquez les 2 éléments entrant dans la constitution des ribosomes	UE2T100105	VRAI							
+E. Acides aminés	5- Indiquez les 2 éléments entrant dans la constitution des ribosomes	UE2T100105	FAUX	ARN et protéines						
+A. ARNm	6- Quel élément peut on qualifier « d'information en action » dans la cellule	UE2T100106	FAUX							
+B. ADN	6- Quel élément peut on qualifier « d'information en action » dans la cellule	UE2T100106	FAUX							
+C. Ribosome	6- Quel élément peut on qualifier « d'information en action » dans la cellule	UE2T100106	FAUX							
+D. Protéine	6- Quel élément peut on qualifier « d'information en action » dans la cellule	UE2T100106	VRAI							
+E. Membrane plasmique	6- Quel élément peut on qualifier « d'information en action » dans la cellule	UE2T100106	FAUX							
+A. Se sont des molécules monocaténaires	7- Indiquez les 2 propositions vraies concernant les ARN	UE2T100107	VRAI							
+B. Se sont des molécules bicaténaires	7- Indiquez les 2 propositions vraies concernant les ARN	UE2T100107	FAUX							
+C. Ils sont capable d' autoappariements	7- Indiquez les 2 propositions vraies concernant les ARN	UE2T100107	VRAI							
+D. Ils sont rigides	7- Indiquez les 2 propositions vraies concernant les ARN	UE2T100107	FAUX							
+E. Les ARNm issus d'un même gène traduiront la même protéine à l' identique	7- Indiquez les 2 propositions vraies concernant les ARN	UE2T100107	FAUX	E. Les ARN issus d'un même gène peuvent donner plusieurs versions d'une protéine à cause de conformations différentes dues aux autoappariments						
+A. Un codon est formé de 4 nucléotides	8- Indiquez les 3 propositions exactes	UE2T100108	FAUX	A. C'est 3 nucléotides						
+B. Les anticodons sont sur les ARNt	8- Indiquez les 3 propositions exactes	UE2T100108	VRAI							
+C. Les anticodons sont sur les ARNm	8- Indiquez les 3 propositions exactes	UE2T100108	FAUX							
+D. Il y a 20 acides aminés qui interviennent dans la synthèse des protéines	8- Indiquez les 3 propositions exactes	UE2T100108	VRAI							
+E. Il existe de l' ADN non codant	8- Indiquez les 3 propositions exactes	UE2T100108	VRAI							
+A. Les membranes plasmiques sont perméable	9- Concernant la membrane plasmique, indiquez les 2 propositions exactes	UE2T100109	VRAI							
+B. La bicouche lipidique de la membrane plasmique est perméable	9- Concernant la membrane plasmique, indiquez les 2 propositions exactes	UE2T100109	FAUX							
+C. Elle est principalement formée de phospholipides	9- Concernant la membrane plasmique, indiquez les 2 propositions exactes	UE2T100109	VRAI							
+D. Les phospholipides sont hydrophiles	9- Concernant la membrane plasmique, indiquez les 2 propositions exactes	UE2T100109	FAUX	D. Les phospholipides sont amphiphiles						
+E. Les protéines des membranes plasmiques sont peu conservées	9- Concernant la membrane plasmique, indiquez les 2 propositions exactes	UE2T100109	FAUX							
+A. Leur source d' énergie	10- Indiquez les 3 propositions qui permettent de différencier les cellules entre elles	UE2T100110	VRAI	-leur source d'energie : organotrophique, lithotrophique, phototrophique -la présence ou non d'un noyau : eucaryote, procaryote -leur mode d'utilisation des composants biochimiques : le CO2 et N2 de l'air est utilisé par les plantes qui nous fournissent du C et N utilisables						
+B. La présence ou non d'un noyau	10- Indiquez les 3 propositions qui permettent de différencier les cellules entre elles	UE2T100110	VRAI	-leur source d'energie : organotrophique, lithotrophique, phototrophique <br>-la présence ou non d'un noyau : eucaryote, procaryote <br>-leur mode d'utilisation des composants biochimiques : le CO2 et N2 de l'air est utilisé par les plantes qui nous fournissent du C et N utilisables						
+C. Leur taille	10- Indiquez les 3 propositions qui permettent de différencier les cellules entre elles	UE2T100110	FAUX	-leur source d'energie : organotrophique, lithotrophique, phototrophique <br>-la présence ou non d'un noyau : eucaryote, procaryote <br>-leur mode d'utilisation des composants biochimiques : le CO2 et N2 de l'air est utilisé par les plantes qui nous fournissent du C et N utilisables						
+D. Leur pH ionique	10- Indiquez les 3 propositions qui permettent de différencier les cellules entre elles	UE2T100110	FAUX	-leur source d'energie : organotrophique, lithotrophique, phototrophique <br>-la présence ou non d'un noyau : eucaryote, procaryote <br>-leur mode d'utilisation des composants biochimiques : le CO2 et N2 de l'air est utilisé par les plantes qui nous fournissent du C et N utilisables						
+E. Leur mode d' utilisation des composants biochimiques	10- Indiquez les 3 propositions qui permettent de différencier les cellules entre elles	UE2T100110	VRAI	-leur source d'energie : organotrophique, lithotrophique, phototrophique -la présence ou non d'un noyau : eucaryote, procaryote -leur mode d'utilisation des composants biochimiques : le CO2 et N2 de l'air est utilisé par les plantes qui nous fournissent du C et N utilisables						
+A. Utilise l' énergie lumineuse	11- Concernant les êtres organotrophiques, quelle est la proposition exacte	UE2T100111	FAUX	A/B. Phototrophe						
+B. Produise de l' O2	11- Concernant les êtres organotrophiques, quelle est la proposition exacte	UE2T100111	FAUX	A/B. Phototrophe						
+C. Se nourrissent parfois de pierre ( lithos)	11- Concernant les êtres organotrophiques, quelle est la proposition exacte	UE2T100111	FAUX	C. Lithotrophe						
+D. Vivent au dépend d'autres organismes vivants	11- Concernant les êtres organotrophiques, quelle est la proposition exacte	UE2T100111	VRAI							
+E. Sont peu présents sur la planète	11- Concernant les êtres organotrophiques, quelle est la proposition exacte	UE2T100111	FAUX	E. Sites non organotrophiques (cheminée hydrothermique)						
+A. Bactéries	12- Parmi ces éléments, lequel n' appartient pas au monde non organotrophique	UE2T100112	FAUX							
+B. Champignons	12- Parmi ces éléments, lequel n' appartient pas au monde non organotrophique	UE2T100112	VRAI							
+C. Plantes	12- Parmi ces éléments, lequel n' appartient pas au monde non organotrophique	UE2T100112	FAUX							
+D. Algues	12- Parmi ces éléments, lequel n' appartient pas au monde non organotrophique	UE2T100112	FAUX							
+E. Cheminées hydrothermiques	12- Parmi ces éléments, lequel n' appartient pas au monde non organotrophique	UE2T100112	FAUX							
+A. CO2 et N2<div>B. H, C, O et N</div><div>C. C, H, O, N, S et P</div><div>D. F, Cl, Br, I</div><div>E. He, Ne, Ar, Kr et Xe</div>	13- Quel est l' élément indispensable à toutes cellules	UE2T100113	C							
+A. Possède un noyau	14- Indiquez les 3 propositions exactes concernant la cellule procaryote	UE2T100114	FAUX							
+B. Est souvent unicellulaire	14- Indiquez les 3 propositions exactes concernant la cellule procaryote	UE2T100114	VRAI							
+D. Possède des mitochondries	14- Indiquez les 3 propositions exactes concernant la cellule procaryote	UE2T100114	FAUX							
+E. Peut posséder un flagelle	14- Indiquez les 3 propositions exactes concernant la cellule procaryote	UE2T100114	VRAI							
+A. Sont exclusivement phototropiques	15- Indiquez les 2 propositions exactes concernant les procaryotes	UE2T100115	FAUX	A. Organo, photo, litho						
+B. Sont représentés par les eubactéries et les archaebactéries	15- Indiquez les 2 propositions exactes concernant les procaryotes	UE2T100115	VRAI							
+C. Possèdent une grande diversité de niches écologiques	15- Indiquez les 2 propositions exactes concernant les procaryotes	UE2T100115	VRAI							
+D. 99% sont connus	15- Indiquez les 2 propositions exactes concernant les procaryotes	UE2T100115	FAUX	D. 99% inconnus = monde innexploré						
+E. Ont une faible potentialité biochimique	15- Indiquez les 2 propositions exactes concernant les procaryotes	UE2T100115	FAUX	E. Fortes !						
+A. Sont orthologues dans deux espèces différentes	16- Indiquez les 4 propositions exactes concernant les gènes d' hémoglobine	UE2T100116	VRAI							
+B. Sont paralogues au sein d'une même espèce	16- Indiquez les 4 propositions exactes concernant les gènes d' hémoglobine	UE2T100116	VRAI							
+C. Sont orthologues aux myoglobines	16- Indiquez les 4 propositions exactes concernant les gènes d' hémoglobine	UE2T100116	FAUX							
+D. Sont homologues aux myoglobines	16- Indiquez les 4 propositions exactes concernant les gènes d' hémoglobine	UE2T100116	VRAI							
+E. Sont issus de la duplication de gènes	16- Indiquez les 4 propositions exactes concernant les gènes d' hémoglobine	UE2T100116	VRAI							
+A. L'information génétique est nettement moins élaborée	17- Quelles sont les 2 propositions exactes concernant les eucaryotes	UE2T100117	FAUX	A. Les eucaryotes sont plus gros, ont un gros génome, plus de gène, plus d'ADN non codant, l'info est élaborée						
+B. Le cytosquellette joue un rôle important	17- Quelles sont les 2 propositions exactes concernant les eucaryotes	UE2T100117	VRAI							
+C. Il n'y a pas de membrane interne	17- Quelles sont les 2 propositions exactes concernant les eucaryotes	UE2T100117	FAUX	C. Ces organites intracellulaires composent les membranes internes						
+D. Le génome est uniquement contenu dans le noyau	17- Quelles sont les 2 propositions exactes concernant les eucaryotes	UE2T100117	FAUX	D. Il y a également un génome mitochondrial						
+E. On peut observer la phagocytose d'organismes entiers	17- Quelles sont les 2 propositions exactes concernant les eucaryotes	UE2T100117	VRAI	E. La mitochondrie est une eubactérie aerobique qui a été englobée par phagocytose						
+A. Caenorhabditis Elegans est une plante	18- Concernant les modèles d'étude, quelles sont les 2 réponses exactes	UE2T100118	FAUX	A. Caenorhabditis elegans est un ver (nematode)						
+B. Saccharomyces Cerevisiae est une levure procaryote	18- Concernant les modèles d'étude, quelles sont les 2 réponses exactes	UE2T100118	FAUX	B. Saccharomyces cerevisiae est une levure donc par définition eucaryote						
+C. La levure s'apparente aux champignions	18- Concernant les modèles d'étude, quelles sont les 2 réponses exactes	UE2T100118	VRAI							
+D. Une mutation du gène kit chez la souris peut s'extrapoler à l' Homme	18- Concernant les modèles d'étude, quelles sont les 2 réponses exactes	UE2T100118	VRAI	D. La mutation du gène kit provoque la même tache blanche sur le front de la souris et de l'homme						
+E. Le séquencage du génome humain est en cours de réalisation	18- Concernant les modèles d'étude, quelles sont les 2 réponses exactes	UE2T100118	FAUX	E. Le séquençage du génome humain est terminé, on s'interesse désormais à la fonction des proteines						
+A. Il est inutile à la cellule	19- Indiquez les 2 propositions exactes concernant le cytosquelette	UE2T100119	FAUX							
+B. Entièrement colorable au bleu de Coomasie	19- Indiquez les 2 propositions exactes concernant le cytosquelette	UE2T100119	VRAI							
+C. A pour rôle principal l' adaptation de la cellule à son environement	19- Indiquez les 2 propositions exactes concernant le cytosquelette	UE2T100119	VRAI							
+D. Composé d'un seul type de filament	19- Indiquez les 2 propositions exactes concernant le cytosquelette	UE2T100119	FAUX							
+E. Soumis à aucune régulation	19- Indiquez les 2 propositions exactes concernant le cytosquelette	UE2T100119	FAUX							
+A. Ils sont polarisés	20- Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T100120	FAUX							
+B. Ils sont non polarisés	20- Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T100120	VRAI							
+C. Ils sont anti-parallèles	20- Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T100120	VRAI							
+D. Ils tapissent la face externe de l'enveloppe nucléaire	20- Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T100120	FAUX	D. Ils tapisse la face interne du noyau ( lamina nucléaire)						
+E. Sont formé de sous unité globulaires	20- Indiquez les 2 propositions exactes concernant les filaments intermédiaires	UE2T100120	FAUX	E. Ce sont des sous unités fibreuses						
+A. Le déplacement cellulaire	21- Les microtubules jouent un rôle dans... ( 2 réponses)	UE2T100121	FAUX	A. Microfilament d'actine						
+B. La structure du flagelle du spermatozoide	21- Les microtubules jouent un rôle dans... ( 2 réponses)	UE2T100121	VRAI							
+C. Le transport intracellulaire	21- Les microtubules jouent un rôle dans... ( 2 réponses)	UE2T100121	VRAI							
+D. Le maintient des épithéliums	21- Les microtubules jouent un rôle dans... ( 2 réponses)	UE2T100121	FAUX	D. Filaments intermédiaires						
+E. La synthèse du cholestérol	21- Les microtubules jouent un rôle dans... ( 2 réponses)	UE2T100121	FAUX	E. Rien à voir !						
+A. C'est un assemblage d' hétérodimères liés par des liaisions covalentes	22- Concernant la structure du microtubule, indiquez les 3 bonnes réponses	UE2T100122	FAUX	A. Liaisons non covalentes						
+B. Il est polarisé	22- Concernant la structure du microtubule, indiquez les 3 bonnes réponses	UE2T100122	VRAI							
+C. Il forme un cylindre creux de 25 nm de diamètre	22- Concernant la structure du microtubule, indiquez les 3 bonnes réponses	UE2T100122	VRAI							
+D. Les liaisons longitudinales sont fortes	22- Concernant la structure du microtubule, indiquez les 3 bonnes réponses	UE2T100122	VRAI							
+E. Sa conformation est fixe et immuable	22- Concernant la structure du microtubule, indiquez les 3 bonnes réponses	UE2T100122	FAUX	E. Conformation dynamique (comme l'actine)						
+A. Un atome mesure environ 2 nm soit 0.2 angströms.	23- Nombres à connaître :	UE2T100123	FAUX	A. Faux : 0.2 nm = 2 angströms.						
+B. Une bactérie est sensiblement aussi grande qu'une mitochondrie.	23- Nombres à connaître :	UE2T100123	VRAI							
+C. Une bactérie est environ dix fois plus petite qu'une cellule.	23- Nombres à connaître :	UE2T100123	VRAI							
+D. Un ribosome mesure à peu près 20 nm.	23- Nombres à connaître :	UE2T100123	VRAI							
+E. Une mitochondrie mesure environ 200 nm.	23- Nombres à connaître :	UE2T100123	FAUX	E. Faux : 2 µm = 2 000 nm.						
+A. Les microscopes photoniques sont apparus avant les microscopes électroniques.	24- Histoire du microscope :	UE2T100124	VRAI							
+B. On utilise la technique du contraste de phase en microscopie photonique.	24- Histoire du microscope :	UE2T100124	VRAI							
+C. Le fonctionnement d'un microscope électronique à transmission se rapproche de celui du microscope photonique.	24- Histoire du microscope :	UE2T100124	VRAI							
+D. Un microscope à interférence est un microscope photonique pour lequel la qualité d'observation de l'échantillon estnaugmenté.	24- Histoire du microscope :	UE2T100124	VRAI							
+E. L'autoradiographie est apparue avant la microscopie à contraste de phase.	24- Histoire du microscope :	UE2T100124	VRAI							
+A. La qualité d'une analyse morphologique dépend uniquement de la qualité du microscope.	25- Limites optiques :	UE2T100125	FAUX	A. Faux : aussi la qualité de l'échantillon.						
+B. On peut distinguer les mitochondries en microscopie optique.	25- Limites optiques :	UE2T100125	VRAI							
+C. On peut étudier en détail les mitochondries en microscopie optique.	25- Limites optiques :	UE2T100125	FAUX	C. Faux : en microscopie électronique.						
+D. La limite de la microscopie photonique correspond à la taille de la mitochondrie.	25- Limites optiques :	UE2T100125	FAUX	D. Faux : correspond à la taille du ribosome (20 nm).						
+E. A l'oeil nu, on distingue des éléments de l'ordre du dixième de millimètre.	25- Limites optiques :	UE2T100125	VRAI							
+A. Le principe de la microscopie confocale consiste à éliminer les aberrations optique (zones de flou) par voie informatique.	26- Technique de microscopie photonique :	UE2T100126	FAUX	A. Faux : c'est la déconvolution de l'image.						
+B. La microscopie confocale est utilisée en microscopie photonique.	26- Technique de microscopie photonique :	UE2T100126	VRAI							
+C. La microscopie confocale permet d'explorer un seul plan dans un échantillon épais.	26- Technique de microscopie photonique :	UE2T100126	VRAI							
+D. Un condenseur est un système de lentilles qui permet de concentrer la lumière sur l'échantillon.	26- Technique de microscopie photonique :	UE2T100126	VRAI							
+E. Un microscope photonique à transmission peut inclure une caméra.	26- Technique de microscopie photonique :	UE2T100126	VRAI							
+A. La valeur de la résolution d'un microscope est égale à 0.61n / λsinθ.	27- Résolution :	UE2T100127	FAUX	A. Faux						
+B. La valeur de la résolution d'un microscope est égale à 0.61λ / nsinθ.	27- Résolution :	UE2T100127	VRAI							
+C. θ correspond à l'angle du cône formé par la lumière entre le condenseur et l'objectif.	27- Résolution :	UE2T100127	FAUX	C. Faux : au demi-angle.						
+D. Plus l'angle du cône formé par la lumière entre l'objet et l'objectif d'un microscope optique est petit, plus l'image observée est nette.	27- Résolution :	UE2T100127	FAUX	D. Faux : il doit être le plus grand possible.						
+E. L'utilisation des longueurs d'ondes dans l'ultraviolet permet une meilleure observation de l'objet.	27- Résolution :	UE2T100127	VRAI							
+A. La technique de contraste de phase repose sur le décalage de phase créé entre un photon traversant un organite et un autre photon similaire mais ne traversant pas l'organite.	28- Techniques de microscopie :	UE2T100128	VRAI							
+B. En contraste de phase, la lumière est filtrée dans deux plans de vibration perpendiculaires.	28- Techniques de microscopie :	UE2T100128	FAUX	B. Faux : contraste d'interférence différentiel.						
+C. La technique de contraste de phase necessite l'utilisation d'un prisme de Wollaston.	28- Techniques de microscopie :	UE2T100128	FAUX	C. Faux : contraste d'interférence différentiel.						
+D. La microscopie par contraste d'interférence différentiel utilise la lumière polarisée.	28- Techniques de microscopie :	UE2T100128	VRAI							
+E. En microscopie optique, on peut observer l'échantillon plus longtemps qu'en microscopie électronique.	28- Techniques de microscopie :	UE2T100128	VRAI							
+A. Le formol est un alcool.	29- Fixation d'un échantillon :	UE2T100129	FAUX	A. Faux : aldéhyde.						
+B. L'alcool fixe les glucides.	29- Fixation d'un échantillon :	UE2T100129	VRAI							
+C. Le formol fixe les glucides.	29- Fixation d'un échantillon :	UE2T100129	FAUX	C. Faux : les protéines.						
+D. Le liquide de Bouin est composé de deux constituants et peut fixer un échantillon.	29- Fixation d'un échantillon :	UE2T100129	FAUX	D. Faux : de trois constituants.						
+E. Les époxy fixent les échantillons.	29- Fixation d'un échantillon :	UE2T100129	FAUX	E. Faux : ils permettent les inclusions						
+A. On peut utiliser la paraffine et les résines pour faire l'inclusion en microscopie optique.	30- Inclusion et coupe en microscopie optique :	UE2T100130	VRAI							
+B. L'inclusion permet de faciliter l'obtention des coupes de tissus vivants.	30- Inclusion et coupe en microscopie optique :	UE2T100130	VRAI							
+C. On obtient des coupes plus fines dans les résines que dans la paraffine.	30- Inclusion et coupe en microscopie optique :	UE2T100130	VRAI							
+D. On utilise des microtomes pour faire des coupes.	30- Inclusion et coupe en microscopie optique :	UE2T100130	VRAI							
+E. La congélation peut remplacer les étapes de fixation et d'inclusion.	30- Inclusion et coupe en microscopie optique :	UE2T100130	VRAI							
+A. Elle suit l'étape d'inclusion et la coupe.	31- Coloration :	UE2T100131	VRAI	A. Vrai après avoir retiré la paraffine.						
+B. L'hémalun colore le cytoplasme.	31- Coloration :	UE2T100131	FAUX	B. Faux : le noyau.						
+C. L'éosine colore le noyau.	31- Coloration :	UE2T100131	FAUX	C. Faux : le cytoplasme.						
+D. On peut utiliser le trichrome de Masson.	31- Coloration :	UE2T100131	VRAI							
+E. Le trichrome de Masson est formé d'hémalun, d'éosine et de safran.	31- Coloration :	UE2T100131	FAUX	E. Faux : Il est composé de vert lumière ou de bleu aniline, d'hématoxyline et de fuschine Ponceau (à ne pas apprendre).						
+A. Repose sur l'excitation de l'échantillon par une source lumineuse.	32- Fluorescence :	UE2T100132	VRAI							
+B. Le microscope inclut un miroir semi-réfléchissant qui laisse passer l'onde d'excitation mais qui réfléchit l'onde d'émission.	32- Fluorescence :	UE2T100132	FAUX	B. Faux : laisse passer l'onde d'émission mais réfléchit l'onde d'excitation.						
+C. Elle permet de suivre une protéine dans une cellule.	32- Fluorescence :	UE2T100132	VRAI							
+D. Le DAPI est spécifique de l'ADN.	32- Fluorescence :	UE2T100132	VRAI							
+E. La GFP est une protéine.	32- Fluorescence :	UE2T100132	VRAI							
+A. Est une methode peu sensible.	33- Immunocytochimie indirecte :	UE2T100133	FAUX	A. Faux : très sensible.						
+B. Est basée sur le reconnaissance anticorps-antigène.	33- Immunocytochimie indirecte :	UE2T100133	VRAI							
+C. Les anticorps marqués se fixent directement sur antigène.	33- Immunocytochimie indirecte :	UE2T100133	FAUX	C. Faux : sur les anticorps primaires						
+D. Les marqueurs sont souvent fluorescents.	33- Immunocytochimie indirecte :	UE2T100133	VRAI							
+E. On utilise uniquement des anticorps polyclonaux.	33- Immunocytochimie indirecte :	UE2T100133	FAUX	E.Faux : aussi les monoclonaux.						
+A. Un film de métal lourd est déposé sur le spécimen de façon perpendiculaire.	34- Ombrage métallique	UE2T100134	FAUX	A. Faux : sur le côté.						
+B. Un film de renforcement de carbone est déposé sur l'échantillon avec un angle d'environ 45° avec le spécimen.	34- Ombrage métallique	UE2T100134	FAUX	B. Faux : c'est le métal.						
+C. L'étape de vaporisation du métal lourd sur le spécimen suit l'étape de vaporisation du carbone.	34- Ombrage métallique	UE2T100134	FAUX	C. Faux : c'est le contraire.						
+D. On observe la réplique de l'échantillon sur une grille de cuivre.	34- Ombrage métallique	UE2T100134	VRAI							
+E. On détruit l'échantillon à l'aide d'un solvant puissant.	34- Ombrage métallique	UE2T100134	VRAI							
+A. Necessitent au préalable une congélation lente.	35- Cryofracture, cryodécapage et cryomicroscopie	UE2T100135	FAUX	A. Faux : congélation brusque.						
+B. Le cryodécapage repose sur la technique de lyophilisation de l'eau contenue dans l'échantillon.	35- Cryofracture, cryodécapage et cryomicroscopie	UE2T100135	VRAI							
+C. La cryofracture permet d'augmenter le relief.	35- Cryofracture, cryodécapage et cryomicroscopie	UE2T100135	FAUX	C. Faux : c'est le cryodécapage.						
+D. On peut congeler l'échantillon avec de l'hydrogène liquide.	35- Cryofracture, cryodécapage et cryomicroscopie	UE2T100135	VRAI							
+E. La cryomicroscopie repose sur la formation d'une fine couche d'eau contenant le spécimen.	35- Cryofracture, cryodécapage et cryomicroscopie	UE2T100135	VRAI							
+A. L'électroporation correspond à une perforation transitoire de la membrane par l'application d'un choc électrique bref.	36- Methodes d'introduction de molécules dans la cellule.	UE2T100136	VRAI							
+B. L'électroporation est très bien supportée par la cellule.	36- Methodes d'introduction de molécules dans la cellule.	UE2T100136	FAUX	B. Faux : certaines cellules meurent						
+C. La vésiculation consiste à entourer les substances à introduire d'ADN.	36- Methodes d'introduction de molécules dans la cellule.	UE2T100136	FAUX	C. Faux : entourer d'une membrane.						
+D. On peut projeter à grande vitesse des molécules entourées d'ADN.	36- Methodes d'introduction de molécules dans la cellule.	UE2T100136	VRAI							
+E. On peut utiliser une micropipette.	36- Methodes d'introduction de molécules dans la cellule.	UE2T100136	VRAI							
+A. Permet d'étudier une protéine	37- Utilisation de particules captives	UE2T100137	VRAI							
+B. Permet d'étudier la mitose par exemple.	37- Utilisation de particules captives	UE2T100137	VRAI							
+C. La molécule est activée par flashage infrarouge.	37- Utilisation de particules captives	UE2T100137	FAUX	C. Faux : ultraviolet						
+D. Les ions calcium et l'inositol triphosphate sont des particules captives.	37- Utilisation de particules captives	UE2T100137	VRAI							
+E. Le “trappage” dune protéine peut modifier les propriétés de cette protéine.	37- Utilisation de particules captives	UE2T100137	VRAI							
+A. Dérivent pour la plupart du glycérol.	38- Les phospholipides :	UE2T100138	VRAI							
+B. Sont amphiphiles.	38- Les phospholipides :	UE2T100138	VRAI							
+C. Forment une bicouche lipidique par des liaisons covalentes.	38- Les phospholipides :	UE2T100138	FAUX	C. Faux : non covalente.						
+D. Ont la possibilité d'effectuer courament trois mouvements au sein de la membrane.	38- Les phospholipides :	UE2T100138	VRAI	D. Vrai : il en existe quatre mais le flip-flop est plus rare (une fois par mois).						
+E. De nombreux types sont présents dans la membrane.	38- Les phospholipides :	UE2T100138	VRAI							
+A. L'augmentation de la longueur des chaînes des phospholipides augmente leurs interactions.	39- Fluidité de la membrane :	UE2T100139	VRAI							
+B. Laugmentation de la température augmente l'indépendance des phospholipides.	39- Fluidité de la membrane :	UE2T100139	VRAI							
+C. L'insaturaion des phospholipides diminue la fluidité de la membrane.	39- Fluidité de la membrane :	UE2T100139	FAUX	C. Faux : augmente						
+D. Le cholestérol renforce la rigidité de la membrane.	39- Fluidité de la membrane :	UE2T100139	VRAI							
+E. Ce qui augmente les interractions entre les phospholipides diminue la fluidité de la membrane.	39- Fluidité de la membrane :	UE2T100139	VRAI							
+A. La phosphatidyl-choline est un phospholipide de charge neutre.	40- Répartition des phospholipides membrannaires dans la membrane plasmique	UE2T100140	VRAI							
+B. La phosphatidyl-sérine possède une charge neutre	40- Répartition des phospholipides membrannaires dans la membrane plasmique	UE2T100140	FAUX	B. Faux : négative.						
+C. L'asymétrie de la membrane plasmique est réalisée par des flippases.	40- Répartition des phospholipides membrannaires dans la membrane plasmique	UE2T100140	VRAI							
+D. La phosphatidyl-sérine est localisée du côté du cytosol en général.	40- Répartition des phospholipides membrannaires dans la membrane plasmique	UE2T100140	VRAI							
+E. L'asymétrie de la membrane plasmique est réalisée par la scramblase.	40- Répartition des phospholipides membrannaires dans la membrane plasmique	UE2T100140	FAUX	E. Faux : flippase.						
+A. La phosphatidyl-sérine est impliquée dans l'appoptose et dans la coagulation.	41- Asymétrie de la membrane plasmique :	UE2T100141	VRAI							
+B. La phosphatidyl-sérine devient intracellulaire en présence d'une grande quantité de calcium intracellulaire.	41- Asymétrie de la membrane plasmique :	UE2T100141	FAUX	B. Faux : extracellulaire.						
+C. Les glycolipides sont situés sur la face intracellulaire uniquement.	41- Asymétrie de la membrane plasmique :	UE2T100141	FAUX	C. Faux : extracellulaire.						
+D. Les glycolipides sont très présents au niveau des radeaux lipidiques.	41- Asymétrie de la membrane plasmique :	UE2T100141	VRAI							
+E. L'asymétrie des glycolipides et les glycoprotéines est retrouvée au niveau des vésicules issue du golgi-trans.	41- Asymétrie de la membrane plasmique :	UE2T100141	VRAI							
+A. Contiennent peu de cholestérol.	42- Les radeaux lipidiques :	UE2T100142	FAUX	A. Faux : contient beaucoup de cholestérol.						
+B. Contiennent des phospholipides présentant des chaînes carbonées longues.	42- Les radeaux lipidiques :	UE2T100142	VRAI							
+C. Sont impliqués dans la signalisation par récepteurs.	42- Les radeaux lipidiques :	UE2T100142	VRAI							
+D. Contiennent des lipides particuliers comme les sphingolipides.	42- Les radeaux lipidiques :	UE2T100142	VRAI							
+E. Sont temporaires.	42- Les radeaux lipidiques :	UE2T100142	VRAI							
+A. Sont peu présents sur la membrane plasmique par rapport aux autres lipides.	43- Les glycolipides :	UE2T100143	VRAI							
+B. Les gangliosides sont chargés négativement.	43- Les glycolipides :	UE2T100143	VRAI							
+C. Les cérébrosides sont chargés négativement.	43- Les glycolipides :	UE2T100143	FAUX	C. Faux : neutres.						
+D. Sont des marqueurs de type cellulaire.	43- Les glycolipides :	UE2T100143	VRAI							
+E. Peuvent lier des protéines à la membrane.	43- Les glycolipides :	UE2T100143	VRAI							
+A. Les protéines périphériques sont liés à la membrane par des liaisons covalentes	44- Les protéines membranaires de la membrane plasmique :	UE2T100144	FAUX	A. Faux : liaisons non covalentes.						
+B. Les protéines périphériques sont toujours du côté extracellulaire.	44- Les protéines membranaires de la membrane plasmique :	UE2T100144	FAUX	B. Faux intra ou extra cellulaire						
+C. Les protéines intrinsèques peuvent être transmembranaires.	44- Les protéines membranaires de la membrane plasmique :	UE2T100144	VRAI							
+D. Les protéines périphériques sont extraits de la membrane plasmique par des procédés doux.	44- Les protéines membranaires de la membrane plasmique :	UE2T100144	VRAI							
+E. Les protéines membranaires sont rarement glycosylées.	44- Les protéines membranaires de la membrane plasmique :	UE2T100144	FAUX	E. Faux : souvent. .						
+A. Les protéines transmembranaires de la membrane plasmique sont souvent à feuillets beta	45- Les protéines membranaires :	UE2T100145	FAUX	A. Faux : hélices α.						
+B. Les protéines peuvent être fixées transitoirement à la membrane.	45- Les protéines membranaires :	UE2T100145	VRAI							
+C. Les protéines périphériques sont toujours liées à un glycolipide.	45- Les protéines membranaires :	UE2T100145	FAUX	C. Faux						
+D. Les protéines périphériques sont toujours amphiphiles.	45- Les protéines membranaires :	UE2T100145	FAUX	D. Faux : les protéines transmembranaires.						
+E. Les protéines transmembranaires peuvent effectuer un mouvement de flip-flop grâce à la flippase.	45- Les protéines membranaires :	UE2T100145	FAUX	E. Faux : jamais de mouvements de flip-flop pour les protéines.						

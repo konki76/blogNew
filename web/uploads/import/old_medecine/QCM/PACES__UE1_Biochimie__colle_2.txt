@@ -1,0 +1,128 @@
+B. Les caractéristiques biochimiques, structurelles et physiques des glucides sont très différentes.	18. Caractéristiques des glucides :	UE1T120218	FAUX	B. Faux : Caractéristiques comparables						
+C. Les glucides sont tous des molécules organiques.	18. Caractéristiques des glucides :	UE1T120218	VRAI							
+D. Les glucides possèdent une seule fonction aldéhyde, cétone ou alcool.	18. Caractéristiques des glucides :	UE1T120218	FAUX	D. Faux : Fonction aldéhyde ou cétone + groupements hydroxyles						
+E. Les glucides sont hydrosolubles.	18. Caractéristiques des glucides :	UE1T120218	VRAI							
+A. Le glyceraldéhyde est un aldotriose.	19. Généralités concernant les monosaccharides :	UE1T120219	VRAI							
+B. L'oxydation du glyceraldéhyde forme un des constituants des triglycérides.	19. Généralités concernant les monosaccharides :	UE1T120219	FAUX	B. Faux : glyceraldéhyde  glycérol (reduction).						
+C. Il y a du fructose dans les légumes.	19. Généralités concernant les monosaccharides :	UE1T120219	VRAI							
+D. Dans le glucose, une fonction alcool primaire est située au niveau du carbone numéro six.	19. Généralités concernant les monosaccharides :	UE1T120219	VRAI							
+E. La fonction cétone du glucose est située au niveau de son carbone numéro deux.	19. Généralités concernant les monosaccharides :	UE1T120219	FAUX	E. Faux : Ne possède pas de fonction cétone ; seulement une fonction aldéhyde, au niveau de C1.						
+A. Le carbone qui détermine la série à laquelle appartient le glucide est celui qui porte la fonction alcool primaire.	20. Isomères des glucides :	UE1T120220	FAUX	A. Faux : Le C précédant la fonction OH primaire permet de déterminer la série.						
+B. La projection de Fischer permet de déterminer la série à laquelle appartient un glucide.	20. Isomères des glucides :	UE1T120220	VRAI							
+C. Il existe une étroite correspondance entre la série et le sens de déviation de la lumière polarisée.	20. Isomères des glucides :	UE1T120220	FAUX	C. Faux : Corrélation exceptionnelle pour le glyceraldéhyde.						
+D. Le mannose est un épimère en C2 du glucose.	20. Isomères des glucides :	UE1T120220	VRAI							
+E. Le D-ribose et le D-fructose sont épimères en trois.	20. Isomères des glucides :	UE1T120220	FAUX	E. Faux : Le ribose est un aldopentose ; le fructose est un cétohexose.						
+A. Après cristallisation d'une solution aqueuse de D-glucose, on observe des glucides sous trois formes spatiales.	21. Cyclisation des oses :	UE1T120221	VRAI	A. Vrai : Linéaire, anomère α, anomère β.						
+B. Les glucides sont majoritairement sous forme linéaire à l'état naturel.	21. Cyclisation des oses :	UE1T120221	FAUX	B. Faux : 98% cyclique.						
+C. La cyclisation se fait par réaction intraglucidique entre la fonction aldéhyde ou cétone et un groupement hydroxyle.	21. Cyclisation des oses :	UE1T120221	VRAI							
+D. Chez les glucides, la forme cyclique présente des avantages structuraux, elle est stable; la réaction à l'origine de la cyclisation est en général irréversible.	21. Cyclisation des oses :	UE1T120221	FAUX	D. Faux : réaction réversible.						
+E. Le glucose se cyclise sous forme pyranose.	21. Cyclisation des oses :	UE1T120221	VRAI							
+A. La phosphorylation du glucose se fait majoritairement sur la fonction alcool primaire.	22. Propriétés des oses :	UE1T120222	VRAI	A. Vrai : Mais pas pour tous les oses ; ex. : fructose-1-prosphate.						
+B. Les glycosaminoglycanes sont composés de sucres dont la fonction aldéhyde ou cétone a été remplacée par une fonction amine.	22. Propriétés des oses :	UE1T120222	FAUX	B. Faux :OH remplacé par NH2.						
+C. Le N-acetyl-β-D-glucosamine est un sucre que l'on retrouve chez les bactéries.	22. Propriétés des oses :	UE1T120222	VRAI	C. Vrai : enveloppe						
+D. L'acide sialique est produit par estérification du produit d'addition entre une mannosamine et du pyruvate.	22. Propriétés des oses :	UE1T120222	FAUX	D. Faux : mannosamine + ac. neuraminique = ac. sialique.						
+E. Le sorbitol, laxatif retrouvé dans les pruneaux, est issu de la réduction du D-glucose.	22. Propriétés des oses :	UE1T120222	VRAI							
+A. Les oses peuvent être réduits, mais aussi oxydés.	23. Propriétés des oses – suite :	UE1T120223	VRAI							
+B. L'oxydation douce s'effectue sur la fonction alcool primaire.	23. Propriétés des oses – suite :	UE1T120223	FAUX	B. Faux : oxydation douce => aldéhyde <br>oxydation forte => OH primaire.						
+C. L'acide glucuronique est issu d'une oxydation douce.	23. Propriétés des oses – suite :	UE1T120223	FAUX	C. Faux : Forte.<br>c6 uronique						
+D. La présence de sucre dans les urines se traduit par une coloration rouge par la liqueur de Fehling.	23. Propriétés des oses – suite :	UE1T120223	VRAI							
+E. La réaction entre la fonction aldéhyde d'un sucre et la fonction amine d'un autre sucre produit une base de Schiff.	23. Propriétés des oses – suite :	UE1T120223	FAUX	E. Faux : Réaction avec la fonction amine d'un AA.						
+A. Pour qu'un diholoside soit réducteur, il faut que la fonction semi-acétalique d'un des deux oses soit libre.	24. Diholosides :	UE1T120224	VRAI							
+B. L'amylase est une enzyme qui hydrolyse l'amidon.	24. Diholosides :	UE1T120224	VRAI							
+C. Le saccharose n'est pas réducteur.	24. Diholosides :	UE1T120224	VRAI							
+D. Les mucilages sont des hétérosides.	24. Diholosides :	UE1T120224	FAUX	D. Faux : Hétéropolyosides.						
+E. Le maltose comporte du fructose.	24. Diholosides :	UE1T120224	FAUX	E. Faux : glucose + galactose = lactose.<br>glucose + glucose = maltose						
+A. Le maltose possède une liaison β-1,4.	25. Polyosides :	UE1T120225	FAUX	A. Faux : α-1,4.						
+B. L'amidon, la cellulose, le glycogène, les dextranes, la chitine et les pectines sont des homopolyosides formés uniquement de glucose.	25. Polyosides :	UE1T120225	FAUX	B. Faux : Chitine – N-acétyl-glucosamine ; pectines – ac. uronique.						
+C. Dans l'amidon et le glycogène, les ramifications se font par des liaisons α-1,6.	25. Polyosides :	UE1T120225	VRAI							
+D. Le glycogène et l'amidon sont hydrolysés par des enzymes salivaires et du pancréas.	25. Polyosides :	UE1T120225	VRAI							
+E. L'α-galactosidase hydrolyse le lactose.	25. Polyosides :	UE1T120225	FAUX	E. Faux : β-galactosidase.						
+A. L'estérification in vivo est spontanée.	26. Lipides simples :	UE1T120226	FAUX	A. Faux : Elle nécessite des enzymes.						
+B. Les DAGs sont formés par estérification du glycérol avec des acides gras.	26. Lipides simples :	UE1T120226	VRAI							
+C. Les triglycérides sont hydrophiles.	26. Lipides simples :	UE1T120226	FAUX	C. Faux : Ils sont hydrophobes et constituent la réserve en lipides.						
+D. L'acide gras réagit avec le cycle à cinq carbones du cholestérol pour former les stérides.	26. Lipides simples :	UE1T120226	FAUX	D. Faux : l'AG réagit avec le groupement hydroxyle du premier cycle. Tous les cycles du cholestérol possèdent six carbones sauf le dernier qui en possède cinq.						
+E. Le cholestérol est précurseur des hormones stéroïdes.	26. Lipides simples :	UE1T120226	VRAI							
+A. La phosphatidyl-choline est majoritairement présente dans la membrane externe.	27. Localisation des lipides :	UE1T120227	VRAI							
+B. Les glycolipides sont majoritairement présents dans la membrane interne.	27. Localisation des lipides :	UE1T120227	FAUX	B. Faux : Surtout dans la membrane externe.						
+C. La sphingomyéline est majoritairement présente dans la membrane externe.	27. Localisation des lipides :	UE1T120227	VRAI							
+D. La phosphatidyl-éthanolamine est majoritairement présente dans la membrane interne.	27. Localisation des lipides :	UE1T120227	VRAI							
+E. Le cholestérol est majoritairement présent dans la membrane externe.	27. Localisation des lipides :	UE1T120227	FAUX	E. Faux : Sur les deux faces. mnémotechnique : les lipides du feuillet interne de la membrane forment le mot PEPSI : PhosphatidylEthanolamine, phosphatiylSérine et phosphatidylInositol.						
+A. Les glucides sont des molécules organiques.	33. Concernant les caractéristiques des Glucides:	UE1T110233	VRAI							
+B. Les glucides comportent une fonction aldéhyde ou carboxyle.	33. Concernant les caractéristiques des Glucides:	UE1T110233	FAUX	B. Faux : aldéhyde ou cétone						
+C. Les glucides sont aussi appelés « hydrates de carbone ».	33. Concernant les caractéristiques des Glucides:	UE1T110233	VRAI							
+D. Les glucides sont hydrophiles.	33. Concernant les caractéristiques des Glucides:	UE1T110233	VRAI							
+E. Les glucides sont engagés dans une liaison osidique de façon systématique.	33. Concernant les caractéristiques des Glucides:	UE1T110233	FAUX	E. Faux : ils existent sous forme de monosaccharides						
+A. Les glucides sont séparés en oses et osides.	34. Concernant la classification des Glucides:	UE1T110234	VRAI							
+B. Les glucides sont séparés en monosaccharides et polysaccharides.	34. Concernant la classification des Glucides:	UE1T110234	VRAI							
+C. Les aldoses sont des oses réducteurs.	34. Concernant la classification des Glucides:	UE1T110234	VRAI							
+D. Les cétoses ont un pouvoir réducteur inférieur aux aldoses.	34. Concernant la classification des Glucides:	UE1T110234	VRAI							
+E. Les polysaccharides ne sont jamais réducteurs.	34. Concernant la classification des Glucides:	UE1T110234	FAUX	E. Faux : les polysaccharides sont réducteurs s'ils possèdent une fonction hémiacétal libre, ex: lactose						
+A. L'hydrolyse complète d'un hétéropolyoside libère des hétérosides.	35. Concernant la classification des Glucides:	UE1T110235	FAUX	A. Faux : son hydrolyse libère des monosaccharides de types différents.						
+B. L'hydrolyse complète d'un homopolyoside libère des holosides.	35. Concernant la classification des Glucides:	UE1T110235	FAUX	B. Faux : son hydrolyse libère des monosaccharides identiques						
+C. Les homopolyosides et hétéropolyosides sont une sous-classe d'holosides.	35. Concernant la classification des Glucides:	UE1T110235	VRAI							
+D. Les homopolyosides et hétéropolyosides sont une sous-classe d'hétérosides.	35. Concernant la classification des Glucides:	UE1T110235	FAUX	D. Faux : sous-classe d'holoside						
+A. Le glycéraldéhyde comporte 6 carbones.	36. Concernant les Monosaccharides:	UE1T110236	FAUX	A. Faux : 3 carbones						
+B. Le fructose comporte 5 carbones.	36. Concernant les Monosaccharides:	UE1T110236	FAUX	B. Faux : 6 carbones						
+C. Le fructose est un aldohexose. 	36. Concernant les Monosaccharides:	UE1T1102	FAUX	C. Faux : cétohexose						
+D. Le glucose est un aldohexose.&nbsp;	36. Concernant les Monosaccharides:	UE1T110236	VRAI							
+E. Le fructose est un cétohexose.	36. Concernant les Monosaccharides:	UE1T110236	VRAI							
+A. Les cétoses possèdent une seule fonction alcool primaire.	37. Concernant les Monosaccharides:	UE1T110237	FAUX	A. Faux : la position en C2 de la fonction cétone laisse un alcool primaire en C1 et C6 soit 2 alcools primaires						
+B. Les aldoses possèdent une seule fonction alcool primaire.	37. Concernant les Monosaccharides:	UE1T110237	VRAI							
+C. Le carbone 1 d'un monosaccharide porte toujours la fonction carbonyle.	37. Concernant les Monosaccharides:	UE1T110237	FAUX	C. Faux : la fonction carbonyle d'un cétose est portée en C2						
+D. Les carbones d'un sucre sont toujours numérotés en commençant par la fonction carbonyle.	37. Concernant les Monosaccharides:	UE1T110237	FAUX	D. Faux : les carbones d'un cétose sont numérotés à partir du carbone portant un alcool primaire le plus près de la fonction cétone, pour les aldéhydes la proposition est vraie						
+E. Les fonctions alcool primaires ne se retrouvent qu'en C6.	37. Concernant les Monosaccharides:	UE1T110237	FAUX	E. Faux : cas des cétones où il y en a un en C1						
+A. Un carbone asymétrique définit 2 formes isomériques distinctes ou plus.	38. Concernant la configuration des Glucides:	UE1T110238	FAUX	A. Faux : 2 isomères ni plus, ni moins						
+B. Les 2 stéréoisomères d'un carbone asymétrique sont en symétrie par rapport à un axe.	38. Concernant la configuration des Glucides:	UE1T110238	FAUX	B. Faux : par rapport à un plan						
+C. Les 2 stéréoisomères d'un carbone asymétrique sont en symétrie par rapport à un plan.	38. Concernant la configuration des Glucides:	UE1T110238	VRAI							
+D. Les 2 stéréoisomères d'un carbone asymétrique sont en symétrie par rapport à un point.	38. Concernant la configuration des Glucides:	UE1T110238	FAUX	D. Faux : par rapport à un plan						
+E. La structure D ou L des stéréoisomères sont déterminées par la position du carbonyle.	38. Concernant la configuration des Glucides:	UE1T110238	FAUX	E. Faux : par la position du carbone voisin du carbone qui porte l'OH primaire du glyceraldéhyde, pour les autres sucres on se réfère au carbone Cmax-1						
+A. Les composés D dévient la lumière.	39. Concernant les stéréoisomères:	UE1T110239	VRAI							
+B. Les composés L dévient la lumière.	39. Concernant les stéréoisomères:	UE1T110239	VRAI							
+C. Les composés D dévient la lumière à droite.	39. Concernant les stéréoisomères:	UE1T110239	FAUX	C. Faux : aucun lien, peut être droite ou gauche						
+D. Les composés L dévient la lumière à droite.	39. Concernant les stéréoisomères:	UE1T110239	FAUX	D. Faux : aucun lien, peut être droite ou gauche						
+E. Tous les hexoses naturels sont de la série D.	39. Concernant les stéréoisomères:	UE1T110239	FAUX	E. Faux : LA PLUPART, pas la totalité						
+A. Le glucose possède 8 isomères.	40. Concernant les stéréoisomères:	UE1T110240	VRAI							
+B. Le glucose possède 8 stéréoisomères.	40. Concernant les stéréoisomères:	UE1T110240	FAUX	B. Faux : 8 isomères, 2 stéréoisomères par isomère soit 16 stéréoisomères						
+C. Le glucose possède 16 isomères.	40. Concernant les stéréoisomères:	UE1T110240	FAUX	C. Faux : 8 donc 16 stéréoisomères						
+D. Le glucose possède 16 stéréoisomères.	40. Concernant les stéréoisomères:	UE1T110240	VRAI							
+E. Les aldohexoses les plus représentés dans le monde vivant sont: D-glucose, D-mannose et D-galactose.	40. Concernant les stéréoisomères:	UE1T110240	VRAI							
+A. Des épimères ont une formule brute différente.	41. Concernant les isomères des oses:	UE1T110241	FAUX	A. Faux : seule la conformation spatiale diffère						
+B. Des épimères ont une conformation spatiale différente.	41. Concernant les isomères des oses:	UE1T110241	VRAI							
+C. Le ribose est un aldose.	41. Concernant les isomères des oses:	UE1T110241	VRAI							
+D. Le ribulose est un aldose.	41. Concernant les isomères des oses:	UE1T110241	FAUX	D. Faux : cétose, isomère du ribose qui, lui, est un aldose						
+E. La dihydroxyacétone porte sa fonction carbonyle sur son C1.	41. Concernant les isomères des oses:	UE1T110241	FAUX	E. Faux : c'est un cétose donc fonction cétone en C2						
+A. La cyclisation est dépendante de la présence d'une fonction hémiacétal ou cétal hydroxyl.	42. Concernant la cyclisation des oses:	UE1T110242	VRAI							
+B. La cyclisation est majoritaire chez les glucides de 4C ou plus.	42. Concernant la cyclisation des oses:	UE1T110242	FAUX	B. Faux : 5C ou plus						
+C. La cyclisation sert à rendre les hémiacétals plus stables.	42. Concernant la cyclisation des oses:	UE1T110242	VRAI							
+D. La cyclisation est systématiquement réversible chez les monosaccharides.	42. Concernant la cyclisation des oses:	UE1T110242	VRAI							
+E. La forme cyclique la plus stable du glucose est la forme pyranose.	42. Concernant la cyclisation des oses:	UE1T110242	VRAI							
+A. L'anomère alpha ou bêta résultant de la cyclisation d'un ose dépend de sa configuration D ou L.	43. Concernant la cyclisation des oses:	UE1T110243	FAUX	A. Faux : aucun lien, un D peut donner un alpha ou bêta et un L aussi						
+B. La forme alpha ou bêta est importante pour la formation des liaisons entre monosaccharides.	43. Concernant la cyclisation des oses:	UE1T110243	VRAI							
+C. La cyclisation en forme furane intéresse les aldose à 5C et les cétoses à 6C.	43. Concernant la cyclisation des oses:	UE1T110243	VRAI							
+D. Le fructose cyclise en forme pyrane.	43. Concernant la cyclisation des oses:	UE1T110243	FAUX	D. Faux : cétose à 6C donc furane						
+E. Le fructose cyclise en forme furane.	43. Concernant la cyclisation des oses:	UE1T110243	VRAI							
+A. Les glucides peuvent être substitués par l'acide phosphorique.	44. Concernant les modifications des oses:	UE1T110244	VRAI							
+B. Les glucides peuvent être substitués.	44. Concernant les modifications des oses:	UE1T110244	VRAI							
+C. Les glucides peuvent être réduits.	44. Concernant les modifications des oses:	UE1T110244	VRAI							
+D. Les glucides peuvent être oxydés.	44. Concernant les modifications des oses:	UE1T110244	VRAI							
+E. Les glucides peuvent former des bases de Schiff avec certaines protéines.	44. Concernant les modifications des oses:	UE1T110244	VRAI							
+A. La phosphorylation est une réaction spontanée.	45. Concernant les modifications des oses:	UE1T110245	FAUX	A. Faux : requiert une enzyme						
+B. La phosphorylation a une importance majeure dans le métabolisme des glucides.	45. Concernant les modifications des oses:	UE1T110245	VRAI							
+C. La phosphorylation peut intéresser plusieurs fonctions alcool sur le même glucide.	45. Concernant les modifications des oses:	UE1T110245	VRAI							
+D. La phosphorylation ne se produit que sur des fonctions alcool primaires.	45. Concernant les modifications des oses:	UE1T110245	FAUX	D. Faux : possible sur des alcools secondaires, ex: fructose 2,6 bis phosphate						
+E. La phosphorylation peut se produire sur des alcools secondaires.	45. Concernant les modifications des oses:	UE1T110245	VRAI							
+A. L'adjonction d'une amine sur un ose peut amener à la formation d'acides sialiques.	46. Concernant les modifications des oses:	UE1T110246	VRAI							
+B. La réduction du carbonyle en alcool donne des polyalcools parmi lesquels figurent des edulcorants.	46. Concernant les modifications des oses:	UE1T110246	VRAI							
+C. La réduction en polyols de trioses donne du glycérol.	46. Concernant les modifications des oses:	UE1T110246	VRAI							
+D. Certains polyols participent à l'élaboration de lipides.	46. Concernant les modifications des oses:	UE1T110246	VRAI							
+E. Les oses ont un fort pouvoir réducteur.	46. Concernant les modifications des oses:	UE1T110246	FAUX	E. Faux : leur pouvoir réducteur est faible						
+A. Un ose oxydé en conditions douces donne un acide aldonique.	47. Concernant l'oxydation des oses:	UE1T110247	VRAI							
+B. Un ose oxydé en conditions douces donne un acide uronique.	47. Concernant l'oxydation des oses:	UE1T110247	FAUX	B. Faux : donne un acide aldonique						
+C. Un aldéhyde protégé pendant l'oxydation de l'ose donne un acide uronique.	47. Concernant l'oxydation des oses:	UE1T110247	VRAI							
+D. Un aldéhyde protégé pendant l'oxydation de l'ose donne un acide aldonique.	47. Concernant l'oxydation des oses:	UE1T110247	FAUX	D. Faux : donne un acide uronique						
+E. Une cétone protégée pendant l'oxydation de l'ose donne un acide uronique.	47. Concernant l'oxydation des oses:	UE1T110247	FAUX	E. Faux : une cétone est déjà oxydée						
+A. Une oxydation en C1 donne un acide aldonique.	48. Concernant l'oxydation des oses:	UE1T110248	VRAI							
+B. Une oxydation en C6 donne un acide aldonique.	48. Concernant l'oxydation des oses:	UE1T110248	FAUX	B. Faux : donne un acide uronique						
+C. L'héparine est constituée d'osamines.	48. Concernant l'oxydation des oses:	UE1T110248	VRAI							
+D. L'héparine est constituée d'acides aldoniques.	48. Concernant l'oxydation des oses:	UE1T110248	FAUX	D. Faux : l'héparine est constituée d'osamines et d'acides uroniques						
+E. L'héparine est constituée d'acides uroniques.	48. Concernant l'oxydation des oses:	UE1T110248	VRAI							

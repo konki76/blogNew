@@ -1,0 +1,13 @@
+
+'web/uploads/import/'.$name.'.txt';
+web/uploads/import/Qcm/
+web/uploads/import/pGrp/
+
+
+php app/console import:csv UE
+OK
+php app/console import:csv Grp
+OK
+php app/console import:csv ueGrp 
+OK
+

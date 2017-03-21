@@ -11,26 +11,37 @@
 {% block header_navigation_links %}
     <li>
         <a href="{{ path('admin_post_index') }}">
-            <i class="fa fa-list-alt"></i> Post List
+            <i class="fa fa-list-alt"></i> Liste des articles 
         </a>
     </li>
     <li>
         <a href="{{ path('blog_index') }}">
-            <i class="fa fa-home"></i> Back to blog
+            <i class="fa fa-home"></i> Retour au blog
         </a>
     </li>
+
 {% endblock %}
 
 {% block sidebar %}
     <div class="section actions">
         <a href="{{ path('admin_ue_index') }}" class="btn btn-lg btn-block btn-success">
-            <i class="fa fa-plus"></i> List des UE
+            <i class="fa fa-plus"></i> Liste des UE
         </a>
     </div>
     <div class="section actions">
         <a href="{{ path('admin_grp_index') }}" class="btn btn-lg btn-block btn-success">
-            <i class="fa fa-plus"></i> List des grps
+            <i class="fa fa-plus"></i> Liste des groupes
         </a>
     </div>	
+   <div class="section actions">
+        <a href="{{ path('admin_skill_index') }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> Liste des comp&eacute;tences
+        </a>
+    </div>	
+   <div class="section actions">
+        <a href="{{ path('admin_qcm_index') }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> Liste des QCM
+        </a>
+    </div>		
     {{ parent() }}
 {% endblock %}

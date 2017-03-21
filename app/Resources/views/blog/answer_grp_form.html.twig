@@ -1,16 +1,15 @@
-{{ form_start(form, { method: 'POST', action: path('answer_grp_new', { 'grpSlug': grp, 'postSlug': post.slug, 'nextPostId' : nextPostId }) }) }}
+{{ form_start(form, { method: 'POST', action: path('answer_grp_new', { 'grpSlug': grp, 'qcmSlug': qcm.slug, 'nextQcmId' : nextQcmId }) }) }}
     {#  instead of displaying form fields one by one, you can also display them
         all with their default options and styles just by calling to this function:
         {-{ form_widget(form) }-}
     #}
-	
+
     <fieldset>
-
-
-        {{ form_widget(form.answer1)}}{{ post.labelAnswer1 }}<br>
-        {{ form_widget(form.answer2)}}{{ post.labelAnswer2 }}<br>
-        {{ form_widget(form.answer3)}}{{ post.labelAnswer3 }}<br>
-        {{ form_widget(form.answer4)}}{{ post.labelAnswer4 }}<br>
+        <br>{{ qcm.labelAnswer1|raw }}<br>{{ form_widget(form.answer1)}}
+        <br>{{ qcm.labelAnswer2|raw }}<br>{{ form_widget(form.answer2)}}
+        <br>{{ qcm.labelAnswer3|raw }}<br>{{ form_widget(form.answer3)}}
+        <br>{{ qcm.labelAnswer4|raw }}<br>{{ form_widget(form.answer4)}}
+		<input  type="hidden" name="str_pGrpTab" value="{{str_pGrpTab }}">
         <div class="form-group">
             {{ form_widget(form.submit, { attr: { class: 'btn-primary pull-right' }, label: 'Ok' }) }}
         </div>

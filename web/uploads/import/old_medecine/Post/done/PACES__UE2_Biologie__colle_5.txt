@@ -1,0 +1,392 @@
+labelAnswer|title|slug|answer|commentAnswer|summary|content|authorEmail|||
+E. Visible en MO|12. Concernant les plaquettes 3R|UE2S100512|VRAI|||||||segmo
+A. Muscle biceps f&eacute;moral|1. Quels sont les muscles squelettiques 3R|UE2S100501|VRAI|||||||segmo
+B. Muscle cardiaque|1. Quels sont les muscles squelettiques 3R|UE2S100501|FAUX|B. Faux : C'est un muscle stri&eacute; comme les muscles squelettiques ms il n'en est pas un||||||segmo
+C. Muscle dentel&eacute; ant&eacute;rieur|1. Quels sont les muscles squelettiques 3R|UE2S100501|VRAI|||||||segmo
+D. Muscle triceps sural|1. Quels sont les muscles squelettiques 3R|UE2S100501|VRAI|||||||segmo
+E. Musculeuse de l'estomac|1. Quels sont les muscles squelettiques 3R|UE2S100501|FAUX|E. Faux : C'est un muscle lisse (SN autonome parasympathique)||||||segmo
+A. Les P&eacute;ricytes|2. Quelles sont les cellules contractiles 3R|UE2S100502|VRAI|||||||segmo
+B. La cellule myo&eacute;pith&eacute;liale|2. Quelles sont les cellules contractiles 3R|UE2S100502|VRAI|||||||segmo
+C. La cellule musculaire|2. Quelles sont les cellules contractiles 3R|UE2S100502|VRAI|||||||segmo
+D. La cellule myosine|2. Quelles sont les cellules contractiles 3R|UE2S100502|FAUX|||||||segmo
+E. La cellule hyaline|2. Quelles sont les cellules contractiles 3R|UE2S100502|FAUX|||||||segmo
+A. Le muscle squelettique peut d&eacute;clencher sa propre contraction|3. Concernant les tissus musculaires 3R|UE2S100503|FAUX|A. Faux : Impossible||||||segmo
+B. Le muscle squelettique se contracte en r&eacute;ponse au signal venant d'un neurone somatomoteur|3. Concernant les tissus musculaires 3R|UE2S100503|VRAI|||||||segmo
+C. Les muscles squelettiques et cardiaques sont des muscles stri&eacute;s|3. Concernant les tissus musculaires 3R|UE2S100503|VRAI|||||||segmo
+D. Le muscle lisse est le principal constituant de la masse musculaire|3. Concernant les tissus musculaires 3R|UE2S100503|FAUX|D. Faux : C'est le muscle squelettique||||||segmo
+E. Le syst&egrave;me endocrine peut moduler l'action du coeur|3. Concernant les tissus musculaires 3R|UE2S100503|VRAI|||||||segmo
+A. Sont des faisceaux de filaments qui constituent les fibres musculaires|4. Concernant les myofibrilles 3R|UE2S100504|VRAI|||||||segmo
+B. Sont des successions de sarcom&egrave;res|4. Concernant les myofibrilles 3R|UE2S100504|VRAI|||||||segmo
+C. Sont retrouv&eacute;s dans tous les types de muscles de mammif&egrave;res|4. Concernant les myofibrilles 3R|UE2S100504|FAUX|C. Faux : Pas dans le muscle lisse||||||segmo
+D. Sont constitu&eacute;s de myofilaments d'actine et de myosine|4. Concernant les myofibrilles 3R|UE2S100504|VRAI|||||||segmo
+E. Chaque myofibrille compte au total 2 stries Z|4. Concernant les myofibrilles 3R|UE2S100504|FAUX|E. Faux : Chaque sarcom&egrave;res poss&egrave;dent 2 stries Z||||||segmo
+A. Est d&eacute;limit&eacute; par des stries Z|5. Concernant le sarcom&egrave;re 3R|UE2S100505|VRAI|||||||segmo
+B. La bande anisotrope contient de l'actine et de la myosine|5. Concernant le sarcom&egrave;re 3R|UE2S100505|VRAI|bande sombre = bande A = myosine + actine||||||segmo
+C. La bande isotrope contient de l'actine et de la myosine|5. Concernant le sarcom&egrave;re 3R|UE2S100505|FAUX|pas de myosine||||||segmo
+D. L'extr&eacute;mit&eacute; plus de l'actine est li&eacute;e &agrave; la strie Z|5. Concernant le sarcom&egrave;re 3R|UE2S100505|VRAI|||||||segmo
+E. L'extr&eacute;mit&eacute; Moins de l'actine est li&eacute;e &agrave; la strie Z|5. Concernant le sarcom&egrave;re 3R|UE2S100505|FAUX|||||||segmo
+A. Bande M|6. A quel niveau trouve-t-on les filaments d'actine si l'on fait une coupe transversale d'une fibre musculaire stri&eacute;e squelettique en configuration &eacute;tir&eacute;e 3R|UE2S100506|FAUX|||||||segmo
+B. Strie Z|6. A quel niveau trouve-t-on les filaments d'actine si l'on fait une coupe transversale d'une fibre musculaire stri&eacute;e squelettique en configuration &eacute;tir&eacute;e 3R|UE2S100506|VRAI|||||||segmo
+C. Bande I|6. A quel niveau trouve-t-on les filaments d'actine si l'on fait une coupe transversale d'une fibre musculaire stri&eacute;e squelettique en configuration &eacute;tir&eacute;e 3R|UE2S100506|VRAI|||||||segmo
+D. Bande H|6. A quel niveau trouve-t-on les filaments d'actine si l'on fait une coupe transversale d'une fibre musculaire stri&eacute;e squelettique en configuration &eacute;tir&eacute;e 3R|UE2S100506|FAUX|||||||segmo
+E. A la jonction des bandes A et I|6. A quel niveau trouve-t-on les filaments d'actine si l'on fait une coupe transversale d'une fibre musculaire stri&eacute;e squelettique en configuration &eacute;tir&eacute;e 3R|UE2S100506|VRAI|||||||segmo
+A. La force motrice est g&eacute;n&eacute;r&eacute;e pendant l'hydrolyse de l'ATP|8. Au cours de la formation des ponts actine myosine dans le muscle squelettique 2R|UE2S100508|FAUX|||||||segmo
+B. La force motrice est g&eacute;n&eacute;r&eacute;e apr&egrave;s le d&eacute;part des produits d'hydrolyses de l'ATP|8. Au cours de la formation des ponts actine myosine dans le muscle squelettique 2R|UE2S100508|VRAI|||||||segmo
+C. L'hydrolyse de l'ATP fournit l'&eacute;nergie n&eacute;cessaire &agrave; la diminution de la taille de l'actine|8. Au cours de la formation des ponts actine myosine dans le muscle squelettique 2R|UE2S100508|FAUX|||||||segmo
+D. L'actine est phosphoryl&eacute;e apr&egrave;s l'hydrolyse de l'ATP sur les t&ecirc;tes de myosine|8. Au cours de la formation des ponts actine myosine dans le muscle squelettique 2R|UE2S100508|FAUX|||||||segmo
+E. En fin de cycle les t&ecirc;tes de myosine sont fix&eacute;es &agrave; l'actine|8. Au cours de la formation des ponts actine myosine dans le muscle squelettique 2R|UE2S100508|VRAI|||||||segmo
+A. A lieu sur la sous-unit&eacute; inhibitrice ( 4 atomes de calcium se fixe sur la troponine I)|9. Pour la contraction du muscle squelettique, la fixation de calcium sur la troponine 2R|UE2S100509|FAUX|A. Faux : Fixation sur troponine C du calcium||||||segmo
+B. Permet un d&eacute;placement du syst&egrave;me tropomyosine troponine|9. Pour la contraction du muscle squelettique, la fixation de calcium sur la troponine 2R|UE2S100509|VRAI|||||||segmo
+C. Permet de pi&eacute;ger la caldesmone sous la forme troponine-calcium caldesmone|9. Pour la contraction du muscle squelettique, la fixation de calcium sur la troponine 2R|UE2S100509|FAUX|||||||segmo
+D. Permet de lever l'inhibition exerc&eacute;e par troponine I — troponine T — tropomyosine|9. Pour la contraction du muscle squelettique, la fixation de calcium sur la troponine 2R|UE2S100509|VRAI|||||||segmo
+E. Permet le changement de conformation du syst&egrave;me tropomyosine-troponine mais le d&eacute;part de calcium est n&eacute;cessaire au glissement des t&ecirc;tes de myosine|9. Pour la contraction du muscle squelettique, la fixation de calcium sur la troponine 2R|UE2S100509|FAUX|fixation de Ca||||||segmo
+A. H&eacute;maties|10. Quels sont les synonymes de globule rouge 2R|UE2S100510|VRAI|||||||segmo
+B. Plaquettes|10. Quels sont les synonymes de globule rouge 2R|UE2S100510|FAUX|||||||segmo
+C. Erythrocytes|10. Quels sont les synonymes de globule rouge 2R|UE2S100510|VRAI|||||||segmo
+D. Leucocytes|10. Quels sont les synonymes de globule rouge 2R|UE2S100510|FAUX|||||||segmo
+E. Monocyte|10. Quels sont les synonymes de globule rouge 2R|UE2S100510|FAUX|||||||segmo
+A. Monocytes|11. Quels sont les globules blancs 3R|UE2S100511|VRAI|||||||segmo
+B. M&eacute;gacaryoblastes|11. Quels sont les globules blancs 3R|UE2S100511|FAUX|||||||segmo
+C. Lymphocytes|11. Quels sont les globules blancs 3R|UE2S100511|VRAI|||||||segmo
+D. Granulocytes|11. Quels sont les globules blancs 3R|UE2S100511|VRAI|||||||segmo
+E. R&eacute;ticulocytes|11. Quels sont les globules blancs 3R|UE2S100511|FAUX|||||||segmo
+A. Combattent l'infection|12. Concernant les plaquettes 3R|UE2S100512|FAUX|A. Faux : C'est le r&ocirc;le des globules blancs||||||segmo
+B. Phagocytent|12. Concernant les plaquettes 3R|UE2S100512|FAUX|B. Faux : Ce sont les globules blancs||||||segmo
+C. Aident &agrave; la coagulation|12. Concernant les plaquettes 3R|UE2S100512|VRAI|||||||segmo
+D. D&eacute;rive d'une cellule souche h&eacute;matopo&iuml;&eacute;tique|12. Concernant les plaquettes 3R|UE2S100512|VRAI|||||||segmo
+A. Transportent que de l'02|13. Concernant les globules rouges 2R|UE2S100513|FAUX|||||||segmo
+B. Transportent du CO,|13. Concernant les globules rouges 2R|UE2S100513|VRAI|||||||segmo
+C. Produisent des anticorps|13. Concernant les globules rouges 2R|UE2S100513|FAUX|||||||segmo
+D. D&eacute;rive du m&eacute;gacaryocyte|13. Concernant les globules rouges 2R|UE2S100513|FAUX|||||||segmo
+E. Ne poss&egrave;de pas de noyau|13. Concernant les globules rouges 2R|UE2S100513|VRAI|||||||segmo
+A. Mature en macrophage quand il quitte le sang|14. Concernant les monocytes 2R|UE2S100514|VRAI|||||||segmo
+B. D&eacute;rive du polynucl&eacute;aire &eacute;osinophile|14. Concernant les monocytes 2R|UE2S100514|FAUX|||||||segmo
+C. D&eacute;rive du polynucl&eacute;aire basophile|14. Concernant les monocytes 2R|UE2S100514|FAUX|||||||segmo
+D. D&eacute;rive du polynucl&eacute;aire neutrophile|14. Concernant les monocytes 2R|UE2S100514|FAUX|||||||segmo
+E. Peuvent donner les cellules dendritiques|14. Concernant les monocytes 2R|UE2S100514|VRAI|||||||segmo
+A. Font partie de la lign&eacute;e my&eacute;lo&iuml;de|15. Concernant les lymphocytes 2R|UE2S100515|VRAI|||||||segmo
+B. Se colore avec les colorants|15. Concernant les lymphocytes 2R|UE2S100515|FAUX|B. Faux : Ne se colore pas avec des colorants||||||segmo
+C. S'appelle cellules de langerhans dans l'&eacute;piderme|15. Concernant les lymphocytes 2R|UE2S100515|FAUX|C. Faux : Ce sont les cellules dendritiques qui portent ce nom||||||segmo
+D. Les lymphocytes B fabriquent des anticorps|15. Concernant les lymphocytes 2R|UE2S100515|VRAI|||||||segmo
+E. Ont un noyau|15. Concernant les lymphocytes 2R|UE2S100515|VRAI|||||||segmo
+A.Le tissu osseux est le centre de stockage du sodium (99% des r&eacute;serves du corps humain)|16. Concernant le tissu osseux 3R|UE2S100516|FAUX|||||||segmo
+B.Le tissu osseux est le centre de stockage du calcium|16. Concernant le tissu osseux 3R|UE2S100516|VRAI|||||||segmo
+C.Le tissu osseux est le centre de stockage du phosphore|16. Concernant le tissu osseux 3R|UE2S100516|VRAI|||||||segmo
+D.Le tissu osseux joue un r&ocirc;le dans le m&eacute;tabolisme de certains min&eacute;raux|16. Concernant le tissu osseux 3R|UE2S100516|VRAI|||||||segmo
+E.Le tissu osseux n'est pas sous contr&ocirc;le du syst&egrave;me endocrinien, du fait de sa non-vascularisation|16. Concernant le tissu osseux 3R|UE2S100516|FAUX|||||||segmo
+A. Il joue un r&ocirc;le dans la protection des organes et dans l'&eacute;quilibre phosphocalcique|17. Concernant le tissu osseux 2R|UE2S100517|VRAI|||||||segmo
+B. La matrice extra cellulaire contient essentiellement du collag&egrave;ne de type II|17. Concernant le tissu osseux 2R|UE2S100517|FAUX|B. collag&egrave;ne de type I||||||segmo
+C. On distingue trois types de cellules : ost&eacute;ocytes, ost&eacute;oblastes et ost&eacute;oclastes|17. Concernant le tissu osseux 2R|UE2S100517|FAUX|C. Il ya aussi les cellules bordantes||||||segmo
+D. les cellules osseuses d&eacute;rivent toutes de la cellule souche m&eacute;senchymateuse|17. Concernant le tissu osseux 2R|UE2S100517|FAUX|D. l'ost&eacute;oclaste d&eacute;rive d'une cellule h&eacute;matique; le monocyte||||||segmo
+E. La moelle osseuse est le lieu de l'h&eacute;matopoi&egrave;se|17. Concernant le tissu osseux 2R|UE2S100517|VRAI|||||||segmo
+A. Elle poss&egrave;de des prolongements cytoplasmiques, permettant la communication intercellulaire|18. Concernant l'ost&eacute;ocyte 3R|UE2S100518|VRAI|||||||segmo
+B. Elle se trouve enferm&eacute;e dans la matrice min&eacute;ralis&eacute;e au sein des ost&eacute;oplastes|18. Concernant l'ost&eacute;ocyte 3R|UE2S100518|VRAI|||||||segmo
+C. Elle est sensible au stress m&eacute;canique et aux mouvements des fluides|18. Concernant l'ost&eacute;ocyte 3R|UE2S100518|VRAI|||||||segmo
+D. Elle d&eacute;rive d'une cellule sanguine : le monocyte|18. Concernant l'ost&eacute;ocyte 3R|UE2S100518|FAUX|D. cellule m&eacute;senchymateuse||||||segmo
+E. L'ost&eacute;oblaste d&eacute;rive de l'ost&eacute;ocyte|18. Concernant l'ost&eacute;ocyte 3R|UE2S100518|FAUX|E. c'est l'inverse||||||segmo
+A. Elle est le pr&eacute;curseur de l'ost&eacute;oclaste et de l'ost&eacute;ocyte|19. Concernant l'ost&eacute;oblaste 3R|UE2S100519|FAUX|A. pr&eacute;curseur de l'ost&eacute;ocyte||||||segmo
+B. Elle permet la cr&eacute;ation de matrice osseuse|19. Concernant l'ost&eacute;oblaste 3R|UE2S100519|VRAI|||||||segmo
+C. Elle est ronde et mononucl&eacute;&eacute;e|19. Concernant l'ost&eacute;oblaste 3R|UE2S100519|VRAI|||||||segmo
+D. Les cellules bordantes sont des ost&eacute;oblastes diff&eacute;renci&eacute;s et inactif|19. Concernant l'ost&eacute;oblaste 3R|UE2S100519|VRAI|||||||segmo
+E. Par la suite, les ost&eacute;oblastes deviennent des ost&eacute;oclastes, ou restent &agrave; l'&eacute;tat actif|19. Concernant l'ost&eacute;oblaste 3R|UE2S100519|FAUX|||||||segmo
+A. Elle d&eacute;rive de la lign&eacute;e monocytaire|20. Concernant l'ost&eacute;oclaste 3R|UE2S100520|VRAI|||||||segmo
+B. L'ost&eacute;oclaste mature est multinucl&eacute;e et poss&egrave;de un tr&egrave;s grand nombre de lysosomes.|20. Concernant l'ost&eacute;oclaste 3R|UE2S100520|VRAI|||||||segmo
+C. Elle poss&egrave;de une fonction de destruction de la matrice osseuse (entra&icirc;nant la formation des lacunes de Howship)|20. Concernant l'ost&eacute;oclaste 3R|UE2S100520|VRAI|||||||segmo
+D. La dur&eacute;e de vie moyenne d'un ost&eacute;oclaste est de deux mois|20. Concernant l'ost&eacute;oclaste 3R|UE2S100520|FAUX|D. 2 semaines||||||segmo
+E. Role important de la pompe a proton cr&eacute;ant un milieu basique permettant de dissoudre la partie min&eacute;ralis&eacute;e|20. Concernant l'ost&eacute;oclaste 3R|UE2S100520|FAUX|E. milieu acide||||||segmo
+A. Il s'agit d'une unit&eacute; &eacute;l&eacute;mentaire, en forme de cylindres anastomos&eacute;s et branch&eacute;s|21. Concernant le syst&egrave;me de Havers (ost&eacute;on) 3R|UE2S100521|VRAI|||||||segmo
+B. Ils sont limit&eacute;s, en p&eacute;riph&eacute;rie, par la ligne c&eacute;mentante de Von Ebner|21. Concernant le syst&egrave;me de Havers (ost&eacute;on) 3R|UE2S100521|VRAI|||||||segmo
+C. Ils sont centr&eacute;s par le canal neurovasculaire de Havers|21. Concernant le syst&egrave;me de Havers (ost&eacute;on) 3R|UE2S100521|VRAI|||||||segmo
+D. Entre les lamelles osseuses, on trouve des ost&eacute;oblastes, ils favorisent les &eacute;changes grâce &agrave; leurs prolongements|21. Concernant le syst&egrave;me de Havers (ost&eacute;on) 3R|UE2S100521|FAUX|D. ost&eacute;ocytes||||||segmo
+E. On trouve des canaux parall&egrave;les aux canaux de Havers, les canaux de Volkmans permettant les connexions neurovasculaires entre le p&eacute;rioste, les canaux de Havers, et la cavit&eacute; m&eacute;dulaire|21. Concernant le syst&egrave;me de Havers (ost&eacute;on) 3R|UE2S100521|FAUX|E. ils sont perpendiculaires||||||segmo
+A. Les fibres de collag&egrave;nes entre 2 ost&eacute;ons ont la m&ecirc;me orientation dans l'espace|22. Concernant le syst&egrave;me de Havers 3R|UE2S100522|FAUX|A. orientation oppos&eacute;e||||||segmo
+B. Ils sont constitu&eacute;s de 6 &agrave; 20 cylindres creux.|22. Concernant le syst&egrave;me de Havers 3R|UE2S100522|VRAI|||||||segmo
+C. Les lamelles les plus anciennes sont situ&eacute;es en p&eacute;riph&eacute;rie des ost&eacute;ons|22. Concernant le syst&egrave;me de Havers 3R|UE2S100522|VRAI|||||||segmo
+D. Les lamelles les plus anciennes sont situ&eacute;es pr&egrave;s des canaux de Havers des ost&eacute;ons|22. Concernant le syst&egrave;me de Havers 3R|UE2S100522|FAUX|en p&eacute;riph&eacute;rie||||||segmo
+E. On ne retrouve pas d'ost&eacute;ons dans l'os spongieux|22. Concernant le syst&egrave;me de Havers 3R|UE2S100522|VRAI|||||||segmo
+A. Ils sont avasculaires|23. Concernant les organes osseux 3R|UE2S100523|FAUX|A. VASCULARISATION de l'os!!!||||||segmo
+B. On trouve de l'os spongieux au niveau de la diaphyse de l'os|23. Concernant les organes osseux 3R|UE2S100523|VRAI|||||||segmo
+C. 20% du squelette de l'homme est de l'os spongieux|23. Concernant les organes osseux 3R|UE2S100523|VRAI|||||||segmo
+D. On trouve, au sein de l'os compact, une cavit&eacute; m&eacute;dullaire bord&eacute;e par l'endoste|23. Concernant les organes osseux 3R|UE2S100523|VRAI|||||||segmo
+E. Les ost&eacute;ons des os spongieux contiennent une grande quantit&eacute; d'ost&eacute;ocytes vieillis, signe de l'activit&eacute; m&eacute;tabolique important de cet organe|23. Concernant les organes osseux 3R|UE2S100523|FAUX|E. Il n'y a pas d'ost&eacute;on, organisation en trav&eacute;es irr&eacute;guli&egrave;res||||||segmo
+A. Il est &eacute;labor&eacute; par l'ost&eacute;oblaste|24. Concernant le tissu ost&eacute;oides 2R|UE2S100524|VRAI|||||||segmo
+B. Structure du collag&egrave;ne contenu dans le tissu ost&eacute;oide: 2 chaines alpha 1 et 1 chaine alpha2|24. Concernant le tissu ost&eacute;oides 2R|UE2S100524|VRAI|||||||segmo
+C. Le collag&egrave;ne est la seul prot&eacute;ine du tissu ost&eacute;oide|24. Concernant le tissu ost&eacute;oides 2R|UE2S100524|FAUX|||||||segmo
+D. Le tissu ost&eacute;oide est calcifi&eacute;|24. Concernant le tissu ost&eacute;oides 2R|UE2S100524|FAUX|||||||segmo
+C. La glycosylation et l'hydroxylation des r&eacute;sidus prolines et lysines est responsable d'ost&eacute;oporose|24. Concernant le tissu ost&eacute;oides 2R|UE2S100524|FAUX|||||||segmo
+A.Le cartilage hyalin adulte n'est pas vascularis&eacute;.|25. Concernant le tissu cartilagineux 2R|UE2S100525|VRAI|||||||segmo
+B.Le cartilage hyalin est innerv&eacute;.|25. Concernant le tissu cartilagineux 2R|UE2S100525|FAUX|||||||segmo
+C.Le cartilage fibreux est innerv&eacute;.|25. Concernant le tissu cartilagineux 2R|UE2S100525|FAUX|||||||segmo
+D.Le cartilage &eacute;lastique est vascularis&eacute;.|25. Concernant le tissu cartilagineux 2R|UE2S100525|FAUX|||||||segmo
+C.Le cartilage hyalin est le plus r&eacute;pandu dans l'organisme.|25. Concernant le tissu cartilagineux 2R|UE2S100525|VRAI|||||||segmo
+A. Recouvre la surface interne de l'os|26. Concernant le p&eacute;rioste 3R|UE2S100526|FAUX|A. externe||||||segmo
+B. Il est constitu&eacute; d'une couche externe fibreuse|26. Concernant le p&eacute;rioste 3R|UE2S100526|VRAI|||||||segmo
+C. Il est constitu&eacute; d'une couche interne cellulaire|26. Concernant le p&eacute;rioste 3R|UE2S100526|VRAI|||||||segmo
+D. Le p&eacute;rioste est reli&eacute; a l'os sous jacent par les fibres de sharpey|26. Concernant le p&eacute;rioste 3R|UE2S100526|VRAI|||||||segmo
+E. Le p&eacute;rioste peut tapisser les trav&eacute;es de l'os spongieux|26. Concernant le p&eacute;rioste 3R|UE2S100526|FAUX|E. c'est l'endoste||||||segmo
+A. Le dosage de l'ost&eacute;opontine est un bon marqueur pour le diagnostic d'une tumeur osseuse|27. Concernant les prot&eacute;ines non collag&eacute;nique 2R|UE2S100527|VRAI|||||||segmo
+B. L'ost&eacute;onectine favorise le d&eacute;velopement des cristaux d'hydroxyapaptite|27. Concernant les prot&eacute;ines non collag&eacute;nique 2R|UE2S100527|FAUX|B. Inhibe la synth&egrave;se des cristaux||||||segmo
+C. L'ost&eacute;ocalcine entraine la d&eacute;gradation des ost&eacute;oclastes|27. Concernant les prot&eacute;ines non collag&eacute;nique 2R|UE2S100527|FAUX|C. Il favorise la synth&egrave;se des ost&eacute;oclastes &agrave; partir des monocytes||||||segmo
+D. L'ost&eacute;ocalcine favorise la formation osseuse|27. Concernant les prot&eacute;ines non collag&eacute;nique 2R|UE2S100527|FAUX|li&eacute; a l'hydroxyapatite||||||segmo
+E. La concentration sanguine d'ost&eacute;ocalcines est utilis&eacute; comme indice de la formation osseuse|27. Concernant les prot&eacute;ines non collag&eacute;nique 2R|UE2S100527|VRAI|||||||segmo
+A. On a deux m&eacute;canisme d'ossification observable chez l'homme: l'ossification intramembraneuse et l'ossification p&eacute;richondrale|28. Concernant l'ost&eacute;ogen&egrave;se 2R|UE2S100528|FAUX|mod&egrave;le cartilagineux pr&eacute;existant et ossification de membrane||||||segmo
+B. Dans l'ossification intramenbraneuse il va y avoir une migration d'ost&eacute;oblastes au niveau d'un tissu conjonctif fibreux cr&eacute;ant un point d'ossification|28. Concernant l'ost&eacute;ogen&egrave;se 2R|UE2S100528|FAUX|B. il s'agit d'une diff&eacute;renciation des cellules m&eacute;senchymateuses d&eacute;ja pr&eacute;sente en ost&eacute;oblaste||||||segmo
+C. L'ossification membraneuse est responsable de la formation de la plupart des os plats|28. Concernant l'ost&eacute;ogen&egrave;se 2R|UE2S100528|VRAI|||||||segmo
+D. L'ossification endochondrale d&eacute;bute a partir de cartillage hyalin|28. Concernant l'ost&eacute;ogen&egrave;se 2R|UE2S100528|VRAI|||||||segmo
+E. L'ossification enchondrale correspond a la diff&eacute;renciation de chondroblastes en ost&eacute;oblastes|28. Concernant l'ost&eacute;ogen&egrave;se 2R|UE2S100528|FAUX|||||||segmo
+A. Ovog&eacute;n&egrave;se et folliculog&eacute;n&egrave;se sont deux processus ind&eacute;pendant|29. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 2R|UE2S100529|FAUX|||||||segmo
+B. L'ovaire est une glande mixte endocrine et exocrine|29. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 2R|UE2S100529|FAUX|||||||segmo
+C. L'ovaire diminue de taille apr&egrave;s la m&eacute;nopause|29. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 2R|UE2S100529|VRAI|||||||segmo
+D. Le nombre de follicules reste constant tout au long de la vie|29. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 2R|UE2S100529|FAUX|||||||segmo
+E. Les follicules ovariens sont entour&eacute;s par le stroma ovarien (tissu conjonctif de l'ovaire)|29. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 2R|UE2S100529|VRAI|||||||segmo
+A. Pendant le premier arr&ecirc;t de l'ovog&eacute;n&eacute;se au stade diplot&egrave;ne, l'activit&eacute; transcriptionnelle est maximale|30. Concernant l'ovogen&egrave;se 4R|UE2S100530|VRAI|||||||segmo
+B. on parle d'ovocyte II une fois l'ovocyte ovul&eacute;|30. Concernant l'ovogen&egrave;se 4R|UE2S100530|VRAI|||||||segmo
+C. Le premier globule polaire est &eacute;ject&eacute; dans l'espace peri-vitellin|30. Concernant l'ovogen&egrave;se 4R|UE2S100530|VRAI|||||||segmo
+D. L'ach&egrave;vement de la 2&egrave;me division meiotique ne se fait que si il y a f&eacute;condation|30. Concernant l'ovogen&egrave;se 4R|UE2S100530|VRAI|||||||segmo
+E. La plupart des ovocytes vont achever leur division meiotique|30. Concernant l'ovogen&egrave;se 4R|UE2S100530|FAUX|que si ovul&eacute;||||||segmo
+A. Le nombre de follicules reste constant jusqu'&agrave; la m&eacute;nopause|31. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100531|FAUX|||||||segmo
+B. les follicules primordiaux sont les plus abondants|31. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100531|VRAI|||||||segmo
+C. C'est au stade de follicule primaire que se met en place la zone pellucide ovocytaire|31. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100531|VRAI|||||||segmo
+D. La multiplication des cellules folliculaires entourant l'ovocyte permet la formation de la granulosa|31. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100531|VRAI|||||||segmo
+E. La granulosa est s&eacute;par&eacute;e de l'ovocyte I par la membrane de Slavjanski|31. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100531|FAUX|||||||segmo
+A. Les cellules de la granulosa sont sensibles &agrave; la LH|32. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 4R|UE2S100532|VRAI|||||||segmo
+B. Les cellules de la th&egrave;que interne sont sensibles &agrave; la LH|32. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 4R|UE2S100532|VRAI|||||||segmo
+C. La granulosa n'est pas vascularis&eacute;e|32. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 4R|UE2S100532|VRAI|||||||segmo
+D. L'activit&eacute; aromatase permet la transformation de la testost&eacute;rone en oestradiol|32. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 4R|UE2S100532|VRAI|||||||segmo
+E. Le follicule de degraaf est la cellule folliculeuse qui est pr&ecirc;te a lib&eacute;rer l'ovocyte I|32. Concernant l'ovogen&egrave;se et la folliculog&eacute;n&egrave;se 4R|UE2S100532|FAUX|reprise de la m&eacute;iose avant l'ovulation||||||segmo
+A. L'involution concerne 99,9% des follicules|33. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100533|VRAI|||||||segmo
+B. L'atr&eacute;sie folliculaire s'effectue par un ph&eacute;nom&egrave;ne de n&eacute;crose|33. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100533|FAUX|||||||segmo
+C. L'atr&eacute;sie d&eacute;bute au niveau de l'ovocyte|33. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100533|FAUX|||||||segmo
+D. On parle de follicules th&eacute;cog&egrave;nes pour l'atr&eacute;sie des grands follicules cavitaires|33. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100533|VRAI|||||||segmo
+E. On parle de follicules h&eacute;morragiques pour l'atr&eacute;sie des petits follicules cavitaires|33. Concernant la folliculog&eacute;n&egrave;se 3R|UE2S100533|VRAI|||||||segmo
+A. L'ovulation a lieu normalement le 13&egrave;me jour|34. Concernant l'ovulation 3R|UE2S100534|FAUX|J14||||||segmo
+B. Le stigma correspond a une zone de fragilit&eacute; de l'ovaire car non vascularis&eacute;|34. Concernant l'ovulation 3R|UE2S100534|VRAI|||||||segmo
+C. La rupture du follicule est du uniquement &agrave; un m&eacute;canisme vasculaire (isch&eacute;mie)|34. Concernant l'ovulation 3R|UE2S100534|FAUX|||||||segmo
+D. Des cellules folliculeuses du cumulus oophorus sont lib&eacute;r&eacute;s avec l'ovocyte|34. Concernant l'ovulation 3R|UE2S100534|VRAI|||||||segmo
+E. L'&eacute;mission du premier globule se fait au cours de l'ovulation|34. Concernant l'ovulation 3R|UE2S100534|VRAI|||||||segmo
+A. Le corps jaune est une glande exocrine temporaire|35. Concernant le corps jaune 2R|UE2S100535|FAUX|||||||segmo
+B. Le corps jaune corespond a la transformation de la granulosa|35. Concernant le corps jaune 2R|UE2S100535|FAUX|||||||segmo
+C. Le corps jaune a la particularit&eacute; d'&ecirc;tre une glande non vascularis&eacute;|35. Concernant le corps jaune 2R|UE2S100535|FAUX|||||||segmo
+D. les grandes cellules lut&eacute;ales synth&eacute;tise l'oestrog&egrave;ne|35. Concernant le corps jaune 2R|UE2S100535|VRAI|||||||segmo
+E. les petites cellules lut&eacute;ales synth&eacute;tise la progest&eacute;rone|35. Concernant le corps jaune 2R|UE2S100535|VRAI|||||||segmo
+A. Le meilleur mod&egrave;le d'&eacute;tude est Saccharomyces Cerevisiae.|1) Concernant les t&eacute;lom&egrave;res (3R):|UE2S110501|VRAI|||||||segmo
+B. Les prot&eacute;ines Sir favorisent l'expression des g&egrave;nes.|1) Concernant les t&eacute;lom&egrave;res (3R):|UE2S110501|FAUX|B : Sir = Silent Information Regulator, elles vont donc rendre les g&egrave;nes « silencieux ».||||||segmo
+C. Les prot&eacute;ines Sir sont situ&eacute;es principalement au niveau de l'euchromatine.|1) Concernant les t&eacute;lom&egrave;res (3R):|UE2S110501|FAUX|C : Situ&eacute;es au niveau des t&eacute;lom&egrave;res = h&eacute;t&eacute;rochromatine.||||||segmo
+D. La prot&eacute;ine Sir2 est tr&egrave;s conserv&eacute;e.|1) Concernant les t&eacute;lom&egrave;res (3R):|UE2S110501|VRAI|||||||segmo
+E. Ils servent &agrave; prot&eacute;ger les extr&eacute;mit&eacute;s des chromosomes.|1) Concernant les t&eacute;lom&egrave;res (3R):|UE2S110501|VRAI|||||||segmo
+A. Ce sont des s&eacute;quences d'ADN qui permettait la s&eacute;gr&eacute;gation des chromosomes.|2) Concernant les centrom&egrave;res (4R)|UE2S110502|VRAI|||||||segmo
+C. Ils sont inclus dans de grandes &eacute;tendues h&eacute;t&eacute;ro-chromatiques.|2) Concernant les centrom&egrave;res (4R)|UE2S110502|VRAI|||||||segmo
+D. Il existe un nucl&eacute;osome sp&eacute;cifique de centrom&egrave;re.|2) Concernant les centrom&egrave;res (4R)|UE2S110502|VRAI|||||||segmo
+E. Les centrom&egrave;res sont indispensables &agrave; la mitose.|2) Concernant les centrom&egrave;res (4R)|UE2S110502|VRAI|||||||segmo
+A. Ils sont tr&egrave;s condens&eacute;s en interphase.|3) Concernant les chromosomes (3R)|UE2S110503|FAUX|A : Condensation maximale en mitose.||||||segmo
+B. La condensation n&eacute;cessite des condensines, qui utilisent de l'ATP.|3) Concernant les chromosomes (3R)|UE2S110503|VRAI|||||||segmo
+C. Ils peuvent se fixer &agrave; la membrane plasmique.|3) Concernant les chromosomes (3R)|UE2S110503|FAUX|C : Ils peuvent se fixer &agrave; l'enveloppe nucl&eacute;aire.||||||segmo
+D. Le nombre de chromosomes d'une cellule est d&eacute;fini par le nombre de centrom&egrave;res.|3) Concernant les chromosomes (3R)|UE2S110503|VRAI|||||||segmo
+E. Les SARs (Scaffold Associated Regions) sont des prot&eacute;ines du nucl&eacute;osquelette|3) Concernant les chromosomes (3R)|UE2S110503|VRAI|||||||segmo
+A. Ils sont constitu&eacute;s de prot&eacute;ines ribosomiques et d'ARNm.|4) Concernant les ribosomes (3R):|UE2S110504|FAUX|A : Prot&eacute;ines + ARNr||||||segmo
+B. Ils sont synth&eacute;tis&eacute;s dans le cytosol de la cellule.|4) Concernant les ribosomes (3R):|UE2S110504|FAUX|B : Assembl&eacute;s dans le nucl&eacute;ole.||||||segmo
+C. On distingue 2 sous-unit&eacute;s : une petite pour la reconnaissance et une grosse pour la fabrication de la liaison peptidique.|4) Concernant les ribosomes (3R):|UE2S110504|VRAI|||||||segmo
+D. Les cellules procaryotes poss&egrave;dent leurs propres ribosomes.|4) Concernant les ribosomes (3R):|UE2S110504|VRAI|||||||segmo
+E. Les ARNr repr&eacute;sentent la majorit&eacute; des ARN synth&eacute;tis&eacute;s par la cellule.|4) Concernant les ribosomes (3R):|UE2S110504|VRAI|||||||segmo
+A. Les g&egrave;nes qui codent pour les ARNr sont en copies multiples et sont dit en « tandem ».|5) Concernant les ARN (3R)|UE2S110505|VRAI|||||||segmo
+B. Les g&egrave;nes ribosomaux sont port&eacute;s par les tiges des satellites des chromosomes acrocentriques.|5) Concernant les ARN (3R)|UE2S110505|VRAI|||||||segmo
+C. Il existe 4 types d'ARNr : 18S,28S,45S et 5S qui est situ&eacute; sur le chromosome I.|5) Concernant les ARN (3R)|UE2S110505|FAUX|C : 4 types d'ARNr : 18S; 28S; 5,8S ; 5S. <br>45S est un gros pr&eacute;curseur qui va former 18S; 28S et 5,8S.||||||segmo
+D. Les snoARN sont synth&eacute;tis&eacute;s par l'ARN Polym&eacute;rase III, comme l'ARNr 5S.|5) Concernant les ARN (3R)|UE2S110505|FAUX|D : Les snoARN sont souvent situ&eacute;s dans les introns d'autres g&egrave;nes et sont donc synth&eacute;tis&eacute;s par l'ARN Pol II , et non pas ARN Pol III comme 5S.||||||segmo
+E. Les snoARN participent &agrave; la formation du nucl&eacute;ole.|5) Concernant les ARN (3R)|UE2S110505|VRAI|||||||segmo
+A. Il est bien visible en microscopie optique dans le noyau des procaryotes.|6) Concernant le nucl&eacute;ole (2R)|UE2S110506|FAUX|A : Eucaryotes !! Pas de nucl&eacute;ole chez les procaryotes !!||||||segmo
+B. Le nucl&eacute;ole est limit&eacute; par la membrane nucl&eacute;olaire.|6) Concernant le nucl&eacute;ole (2R)|UE2S110506|FAUX|B : Le nucl&eacute;ole ne poss&egrave;de pas de membrane, ce n'est pas un organite.||||||segmo
+C. On trouve un peu d'ADN dans le nucl&eacute;ole.|6) Concernant le nucl&eacute;ole (2R)|UE2S110506|VRAI|||||||segmo
+D. Il est constitu&eacute; de 3 composants : centre fibrillaire, composant fibrillaire dense, composant granulaire.|6) Concernant le nucl&eacute;ole (2R)|UE2S110506|VRAI|D : - Centre fibrillaire : L&agrave; o&ugrave; se trouve l'ADNr <br>- Composant fibrillaire dense : Transcription des g&egrave;nes ribosomaux (arbres de No&euml;l)<br>- Composant granulaire : Assemblage des sous-unit&eacute;s ribosomales.||||||segmo
+E. Le chromosome 16 poss&egrave;de de l'ADN ribosomal dans la tige de son satellite.|6) Concernant le nucl&eacute;ole (2R)|UE2S110506|FAUX|E : Chromosomes 13,14,15,21,22 poss&egrave;dent de l'ADN ribosomal dans leurs tiges.||||||segmo
+A. Dans le corps humain, des millions de cellules sont fabriqu&eacute;es chaque seconde.|7) Concernant le cycle cellulaire (3R)|UE2S110507|VRAI|||||||segmo
+B. G1 -&gt; G2 -&gt; S-&gt; M|7) Concernant le cycle cellulaire (3R)|UE2S110507|FAUX|/1\ G1 et G2 servent &agrave; doubler la masse de prot&eacute;ines et le nombre d'organites.||||||segmo
+C. G1 -&gt; S -&gt; G2 -&gt; M|7) Concernant le cycle cellulaire (3R)|UE2S110507|VRAI|||||||segmo
+D. La phase G2 s'appelle G0 quand elle est tr&egrave;s longue (jusqu'&agrave; plusieurs ann&eacute;es !)|7) Concernant le cycle cellulaire (3R)|UE2S110507|FAUX|D : La phase G1 s'appelle GO quand elle est tr&egrave;s longue (jusqu'&agrave; plusieurs ann&eacute;es !)||||||segmo
+E. La phase G2 est toujours courte.|7) Concernant le cycle cellulaire (3R)|UE2S110507|VRAI|||||||segmo
+A. Il y a des cytocin&egrave;ses sans mitose pr&eacute;alable.|8) Concernant le cycle cellulaire (2R)|UE2S110508|FAUX|A : La mitose pr&eacute;c&egrave;de toujours la cytocin&egrave;se !||||||segmo
+B. La duplication des centrosomes se fait &agrave; la fin de la mitose.|8) Concernant le cycle cellulaire (2R)|UE2S110508|FAUX|B : La duplication des centrosomes commence avant l'entr&eacute;e en phase M.||||||segmo
+C. En m&eacute;taphase, chaque chromosome non attach&eacute; envoie un signal n&eacute;gatif qui inhibe l'entr&eacute;e en anaphase.|8) Concernant le cycle cellulaire (2R)|UE2S110508|VRAI|||||||segmo
+D. Les deux composants cl&eacute; du syst&egrave;me de contr&ocirc;le du cycle cellulaire sont les cyclines et les g&egrave;nes Cdc.|8) Concernant le cycle cellulaire (2R)|UE2S110508|FAUX|D : 2 composants cl&eacute; : cycline et Cdk ! Attention Cdk et Cdc sont 2 choses diff&eacute;rentes !||||||segmo
+E. Le taux de Cdk est constant.|8) Concernant le cycle cellulaire (2R)|UE2S110508|VRAI|||||||segmo
+A. Les asters sont des faisceaux d'actine rayonnant &agrave; partir d'un COMT r&eacute;sultant de la duplication d'un centrosome.|9) Concernant le cycle cellulaire (1R)|UE2S110509|FAUX|A. Faisceaux de MT!!!||||||segmo
+B. Le cycle du centrosome n&eacute;cessite la pr&eacute;sence d'une membrane nucl&eacute;aire pour se d&eacute;rouler correctement.|9) Concernant le cycle cellulaire (1R)|UE2S110509|FAUX|B. Le cycle du centrosome peut se d&eacute;rouler m&ecirc;me sans noyau !||||||segmo
+C. Au cours de la prom&eacute;taphase, il y a disparition de l'enveloppe nucl&eacute;aire.|9) Concernant le cycle cellulaire (1R)|UE2S110509|FAUX|C. Il y a fragmentation de l'enveloppe nucl&eacute;aire, mais elle ne dispara&icirc;t pas !||||||segmo
+D. En interphase, les chromosomes sont visibles.|9) Concernant le cycle cellulaire (1R)|UE2S110509|FAUX|D. On ne peut pas voir les chromosomes en interphase, car la chromatine est dispers&eacute;e.||||||segmo
+E. En interphase, le centrosome n'est pas visible.|9) Concernant le cycle cellulaire (1R)|UE2S110509|VRAI|||||||segmo
+A. Il y a deux kin&eacute;tochores par chromosome.|10) Concernant la phase M (1R)|UE2S110510|VRAI|||||||segmo
+B. Le turn over des MT en interphase est sup&eacute;rieur au turn over des MT du fuseau mitotique.|10) Concernant la phase M (1R)|UE2S110510|FAUX|B. C'est l'inverse. MT du fuseau = turn over +++ = tr&egrave;s dynamique !||||||segmo
+C. La traction des microtubules du fuseau sur les kin&eacute;tochores va s&eacute;parer les chromatides.|10) Concernant la phase M (1R)|UE2S110510|FAUX|C. La s&eacute;paration des chromosomes se fait par une action enzymatique : les s&eacute;parases, et pas par les tractions des MT.||||||segmo
+D. L'anaphase A va &eacute;carter les 2 p&ocirc;les du fuseau.|10) Concernant la phase M (1R)|UE2S110510|FAUX|D: -Anaphase A : Ascension des chromatides vers les p&ocirc;les du fuseau grâce &agrave; des moteurs. - Anaphase B: S&eacute;paration des p&ocirc;les du fuseau grâce aux tractions exerc&eacute;es par les MT. L'anaphase A et B ont lieu en m&ecirc;me temps et les 2 phases sont n&eacute;cessaires.||||||segmo
+E. Les MT polaires sont au niveau des p&ocirc;les, et vont donc du centrosome vers la membrane.|10) Concernant la phase M (1R)|UE2S110510|FAUX|E: - MT du kin&eacute;tochore : Vont d'un p&ocirc;le &agrave; un kin&eacute;tochore. (environ 40 par kin&eacute;tochore)<br>- MT polaires (chevauchants): Vont du centrosome vers la plaque m&eacute;taphasique. <br>- MT astraux (= en &eacute;toile): Nucl&eacute;ent en &eacute;toile, et vont du centrosome vers la membrane,||||||segmo
+A. La Matrice Extra Cellulaire (MEC) est compos&eacute;e essentiellement d'eau.|11) Concernant les tissus (3R)|UE2S110511|VRAI|||||||segmo
+B. Les tissus &eacute;pith&eacute;liaux sont riches en MEC.|11) Concernant les tissus (3R)|UE2S110511|FAUX|B. Tissus &eacute;pith&eacute;liaux riches en cellules, peu de MEC.||||||segmo
+C. La cellule principale du tissu conjonctif (TC) est le macrophage.|11) Concernant les tissus (3R)|UE2S110511|FAUX|C: La cellule du TC est le FIBROBLASTE||||||segmo
+D. On trouve du tissu conjonctif dans tous les &ecirc;tres pluricellulaires.|11) Concernant les tissus (3R)|UE2S110511|VRAI|||||||segmo
+E. Le tissu conjonctif a un r&ocirc;le important dans la survie, la migration et la prolif&eacute;ration des cellules en contact.|11) Concernant les tissus (3R)|UE2S110511|VRAI|||||||segmo
+A. Elle est riche en fibroblastes.|12) Concernant la MEC (2R)|UE2S110512|FAUX|A: Elle ne continent pas de fibroblaste ! Fibroblaste = cellule or MEC = PAS de cellule !||||||segmo
+B. Elle est synth&eacute;tis&eacute;e par les fibroblastes.|12) Concernant la MEC (2R)|UE2S110512|VRAI|||||||segmo
+C. Elle est riche en prot&eacute;oglycannes, qui sont des prot&eacute;ines contenant environ 50% de sucres.|12) Concernant la MEC (2R)|UE2S110512|FAUX|C. Prot&eacute;oglycannes sont fortement glycosyl&eacute;es : + de 90% de sucres (GAG).||||||segmo
+D. Elle est riche en prot&eacute;ines globulaires, qui vont lui donner sa structure (collag&egrave;ne, &eacute;lastine...)|12) Concernant la MEC (2R)|UE2S110512|FAUX|D. Prot&eacute;ines fibreuses !!||||||segmo
+E. Elle poss&egrave;de des prot&eacute;ines qui ont un r&ocirc;le dans l'adh&eacute;sion (fibronectine, laminine ...)|12) Concernant la MEC (2R)|UE2S110512|VRAI|||||||segmo
+A. C'est la prot&eacute;ine la plus abondante des mammif&egrave;res.|13) Concernant le collag&egrave;ne (3R) :|UE2S110513|VRAI|||||||segmo
+B. Il forme toujours des fibrilles dans la cellule.|13) Concernant le collag&egrave;ne (3R) :|UE2S110513|FAUX|B. Collag&egrave;ne fibrillaire, associ&eacute; aux fibrilles  ou en r&eacute;seau (IV, VII).||||||segmo
+C. Il est constitu&eacute; d'environ 33% de glycocolle.|13) Concernant le collag&egrave;ne (3R) :|UE2S110513|VRAI|C. Glycine (=glycocolle) tous les trois AA, soit 1/3 donc environ 33%.||||||segmo
+D. L'&eacute;piderme et les os sont riches en collag&egrave;ne.|13) Concernant le collag&egrave;ne (3R) :|UE2S110513|FAUX|D : La peau et les os sont riches en collag&egrave;ne, mais &eacute;piderme est la partie &eacute;pith&eacute;liale de la peau, donc peu de MEC, donc peu de collag&egrave;ne !||||||segmo
+E. Le collag&egrave;ne II est le plus abondant.|13) Concernant le collag&egrave;ne (3R) :|UE2S110513|VRAI|||||||segmo
+A. La reproduction asexu&eacute;e est une reproduction de faible efficacit&eacute;.|14) Concernant la reproduction (1R)|UE2S110514|FAUX|A: Reproduction sexu&eacute;e. Beaucoup de gam&egrave;tes pour peu de descendants.||||||segmo
+B. La reproduction sexu&eacute;e se fait par un ph&eacute;nom&egrave;ne de mitose.|14) Concernant la reproduction (1R)|UE2S110514|FAUX|B: Reproduction sexu&eacute;e -&gt; m&eacute;iose.||||||segmo
+C. Pour que la gonade indiff&eacute;renci&eacute;e soit transform&eacute;e en ovaire, il faut un signal g&eacute;n&eacute;tique chez les mammif&egrave;res.|14) Concernant la reproduction (1R)|UE2S110514|FAUX|C. Il faut un signal pour la transformation en testicule. Si pas de signal -&gt; ovaires.||||||segmo
+D. La reproduction sexu&eacute;e int&eacute;resse les v&eacute;g&eacute;taux.|14) Concernant la reproduction (1R)|UE2S110514|VRAI|||||||segmo
+E. Dans la reproduction asexu&eacute;e un seul parent transmet 50% de ses g&egrave;nes &agrave; sa descendance.|14) Concernant la reproduction (1R)|UE2S110514|FAUX|E. Un parent unique transmet TOUS ses g&egrave;nes &agrave; sa descendance.||||||segmo
+A. Leptot&egrave;ne, Zygot&egrave;ne, Pachyt&egrave;ne, Diplot&egrave;ne, Diacin&egrave;se.|15) Concernant la m&eacute;taphase de la m&eacute;iose I (IR)|UE2S110515|FAUX|ABCD LIRE L'ENONCE !! Ces stades correspondent &agrave; la Prophase I, or ici on vous parle de la m&eacute;taphase.||||||segmo
+B. Zygotene, Pachyt&egrave;ne, Diplot&egrave;ne, Diacin&egrave;se, Leptot&egrave;ne.|15) Concernant la m&eacute;taphase de la m&eacute;iose I (IR)|UE2S110515|FAUX|ABCD LIRE L'ENONCE !! Ces stades correspondent &agrave; la Prophase I, or ici on vous parle de la m&eacute;taphase.<br>de plus LZPDDia||||||segmo
+C. Leptot&egrave;ne, Pachyt&egrave;ne, Zygot&egrave;ne, Diplot&egrave;ne, Diacin&egrave;se.|15) Concernant la m&eacute;taphase de la m&eacute;iose I (IR)|UE2S110515|FAUX|ABCD LIRE L'ENONCE !! Ces stades correspondent &agrave; la Prophase I, or ici on vous parle de la m&eacute;taphase.<br>+ LZPDDia||||||segmo
+D. Diplot&egrave;ne, Leptot&egrave;ne, Zygot&egrave;ne, Pachyt&egrave;ne, Diacin&egrave;se.|15) Concernant la m&eacute;taphase de la m&eacute;iose I (IR)|UE2S110515|FAUX|ABCD LIRE L'ENONCE !! Ces stades correspondent &agrave; la Prophase I, or ici on vous parle de la m&eacute;taphase.||||||segmo
+E. Il y a mise en place du fuseau de premi&egrave;re division m&eacute;iotique.|15) Concernant la m&eacute;taphase de la m&eacute;iose I (IR)|UE2S110515|VRAI|||||||segmo
+A. La m&eacute;iose spermatocytaire dure 24 jours.|16) Concernant la m&eacute;iose spermatocytaire (3R)|UE2S110516|VRAI|||||||segmo
+B. Le stade pachyt&egrave;ne de la prophase II est le stade le plus long (environ 15 jours).|16) Concernant la m&eacute;iose spermatocytaire (3R)|UE2S110516|FAUX|B. Le stade pachyt&egrave;ne a lieu en prophase I||||||segmo
+C. Au stade pachyt&egrave;ne, les chromosomes X et Y sont maintenus &agrave; l'int&eacute;rieur de l'enveloppe de la v&eacute;sicule sexuelle.|16) Concernant la m&eacute;iose spermatocytaire (3R)|UE2S110516|FAUX|C: La v&eacute;sicule sexuelle n'a pas d'enveloppe ni de membrane !||||||segmo
+D. Dans la v&eacute;sicule sexuelle les chromosomes sexuels sont appari&eacute;s et condens&eacute;s.|16) Concernant la m&eacute;iose spermatocytaire (3R)|UE2S110516|VRAI|||||||segmo
+E. A la fin de la m&eacute;iose I, on a des spermatocytes II (23 chromosomes, 2n ADN).|16) Concernant la m&eacute;iose spermatocytaire (3R)|UE2S110516|VRAI|||||||segmo
+A. SCP1 est situ&eacute; au niveau de l'&eacute;l&eacute;ment lat&eacute;ral.|17) Concernant le complexe synaptos&eacute;mal (3R)|UE2S110517|FAUX|central||||||segmo
+B. SCP1 est situ&eacute; au niveau de l'&eacute;l&eacute;ment central.|17) Concernant le complexe synaptos&eacute;mal (3R)|UE2S110517|VRAI|||||||segmo
+C. SCP2 est situ&eacute; au niveau de l'&eacute;l&eacute;ment lat&eacute;ral.|17) Concernant le complexe synaptos&eacute;mal (3R)|UE2S110517|VRAI|||||||segmo
+D. La formation du complexe synaptos&eacute;mal est compl&egrave;te au stade pachyt&egrave;ne.|17) Concernant le complexe synaptos&eacute;mal (3R)|UE2S110517|VRAI|||||||segmo
+E. Les recombinaisons g&eacute;n&eacute;tiques ont lieu au niveau de l'&eacute;l&eacute;ment lat&eacute;ral du complexe synaptos&eacute;mal.|17) Concernant le complexe synaptos&eacute;mal (3R)|UE2S110517|FAUX|E: Au niveau de l'&eacute;l&eacute;ment central du CS.||||||segmo
+A. Au d&eacute;but du d&eacute;veloppement, les cellules germinales sont situ&eacute;es dans les &eacute;bauches de gonades.|18) Concernant la spermatogen&egrave;se (2R)|UE2S110518|FAUX|A: Elles sont en dehors des gonades, au niveau des cr&ecirc;tes g&eacute;nitales. Elles coloniseront les gonades ult&eacute;rieurement||||||segmo
+B. La gam&eacute;togen&egrave;se se d&eacute;finit par une phase libre qui encadre deux phases captives.|18) Concernant la spermatogen&egrave;se (2R)|UE2S110518|FAUX|B. Deux phases libres qui encadrent une phase captive.||||||segmo
+C. La spermatogen&egrave;se est une phase captive.|18) Concernant la spermatogen&egrave;se (2R)|UE2S110518|VRAI|||||||segmo
+D. La spermatogen&egrave;se est un processus discontinu de la pubert&eacute; &agrave; la s&eacute;nescence.|18) Concernant la spermatogen&egrave;se (2R)|UE2S110518|FAUX|D: Processus continu.||||||segmo
+E. La diff&eacute;renciation en testicule se fait vers la 6-7&egrave;me semaine de d&eacute;veloppement embryonnaire grâce au g&egrave;ne SRY du chromosome Y.|18) Concernant la spermatogen&egrave;se (2R)|UE2S110518|VRAI|||||||segmo
+A. Le compartiment tubulaire a une fonction endocrine.|19) Concernant la spermatogen&egrave;se (3R)|UE2S110519|FAUX|A. Compartiment interstitiel a une fonction endocrine.||||||segmo
+B. Le compartiment tubulaire a une fonction exocrine.|19) Concernant la spermatogen&egrave;se (3R)|UE2S110519|VRAI|||||||segmo
+C. Les cellules de Leydig, endocrines, sont situ&eacute;es dans le compartiment interstitiel.|19) Concernant la spermatogen&egrave;se (3R)|UE2S110519|VRAI|||||||segmo
+D. Les cellules de Sertoli, exocrines, se trouvent dans le compartiment tubulaire.|19) Concernant la spermatogen&egrave;se (3R)|UE2S110519|FAUX|D: Les cellules de Sertoli sont des cellules de soutien, qui ont une petite fonction endocrine, mais en aucun cas exocrine !||||||segmo
+E. La barri&egrave;re h&eacute;matotesticulaire a un r&ocirc;le de r&eacute;gulation locale de la spermatogen&egrave;se.|19) Concernant la spermatogen&egrave;se (3R)|UE2S110519|VRAI|||||||segmo
+A. La spermatocytogen&egrave;se contient les spermatogonies, les spermatides et les spermatocytes primaires.|20) Concernant la spermatogen&egrave;se (2R)|UE2S110520|FAUX|A: La spematocytogen&egrave;se contient les spermatogonies et les spermatocytes primaires et secondaires.La spermiogen&egrave;se contient les spermatides et les spermatozoides.||||||segmo
+B. La m&eacute;iose a lieu au cours de la spermiogen&egrave;se.|20) Concernant la spermatogen&egrave;se (2R)|UE2S110520|FAUX|B. La m&eacute;iose a lieu au cours de la spermatocytogen&egrave;se et permet le passage de spermatocytes I (46K, 4n ADN) aux spermatocytes II (23K, 2n ADN).||||||segmo
+C. La spermiation a lieu &agrave; la fin de la spermiogen&egrave;se.|20) Concernant la spermatogen&egrave;se (2R)|UE2S110520|VRAI|||||||segmo
+D. Les spermatocytes I ont 46 chromosomes et 4n ADN.|20) Concernant la spermatogen&egrave;se (2R)|UE2S110520|VRAI|||||||segmo
+E. Les spermatogonies Ap constituent le pool de r&eacute;serve de l'&eacute;pith&eacute;lium s&eacute;minif&egrave;re.|20) Concernant la spermatogen&egrave;se (2R)|UE2S110520|FAUX|E: Spg Ad — pool de r&eacute;serve. (non diff&eacute;renci&eacute;es) Spg Ap =pool de renouvellement. (faiblement diff&eacute;renci&eacute;es)||||||segmo
+A. Pour communiquer entre elles, les cellules de l'organisme utilisent principalement des signaux &eacute;lectriques.|21) Concernant la communication cellulaire|UE2S110521|FAUX|A: Principalement des signaux chimiques.||||||segmo
+B. Les signaux autocrines agissent sur les cellules qui les ont s&eacute;cr&eacute;t&eacute;.|21) Concernant la communication cellulaire|UE2S110521|VRAI|||||||segmo
+C. Le signal paracrine agit sur les cellules &agrave; proximit&eacute; par l'interm&eacute;diaire du lit vasculaire.|21) Concernant la communication cellulaire|UE2S110521|FAUX|C. Ne passent pas par le lit vasculaire, mais se d&eacute;placent dans le liquide interstitiel.||||||segmo
+D. Les hormones agissent &agrave; distantes sur toutes les cellules.|21) Concernant la communication cellulaire|UE2S110521|FAUX|D. N'agissent que sur les cellules qui expriment les r&eacute;cepteurs pour ces hormones.||||||segmo
+E. Les neurohormones sont lib&eacute;r&eacute;s dans la fente synaptique.|21) Concernant la communication cellulaire|UE2S110521|FAUX|E. Les neurohormones sont lib&eacute;r&eacute;es par les neurones dans le sang. Ce sont les neuro transmetteurs qui agissent dans la fente synaptique.||||||segmo
+A. Les cytokines sont s&eacute;cr&eacute;t&eacute;es par des cellules sp&eacute;cialis&eacute;es.|22) Concernant la communication cellulaire|UE2S110522|FAUX|A : Toutes les cellules nucl&eacute;es synth&eacute;tisent et s&eacute;cr&egrave;tent des cytokines.||||||segmo
+B. La liaison d'un ligand va toujours ouvrir un canal cible.|22) Concernant la communication cellulaire|UE2S110522|FAUX|B : La liaison d'un ligand peut soit ouvrir, soit fermer un canal.||||||segmo
+C. La phospholipase C est activ&eacute;e par un RCPG.|22) Concernant la communication cellulaire|UE2S110522|VRAI|||||||segmo
+D. L'Ad&eacute;nylate Cyclase convertit l'ATP en AMPc , elle est activ&eacute;e par un r&eacute;cepteur &agrave; activit&eacute; enzymatique.|22) Concernant la communication cellulaire|UE2S110522|FAUX|D : Ad&eacute;nylate Cyclase activ&eacute;e par un RCPG.||||||segmo
+E. Les RCPG sont des prot&eacute;ines qui traversent 7 fois la membrane plasmique.|22) Concernant la communication cellulaire|UE2S110522|VRAI|||||||segmo
+A) Les fibres sensitives sont des fibres centrip&egrave;tes|23) Parmi les propositions suivantes :|UE2S110523|VRAI|#NOM ?||||||segmo
+B) Le syst&egrave;me nerveux ent&eacute;rique est situ&eacute; dans la paroi du tractus g&eacute;nital|23) Parmi les propositions suivantes :|UE2S110523|FAUX|B : tractus digestif||||||segmo
+D) Le syst&egrave;me nerveux ent&eacute;rique appartient au SNC|23) Parmi les propositions suivantes :|UE2S110523|FAUX|D: SNP||||||segmo
+E) Le syst&egrave;me nerveux central est le centre de contr&ocirc;le et d'int&eacute;gration.|23) Parmi les propositions suivantes :|UE2S110523|VRAI|||||||segmo
+A) L'unit&eacute; fonctionnelle du syst&egrave;me nerveux est le neurone|24) Parmi les propositions suivantes :|UE2S110524|VRAI|||||||segmo
+B) Les neurones ne poss&egrave;dent pas d'appareil de Golgi|24) Parmi les propositions suivantes :|UE2S110524|FAUX|||||||segmo
+C) Le corps de Nissl est une r&eacute;gion diff&eacute;renci&eacute; du REG|24) Parmi les propositions suivantes :|UE2S110524|VRAI|||||||segmo
+D) Les dendrites sont des r&eacute;gions r&eacute;ceptrices d'information|24) Parmi les propositions suivantes :|UE2S110524|VRAI|||||||segmo
+E) On compte en g&eacute;n&eacute;ral un seul'dendrite par neurone|24) Parmi les propositions suivantes :|UE2S110524|FAUX|E : un seul axone et beaucoup de dendrite en r&egrave;gle g&eacute;n&eacute;rale||||||segmo
+A) Un axone peut mesurer quelque cm|25) Parmi les propositions suivantes :|UE2S110525|VRAI|||||||segmo
+B) Il existe un transport ant&eacute;rograde rapide et un lent|25) Parmi les propositions suivantes :|UE2S110525|VRAI|||||||segmo
+C) Il existe un transport r&eacute;trograde rapide et un lent|25) Parmi les propositions suivantes :|UE2S110525|FAUX|C : seulement un seul (plut&ocirc;t rapide)||||||segmo
+D) Le transport axonique se fait le long des FA|25) Parmi les propositions suivantes :|UE2S110525|FAUX|D : MT||||||segmo
+E) La cellule pr&eacute;-synaptique est la cellule qui re&ccedil;oit le signal|25) Parmi les propositions suivantes :|UE2S110525|FAUX|E : post-synaptique||||||segmo
+A) Les interneurones se situent uniquement dans le syst&egrave;me nerveux p&eacute;riph&eacute;rique|26) Parmi les propositions suivantes :|UE2S110526|FAUX|A: SNC||||||segmo
+B) Dans les neurones bipolaires, l'axone et les dendrites ont fusionn&eacute;|26) Parmi les propositions suivantes :|UE2S110526|FAUX|B : neurone pseudo-unipolaire||||||segmo
+C) Les nerfs sensoriels conduisent des signaux eff&eacute;rents|26) Parmi les propositions suivantes :|UE2S110526|FAUX|C : aff&eacute;rents||||||segmo
+D) Un nerf &eacute;quivaut &agrave; l'axone d'un neurone|26) Parmi les propositions suivantes :|UE2S110526|FAUX|D : plusieurs axone avec du tissu conjonctif||||||segmo
+E) Un m&ecirc;me nerf peut conduire &agrave; la fois des signaux eff&eacute;rents et aff&eacute;rents|26) Parmi les propositions suivantes :|UE2S110526|VRAI|||||||segmo
+A) Les cellules gliales sont des cellules de soutien du syst&egrave;me nerveux|27) Parmi les propositions suivantes :|UE2S110527|VRAI|||||||segmo
+B) Le syst&egrave;me nerveux p&eacute;riph&eacute;rique ne contient que 2 types de cellules gliales|27) Parmi les propositions suivantes :|UE2S110527|VRAI|||||||segmo
+C) Les oligodendrocytes et les cellules de Schwann produisent de la my&eacute;line|27) Parmi les propositions suivantes :|UE2S110527|VRAI|||||||segmo
+D) La microglie a un r&ocirc;le immunitaire|27) Parmi les propositions suivantes :|UE2S110527|VRAI|||||||segmo
+E) Certaine cellule &eacute;pendymaires peuvent synth&eacute;tiser du LCR|27) Parmi les propositions suivantes :|UE2S110527|VRAI|||||||segmo
+A) Ce sont de petites cellules &eacute;toil&eacute;s|28) Concernant les astrocytes, quelles sont les propositions vraies :|UE2S110528|VRAI|||||||segmo
+B) Ils forment la barri&egrave;re h&eacute;mato-enc&eacute;phalique|28) Concernant les astrocytes, quelles sont les propositions vraies :|UE2S110528|VRAI|||||||segmo
+C) Ils fournissent des substrats pour la production d'ATP au neurone|28) Concernant les astrocytes, quelles sont les propositions vraies :|UE2S110528|VRAI|||||||segmo
+D) Ils sont en contact avec les neurones|28) Concernant les astrocytes, quelles sont les propositions vraies :|UE2S110528|VRAI|||||||segmo
+E) Ils sont en contact avec les vaisseaux sanguins|28) Concernant les astrocytes, quelles sont les propositions vraies :|UE2S110528|VRAI|||||||segmo
+A) Les 4 principaux types de canaux sont Na+ ; K+; Ca 2+; Mg 2+|29) Parmi les propositions suivantes :|UE2S110529|FAUX|A: pas Mg 2+ mais Cl-||||||segmo
+B) Le K+ est l'ion qui participe le plus au potentiel de membrane|29) Parmi les propositions suivantes :|UE2S110529|VRAI|||||||segmo
+C) Le K+ est surtout extra-cellulaire|29) Parmi les propositions suivantes :|UE2S110529|FAUX|C : intra-cellulaire||||||segmo
+D) Le Na+ est surtout extra-cellulaire|29) Parmi les propositions suivantes :|UE2S110529|VRAI|||||||segmo
+E) Le K+ initie la d&eacute;polarisation de la cellule|29) Parmi les propositions suivantes :|UE2S110529|FAUX|E : Na + avec une r&eacute;troaction positive||||||segmo
+A) Les potentiel  gradu&eacute; et potentiel  d'action r&eacute;pondent &agrave; la loi du tout ou rien|30) Parmi les propositions suivantes :|UE2S110530|FAUX|A : seulement les PA||||||segmo
+B) Les potentiel  gradu&eacute; agissent sur de courte distance|30) Parmi les propositions suivantes :|UE2S110530|VRAI|||||||segmo
+C) Les potentiel  d'action agissent sur de courte distance|30) Parmi les propositions suivantes :|UE2S110530|FAUX|C: longue distance||||||segmo
+D) Les potentiel  gradu&eacute; sont des signaux d'amplitude variable|30) Parmi les propositions suivantes :|UE2S110530|VRAI|||||||segmo
+E) Les potentiel  d'action sont des signaux d'amplitude variable|30) Parmi les propositions suivantes :|UE2S110530|FAUX|E : amplitude constante||||||segmo
+A) Un potentiel  gradu&eacute; d&eacute;polarisant est consid&eacute;r&eacute;s comme excitateur|31) Parmi les propositions suivantes :|UE2S110531|VRAI|||||||segmo
+B) Un potentiel  gradu&eacute; hyperpolarisant est consid&eacute;r&eacute;s comme excitateur|31) Parmi les propositions suivantes :|UE2S110531|FAUX|B : inhibiteur||||||segmo
+C) En hypokali&eacute;mie un stimulus normalement subliminaire peut d&eacute;clencher un potentiel  d'action|31) Parmi les propositions suivantes :|UE2S110531|FAUX|||||||segmo
+D) En hyperkali&eacute;mie un stimulus normalement subliminaire peut d&eacute;clencher un potentiel  d'action|31) Parmi les propositions suivantes :|UE2S110531|VRAI|||||||segmo
+E) Plus l'amplitude d'un potentiel  gradu&eacute; est &eacute;lev&eacute;e et plus la fr&eacute;quence des salves de potentiel  d'action augmente|31) Parmi les propositions suivantes :|UE2S110531|VRAI|||||||segmo
+A) Un potentiel  d'action se d&eacute;place de la zone de gâchette vers les boutons synaptiques|32) Parmi les propositions suivantes :|UE2S110532|VRAI|||||||segmo
+B) Les dendrites peuvent &ecirc;tre perturb&eacute;es par des signaux r&eacute;trogrades venant de la zone de gâchette|32) Parmi les propositions suivantes :|UE2S110532|VRAI|||||||segmo
+C) Plus le diam&egrave;tre de l'axone est gros et plus le potentiel  d'action se d&eacute;place vite|32) Parmi les propositions suivantes :|UE2S110532|VRAI|||||||segmo
+D) Plus le diam&egrave;tre de l'axone est petit et plus le potentiel  d'action se d&eacute;place vite|32) Parmi les propositions suivantes :|UE2S110532|FAUX|||||||segmo
+E) La my&eacute;line ralenti la vitesse des potentiel  d'action|32) Parmi les propositions suivantes :|UE2S110532|FAUX|E : acc&eacute;l&egrave;re||||||segmo
+A) La majorit&eacute; des synapses du syst&egrave;me nerveux sont &eacute;lectriques|33) Parmi les propositions suivantes :|UE2S110533|FAUX|A : chimique||||||segmo
+B) Un neurone est en g&eacute;n&eacute;ral connect&eacute; &agrave; 5 ou 6 synapses|33) Parmi les propositions suivantes :|UE2S110533|FAUX|B : environ 10 000||||||segmo
+C) Dans les boutons synaptiques, le potentiel  d'action d&eacute;clenche l'ouverture des canaux Ca 2+|33) Parmi les propositions suivantes :|UE2S110533|VRAI|||||||segmo
+D) Le glutamate est le principal neurotransmetteur excitateur du SNC|33) Parmi les propositions suivantes :|UE2S110533|VRAI|||||||segmo
+E) Le GABA est le principal inhibiteur du syst&egrave;me nerveux p&eacute;riph&eacute;rique|33) Parmi les propositions suivantes :|UE2S110533|FAUX|E : du SNC||||||segmo
+A) La r&eacute;ponse post synaptique est toujours instantan&eacute;e|34) Parmi les propositions suivantes :|UE2S110534|FAUX|A : r&eacute;ponse lente aussi||||||segmo
+B) L'ouverture des canaux Na + entraine un potentiel post synaptique inhibiteur|34) Parmi les propositions suivantes :|UE2S110534|FAUX|excitateur||||||segmo
+C) La fermeture des canaux Na+ entra&icirc;ne un potentiel post synaptique inhibiteur|34) Parmi les propositions suivantes :|UE2S110534|VRAI|||||||segmo
+D) L'ouverture des canaux K+ entra&icirc;ne un potentiel post synaptique inhibiteur|34) Parmi les propositions suivantes :|UE2S110534|VRAI|||||||segmo
+E) La fermeture des canaux K+ entra&icirc;ne un potentiel post synaptique inhibiteur|34) Parmi les propositions suivantes :|UE2S110534|FAUX|||||||segmo
+A) L'&eacute;l&eacute;ment cl&eacute; de la PLT est le Na +|35) Concernant la potentiation &agrave; long terme (PLT) :|UE2S110535|FAUX|||||||segmo
+B) L'&eacute;l&eacute;ment cl&eacute; de la PLT est le Ca 2+|35) Concernant la potentiation &agrave; long terme (PLT) :|UE2S110535|FAUX|GABA||||||segmo
+C) L'&eacute;l&eacute;ment cl&eacute; de la PLT est le glutamate|35) Concernant la potentiation &agrave; long terme (PLT) :|UE2S110535|VRAI|||||||segmo
+D) La PLT utilise le r&eacute;cepteur NMDA|35) Concernant la potentiation &agrave; long terme (PLT) :|UE2S110535|VRAI|||||||segmo
+A) Elles rejettent leurs s&eacute;cr&eacute;tions &agrave; travers des canaux|36) Concernant les glandes exocrines :|UE2S110536|VRAI|||||||segmo
+B) Les s&eacute;cr&eacute;tions s&eacute;reuses sont tr&egrave;s aqueuses|36) Concernant les glandes exocrines :|UE2S110536|VRAI|||||||segmo
+C) Les glandes salivaires sont des glandes exocrines|36) Concernant les glandes exocrines :|UE2S110536|VRAI|||||||segmo
+D) L'hypophyse est une glande exocrine|36) Concernant les glandes exocrines :|UE2S110536|FAUX|D et E : endocrine||||||segmo
+E) La thyro&iuml;de est une glande exocrine|36) Concernant les glandes exocrines :|UE2S110536|FAUX|D et E : endocrine||||||segmo
+A) Une s&eacute;cr&eacute;tion endocrine se d&eacute;verse dans la circulation sanguine|37) Parmi les propositions suivantes :|UE2S110537|VRAI|||||||segmo
+B) Les cellules de Leydig dans les testicules ont une action paracrine|37) Parmi les propositions suivantes :|UE2S110537|VRAI|||||||segmo
+C) Dans une s&eacute;cr&eacute;tion autocrine, les m&eacute;diateurs chimiques agissent sur la cellule productrice|37) Parmi les propositions suivantes :|UE2S110537|VRAI|||||||segmo
+D) Une s&eacute;cr&eacute;tion neurocrine se d&eacute;verse dans la circulation sanguine|37) Parmi les propositions suivantes :|UE2S110537|FAUX|||||||segmo
+E) Une s&eacute;cr&eacute;tion endocrine ne peut pas &ecirc;tre stock&eacute;e par la glande|37) Parmi les propositions suivantes :|UE2S110537|FAUX|||||||segmo
+A) Conduit simple|38) Concernant la classification de l'ad&eacute;nom&egrave;re :|UE2S110538|FAUX|A, B et D: concerne le canal||||||segmo
+B) Conduit compos&eacute;|38) Concernant la classification de l'ad&eacute;nom&egrave;re :|UE2S110538|FAUX|A, B et D: concerne le canal||||||segmo
+C) Forme tubulaire|38) Concernant la classification de l'ad&eacute;nom&egrave;re :|UE2S110538|VRAI|||||||segmo
+D) Forme contourn&eacute;|38) Concernant la classification de l'ad&eacute;nom&egrave;re :|UE2S110538|FAUX|A, B et D: concerne le canal||||||segmo
+E) Forme acineuse|38) Concernant la classification de l'ad&eacute;nom&egrave;re :|UE2S110538|VRAI|||||||segmo
+A) La r&eacute;action inflammatoire rend les vaisseaux sanguins plus perm&eacute;ables|39) Parmi les propositions suivantes :|UE2S110539|VRAI|||||||segmo
+B) La coagulation sanguine survient apr&egrave;s la r&eacute;action inflammatoire|39) Parmi les propositions suivantes :|UE2S110539|FAUX|B : c'est l'inverse||||||segmo
+C) la coagulation dure de 0 &agrave; 48h.|39) Parmi les propositions suivantes :|UE2S110539|FAUX|C : qq min||||||segmo
+D) Les macrophages ont pour r&ocirc;le de phagocyter les d&eacute;bris cellulaire|39) Parmi les propositions suivantes :|UE2S110539|VRAI|||||||segmo
+E) Le bourgeon charnu est un tissu &eacute;pith&eacute;lial riche en vaisseaux sanguins|39) Parmi les propositions suivantes :|UE2S110539|FAUX|E : Tissu conjonctif et pauvre en Vx sg||||||segmo
+A) Les jonctions d'ancrage emp&ecirc;chent les substances toxiques de progresser entre 2 cellules|40) Concernant les jonctions cellulaire :|UE2S110540|FAUX|A : jonctions serr&eacute;es||||||segmo
+B) Les cadh&eacute;rines permettent les jonctions cellule/cellule|40) Concernant les jonctions cellulaire :|UE2S110540|VRAI|||||||segmo
+C) Les int&eacute;grines permettent les jonctions cellule/matrice|40) Concernant les jonctions cellulaire :|UE2S110540|VRAI|||||||segmo
+D) Les desmosomes s'attachent aux FA|40) Concernant les jonctions cellulaire :|UE2S110540|FAUX|FI||||||segmo
+E) Les jonctions adh&eacute;rentes utilisent elle, les FI|40) Concernant les jonctions cellulaire :|UE2S110540|FAUX|FA||||||segmo
+A) CAM : cell adhesion molecular|41) Parmi les propositions suivantes :|UE2S110541|VRAI|||||||segmo
+B) Les N-CAM sont utiles aux cellules du tissu nerveux|41) Parmi les propositions suivantes :|UE2S110541|VRAI|||||||segmo
+C) Les gap jonctions cr&eacute;ent des ponts cytoplasmique entre les cellules|41) Parmi les propositions suivantes :|UE2S110541|VRAI|||||||segmo
+D) Les prot&eacute;ines des jonctions serr&eacute;es sont les desmogl&eacute;ines|41) Parmi les propositions suivantes :|UE2S110541|FAUX|D : claudine et occludine||||||segmo
+E) On retrouve des gap jonctions dans le pancr&eacute;as|41) Parmi les propositions suivantes :|UE2S110541|VRAI|||||||segmo
+A) M&eacute;tabolique|42) Indiquer la ou les propositions vraies Le tissu osseux joue un r&ocirc;le :|UE2S110542|VRAI|||||||segmo
+B) Protecteur|42) Indiquer la ou les propositions vraies Le tissu osseux joue un r&ocirc;le :|UE2S110542|VRAI|||||||segmo
+C) h&eacute;matopo&iuml;&eacute;tique|42) Indiquer la ou les propositions vraies Le tissu osseux joue un r&ocirc;le :|UE2S110542|VRAI|||||||segmo
+E) biom&eacute;canique|42) Indiquer la ou les propositions vraies Le tissu osseux joue un r&ocirc;le :|UE2S110542|VRAI|||||||segmo
+A) l'ost&eacute;on est l'unit&eacute; structurale de l'os spongieux|43) concernant l'organisation architecturale du tissu osseux :|UE2S110543|FAUX|A : os compacte||||||segmo
+B) chaque ost&eacute;on est form&eacute; de 6 &agrave; 20 lamelles osseuses|43) concernant l'organisation architecturale du tissu osseux :|UE2S110543|VRAI|||||||segmo
+C) Les canaux de Havers sont orient&eacute;s perpendiculairement &agrave; la diaphyse|43) concernant l'organisation architecturale du tissu osseux :|UE2S110543|FAUX|C : parall&egrave;lement||||||segmo
+D) Les canaux de Wolkman sont orient&eacute;s perpendiculairement &agrave; la diaphyse|43) concernant l'organisation architecturale du tissu osseux :|UE2S110543|VRAI|||||||segmo
+E) Le collag&egrave;ne repr&eacute;sente 90 % de la matrice organique|43) concernant l'organisation architecturale du tissu osseux :|UE2S110543|VRAI|||||||segmo
+A) L'ost&eacute;oblaste est la cellule s&eacute;cr&eacute;tant la matrice|44) Concernant les cellules du tissu osseux :|UE2S110544|VRAI|||||||segmo
+B) L'ost&eacute;ocyte est la cellule qui r&eacute;sorbe la matrice osseuse|44) Concernant les cellules du tissu osseux :|UE2S110544|FAUX|B : ost&eacute;oclaste||||||segmo
+C) L'ost&eacute;ocyte est une cellule ronde poss&eacute;dant peu de prolongement cytoplasmique|44) Concernant les cellules du tissu osseux :|UE2S110544|FAUX|C : &eacute;toil&eacute; avec bcp de prolongements||||||segmo
+D) L'ost&eacute;oclaste est d'origine m&eacute;senchymateuse|44) Concernant les cellules du tissu osseux :|UE2S110544|FAUX|D : d'origine h&eacute;matopo&iuml;&eacute;tique<br>du monocyte||||||segmo
+E) Les cellules bordantes sont des cellules inactives entretenant aucune communication avec les autres cellules|44) Concernant les cellules du tissu osseux :|UE2S110544|FAUX|E : entretenant beaucoup de communication||||||segmo
+A) Le cartilage &eacute;lastique est le cartilage le plus r&eacute;pandu du corps humain.|45) Concernant le cartilage :|UE2S110545|FAUX|A : hyalin||||||segmo
+B) On retrouve du cartilage fibreux dans l'oreille externe.|45) Concernant le cartilage :|UE2S110545|FAUX|B : &eacute;lastique||||||segmo
+C) Le cartilage hyalin se trouve au niveau des surfaces articulaires.|45) Concernant le cartilage :|UE2S110545|VRAI|||||||segmo
+D) La surface entourant les cartilages s'appelle le p&eacute;rioste.|45) Concernant le cartilage :|UE2S110545|FAUX|D: p&eacute;richondre||||||segmo
+E) La cellule du cartilage est le cartilocyte.|45) Concernant le cartilage :|UE2S110545|FAUX|E : chondrocyte||||||segmo

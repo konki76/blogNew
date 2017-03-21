@@ -1,0 +1,21 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+
+    <h2>{{ grp.title }}</h2>
+	<p>{{ grp.startContent }}</p>
+	<br/><br/>
+Liste des questions :<br/>
+
+{% for post in posts %}
+- <a href="{{ path('admin_post_edit', { id: post.id }) }}" >{{ post.title }} </a><br>
+{% endfor %}
+
+
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+{% endblock %}

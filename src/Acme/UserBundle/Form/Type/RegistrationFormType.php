@@ -24,6 +24,7 @@ class RegistrationFormType extends BaseType
         $builder
             ->add('lastname','text' , array('label' => 'form.lastname', 'translation_domain' => 'AcmeUserBundle'))
             ->add('firstname','text' , array('label' => 'form.firstname','translation_domain' => 'AcmeUserBundle'));
+//            ->add('coach','bool' , array('label' => 'form.coach','translation_domain' => 'AcmeUserBundle'));
     }
 
     public function getName()
@@ -38,5 +39,4 @@ class RegistrationFormType extends BaseType
     {
         return 'apl_user_registration';
     }
-	
 }

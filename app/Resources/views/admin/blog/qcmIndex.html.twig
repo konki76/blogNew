@@ -1,0 +1,44 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_qcm_index' %}
+
+{% block main %}
+    <h1>Liste des Qcm</h1>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th><i class="fa fa-calendar"></i> Published At</th>
+                <th><i class="fa fa-cogs"></i> Eléments Qcm</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for qcm in qcms %}
+            <tr>
+                <td>
+					<a href="{{ path('admin_qcm_edit', { id: qcm.id }) }}" >
+					{{ qcm.title }}
+					</a>
+				</td>
+                <td>{% if qcm.publishedAt %}{{ qcm.publishedAt|date('Y-m-d H:i') }}{% endif %}</td>
+                <td>
+					<a href="{{ path('admin_qcm_index', { id: qcm.id }) }}" >
+						<i class="fa fa-plus"></i> admin_qcmgrp_list
+					</a>  
+				</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+
+{% block sidebar %}
+    <div class="section actions">
+        <a href="{{ path('admin_qcm_new') }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> {{ 'Create a new Qcm' }}
+        </a>
+    </div>
+
+    {{ parent() }}
+{% endblock %}

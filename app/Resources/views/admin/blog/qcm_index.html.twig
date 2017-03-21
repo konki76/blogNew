@@ -1,0 +1,19 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'blog_index' %}
+
+{% block main %}
+
+    <h2>{-{ qcm }}</h2>
+
+	Mettre à jour un élement de l'ue '{-x{ ue.qcm }}' <br/>
+	
+	{-% for grp in grps %}
+	- <a href="{-{ path('admin_grpPage', { slug: grp.slug }) }-}" >{-{ grp.title }-}</a><br>
+	{-% endfor %}
+
+{% endblock %}
+
+{% block sidebar %}
+    {{ parent() }}
+{% endblock %}

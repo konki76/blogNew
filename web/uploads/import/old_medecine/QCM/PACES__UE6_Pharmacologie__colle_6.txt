@@ -1,0 +1,317 @@
+A.Correspondent à la première administration à l'homme, en dose unique, d'un médicament expérimental.	1) Les essais cliniques de phase 1	UE6S110601	VRAI							segmo
+B.Se font parfois en milieu « réel »	1) Les essais cliniques de phase 1	UE6S110601	FAUX	B: dans centre de recherche habilité						segmo
+C.Sont réalisés sur de petits effectifs (10 à 15 sujets)	1) Les essais cliniques de phase 1	UE6S110601	VRAI							segmo
+D.Sont réalisés en schéma croisé	1) Les essais cliniques de phase 1	UE6S110601	VRAI							segmo
+E.Précèdent les essais cliniques de phase 2	1) Les essais cliniques de phase 1	UE6S110601	VRAI							segmo
+A.Sont réalisés sur des sujets sains ou malades	2) Les essais cliniques de phase 2	UE6S110602	VRAI							segmo
+B.Ont comme objectif de permettre le passage à la phase 3 avec optimisation des chances de prouver le bénéfice espéré et d'évaluer le rapport bénéfice-risque	2) Les essais cliniques de phase 2	UE6S110602	VRAI							segmo
+C.Sont parfois réalisés en milieu « réel »	2) Les essais cliniques de phase 2	UE6S110602	FAUX	C:dans structure de recherche habilité						segmo
+D.Sont généralement réalisé en ouvert	2) Les essais cliniques de phase 2	UE6S110602	FAUX	D:réalisé en double aveugle						segmo
+E.Ont pour objectif de démontrer la preuve de l'intérêt d'un médicament expérimental chez le malade	2) Les essais cliniques de phase 2	UE6S110602	FAUX	E:Faux, phase 3						segmo
+A.Procèdent à une évaluation à moyen terme de sa pharmacodynamie en situation thérapeutique	3) Les essais cliniques de phase 3	UE6S110603	VRAI							segmo
+B.Sont réalisés parfois en milieu « réel »	3) Les essais cliniques de phase 3	UE6S110603	VRAI							segmo
+C.Sont rarement réalisés selon un schéma croisé	3) Les essais cliniques de phase 3	UE6S110603	VRAI							segmo
+D.Sont généralement réalisés en simple aveugle	3) Les essais cliniques de phase 3	UE6S110603	FAUX	D: double aveugle						segmo
+E.Sont réalisés sur de petits effectifs	3) Les essais cliniques de phase 3	UE6S110603	FAUX							segmo
+A.Les copies thérapeutiques exploitent une cible originale découverte /exploitée par un concurrent	4) Indiquez la (les) proposition(s) exacte(s) concernant les stratégies de mise sur le marché de médicaments :	UE6S110604	VRAI							segmo
+B.La pénicilline a été identifiée grâce à une approche rationnelle des découvertes biologiques récentes	4) Indiquez la (les) proposition(s) exacte(s) concernant les stratégies de mise sur le marché de médicaments :	UE6S110604	FAUX							segmo
+C.La pénicilline bloque une transpeptidase, enzyme qui permet aux micro-organismes de fabriquer différents peptidoglycanes de sa paroi	4) Indiquez la (les) proposition(s) exacte(s) concernant les stratégies de mise sur le marché de médicaments :	UE6S110604	VRAI							segmo
+D.Environ 5 molécules sont étudiées pour mettre sur le marché UN médicament	4) Indiquez la (les) proposition(s) exacte(s) concernant les stratégies de mise sur le marché de médicaments :	UE6S110604	FAUX	D: >5000						segmo
+E.Le prix de revient pour mettre sur le marché un nouveau médicament est de 0.5-1milliard d'euros	4) Indiquez la (les) proposition(s) exacte(s) concernant les stratégies de mise sur le marché de médicaments :	UE6S110604	VRAI							segmo
+A.Elles commencent par l'énoncer des caractéristiques des molécules connues pour reconnaître la cible	5) Indiquez la (les) proposition(s) exacte(s) concernant les études de relation structure-activité réalisées alors qu'on ne connait pas la structure de la cible :	UE6S110605	VRAI							segmo
+B.Les caractéristiques des molécules sont décrites à l'aide de descripteurs	5) Indiquez la (les) proposition(s) exacte(s) concernant les études de relation structure-activité réalisées alors qu'on ne connait pas la structure de la cible :	UE6S110605	VRAI							segmo
+C.On utilise la technique d'amarrage	5) Indiquez la (les) proposition(s) exacte(s) concernant les études de relation structure-activité réalisées alors qu'on ne connait pas la structure de la cible :	UE6S110605	FAUX							segmo
+D.La justesse des résultats de ces études dépend totalement de la qualité/quantité des observations ayant permis de construire le modèle	5) Indiquez la (les) proposition(s) exacte(s) concernant les études de relation structure-activité réalisées alors qu'on ne connait pas la structure de la cible :	UE6S110605	VRAI							segmo
+E.On construit les modèles par « docking »	5) Indiquez la (les) proposition(s) exacte(s) concernant les études de relation structure-activité réalisées alors qu'on ne connait pas la structure de la cible :	UE6S110605	FAUX	E: par « alignement»						segmo
+A.Les médicaments à usage humain	6) Le champ de compétence de l'Agence française de sécurité sanitaire des produits de santé comprend :	UE6S110606	VRAI							segmo
+B.Les médicaments à usage vétérinaire	6) Le champ de compétence de l'Agence française de sécurité sanitaire des produits de santé comprend :	UE6S110606	FAUX							segmo
+C.Les dispositifs médicaux	6) Le champ de compétence de l'Agence française de sécurité sanitaire des produits de santé comprend :	UE6S110606	VRAI							segmo
+D.Les médicaments dérivés du sang	6) Le champ de compétence de l'Agence française de sécurité sanitaire des produits de santé comprend :	UE6S110606	VRAI							segmo
+E.Les produits diététiques	6) Le champ de compétence de l'Agence française de sécurité sanitaire des produits de santé comprend :	UE6S110606	FAUX							segmo
+A.Sont menées sur des animaux de laboratoire (in vivo)	7) Indiquez la (les) proposition(s) exacte(s) concernant les études de toxicité :	UE6S110607	VRAI							segmo
+B.Sont menées sur des organes, tissus, cellules isolées (ex vivo)	7) Indiquez la (les) proposition(s) exacte(s) concernant les études de toxicité :	UE6S110607	VRAI							segmo
+C.Sont menées sur des cibles, molécules, récepteurs (in vitro)	7) Indiquez la (les) proposition(s) exacte(s) concernant les études de toxicité :	UE6S110607	VRAI							segmo
+D.Sont menées sur des Hommes sains uniquement (in vivo)	7) Indiquez la (les) proposition(s) exacte(s) concernant les études de toxicité :	UE6S110607	FAUX							segmo
+E.Sont menées sur des cibles virtuelles uniquement (in vitro)	7) Indiquez la (les) proposition(s) exacte(s) concernant les études de toxicité :	UE6S110607	FAUX							segmo
+A.Ils peuvent-être liés à l'âge	8)Indiquez la (les) proposition(s) exacte(s) concernant les effets toxiques :	UE6S110608	VRAI							segmo
+B.Ils sont toujours irréversibles	8)Indiquez la (les) proposition(s) exacte(s) concernant les effets toxiques :	UE6S110608	FAUX							segmo
+C.Ils peuvent-être liés à la voie d'administration	8)Indiquez la (les) proposition(s) exacte(s) concernant les effets toxiques :	UE6S110608	VRAI							segmo
+D.Ils ne sont jamais liés à l'environnement	8)Indiquez la (les) proposition(s) exacte(s) concernant les effets toxiques :	UE6S110608	FAUX							segmo
+E.Ils sont d'intensité variable	8)Indiquez la (les) proposition(s) exacte(s) concernant les effets toxiques :	UE6S110608	VRAI							segmo
+A.Les études de toxicité aiguë se font par administration unique du produit	9)Indiquez la (les) proposition(s) exacte(s) concernant la toxicité algue:	UE6S110609	VRAI							segmo
+B.Les études de toxicité aiguë permettent d'évaluer les effets toxiques susceptibles d'apparaitre après une administration répétée du produit	9)Indiquez la (les) proposition(s) exacte(s) concernant la toxicité aigue:	UE6S110609	FAUX							segmo
+C.Ces études permettent d'orienter sur les doses à tester lors des essais ultérieurs par administration répétée	9)Indiquez la (les) proposition(s) exacte(s) concernant la toxicité aiguë:	UE6S110609	VRAI							segmo
+D.Les effets toxiques aigus sont toujours morphologiques	9)Indiquez la (les) proposition(s) exacte(s) concernant la toxicité algue:	UE6S110609	FAUX	D: morphologique ou fonctionnel						segmo
+E.Le polymorphisme des animaux n'intègrent pas ces études	9)Indiquez la (les) proposition(s) exacte(s) concernant la toxicité aigue:	UE6S110609	FAUX							segmo
+A.La génotoxicité est la toxicité entrainant des cancers	10) Indiquez la (les) proposition(s) exacte(s) concernant les études de génotoxicité :	UE6S110610	FAUX	A:modifie le matériel génétique						segmo
+B.Un effet mutagène induit une modification structurale des chromosomes	10) Indiquez la (les) proposition(s) exacte(s) concernant les études de génotoxicité :	UE6S110610	FAUX	B:effet mutagène induit une modification permanente de la structure d'un gène ou de ses séquences de régulation						segmo
+C.Un effet clastogène induit une modification permanente de la structure d'un gène ou de ses séquences de régulation	10) Indiquez la (les) proposition(s) exacte(s) concernant les études de génotoxicité :	UE6S110610	FAUX	C:effet clastogène induit une modification structurale des chromosomes						segmo
+D.Ces études permettent de mettre en évidence une modification du patrimoine génétique	10) Indiquez la (les) proposition(s) exacte(s) concernant les études de génotoxicité :	UE6S110610	VRAI							segmo
+E.Ces études peuvent détecter des effets tératogènes du produit	10) Indiquez la (les) proposition(s) exacte(s) concernant les études de génotoxicité :	UE6S110610	FAUX	mutagène et clastogène						segmo
+A.La cancérogénicité est la toxicité qui modifie le matériel génétique	11) Indiquez la (les) proposition(s) exacte(s) concernant les études de cancérogénicité :	UE6S110611	FAUX	A: donne des cancers						segmo
+B.Ces études sont non requises pour la conduite d'un essai clinique sauf en cas de certains signes d'appel	11) Indiquez la (les) proposition(s) exacte(s) concernant les études de cancérogénicité :	UE6S110611	VRAI							segmo
+C.Ces études sont requises pour tout médicament à indication de longue durée	11) Indiquez la (les) proposition(s) exacte(s) concernant les études de cancérogénicité :	UE6S110611	VRAI							segmo
+D.Ces études sont requises pour tout médicament à utilisation répétée	11) Indiquez la (les) proposition(s) exacte(s) concernant les études de cancérogénicité :	UE6S110611	VRAI							segmo
+E.Ces études sont requises pour tout médicament à utilisation unique	11) Indiquez la (les) proposition(s) exacte(s) concernant les études de cancérogénicité :	UE6S110611	FAUX							segmo
+A.L'observance est le respect des instructions et des prescriptions du médecin et/ou pharmacien	12) Indiquez la (les) proposition(s) exacte(s) concernant les défauts d'observance :	UE6S110612	VRAI							segmo
+B.Le défaut d'observance est un facteur majeur d'échec thérapeutique pour le patient	12) Indiquez la (les) proposition(s) exacte(s) concernant les défauts d'observance :	UE6S110612	VRAI							segmo
+C.Le défaut d'observance introduit en plus un risque iatrogène	12) Indiquez la (les) proposition(s) exacte(s) concernant les défauts d'observance :	UE6S110612	VRAI							segmo
+D.Le défaut d'observance est révélateur de la relation médecin-malade	12) Indiquez la (les) proposition(s) exacte(s) concernant les défauts d'observance :	UE6S110612	VRAI							segmo
+E.Le défaut d'observance a une prévalence de 32% après hospitalisation (USA)	12) Indiquez la (les) proposition(s) exacte(s) concernant les défauts d'observance :	UE6S110612	VRAI							segmo
+A.Est anarchique lorsqu'elle est non encadrée	13) Indiquez la (les) proposition(s) exacte(s) concernant l'automédication :	UE6S110613	VRAI	Automédication : Sans prescription, différent de la iatropathogénie						segmo
+B.Diminue après 65ans	13) Indiquez la (les) proposition(s) exacte(s) concernant l'automédication :	UE6S110613	VRAI							segmo
+C.Peut être la signification d'échec de traitement antérieur	13) Indiquez la (les) proposition(s) exacte(s) concernant l'automédication :	UE6S110613	VRAI							segmo
+D.Expose à des accidents médicamenteux	13) Indiquez la (les) proposition(s) exacte(s) concernant l'automédication :	UE6S110613	VRAI							segmo
+E.Expose à un risque iatrogène	13) Indiquez la (les) proposition(s) exacte(s) concernant l'automédication :	UE6S110613	FAUX	automédication est exclu de la iatrogénie						segmo
+A.Signifie le niveau de concordance entre les recommandations du médecin et le comportement du patient	14) Indiquez la (les) proposhion(s) exacte(s) concernant l'iatropathogénie :	UE6S110614	FAUX	A: définition de l'observance						segmo
+B.Expose à des accidents médicamenteux	14) Indiquez la (les) proposhion(s) exacte(s) concernant l'iatropathogénie :	UE6S110614	VRAI							segmo
+C.Peut-être à l'origine de mortalité	14) Indiquez la (les) proposhion(s) exacte(s) concernant l'iatropathogénie :	UE6S110614	VRAI							segmo
+D.Est toujours liées à la prescription médicale	14) Indiquez la (les) proposhion(s) exacte(s) concernant l'iatropathogénie :	UE6S110614	VRAI							segmo
+E.Interfère sur l'évolution de la maladie initialement prise en charge	14) Indiquez la (les) proposhion(s) exacte(s) concernant l'iatropathogénie :	UE6S110614	VRAI							segmo
+A. Les accidents médicamenteux sont prévisibles, comme les accidents allergiques	15) Indiquez la (les) proposition(s) exacte(s) concernant les accidents médicamenteux :	UE6S110615	FAUX	A: prévisible comme les médicaments anti-hypertenseurs et hypotensions						segmo
+B. Les accidents médicamenteux sont toujours acceptables	15) Indiquez la (les) proposition(s) exacte(s) concernant les accidents médicamenteux :	UE6S110615	FAUX							segmo
+C. Les accidents médicamenteux sont la 8eme cause de mortalité aux USA	15) Indiquez la (les) proposition(s) exacte(s) concernant les accidents médicamenteux :	UE6S110615	VRAI							segmo
+D. Les accidents médicamenteux sont la 8eme cause de morbidité aux USA	15) Indiquez la (les) proposition(s) exacte(s) concernant les accidents médicamenteux :	UE6S110615	FAUX	morTALité						segmo
+E. Les accidents toxiques portent sur l'effet pharmacodynamique principal du médicament	15) Indiquez la (les) proposition(s) exacte(s) concernant les accidents médicamenteux :	UE6S110615	VRAI							segmo
+A. Un effet indésirable (El) des médicaments est une réaction bénéfique et non voulue	16) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance :	UE6S110616	FAUX	A: réaction nocive et non voulue						segmo
+B. Un El est grave s'il entraine un décès	16) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance :	UE6S110616	VRAI							segmo
+C. Un El des médicaments se produit lors d'un mésusage du médicament uniquement	16) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance :	UE6S110616	FAUX	C : utilisé dans des conditions normales « recommandées » ou pouvant résulter d'un mauvais usage						segmo
+D. 50% des El sont « évitables »	16) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance :	UE6S110616	VRAI							segmo
+E. Un El, dû au mésusage, est toujours la faute du patient	16) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance :	UE6S110616	FAUX							segmo
+A. Les médecins	17) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance : L'obligation de signalement des El en France est pour :	UE6S110617	VRAI							segmo
+B. Les dentistes	17) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance : L'obligation de signalement des El en France est pour :	UE6S110617	VRAI							segmo
+C. Les sage-femmes	17) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance : L'obligation de signalement des El en France est pour :	UE6S110617	VRAI							segmo
+D. Les pharmaciens	17) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance : L'obligation de signalement des El en France est pour :	UE6S110617	VRAI							segmo
+E. Les infirmières	17) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance : L'obligation de signalement des El en France est pour :	UE6S110617	FAUX							segmo
+A. Elle intervient juste après les études in vitro	18) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance (PV)	UE6S110618	FAUX	A: Après l'AMM						segmo
+B. L'enregistrement informatique des cas dans la base de données nationale est anonyme	18) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance (PV)	UE6S110618	VRAI							segmo
+C. AFSSaPS est composée d'un comité technique de PV et d'une commission nationale de PV	18) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance (PV)	UE6S110618	VRAI	AFSSAPS remplacé par l'ANSM depuis 2012						segmo
+D. AFSSaPS ne peut pas modifier le Résumé des Caractéristiques du Produit	18) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance (PV)	UE6S110618	FAUX	D:AFSSaPS peut modifier le Résumé des Caractéristiques du Produit<br />AFSSAPS remplacé par l'ANSM depuis 2012						segmo
+E. La PV évalue le rôle exact du médicament dans la survenue d'un effet indésirable	18) Indiquez la (les) proposition(s) exacte(s) concernant la pharmacovigilance (PV)	UE6S110618	VRAI							segmo
+A. puissance : A &gt; B &gt; C &gt; D	19) Indiquez la (les) proposition(s) exacte(s) concernant l'image ci-dessus, sur l'image 1 : réponse	UE6S110619	VRAI		"<img src=""UE6S1106s1.jpeg"" />"					segmo
+B. puissance : A&nbsp;&lt; B &lt; C &lt; D	19) Indiquez la (les) proposition(s) exacte(s) concernant l'image ci-dessus, sur l'image 1 : réponse	UE6S110619	FAUX	puissance: A &gt; B &gt; C &gt; D	"<img src=""UE6S1106s1.jpeg"" />"					segmo
+C. efficacité : D &gt; B &gt; C &gt; A	19) Indiquez la (les) proposition(s) exacte(s) concernant l'image ci-dessus, sur l'image 1 : réponse	UE6S110619	VRAI		"<img src=""UE6S1106s1.jpeg"" />"					segmo
+D. efficacité : A &gt; C &gt; B &gt; D	19) Indiquez la (les) proposition(s) exacte(s) concernant l'image ci-dessus, sur l'image 1 : réponse	UE6S110619	FAUX		"<img src=""UE6S1106s1.jpeg"" />"					segmo
+E. affinité : D &gt; C &gt; B &gt; A	19) Indiquez la (les) proposition(s) exacte(s) concernant l'image ci-dessus, sur l'image 1 : réponse	UE6S110619	FAUX	DBCA	"<img src=""UE6S1106s1.jpeg"" />"					segmo
+A. Les agonistes ont une affinité et une activité intrinsèque	20) Indiquez la (les) proposition(s) exacte(s) concernant les agonistes :	UE6S110620	VRAI							segmo
+B. L'agoniste est entier lorsque son activité intrinsèque a=1	20) Indiquez la (les) proposition(s) exacte(s) concernant les agonistes :	UE6S110620	VRAI							segmo
+C. CE50 caractérise la concentration entrainant 50% de Emax	20) Indiquez la (les) proposition(s) exacte(s) concernant les agonistes :	UE6S110620	VRAI							segmo
+D. Emax est représenté par le plateau de la courbe	20) Indiquez la (les) proposition(s) exacte(s) concernant les agonistes :	UE6S110620	VRAI							segmo
+E. La pente caractérise l'activité de la molécule	20) Indiquez la (les) proposition(s) exacte(s) concernant les agonistes :	UE6S110620	VRAI							segmo
+A. (B) est un antagoniste compétitif	21) Indiquez la (les) proposition(s) exacte(s) ancereht l'image 2	UE6S110621	VRAI		"<img src=""UE6S1106s2.jpeg"" />"					segmo
+B. (B) est un antagoniste non compétitif	21) Indiquez la (les) proposition(s) exacte(s) ancereht l'image 2	UE6S110621	FAUX		"<img src=""UE6S1106s2.jpeg"" />"					segmo
+C. X représente Emax de la courbe de l'agoniste	21) Indiquez la (les) proposition(s) exacte(s) ancereht l'image 2	UE6S110621	FAUX		"<img src=""UE6S1106s2.jpeg"" />"					segmo
+D. X représente CE50 de la courbe de l'agoniste	21) Indiquez la (les) proposition(s) exacte(s) ancereht l'image 2	UE6S110621	VRAI		"<img src=""UE6S1106s2.jpeg"" />"					segmo
+E. Cet antagoniste est surmontable	21) Indiquez la (les) proposition(s) exacte(s) ancereht l'image 2	UE6S110621	VRAI		"<img src=""UE6S1106s2.jpeg"" />"					segmo
+A. Cet antagoniste se fixe sur le même site actif que l'agoniste	22) Indiquez la (les) proposition(s) exacte(s) concernant l'image 2	UE6S110622	VRAI	ABCDE. X:CE50 de l'agoniste Y: CE50 de l'agoniste + antagoniste Z:Emax	"<img src=""UE6S1106s2.jpeg"" />"					segmo
+B. Cet antagoniste peut aussi se fixer sur un site actif différent de celui de l'agoniste	22) Indiquez la (les) proposition(s) exacte(s) concernant l'image 2	UE6S110622	FAUX	ABCDE. X:CE50 de l'agoniste Y: CE50 de l'agoniste + antagoniste Z:Emax	"<img src=""UE6S1106s2.jpeg"" />"					segmo
+C. Y représente la puissance de l'agoniste+antagoniste	22) Indiquez la (les) proposition(s) exacte(s) concernant l'image 2	UE6S110622	VRAI	ABCDE. X:CE50 de l'agoniste Y: CE50 de l'agoniste + antagoniste Z:Emax	"<img src=""UE6S1106s2.jpeg"" />"					segmo
+D. La puissance de l'agoniste est plus importante que la puissance agoniste + antagoniste qui se traduit par X > Y	22) Indiquez la (les) proposition(s) exacte(s) concernant l'image 2	UE6S110622	FAUX	ABCDE. La puissance de X est plus importante mais se traduit par X < Y<br>X:CE50 de l'agoniste Y: CE50 de l'agoniste + antagoniste Z:Emax	"<img src=""UE6S1106s2.jpeg"" />"					segmo
+E. La puissance de l'agoniste est plus importante que la puissance agoniste+antagoniste qui se traduit par X<Y	22) Indiquez la (les) proposition(s) exacte(s) concernant l'image 2	UE6S110622	VRAI	ABCDE. X:CE50 de l'agoniste Y: CE50 de l'agoniste + antagoniste Z:Emax	"<img src=""UE6S1106s2.jpeg"" />"					segmo
+A. La CI50 (concentration inhibitrice 50) permet de comparer la CE50 des antagonistes entre eux	23) Indiquez la (les) proposition(s) exacte(s) :	UE6S110623	VRAI							segmo
+B. La CI50 est la concentration d'antagoniste qui diminue de 50% l'amplitude de l'effet d'un agoniste à une dose donnée	23) Indiquez la (les) proposition(s) exacte(s) :	UE6S110623	VRAI							segmo
+C. Plus la constante d'affinité est importante et plus l'aptitude du médicament à se fixer sur le récepteur est petite	23) Indiquez la (les) proposition(s) exacte(s) :	UE6S110623	FAUX	C:Plus la constante d'affinité est importante et plus l'aptitude du médicament à se fixer sur le récepteur est grande						segmo
+D. Le nombre de récepteur occupé dépend de la concentration du médicament et de son affinité pour le récepteur uniquement	23) Indiquez la (les) proposition(s) exacte(s) :	UE6S110623	VRAI							segmo
+E. 50% des médicaments agissent sur des récepteurs membranaires	23) Indiquez la (les) proposition(s) exacte(s) :	UE6S110623	VRAI							segmo
+A. Les agents pharmacologiques sont comparés à des « bistouris chimiques » pour comprendre les mécanismes biologiques.	24) Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?	UE6S110624	VRAI							segmo
+B. Le Mercure a été utilisé comme anthelminthique et antisyphilitique.	24) Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?	UE6S110624	VRAI							segmo
+C. Les préparations placéboïdes contiennent à des doses infinitésimales de l'Arsenic.	24) Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?	UE6S110624	FAUX	C : préparations placéboïdes contiennent à des doses infinitésimales de l'Argent						segmo
+D. Un hétéroside, par définition, est une substance contenant un atome d'Azote (N).	24) Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?	UE6S110624	FAUX	D : hétéroside = qui comporte une fraction osidique (contenant des oses, ou sucres), un alcaloïde contient au moins un atome d'azote N.						segmo
+E. L'atropine est un hétéroside anti-ulcéreux .	24) Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?	UE6S110624	FAUX	E : Atropine=ALCALOIDE anti-ulcéreux provient des feuilles de belladone						segmo
+A. Atropine.	25) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) hétéroside(s) :	UE6S110625	FAUX	A+B+C+E= Alcaloïdes !!						segmo
+B. Morphine.	25) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) hétéroside(s) :	UE6S110625	FAUX							segmo
+C. Nicotine.	25) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) hétéroside(s) :	UE6S110625	FAUX							segmo
+D. Digitaline.	25) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) hétéroside(s) :	UE6S110625	VRAI							segmo
+E. Papavérine.	25) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) hétéroside(s) :	UE6S110625	FAUX							segmo
+A. L'AMPc est un messager secondaire qui peut être dosé pour étudier l'effet d'une substance pharmacologique.	26) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110626	VRAI							segmo
+B. Une petite variation chimique ne donne pas de variations pharmacologiques.	26) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110626	FAUX							segmo
+C. Les « dirty drugs » affectent plusieurs cibles et donnent des effets qualitativement nombreux.	26) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110626	VRAI							segmo
+D. L'ensemble des récepteurs qui peuvent être affectés par un ligand est par définition un réceptogramme.	26) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110626	VRAI							segmo
+E. Le Pharmakon dans le grec ancien désignait à la fois un remède, un poison mais aussi un bouc émissaire.	26) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110626	VRAI							segmo
+A. La commercialisation de molécules racémiques est parfois suivie de la commercialisation de l'énantiomère le plus actif des deux.	27) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110627	VRAI							segmo
+B. Le Tiorphan est un médicament intrinsèquement actif.	27) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110627	FAUX							segmo
+C. Le Tiorphan est un médicament extrinsèquement inactif.	27) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110627	FAUX							segmo
+D. Le Tiorphan est un médicament extrinsèquement actif.	27) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110627	VRAI	promédicament intrasèquement inactif						segmo
+E. Le Tiorphan est un médicament intrinsèquement inactif.	27) Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110627	VRAI							segmo
+A. On peut être dépendant à des substances, mais aussi à des objets tels que le travail, le sexe ou le jeu.	28) Concernant les toxicomanies et addictions :	UE6S110628	VRAI							segmo
+B. Une drogue est une substance qui induit toujours une dépendance physique.	28) Concernant les toxicomanies et addictions :	UE6S110628	FAUX	B : toujours dépendance psychique						segmo
+C. Le syndrome d'abstinence est une période sans souffrance pour le toxicomane.	28) Concernant les toxicomanies et addictions :	UE6S110628	FAUX	C : souffrance psychique (traits dépressifs, tristesse, focalisation d'attention sur le produit)						segmo
+D. La répétition des prises de drogue augmentent les effets désagréables et aversifs.	28) Concernant les toxicomanies et addictions :	UE6S110628	FAUX	D : diminue les effets désagréables et aversifs, augmente le plaisir, les effets appétitifs						segmo
+E. Certains médicaments peuvent être utilisés à des fins toxicomanogènes (morphine, benzodiazépines)	28) Concernant les toxicomanies et addictions :	UE6S110628	VRAI							segmo
+A. Il a une origine végétale.	29) Concernant le cannabis, ou chanvre indien :	UE6S110629	VRAI							segmo
+B. Il peut déclencher une dépression, même si il procure un effet pseudo anti dépresseur immédiat.	29) Concernant le cannabis, ou chanvre indien :	UE6S110629	VRAI							segmo
+C. Il y a 1,6 Million d'utilisateurs en France.	29) Concernant le cannabis, ou chanvre indien :	UE6S110629	VRAI							segmo
+D. Sa concentration active est de l'ordre du microgramme par litre.	29) Concernant le cannabis, ou chanvre indien :	UE6S110629	VRAI							segmo
+E. Il s'accumule dans le pancréas plusieurs semaines.	29) Concernant le cannabis, ou chanvre indien :	UE6S110629	FAUX	E : dans le cerveau et les tissus adipeux pendant 2 mois.						segmo
+A. Est l'hétéroside principal des feuilles de l'arbuste Andin-Erythroxylon coca.	30) Concernant la cocaïne :	UE6S110630	FAUX	A: alcaloïde						segmo
+B. Est extraite avec des solvants organiques pour donner son chlorhydrate.	30) Concernant la cocaïne :	UE6S110630	VRAI							segmo
+C. Le chlorhydrate de cocaïne est sous forme de cailloux.	30) Concernant la cocaïne :	UE6S110630	FAUX	C :crack =cailloux, chlorhydrate=poudre blanche						segmo
+D. Sévit principalement dans la tranche d'âge des 60-85 ans.	30) Concernant la cocaïne :	UE6S110630	FAUX	D :25-35 ans						segmo
+E. Sa base a un pouvoir addictif encore plus important que le chlorhydrate.	30) Concernant la cocaïne :	UE6S110630	VRAI							segmo
+A.Est la plus détériorante des drogues actuellement utilisées.	31) Concernant l'héroïne :	UE6S110631	VRAI							segmo
+B.Est un dérivé hémi-synthétique de la morphine.	31) Concernant l'héroïne :	UE6S110631	VRAI							segmo
+C.A pour cible les transporteurs neuronaux des monoamines de la membrane plasmique (DET, DAT, SERT).	31) Concernant l'héroïne :	UE6S110631	FAUX	C :récepteur opioïdes mu						segmo
+D.Entraine la mort par détresse respiratoire.	31) Concernant l'héroïne :	UE6S110631	VRAI							segmo
+E.Les manifestations du manque sont à l'opposé des effets aigus de la drogue.	31) Concernant l'héroïne :	UE6S110631	VRAI							segmo
+A.La protéine G hétérotrimérique est présente à la face externe de la membrane plasmique.	32) Concernant les Récepteurs Couplés aux Protéines G (RCPG)	UE6S110632	FAUX	A :interne						segmo
+B.L'activation de RCPG peut aboutir à l'inhibition d'un effecteur.	32) Concernant les Récepteurs Couplés aux Protéines G (RCPG)	UE6S110632	VRAI							segmo
+C.La fixation de GTP sur l'unité alpha entraine la séparation de alpha avec le doublet bêta-gamma	32) Concernant les Récepteurs Couplés aux Protéines G (RCPG)	UE6S110632	VRAI							segmo
+D.Les deux sous unités alpha et gamma sont toujours ensemble.	32) Concernant les Récepteurs Couplés aux Protéines G (RCPG)	UE6S110632	FAUX	D : beta-gamma toujours ensemble						segmo
+E.Sont des glycoprotéines monomériques à 10 hélices transmembranaires.	32) Concernant les Récepteurs Couplés aux Protéines G (RCPG)	UE6S110632	FAUX	E: RCPG= glycoprotéine monomérique à 7 hélices transmembranaires !!						segmo
+A.Le curare est un activateur allostérique des récepteurs GABA-A.	33) Concernant les cibles des médicaments :	UE6S110633	FAUX	A: curare—Atg des rec nicotiniques musculaires						segmo
+B.Les benzodiazépines et/ou barbituriques sont des agonistes des ionotropiques du glutamate.	33) Concernant les cibles des médicaments :	UE6S110633	FAUX	B : Les benzodiazépines et/ou barbituriques sont des activateurs allostérique des récepteurs GABA-A.						segmo
+C.Les hormones de croissance sont utilisés en cancérologie et dans le traitement des hépatites B et C et de la sclérose en plaque.	33) Concernant les cibles des médicaments :	UE6S110633	FAUX	C: les interférons non pas hormone de croissance						segmo
+D.L'oméprazole est activé par le PH acide de l'estomac généré par la pompe à proton, inhibiteur irréversible de sa cible.	33) Concernant les cibles des médicaments :	UE6S110633	VRAI							segmo
+E.Les anti-inflammatoires stéroïdiens agissent sur le récepteur des glucocorticoïdes.	33) Concernant les cibles des médicaments :	UE6S110633	VRAI							segmo
+A.Sont des enzymes inclues dans la membrane plasmique.	34) Concernant les canaux voltage-dépendants, ATPases et transporteurs	UE6S110634	FAUX	A :glycoprotéines, mono ou polymères incules dans la mb plasmique						segmo
+B.Les canaux voltage-dépendants s'ouvrent en réponse à un médiateur.	34) Concernant les canaux voltage-dépendants, ATPases et transporteurs	UE6S110634	FAUX	B :dépolarisation le + souvent ou hyperpolarisation						segmo
+C.Les ATPases concentrent les ions à l'extérieur.	34) Concernant les canaux voltage-dépendants, ATPases et transporteurs	UE6S110634	VRAI							segmo
+D.Les inhibiteurs spécifiques de la recapture de sérotonine agissent sur des co-transporteur passifs d'ions (Na+,K+)	34) Concernant les canaux voltage-dépendants, ATPases et transporteurs	UE6S110634	FAUX	D: ISRS agit sur co transporteurs actifs de neuromédiateurs du SNC<div><br /></div><div>transporteurs :&nbsp;<br />* co-transporteurs (passifs) d'ions (Na+, K+, Cl-) / rein<br />cibles de diurétiques antihypertenseurs&nbsp;<br /><br />* co-transporteurs (actifs) de neuromédiateurs (sérotonine, noradrénaline, dopamine) et d'ions<br />système nerveux central<br />cibles des antidépresseurs tricycliques (imipramine) et Inhibiteurs Spécifiques de la Recapture de Sérotonine (ISRS).</div>						segmo
+E.La digoxine est un médicament de l'insuffisance rénale à marge thérapeutique particulièrement étroite.	34) Concernant les canaux voltage-dépendants, ATPases et transporteurs	UE6S110634	FAUX	E :insuffisance cardiaque !						segmo
+A.Le traitement symptomatique peut retarder le diagnostic de la maladie.	35) Parmi les proposhions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110635	VRAI							segmo
+B.Il faut évaluer l'état psychique et physique du patient avant de rédiger l'ordonnance.	35) Parmi les proposhions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110635	VRAI							segmo
+C.Le métabolisme des médicaments peut être modifié par le poids, ou l'état d'hydratation du patient.	35) Parmi les proposhions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110635	VRAI							segmo
+D.Le patient peut avoir des demandes particulières qu'il faut essayer de concilier au mieux avec l'objectif thérapeutique.	35) Parmi les proposhions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110635	VRAI							segmo
+E.Si le prescripteur veut vérifier une posologie ou une contre-indication, il peut consulter les RCP dans le livre de référence : le Vidal.	35) Parmi les proposhions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110635	VRAI							segmo
+A.L'adhésion du malade au projet thérapeutique nécessite d'expliquer la prescription, pour qu'elle soit comprise et acceptée.	36. Panni les propositions suivantesdaquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110636	VRAI							segmo
+B.Il n'est pas nécessaire de prévenir les autres médecins prenant en charge le malade des nouveaux traitements et des modifications thérapeutiques associées.	36. Panni les propositions suivantesdaquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110636	FAUX	B :informer les autres médecins des traitements sinon interactions et double emploi-H-F.						segmo
+C.La communication entre le patient et le pharmacien peut s'avérer nécessaire.	36. Panni les propositions suivantesdaquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110636	VRAI							segmo
+D.La surveillance d'un traitement est basée sur une surveillance clinique et para-clinique adaptées au traitement.	36. Panni les propositions suivantesdaquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110636	VRAI							segmo
+E.La surveillance du traitement repose uniquement sur un seul et unique critère : la tolérance.	36. Panni les propositions suivantesdaquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110636	FAUX	E :TOLERANCE + EFFICACITE						segmo
+A.Le manque d'observance peut être la cause d'une inefficacité thérapeutique.	37. Concernant la surveillance du traitement et son évaluation	UE6S110637	VRAI							segmo
+B.Prendre à vie un traitement anxiolytique est pertinent.	37. Concernant la surveillance du traitement et son évaluation	UE6S110637	FAUX	B : absolument pas pertinent !						segmo
+C.La situation cognitive du patient peut avoir changé.	37. Concernant la surveillance du traitement et son évaluation	UE6S110637	VRAI							segmo
+D.Les pathologies intercurrentes ne contre indiquent pas l'arrêt d'un traitement antérieurement prescrit.	37. Concernant la surveillance du traitement et son évaluation	UE6S110637	FAUX	D :faux, peuvent contre indiquer le traitement initial						segmo
+E.Un nouveau symptôme ne peut pas être un effet indésirable possible, c'est une nouvelle maladie obligatoirement.	37. Concernant la surveillance du traitement et son évaluation	UE6S110637	FAUX	E :avoir le «réflexe iatrogène » c'est peut être un El						segmo
+A.Oméprazole est un médicament par présentation.	38. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110638	FAUX	par fonction	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+B.Ce médicament est un Produit Officinal Divisé.	38. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110638	FAUX		"<img src=""UE6S1106s3.jpeg"" />"					segmo
+C.Ce médicament est une Spécialité Pharmaceutique.	38. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110638	VRAI	00	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+D.Oméprazole est un médicament par fonction.	38. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110638	VRAI		"<img src=""UE6S1106s3.jpeg"" />"					segmo
+E.Un des excipients est le saccharose : une substance auxiliaire physiologiquement active.	38. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110638	FAUX	E: inactive par définition	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+A.La forme galénique est un comprimé sécable.	39. Concernant l'Oméprazole	UE6S110639	FAUX		"<img src=""UE6S1106s3.jpeg"" />"					segmo
+B.La forme galénique est une gélule gastro-résistante.	39. Concernant l'Oméprazole	UE6S110639	VRAI		"<img src=""UE6S1106s3.jpeg"" />"					segmo
+C.Il agit sur les cellules pariétales de l'intestin.	39. Concernant l'Oméprazole	UE6S110639	FAUX	C :cellules pariétales de l'estomac	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+D.C'est un Inhibiteur Sélectif de Recapture de la Sérotonine (ISRS).	39. Concernant l'Oméprazole	UE6S110639	FAUX		"<img src=""UE6S1106s3.jpeg"" />"					segmo
+E.C'est un inhibiteur irréversible de sa cible.	39. Concernant l'Oméprazole	UE6S110639	VRAI		"<img src=""UE6S1106s3.jpeg"" />"					segmo
+A. 43667348.	40. Le code CIP de cette vignette est	UE6S110640	FAUX	Code CIP a 7 caractères juste après le 1er numéro !	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+B. 000676.	40. Le code CIP de cette vignette est	UE6S110640	FAUX	Code CIP a 7 caractères juste après le 1er numéro !	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+C. 3667348000676.	40. Le code CIP de cette vignette est	UE6S110640	FAUX	Code CIP a 7 caractères juste après le 1er numéro !	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+D. 436673480067600	40. Le code CIP de cette vignette est	UE6S110640	FAUX	Code CIP a 7 caractères juste après le 1er numéro !	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+E. 3667348	40. Le code CIP de cette vignette est	UE6S110640	VRAI	Code CIP a 7 caractères juste après le 1er numéro !	"<img src=""UE6S1106s3.jpeg"" />"					segmo
+A.La durée de prescription d'un médicament est de 12 mois en règle générale.	41. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110641	VRAI							segmo
+B.Certains, comme les psychotropes et hypnotiques ont une durée de prescription limitée à 6 mois.	41. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110641	FAUX	B :4 ou 2 semaines						segmo
+C.Les médicaments d'exception sont toujours prescrits sur des ordonnances sécurisées.	41. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110641	FAUX	C : pas toujours<div>Ordonnance de&nbsp;<b>médicaments d'exception</b>&nbsp;:&nbsp;<br />ordonnance à 4 volets,&nbsp;<br />autodupliquants → conforme aux indications de la FIT,&nbsp;<br />droit au remboursement à 100%&nbsp;<br />Ordonnance d'une affection de longue durée ALD&nbsp;:&nbsp;<br />ordonnance bizône,&nbsp;<b>sécurisé ou non</b>,&nbsp;<br />affection exonérante = prise en charge à 100%&nbsp;<br />maladies intercurrentes (pas 100%)</div>						segmo
+D.Les médicaments psychotropes de liste 1 comme les anxiolytique peuvent être prescrits 12 semaines.	41. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110641	VRAI							segmo
+E.Certains hypnotiques ont une durée de traitement de 3 ou 6 semaines.	41. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110641	FAUX	E : 2 ou 4 semaines.						segmo
+A.Le chevauchement est autorisé pour les ordonnances sécurisées.	42. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110642	FAUX	A :non !						segmo
+C. Pour les stupéfiants, au-delà de 3 jours, il y aura un décompte des doses.	42. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110642	VRAI							segmo
+D.Le pharmacien écrit sur l'ordonnance la quantité prescrite avec des chiffres.	42. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110642	FAUX	D : en toutes lettres						segmo
+E.Le numéro de lot de l'ordonnance sécurisée est labellisée AFNOR.	42. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110642	VRAI							segmo
+A. La voie intradermique a le même type de voie d'administration que la voie intraveineuse.	43. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110643	FAUX	A: intradermique=-parentérale visée locale et IV=parentérale visée systémique<div><br /><div><u>Voies d'administration et résorption</u>&nbsp;<br /><b>voies entérales</b>&nbsp;: orale (per os), perlinguale, rectale (pb résorption pas cste)&nbsp;<br /><br /><b>voies parentérales</b>&nbsp;<br /><br />* à visée&nbsp;<b>systématique</b>&nbsp;: voies transdermique, sous-cutané, intramusculaire, intraveineuse&nbsp;<br /><br />* à visée&nbsp;<b>locale</b>&nbsp;: voies pulmonaire, intradermique, intrarachidienne, intra-articulaire, (vaginale, oculaire, auriculaire, nasale)</div></div>						segmo
+B.Le vaisseau entre le foie et le coeur est le système cave.	43. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110643	VRAI							segmo
+C.En résorption : la diffusion simple va contre le gradient de concentration.	43. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110643	FAUX							segmo
+D.La quantité de médicament absorbée dépend de sa présentation galénique, entre autre.	43. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110643	VRAI							segmo
+E.Les bases faibles sont résorbées dans l'estomac.	43. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110643	FAUX	acide						segmo
+A.La distribution plasmatique existe sous 3 formes : liée, libre et active.	44. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110644	FAUX	A: 2 formes= liée et libre						segmo
+B.Le médicament peut se lier à une protéine plasmatique : la alpha- dextroprotéine acide.	44. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110644	FAUX	B : alpha-glycoprotéine acide						segmo
+C.L'anti-vitamine K se lie sur les leucocytes.	44. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110644	FAUX							segmo
+D.La distribution tissulaire des médicaments peut rencontrer des obstacles ; notamment la barrière hémato-encéphalique et le placenta.	44. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110644	VRAI							segmo
+E.La polarité des molécules influe sur le passage au travers du placenta.	44. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110644	FAUX	E : placenta= taille des molécules, BHE=polarité.						segmo
+A.Le métabolisme des médicaments peut varier en fonction du polymorphisme de l'individu.	45. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110645	VRAI							segmo
+B.Le métabolisme des médicaments n'est pas influencé par la co- administration d'autres médicaments : c'est indépendant.	45. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110645	FAUX							segmo
+C.Au bout de 3 demi-vies, il reste 50% du médicament.	45. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110645	FAUX	C : 3 demi-vie il reste 12.5%						segmo
+D.Vd = dose / Co.	45. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110645	VRAI							segmo
+E.La clairance représente la quantité de médicament éliminé par unité de volume.	45. Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) exacte(s) ?	UE6S110645	FAUX	E : volume plasmatique épuré par unité de temps						segmo
+A. en 2009, l'ensemble des soins distribués représentait 176 000 000 d'euros	1 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120601	FAUX	A. 176 000 000 000 !!!						
+B.&nbsp;l'ensemble des soins distribués&nbsp;représente 10% du PIB	1 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120601	VRAI							
+C. les médicaments ont couté 35 000 000 000 d'euros soit 10% des dépenses	1 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120601	FAUX	C. cela correspond à 20 %						
+D. il y a un ralentissement de l'augmentation des ressources consacrées aux médicaments	1 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120601	VRAI							
+E. l'assurance maladie couvre 75% des dépenses	1 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120601	VRAI							
+A l'assurance maladie finance la majorité des dépenses, d'ailleurs la part supportée par l'assurance maladie et les compléments augmente	2 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120602	FAUX	A. la part supportée par l'assurance et les compléments diminue, ce qui entraine une charge plus importante pour le patient						
+B. la France a une part des dépenses publiques faibles pour les médicaments	2 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120602	FAUX							
+C. il y a environ 100 000 emplois en France dans l'industrie pharmaceutique	2 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120602	VRAI							
+D. la plupart des emplois sont dans la recherche et le développement	2 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120602	FAUX	D. surtout dans la production, puis communication et diffusion						
+E. les essais cliniques sont les plus couteux	2 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120602	VRAI							
+A. il est délivré uniquement par l'AFSSAPS	3 : concernant l'AMM : quelles sont les réponses fausses ?	UE6T120603	VRAI	A. faux, surtout par l' AFSSAPS (80%) mais aussi par l'EMA<br>ANSM remplace l'AFSSAPS depuis 2012						
+B. il y a 3 critères : qualité, sécurité et efficacité	3 : concernant l'AMM : quelles sont les réponses fausses ?	UE6T120603	FAUX	vrai						
+C. concernant le critère « efficacité », il correspond au fait que le médicament doit être plus efficace qu'un placebo	3 : concernant l'AMM : quelles sont les réponses fausses ?	UE6T120603	VRAI	C. faux, il doit être au moins aussi efficace qu'un placebo						
+D. il existe une autorisation temporaire d'utilisation (ATU) pour des pathologies bénignes.	3 : concernant l'AMM : quelles sont les réponses fausses ?	UE6T120603	VRAI	D. faux, l'ATU concerne les pathologies graves sans alternatives thérapeutiques						
+E. elle peut être nominative ou de cohorte	3 : concernant l'AMM : quelles sont les réponses fausses ?	UE6T120603	VRAI	E. FAUX, c'est pour l'ATU						
+A. une préparation magistrale a une AMM	4 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120604	FAUX							
+B. une ATU est octroyée par l'AFSSAPS	4 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120604	VRAI	AFSSAPS remplacé par l'ANSM depuis 2012						
+C. une ATU est toujours donnée pour un seul patient	4 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120604	FAUX	nominative ou de cohorte						
+D. une préparation hospitalière n' a pas d'AMM	4 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120604	VRAI							
+E. le SMR tient compte de la gravité de l'affection visée par le médicament	4 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120604	VRAI							
+A. elle est soumise à l'appréciation d'un comité d'éthique	5 : concernant l'AMM, parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120605	VRAI							
+B. elle est accordée pour des indications thérapeutiques précises	5 : concernant l'AMM, parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120605	VRAI							
+C. les essais pré-AMM contiennent des études toxicologique, pharmacodynamique et pharmacocinétique	5 : concernant l'AMM, parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120605	VRAI							
+D. elle est accordée à l'issu d'un processus long et couteux constitué par des essais	5 : concernant l'AMM, parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120605	VRAI							
+E. il est nécessaire de faire une nouvelle demande d'AMM pour des dosages nouveaux	5 : concernant l'AMM, parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120605	VRAI							
+A. elle est délivrée par l'EMA	6 : Concernant l'ATU, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120606	FAUX	l'ANSM						
+B. elle est délivrée pour des spécialités ne possédant pas d'AMM en France	6 : Concernant l'ATU, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120606	VRAI							
+C. les spécialités concernées sont destinées à traiter des maladies bénignes et courantes	6 : Concernant l'ATU, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120606	FAUX	C. maladies rares et graves						
+D. les spécialités concernées viennent compléter des spécialités déjà existantes pour une maladie donnée	6 : Concernant l'ATU, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120606	FAUX	D. pour des pathologies graves sans alternatives thérapeutiques						
+E. les ATU peuvent être nominatives ou de tribu	6 : Concernant l'ATU, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120606	FAUX	E. nominatives ou de cohorte						
+A. ils sont fixés par l'AFSSAPS	7 : concernant les prix des médicaments :	UE6T120607	FAUX	A. c'est le comité économique des produits de santé (CEPS) qui fixe les prix						
+B. ils ne prennent pas en compte le service médical rendu	7 : concernant les prix des médicaments :	UE6T120607	FAUX							
+C. l'inscription sur la liste des produits remboursables est valable 3 ans	7 : concernant les prix des médicaments :	UE6T120607	FAUX	C. pour 5 ans						
+D. les médicaments prescrits dans le cadre d'une ALD sont remboursés à 50%	7 : concernant les prix des médicaments :	UE6T120607	FAUX	D. 100%						
+E. les médicaments remboursés à 35% sont ceux dont le service médical rendu n'a pas été classé comme majeur ou important	7 : concernant les prix des médicaments :	UE6T120607	VRAI							
+A. il concerne 90% des médicaments	8 : Concernant le remboursement des médicaments, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120608	VRAI							
+C. le taux de remboursement à 35% est destiné aux traitements des troubles sans caractères de gravité et dont le SMR n'a pas été reconnu comme majeur et important	8 : Concernant le remboursement des médicaments, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120608	VRAI							
+D. le taux de remboursement à 100% est réservé aux médicaments jugés irremplaçables et couteux	8 : Concernant le remboursement des médicaments, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120608	VRAI							
+E. le prix des médicaments non remboursables est libre ainsi que les marges des distributeurs en gros et des officines	8 : Concernant le remboursement des médicaments, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120608	VRAI							
+A. si un patient refuse la substitution par un générique, il verra son tiers payant supprimé	9 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120609	VRAI							
+B. si un médicament est remboursé à 100%, le patient paiera tout de même 1euro par boite	9 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120609	FAUX	B. 50 centimes par boite dans la limite des 50 euros par an et par personne						
+C. la fixation du prix d'un médicament comprend 4 critères	9 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120609	VRAI							
+D. les entreprises mettant en vente le médicament n'interviennent pas dans la fixation du prix	9 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120609	FAUX							
+E. la fixation du prix des médicaments se fait en accord avec le ministère chargé de l'économie et des finances	9 : Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120609	VRAI							
+A. elle évalue la sécurité d'emploi, l'efficacité et la qualité des produits de santé	10 : concernant l'AFSSAPS, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120610	VRAI							
+B. elle effectue la surveillance des effets ou évènements indésirables liés à leur utilisation	10 : concernant l'AFSSAPS, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120610	VRAI	AFSSAPS remplacé par l'ANSM depuis 2012						
+C. la commission de transparence de l'AFSSAPS fixe le niveau de SMR	10 : concernant l'AFSSAPS, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120610	FAUX	CT de l'HAS<div>AFSSAPS remplacé par l'ANSM depuis 2012</div>						
+D. l'AFSSAPS fournit des donnés concernant les enquêtes de santé	10 : concernant l'AFSSAPS, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120610	FAUX	AFSSAPS remplacé par l'ANSM depuis 2012						
+E; elle apporte des informations auprès des professionnels et du public pour améliorer le bon usage	10 : concernant l'AFSSAPS, Parmi les affirmations suivantes, laquelle ou lesquelles sont vraies ?	UE6T120610	VRAI	AFSSAPS remplacé par l'ANSM depuis 2012						
+A. la pharmaco-épidémiologie est la discipline mettant en application les méthodes et/ou les raisonnements épidémiologiques pour évaluer, souvent sur de petites populations, l'efficacité, le risque, et l'usage des médicaments.	11 : Parmi les propositions suivantes, laquelle ou lesquelles sont vraies ?	UE6T120611	FAUX	A. faux : sur de grandes populations !!!						
+B. un plan de gestion des risques est requis en cas de changement de dosage d'un médicament	11 : Parmi les propositions suivantes, laquelle ou lesquelles sont vraies ?	UE6T120611	VRAI							
+C. il existe une méthode observationnelle et une méthode descriptive de pharmacovigilence	11 : Parmi les propositions suivantes, laquelle ou lesquelles sont vraies ?	UE6T120611	VRAI							
+D. l'AFSSAPS donne la quantité de produits vendus	11 : Parmi les propositions suivantes, laquelle ou lesquelles sont vraies ?	UE6T120611	VRAI	AFSSAPS remplacé par l'ANSM depuis 2012						
+E. on observe une multiplication de molécules d'efficacité comparable	11 : Parmi les propositions suivantes, laquelle ou lesquelles sont vraies ?	UE6T120611	VRAI							
+A. une étude longitudinale se fait sans suivi	12 : concernant les principes en pharmaco-épidémiologie :	UE6T120612	FAUX							
+B. une étude transversale sans suivi donne un contexte évolutif	12 : concernant les principes en pharmaco-épidémiologie :	UE6T120612	FAUX	avec suivi =&gt; context évolutif						
+C. une étude transversale sans suivi donne un contexte stable	12 : concernant les principes en pharmaco-épidémiologie :	UE6T120612	VRAI							
+D. un contexte évolutif est donné par une étude transversale répétée	12 : concernant les principes en pharmaco-épidémiologie :	UE6T120612	VRAI							
+E. une étude longitudinale se fait avec suivi	12 : concernant les principes en pharmaco-épidémiologie :	UE6T120612	VRAI							
+A. les malades sélectionnés	13. Parmi les propositions suivantes, qu'elles sont les limites des essais thérapeutiques ?	UE6T120613	VRAI							
+B. les indications sélectionnées	13. Parmi les propositions suivantes, qu'elles sont les limites des essais thérapeutiques ?	UE6T120613	VRAI							
+C. les conditions d'administration contrôlées	13. Parmi les propositions suivantes, qu'elles sont les limites des essais thérapeutiques ?	UE6T120613	VRAI							
+D. les effectifs trop réduits pour la mise en évidence d'effets indésirables	13. Parmi les propositions suivantes, qu'elles sont les limites des essais thérapeutiques ?	UE6T120613	VRAI							
+E. la durée d'administration trop longue pour les effets indésirables tardifs	13. Parmi les propositions suivantes, qu'elles sont les limites des essais thérapeutiques ?	UE6T120613	FAUX	E. la durée d'administration trop réduite pour les effets indésirables tardifs constitue une limite !						
+A. l'AFSSAPS donne la quantité de produits vendus	14 : concernant les bases de données en pharmaco-épidémiologie :	UE6T120614	VRAI	AFSSAPS remplacé par l'ANSM depuis 2012						
+B. l'IRDES effectue une enquête sur la santé et la protection sociale	14 : concernant les bases de données en pharmaco-épidémiologie :	UE6T120614	VRAI							
+C. les panels commerciaux de médecins sont des sociétés privées	14 : concernant les bases de données en pharmaco-épidémiologie :	UE6T120614	FAUX	C. il existe aussi des établissements publics						
+D. le SNIIR AM informe sur la quantité de produits vendus	14 : concernant les bases de données en pharmaco-épidémiologie :	UE6T120614	FAUX	D. faux : sur le nombre de prescriptions						
+E. le SNIIR AM informe sur la quantité de produits prescrits	14 : concernant les bases de données en pharmaco-épidémiologie :	UE6T120614	VRAI							
+A. si un médicament contient une nouvelle substance active	15 : Dans quels cas, un plan de gestion des risques est il recommandé ?	UE6T120615	VRAI							
+B. si un risque a été identifié après AMM	15 : Dans quels cas, un plan de gestion des risques est il recommandé ?	UE6T120615	VRAI							
+C. si le procédé de fabrication d'un médicament change	15 : Dans quels cas, un plan de gestion des risques est il recommandé ?	UE6T120615	VRAI							
+D. si l'on découvre qu'un médicament a un nouveau effet thérapeutique	15 : Dans quels cas, un plan de gestion des risques est il recommandé ?	UE6T120615	VRAI							
+E. si la voie d'administration change	15 : Dans quels cas, un plan de gestion des risques est il recommandé ?	UE6T120615	VRAI							
+A. elles peuvent être observationnelles, descriptives et étiologiques	16 : concernant les méthodes en pharmaco-épidémiologie, quelles sont la ou les réponses vraies ?	UE6T120616	VRAI							
+B. les facteurs de risques et les risques iatrogènes s'inscrivent dans une démarche descriptives	16 : concernant les méthodes en pharmaco-épidémiologie, quelles sont la ou les réponses vraies ?	UE6T120616	FAUX	B faux : ils font partie de la méthode éthiologique						
+C. la prévalence, l'incidence, la mortalité, la morbidité... concernent les méthodes descriptives	16 : concernant les méthodes en pharmaco-épidémiologie, quelles sont la ou les réponses vraies ?	UE6T120616	VRAI							
+D. l'objectif est l'utilisation du médicament	16 : concernant les méthodes en pharmaco-épidémiologie, quelles sont la ou les réponses vraies ?	UE6T120616	VRAI							
+E. on peut dénombrer des facteurs d'influence liés au médicament au patient, à l'environnement, ou encore à l indication	16 : concernant les méthodes en pharmaco-épidémiologie, quelles sont la ou les réponses vraies ?	UE6T120616	VRAI							
+A. l 'IRDES est une enquête sur la santé et la protection sociale qui dure 5 ans	17 : concernant les bases de données en pharmaco-épidémiologie, quelle est ou quelles sont la ou les réponses vraies ?	UE6T120617	FAUX	A elle s'effectue sur 2 ans						
+B. les ventes de médicament n'en font pas partie	17 : concernant les bases de données en pharmaco-épidémiologie, quelle est ou quelles sont la ou les réponses vraies ?	UE6T120617	FAUX	B faux, les ventes de médicaments font partie des bases de données, et elles sont calculées par l'AFSSAPS<div>AFSSAPS remplacé par l'ANSM depuis 2012</div>						
+C. le système national inter-régimes de l'assurance maladie (SNIIR-AM) s'appuie sur les prescriptions et autres soins	17 : concernant les bases de données en pharmaco-épidémiologie, quelle est ou quelles sont la ou les réponses vraies ?	UE6T120617	VRAI							
+D. Thales fait partie du panel « commerciaux » de médecins	17 : concernant les bases de données en pharmaco-épidémiologie, quelle est ou quelles sont la ou les réponses vraies ?	UE6T120617	VRAI							
+E. les croisements de fichier en font partie	17 : concernant les bases de données en pharmaco-épidémiologie, quelle est ou quelles sont la ou les réponses vraies ?	UE6T120617	VRAI							
+A. l'EMIR est un exemple d'incidence des effets indésirables (EI) graves associés aux soins observés en milieu hospitalier	18 : concernant les études d'incidence :	UE6T120618	FAUX							?
+B. l'ENEIS est un exemple d'incidence des hospitalisations dues à un EI	18 : concernant les études d'incidence :	UE6T120618	FAUX							
+C. environ 50% des hospitalisations dues à un EI sont évitables ou partiellement évitables	18 : concernant les études d'incidence :	UE6T120618	VRAI							
+D. lors des études cas-témoins, on réunit seulement le cas de personnes présentant des EI et qui ont utilisé le médicament	18 : concernant les études d'incidence :	UE6T120618	FAUX	D. faux : aussi celles qui ont le même EI y compris si elles ont pas pris le médicament						
+E. lors des études cas-témoins, on recherche des facteurs (de risque ) dans le passé ou vécu du patient	18 : concernant les études d'incidence :	UE6T120618	VRAI							
+A. elles concernent la survenue d'un nouveau cas d'EI lié à un médicament	19 : concernant les études d'incidence :	UE6T120619	VRAI							
+B. les études ENEIS regroupent uniquement les patients des hôpitaux publics	19 : concernant les études d'incidence :	UE6T120619	FAUX	B. des hôpitaux publics et privés !						
+C. les registres ne constituent pas un suivi permanent	19 : concernant les études d'incidence :	UE6T120619	FAUX							
+D. L 'ENEIS concerne les EI cause d'hospitalisation et non ceux identifiés pendant l'hospitalisation	19 : concernant les études d'incidence :	UE6T120619	FAUX	D. L 'ENEIS concerne les EI cause d'hospitalisation et ceux identifiés pendant l'hospitalisation !!!						

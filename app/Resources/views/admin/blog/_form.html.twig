@@ -1,6 +1,18 @@
 {{ form_start(form) }}
+	<div id="content_1" class="content">
+test content 1
+	</div>
+	<div id="content_2" class="content">
+test content 2
+	</div>
+	<div id="content_3" class="content">
+test content 3
+	</div>
+
+
     {{ form_widget(form) }}
 
+	
     <input type="submit" value="{{ button_label|default("Create") }}"
            class="{{ button_css|default("btn btn-primary") }}" />
 

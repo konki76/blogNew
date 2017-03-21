@@ -8,7 +8,8 @@
     <table class="table table-striped">
         <thead>
             <tr>
-                <th>Title</th>
+                <th>Grp</th>
+                <th>Qcm</th>
                 <th><i class="fa fa-calendar"></i> Published At</th>
                 <th><i class="fa fa-cogs"></i> Actions</th>
             </tr>
@@ -16,11 +17,12 @@
         <tbody>
         {% for grp in pGrps %}
             <tr>
-                <td>{{ grp.title }}</td>
+                <td>{{ grp.grp }}</td>
+				<td>{{ grp.qcm }}</td>
                 <td>noting</td>
                 <td>
-				<a href="{{ path('admin_post_edit', { id: grp.post.id }) }}" >
-						<i class="fa fa-plus"></i> {{ grp.post.title }}
+				<a href="{-{ path('admin_post_edit', { id: grp.post.id }) }-}" >
+						<i class="fa fa-plus"></i> {-{ grp.post.title }-}
 					</a> 
 				</td>
             </tr>

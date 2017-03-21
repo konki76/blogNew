@@ -1,0 +1,44 @@
+{% extends 'admin/layout.html.twig' %}
+
+{% block body_id 'admin_skill_index' %}
+
+{% block main %}
+    <h1>Liste des Skill</h1>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th><i class="fa fa-calendar"></i> Published At</th>
+                <th><i class="fa fa-cogs"></i> Eléments du groupe</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for skill in skills %}
+            <tr>
+                <td>
+					<a href="{{ path('admin_skill_edit', { id: skill.id }) }}" >
+					{{ skill.title }}
+					</a>
+				</td>
+                <td>{% if skill.publishedAt %}{{ skill.publishedAt|date('Y-m-d H:i') }}{% endif %}</td>
+                <td>
+					<a href="{{ path('admin_userSkill_list', { id: skill.id }) }}" >
+						<i class="fa fa-plus"></i> admin_UserSkill_list
+					</a>  
+				</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+
+{% block sidebar %}
+    <div class="section actions">
+        <a href="{{ path('admin_skill_new') }}" class="btn btn-lg btn-block btn-success">
+            <i class="fa fa-plus"></i> {{ 'Create a new skill' }}
+        </a>
+    </div>
+
+    {{ parent() }}
+{% endblock %}
