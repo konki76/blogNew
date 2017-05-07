@@ -46,7 +46,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (Answer $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -178,7 +176,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function isLegitAnswer()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'isLegitAnswer', array());
 
         return parent::isLegitAnswer();
@@ -204,7 +201,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getContent()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getContent', array());
 
         return parent::getContent();
@@ -215,7 +211,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setContent($content)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setContent', array($content));
 
         return parent::setContent($content);
@@ -226,7 +221,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAuthorEmail()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAuthorEmail', array());
 
         return parent::getAuthorEmail();
@@ -237,7 +231,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAuthorEmail($authorEmail)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAuthorEmail', array($authorEmail));
 
         return parent::setAuthorEmail($authorEmail);
@@ -248,7 +241,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -259,7 +251,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -270,7 +261,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getQcm()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getQcm', array());
 
         return parent::getQcm();
@@ -279,9 +269,8 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
     /**
      * {@inheritDoc}
      */
-    public function setQcm(\Acme\UserBundle\Entity\Qcm $qcm = NULL)
+    public function setQcm(\Acme\UserBundle\Entity\Qcm $qcm = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setQcm', array($qcm));
 
         return parent::setQcm($qcm);
@@ -292,7 +281,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getGrp()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getGrp', array());
 
         return parent::getGrp();
@@ -303,7 +291,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setGrp(\Acme\UserBundle\Entity\Grp $grp)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setGrp', array($grp));
 
         return parent::setGrp($grp);
@@ -314,7 +301,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getScore()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getScore', array());
 
         return parent::getScore();
@@ -325,7 +311,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setScore($score)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setScore', array($score));
 
         return parent::setScore($score);
@@ -336,7 +321,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer1()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer1', array());
 
         return parent::getAnswer1();
@@ -347,7 +331,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer1($answer1)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer1', array($answer1));
 
         return parent::setAnswer1($answer1);
@@ -358,7 +341,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer2()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer2', array());
 
         return parent::getAnswer2();
@@ -369,7 +351,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer2($answer2)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer2', array($answer2));
 
         return parent::setAnswer2($answer2);
@@ -380,7 +361,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer3()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer3', array());
 
         return parent::getAnswer3();
@@ -391,7 +371,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer3($answer3)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer3', array($answer3));
 
         return parent::setAnswer3($answer3);
@@ -402,7 +381,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer4()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer4', array());
 
         return parent::getAnswer4();
@@ -413,7 +391,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer4($answer4)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer4', array($answer4));
 
         return parent::setAnswer4($answer4);
@@ -424,7 +401,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer5()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer5', array());
 
         return parent::getAnswer5();
@@ -435,7 +411,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer5($answer5)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer5', array($answer5));
 
         return parent::setAnswer5($answer5);
@@ -446,7 +421,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer6()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer6', array());
 
         return parent::getAnswer6();
@@ -457,7 +431,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer6($answer6)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer6', array($answer6));
 
         return parent::setAnswer6($answer6);
@@ -468,7 +441,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer7()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer7', array());
 
         return parent::getAnswer7();
@@ -479,7 +451,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer7($answer7)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer7', array($answer7));
 
         return parent::setAnswer7($answer7);
@@ -490,7 +461,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer8()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer8', array());
 
         return parent::getAnswer8();
@@ -501,7 +471,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer8($answer8)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer8', array($answer8));
 
         return parent::setAnswer8($answer8);
@@ -512,7 +481,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer9()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer9', array());
 
         return parent::getAnswer9();
@@ -523,7 +491,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer9($answer9)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer9', array($answer9));
 
         return parent::setAnswer9($answer9);
@@ -534,7 +501,6 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function getAnswer10()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer10', array());
 
         return parent::getAnswer10();
@@ -545,10 +511,8 @@ class Answer extends \Acme\UserBundle\Entity\Answer implements \Doctrine\ORM\Pro
      */
     public function setAnswer10($answer10)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer10', array($answer10));
 
         return parent::setAnswer10($answer10);
     }
-
 }

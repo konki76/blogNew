@@ -11,6 +11,8 @@
 
 namespace Symfony\Component\Validator\Tests\Constraints;
 
+use PHPUnit\Framework\Assert;
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\Constraints\NotNull;
 use Symfony\Component\Validator\ConstraintValidatorInterface;
@@ -24,11 +26,9 @@ use Symfony\Component\Validator\Mapping\PropertyMetadata;
 use Symfony\Component\Validator\Validation;
 
 /**
- * @since 2.5.3
- *
  * @author Bernhard Schussek <bschussek@gmail.com>
  */
-abstract class AbstractConstraintValidatorTest extends \PHPUnit_Framework_TestCase
+abstract class AbstractConstraintValidatorTest extends TestCase
 {
     /**
      * @var ExecutionContextInterface
@@ -51,10 +51,6 @@ abstract class AbstractConstraintValidatorTest extends \PHPUnit_Framework_TestCa
 
     protected function setUp()
     {
-        if (Validation::API_VERSION_2_5 !== $this->getApiVersion()) {
-            $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-        }
-
         $this->group = 'MyGroup';
         $this->metadata = null;
         $this->object = null;
@@ -100,9 +96,9 @@ abstract class AbstractConstraintValidatorTest extends \PHPUnit_Framework_TestCa
 
     protected function createContext()
     {
-        $translator = $this->getMock('Symfony\Component\Translation\TranslatorInterface');
-        $validator = $this->getMock('Symfony\Component\Validator\Validator\ValidatorInterface');
-        $contextualValidator = $this->getMock('Symfony\Component\Validator\Validator\ContextualValidatorInterface');
+        $translator = $this->getMockBuilder('Symfony\Component\Translation\TranslatorInterface')->getMock();
+        $validator = $this->getMockBuilder('Symfony\Component\Validator\Validator\ValidatorInterface')->getMock();
+        $contextualValidator = $this->getMockBuilder('Symfony\Component\Validator\Validator\ContextualValidatorInterface')->getMock();
 
         switch ($this->getApiVersion()) {
             case Validation::API_VERSION_2_5:
@@ -117,7 +113,7 @@ abstract class AbstractConstraintValidatorTest extends \PHPUnit_Framework_TestCa
                 $context = new LegacyExecutionContext(
                     $validator,
                     $this->root,
-                    $this->getMock('Symfony\Component\Validator\MetadataFactoryInterface'),
+                    $this->getMockBuilder('Symfony\Component\Validator\MetadataFactoryInterface')->getMock(),
                     $translator
                 );
                 break;
@@ -227,7 +223,7 @@ abstract class AbstractConstraintValidatorTest extends \PHPUnit_Framework_TestCa
             ->will($this->returnValue($validator));
         $validator->expects($this->at(2 * $i + 1))
             ->method('validate')
-            ->with($value, $this->logicalOr(null, array()), $group);
+            ->with($value, $this->logicalOr(null, array(), $this->isInstanceOf('\Symfony\Component\Validator\Constraints\Valid')), $group);
     }
 
     protected function expectValidateValueAt($i, $propertyPath, $value, $constraints, $group = null)
@@ -417,12 +413,12 @@ class ConstraintViolationAssertion
 
         $violations = iterator_to_array($this->context->getViolations());
 
-        \PHPUnit_Framework_Assert::assertSame($expectedCount = count($expected), $violationsCount = count($violations), sprintf('%u violation(s) expected. Got %u.', $expectedCount, $violationsCount));
+        Assert::assertSame($expectedCount = count($expected), $violationsCount = count($violations), sprintf('%u violation(s) expected. Got %u.', $expectedCount, $violationsCount));
 
         reset($violations);
 
         foreach ($expected as $violation) {
-            \PHPUnit_Framework_Assert::assertEquals($violation, current($violations));
+            Assert::assertEquals($violation, current($violations));
             next($violations);
         }
     }

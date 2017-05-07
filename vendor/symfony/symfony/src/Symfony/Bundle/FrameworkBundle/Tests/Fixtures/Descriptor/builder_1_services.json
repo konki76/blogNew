@@ -6,14 +6,15 @@
             "public": true,
             "synthetic": false,
             "lazy": true,
+            "shared": true,
             "synchronized": false,
             "abstract": true,
+            "autowire": false,
+            "autowiring_types": [],
             "file": null,
             "factory_class": "Full\\Qualified\\FactoryClass",
             "factory_method": "get",
-            "tags": [
-
-            ]
+            "tags": []
         },
         "definition_2": {
             "class": "Full\\Qualified\\Class2",
@@ -21,8 +22,11 @@
             "public": false,
             "synthetic": true,
             "lazy": false,
+            "shared": true,
             "synchronized": false,
             "abstract": false,
+            "autowire": false,
+            "autowiring_types": [],
             "file": "\/path\/to\/file",
             "factory_service": "factory.service",
             "factory_method": "get",
@@ -42,9 +46,7 @@
                 },
                 {
                     "name": "tag2",
-                    "parameters": [
-
-                    ]
+                    "parameters": []
                 }
             ]
         }

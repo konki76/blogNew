@@ -12,11 +12,12 @@
 namespace Symfony\Component\Form\Tests\Extension\Core\EventListener;
 
 use Doctrine\Common\Collections\ArrayCollection;
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Form\Extension\Core\EventListener\ResizeFormListener;
 use Symfony\Component\Form\FormBuilder;
 use Symfony\Component\Form\FormEvent;
 
-class ResizeFormListenerTest extends \PHPUnit_Framework_TestCase
+class ResizeFormListenerTest extends TestCase
 {
     private $dispatcher;
     private $factory;
@@ -24,8 +25,8 @@ class ResizeFormListenerTest extends \PHPUnit_Framework_TestCase
 
     protected function setUp()
     {
-        $this->dispatcher = $this->getMock('Symfony\Component\EventDispatcher\EventDispatcherInterface');
-        $this->factory = $this->getMock('Symfony\Component\Form\FormFactoryInterface');
+        $this->dispatcher = $this->getMockBuilder('Symfony\Component\EventDispatcher\EventDispatcherInterface')->getMock();
+        $this->factory = $this->getMockBuilder('Symfony\Component\Form\FormFactoryInterface')->getMock();
         $this->form = $this->getBuilder()
             ->setCompound(true)
             ->setDataMapper($this->getDataMapper())
@@ -54,12 +55,12 @@ class ResizeFormListenerTest extends \PHPUnit_Framework_TestCase
      */
     private function getDataMapper()
     {
-        return $this->getMock('Symfony\Component\Form\DataMapperInterface');
+        return $this->getMockBuilder('Symfony\Component\Form\DataMapperInterface')->getMock();
     }
 
     protected function getMockForm()
     {
-        return $this->getMock('Symfony\Component\Form\Test\FormInterface');
+        return $this->getMockBuilder('Symfony\Component\Form\Test\FormInterface')->getMock();
     }
 
     public function testPreSetDataResizesForm()
@@ -167,15 +168,14 @@ class ResizeFormListenerTest extends \PHPUnit_Framework_TestCase
         $this->assertFalse($this->form->has('2'));
     }
 
-    /**
-     * @expectedException \Symfony\Component\Form\Exception\UnexpectedTypeException
-     */
-    public function testPreSubmitRequiresArrayOrTraversable()
+    public function testPreSubmitDealsWithNoArrayOrTraversable()
     {
         $data = 'no array or traversable';
         $event = new FormEvent($this->form, $data);
         $listener = new ResizeFormListener('text', array(), false, false);
         $listener->preSubmit($event);
+
+        $this->assertFalse($this->form->has('1'));
     }
 
     public function testPreSubmitDealsWithNullData()

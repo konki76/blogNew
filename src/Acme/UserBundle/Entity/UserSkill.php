@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -33,7 +33,7 @@ class UserSkill
      */
     private $value;
 
-	
+    
     /**
      * @ORM\Column(type="string")
      * @Assert\NotBlank()
@@ -56,13 +56,13 @@ class UserSkill
      */
     private $skills;
 
-	//invesrsedBy 'Users' doit être déclaré dans l'entité Skill.php 
+    //invesrsedBy 'Users' doit être déclaré dans l'entité Skill.php
     /**
      * @ORM\ManyToOne(targetEntity="Skill", inversedBy="users")
      * @ORM\JoinColumn(nullable=false)
      */
     private $skill;
-	
+    
     /**
      * @ORM\OneToMany(
      *      targetEntity="User",
@@ -78,7 +78,7 @@ class UserSkill
      * @ORM\JoinColumn(nullable=false)
      */
     private $user;
-	
+    
     public function __construct()
     {
         $this->publishedAt = new \DateTime();
@@ -88,8 +88,8 @@ class UserSkill
     {
         return $this->id;
     }
-	
-	public function getTitle()
+    
+    public function getTitle()
     {
         return $this->title;
     }
@@ -99,7 +99,7 @@ class UserSkill
         $this->title = $title;
     }
 
-	public function getValue()
+    public function getValue()
     {
         return $this->value;
     }
@@ -108,7 +108,7 @@ class UserSkill
     {
         $this->value = $value;
     }
-	
+    
     public function getPublishedAt()
     {
         return $this->publishedAt;
@@ -119,7 +119,7 @@ class UserSkill
         $this->publishedAt = $publishedAt;
     }
 
-	public function getUsers()
+    public function getUsers()
     {
         return $this->users;
     }
@@ -136,7 +136,7 @@ class UserSkill
         $ues->setSkill(null);
     }
 
-	public function getUser()
+    public function getUser()
     {
         return $this->user;
     }
@@ -144,8 +144,8 @@ class UserSkill
     {
         $this->user = $user;
     }
-	
-	public function getSkill()
+    
+    public function getSkill()
     {
         return $this->skill;
     }

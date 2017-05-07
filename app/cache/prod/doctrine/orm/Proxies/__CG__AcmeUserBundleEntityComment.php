@@ -46,7 +46,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (Comment $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -178,7 +176,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function isLegitComment()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'isLegitComment', array());
 
         return parent::isLegitComment();
@@ -204,7 +201,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function getContent()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getContent', array());
 
         return parent::getContent();
@@ -215,7 +211,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function setContent($content)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setContent', array($content));
 
         return parent::setContent($content);
@@ -226,7 +221,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function getAuthorEmail()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAuthorEmail', array());
 
         return parent::getAuthorEmail();
@@ -237,7 +231,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function setAuthorEmail($authorEmail)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAuthorEmail', array($authorEmail));
 
         return parent::setAuthorEmail($authorEmail);
@@ -248,7 +241,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -259,7 +251,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -270,7 +261,6 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
      */
     public function getPost()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPost', array());
 
         return parent::getPost();
@@ -279,12 +269,10 @@ class Comment extends \Acme\UserBundle\Entity\Comment implements \Doctrine\ORM\P
     /**
      * {@inheritDoc}
      */
-    public function setPost(\Acme\UserBundle\Entity\Post $post = NULL)
+    public function setPost(\Acme\UserBundle\Entity\Post $post = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPost', array($post));
 
         return parent::setPost($post);
     }
-
 }

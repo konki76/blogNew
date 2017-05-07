@@ -11,15 +11,20 @@
 
 namespace Symfony\Bundle\SecurityBundle\Tests\DependencyInjection;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\Reference;
 use Symfony\Component\DependencyInjection\Parameter;
 use Symfony\Bundle\SecurityBundle\SecurityBundle;
 use Symfony\Bundle\SecurityBundle\DependencyInjection\SecurityExtension;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
-abstract class CompleteConfigurationTest extends \PHPUnit_Framework_TestCase
+abstract class CompleteConfigurationTest extends TestCase
 {
-    abstract protected function loadFromFile(ContainerBuilder $container, $file);
+    private static $containerCache = array();
+
+    abstract protected function getLoader(ContainerBuilder $container);
+
+    abstract protected function getFileExtension();
 
     public function testRolesHierarchy()
     {
@@ -68,7 +73,7 @@ abstract class CompleteConfigurationTest extends \PHPUnit_Framework_TestCase
         foreach (array_keys($arguments[1]) as $contextId) {
             $contextDef = $container->getDefinition($contextId);
             $arguments = $contextDef->getArguments();
-            $listeners[] = array_map(function ($ref) { return (string) $ref; }, $arguments['index_0']);
+            $listeners[] = array_map('strval', $arguments['index_0']);
         }
 
         $this->assertEquals(array(
@@ -91,6 +96,13 @@ abstract class CompleteConfigurationTest extends \PHPUnit_Framework_TestCase
                 'security.context_listener.0',
                 'security.authentication.listener.basic.host',
                 'security.authentication.listener.anonymous.host',
+                'security.access_listener',
+            ),
+            array(
+                'security.channel_listener',
+                'security.context_listener.1',
+                'security.authentication.listener.basic.with_user_checker',
+                'security.authentication.listener.anonymous.with_user_checker',
                 'security.access_listener',
             ),
         ), $listeners);
@@ -158,7 +170,7 @@ abstract class CompleteConfigurationTest extends \PHPUnit_Framework_TestCase
                 );
             } elseif (3 === $i) {
                 $this->assertEquals('IS_AUTHENTICATED_ANONYMOUSLY', $attributes[0]);
-                $expression = $container->getDefinition($attributes[1])->getArgument(0);
+                $expression = $container->getDefinition((string) $attributes[1])->getArgument(0);
                 $this->assertEquals("token.getUsername() matches '/^admin/'", $expression);
             }
         }
@@ -233,20 +245,40 @@ abstract class CompleteConfigurationTest extends \PHPUnit_Framework_TestCase
         $this->assertFalse($service->getArgument(5));
     }
 
+    public function testUserCheckerConfig()
+    {
+        $this->assertEquals('app.user_checker', $this->getContainer('container1')->getAlias('security.user_checker.with_user_checker'));
+    }
+
+    public function testUserCheckerConfigWithDefaultChecker()
+    {
+        $this->assertEquals('security.user_checker', $this->getContainer('container1')->getAlias('security.user_checker.host'));
+    }
+
+    public function testUserCheckerConfigWithNoCheckers()
+    {
+        $this->assertEquals('security.user_checker', $this->getContainer('container1')->getAlias('security.user_checker.secure'));
+    }
+
     protected function getContainer($file)
     {
+        $file = $file.'.'.$this->getFileExtension();
+
+        if (isset(self::$containerCache[$file])) {
+            return self::$containerCache[$file];
+        }
         $container = new ContainerBuilder();
         $security = new SecurityExtension();
         $container->registerExtension($security);
 
         $bundle = new SecurityBundle();
         $bundle->build($container); // Attach all default factories
-        $this->loadFromFile($container, $file);
+        $this->getLoader($container)->load($file);
 
         $container->getCompilerPassConfig()->setOptimizationPasses(array());
         $container->getCompilerPassConfig()->setRemovingPasses(array());
         $container->compile();
 
-        return $container;
+        return self::$containerCache[$file] = $container;
     }
 }

@@ -5,14 +5,10 @@ parameters:
     database_port: null
     database_name: xTarget
     database_user: root
-    database_password: 
+    database_password: null
     mailer_transport: gmail
-    username: alex.planchot@gmail.com
-    password: 
     mailer_host: gmail
     mailer_user: alex.planchot@gmail.com
-    mailer_password: 
-    mailer_port: 465
-    mailer_encryption:  ssl 
+    mailer_password: null
     locale: fr
     secret: 049f23da63196d9b0bc6e26a19f1f8ff1f4ea671

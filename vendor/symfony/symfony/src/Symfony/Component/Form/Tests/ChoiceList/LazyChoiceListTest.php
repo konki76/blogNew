@@ -11,12 +11,13 @@
 
 namespace Symfony\Component\Form\Tests\ChoiceList;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Form\ChoiceList\LazyChoiceList;
 
 /**
  * @author Bernhard Schussek <bschussek@gmail.com>
  */
-class LazyChoiceListTest extends \PHPUnit_Framework_TestCase
+class LazyChoiceListTest extends TestCase
 {
     /**
      * @var LazyChoiceList
@@ -37,8 +38,8 @@ class LazyChoiceListTest extends \PHPUnit_Framework_TestCase
 
     protected function setUp()
     {
-        $this->innerList = $this->getMock('Symfony\Component\Form\ChoiceList\ChoiceListInterface');
-        $this->loader = $this->getMock('Symfony\Component\Form\ChoiceList\Loader\ChoiceLoaderInterface');
+        $this->innerList = $this->getMockBuilder('Symfony\Component\Form\ChoiceList\ChoiceListInterface')->getMock();
+        $this->loader = $this->getMockBuilder('Symfony\Component\Form\ChoiceList\Loader\ChoiceLoaderInterface')->getMock();
         $this->value = function () {};
         $this->list = new LazyChoiceList($this->loader, $this->value);
     }
@@ -71,6 +72,36 @@ class LazyChoiceListTest extends \PHPUnit_Framework_TestCase
 
         $this->assertSame('RESULT', $this->list->getValues());
         $this->assertSame('RESULT', $this->list->getValues());
+    }
+
+    public function testGetStructuredValuesLoadsInnerListOnFirstCall()
+    {
+        $this->loader->expects($this->once())
+            ->method('loadChoiceList')
+            ->with($this->value)
+            ->will($this->returnValue($this->innerList));
+
+        $this->innerList->expects($this->exactly(2))
+            ->method('getStructuredValues')
+            ->will($this->returnValue('RESULT'));
+
+        $this->assertSame('RESULT', $this->list->getStructuredValues());
+        $this->assertSame('RESULT', $this->list->getStructuredValues());
+    }
+
+    public function testGetOriginalKeysLoadsInnerListOnFirstCall()
+    {
+        $this->loader->expects($this->once())
+            ->method('loadChoiceList')
+            ->with($this->value)
+            ->will($this->returnValue($this->innerList));
+
+        $this->innerList->expects($this->exactly(2))
+            ->method('getOriginalKeys')
+            ->will($this->returnValue('RESULT'));
+
+        $this->assertSame('RESULT', $this->list->getOriginalKeys());
+        $this->assertSame('RESULT', $this->list->getOriginalKeys());
     }
 
     public function testGetChoicesForValuesForwardsCallIfListNotLoaded()

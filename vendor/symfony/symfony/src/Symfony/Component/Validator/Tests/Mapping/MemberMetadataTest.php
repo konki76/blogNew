@@ -11,13 +11,14 @@
 
 namespace Symfony\Component\Validator\Tests\Mapping;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Validator\Constraints\Valid;
 use Symfony\Component\Validator\Mapping\MemberMetadata;
 use Symfony\Component\Validator\Tests\Fixtures\ClassConstraint;
 use Symfony\Component\Validator\Tests\Fixtures\ConstraintA;
 use Symfony\Component\Validator\Tests\Fixtures\ConstraintB;
 
-class MemberMetadataTest extends \PHPUnit_Framework_TestCase
+class MemberMetadataTest extends TestCase
 {
     protected $metadata;
 
@@ -40,8 +41,6 @@ class MemberMetadataTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyAddValidSetsMemberToCascaded()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $result = $this->metadata->addConstraint(new Valid());
 
         $this->assertEquals(array(), $this->metadata->getConstraints());
@@ -54,8 +53,6 @@ class MemberMetadataTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyAddOtherConstraintDoesNotSetMemberToCascaded()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $result = $this->metadata->addConstraint($constraint = new ConstraintA());
 
         $this->assertEquals(array($constraint), $this->metadata->getConstraints());
@@ -65,7 +62,7 @@ class MemberMetadataTest extends \PHPUnit_Framework_TestCase
 
     public function testAddConstraintRequiresClassConstraints()
     {
-        $this->setExpectedException('Symfony\Component\Validator\Exception\ConstraintDefinitionException');
+        $this->{method_exists($this, $_ = 'expectException') ? $_ : 'setExpectedException'}('Symfony\Component\Validator\Exception\ConstraintDefinitionException');
 
         $this->metadata->addConstraint(new ClassConstraint());
     }

@@ -46,7 +46,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (pGrp $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -178,7 +176,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function getQcmSlug()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getQcmSlug', array());
 
         return parent::getQcmSlug();
@@ -189,7 +186,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function setQcmSlug($qcmSlug)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setQcmSlug', array($qcmSlug));
 
         return parent::setQcmSlug($qcmSlug);
@@ -200,7 +196,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function getGrpSlug()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getGrpSlug', array());
 
         return parent::getGrpSlug();
@@ -211,7 +206,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function setGrpSlug($grpSlug)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setGrpSlug', array($grpSlug));
 
         return parent::setGrpSlug($grpSlug);
@@ -237,7 +231,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -248,7 +241,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -259,7 +251,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function getGrps()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getGrps', array());
 
         return parent::getGrps();
@@ -270,7 +261,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function addGrp(\Acme\UserBundle\Entity\Grp $grp)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'addGrp', array($grp));
 
         return parent::addGrp($grp);
@@ -281,7 +271,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function removeGrp(\Acme\UserBundle\Entity\Grp $grps)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'removeGrp', array($grps));
 
         return parent::removeGrp($grps);
@@ -292,7 +281,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function getGrp()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getGrp', array());
 
         return parent::getGrp();
@@ -301,9 +289,8 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
     /**
      * {@inheritDoc}
      */
-    public function setGrp(\Acme\UserBundle\Entity\Grp $grp = NULL)
+    public function setGrp(\Acme\UserBundle\Entity\Grp $grp = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setGrp', array($grp));
 
         return parent::setGrp($grp);
@@ -314,7 +301,6 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
      */
     public function getQcm()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getQcm', array());
 
         return parent::getQcm();
@@ -323,12 +309,10 @@ class pGrp extends \Acme\UserBundle\Entity\pGrp implements \Doctrine\ORM\Proxy\P
     /**
      * {@inheritDoc}
      */
-    public function setQcm(\Acme\UserBundle\Entity\Qcm $qcm = NULL)
+    public function setQcm(\Acme\UserBundle\Entity\Qcm $qcm = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setQcm', array($qcm));
 
         return parent::setQcm($qcm);
     }
-
 }

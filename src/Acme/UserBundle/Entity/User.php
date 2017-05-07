@@ -4,6 +4,7 @@ namespace Acme\UserBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use FOS\UserBundle\Entity\User as BaseUser;
+
 //use FOS\UserBundle\Model\User as BaseUser;
 //use Doctrine\ORM\Mapping as ORM;
 //use Symfony\Component\Validator\Constraints as Assert;
@@ -79,14 +80,14 @@ class User extends BaseUser
     {
         parent::__construct();
         // your own logic
-		$this->skills = new ArrayCollection();
+        $this->skills = new ArrayCollection();
     }
-	
-	/**
-	* @ORM\Column(name="lastname", type="string", nullable=true)
-	*/
-	private $lastname;
-	public function getLastname()
+    
+    /**
+    * @ORM\Column(name="lastname", type="string", nullable=true)
+    */
+    private $lastname;
+    public function getLastname()
     {
         return $this->lastname;
     }
@@ -94,12 +95,12 @@ class User extends BaseUser
     {
         $this->lastname = $lastname;
     }
-	
-	/**
-	* @ORM\Column(name="firstname", type="string", nullable=true)
-	*/
-	private $firstname;
-	public function getFirstname()
+    
+    /**
+    * @ORM\Column(name="firstname", type="string", nullable=true)
+    */
+    private $firstname;
+    public function getFirstname()
     {
         return $this->firstname;
     }
@@ -107,7 +108,7 @@ class User extends BaseUser
     {
         $this->firstname = $firstname;
     }
-	
+    
 //	/**
 //	* @ORM\Column(name="coach", type="boolean", nullable=false)
 //	*/
@@ -130,11 +131,9 @@ class User extends BaseUser
      * @ORM\OrderBy({"publishedAt" = "DESC"})
      */
     private $skills;
-	public function addSkill(Skill $skill)
+    public function addSkill(Skill $skill)
     {
         $tag->addUser($this); // synchronously updating inverse side
         $this->skills[] = $skill;
     }
-
-   
 }

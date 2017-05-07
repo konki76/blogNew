@@ -12,8 +12,12 @@
 namespace Acme\UserBundle\Form;
 
 use Symfony\Component\Form\AbstractType;
+use Symfony\Component\Form\Extension\Core\Type\CheckboxType;
+use Symfony\Component\Form\Extension\Core\Type\DateTimeType;
+use Symfony\Component\Form\Extension\Core\Type\EmailType;
+use Symfony\Component\Form\Extension\Core\Type\TextareaType;
 use Symfony\Component\Form\FormBuilderInterface;
-use Symfony\Component\OptionsResolver\OptionsResolverInterface;
+use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**
  * Defines the form used to create and manipulate blog Qcms.
@@ -34,29 +38,29 @@ class QcmType extends AbstractType
         $builder
             ->add('title')
             ->add('id')
-            ->add('summary', 'textarea')
-            ->add('content', 'textarea', array(
+            ->add('summary', TextareaType::class)
+            ->add('content', TextareaType::class, array(
                 'attr' => array('rows' => 20),
             ))
-			->add('labelAnswer1')
-			->add('answer1', 'checkbox', array('required' => false))
-			->add('labelAnswer2', 'textarea')
-			->add('answer2', 'checkbox', array('required' => false))
-			->add('labelAnswer3', 'textarea')
-			->add('answer3', 'checkbox', array('required' => false))
-			->add('labelAnswer4', 'textarea')
-			->add('answer4', 'checkbox', array('required' => false))
-			->add('labelAnswer5', 'textarea')
-			->add('answer4', 'checkbox', array('required' => false))
-            ->add('authorEmail', 'email')
-            ->add('publishedAt', 'datetime', array('widget' => 'single_text',))
+            ->add('labelAnswer1')
+            ->add('answer1', CheckboxType::class, array('required' => false))
+            ->add('labelAnswer2', TextareaType::class)
+            ->add('answer2', CheckboxType::class, array('required' => false))
+            ->add('labelAnswer3', TextareaType::class)
+            ->add('answer3', CheckboxType::class, array('required' => false))
+            ->add('labelAnswer4', TextareaType::class)
+            ->add('answer4', CheckboxType::class, array('required' => false))
+            ->add('labelAnswer5', TextareaType::class)
+            ->add('answer4', CheckboxType::class, array('required' => false))
+            ->add('authorEmail', EmailType::class)
+            ->add('publishedAt', DateTimeType::class, array('widget' => 'single_text',))
         ;
     }
 
     /**
      * @param OptionsResolverInterface $resolver
      */
-    public function setDefaultOptions(OptionsResolverInterface $resolver)
+    public function configureOptions(OptionsResolver $resolver)
     {
         $resolver->setDefaults(array(
             'data_class' => 'Acme\UserBundle\Entity\Qcm',
@@ -66,7 +70,7 @@ class QcmType extends AbstractType
     /**
      * @return string
      */
-    public function getName()
+    public function getBlockPrefix()
     {
         return 'Qcm';
     }

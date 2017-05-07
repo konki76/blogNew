@@ -162,6 +162,7 @@ class MainConfiguration implements ConfigurationInterface
                     ->cannotBeOverwritten()
                     ->prototype('array')
                         ->fixXmlConfig('ip')
+                        ->fixXmlConfig('method')
                         ->children()
                             ->scalarNode('requires_channel')->defaultNull()->end()
                             ->scalarNode('path')
@@ -215,6 +216,11 @@ class MainConfiguration implements ConfigurationInterface
                 ->prototype('scalar')->end()
             ->end()
             ->booleanNode('security')->defaultTrue()->end()
+            ->scalarNode('user_checker')
+                ->defaultValue('security.user_checker')
+                ->treatNullLike('security.user_checker')
+                ->info('The UserChecker to use when authenticating users in this firewall.')
+            ->end()
             ->scalarNode('request_matcher')->end()
             ->scalarNode('access_denied_url')->end()
             ->scalarNode('access_denied_handler')->end()
@@ -236,6 +242,8 @@ class MainConfiguration implements ConfigurationInterface
                 ->beforeNormalization()
                     ->ifTrue(function ($v) { return isset($v['csrf_provider']); })
                     ->then(function ($v) {
+                        @trigger_error("Setting the 'csrf_provider' configuration key on a security firewall is deprecated since version 2.8 and will be removed in 3.0. Use the 'csrf_token_generator' configuration key instead.", E_USER_DEPRECATED);
+
                         $v['csrf_token_generator'] = $v['csrf_provider'];
                         unset($v['csrf_provider']);
 
@@ -245,6 +253,8 @@ class MainConfiguration implements ConfigurationInterface
                 ->beforeNormalization()
                     ->ifTrue(function ($v) { return isset($v['intention']); })
                     ->then(function ($v) {
+                        @trigger_error("Setting the 'intention' configuration key on a security firewall is deprecated since version 2.8 and will be removed in 3.0. Use the 'csrf_token_id' key instead.", E_USER_DEPRECATED);
+
                         $v['csrf_token_id'] = $v['intention'];
                         unset($v['intention']);
 
@@ -285,8 +295,22 @@ class MainConfiguration implements ConfigurationInterface
             ->end()
             ->arrayNode('anonymous')
                 ->canBeUnset()
+                ->beforeNormalization()
+                    ->ifTrue(function ($v) { return isset($v['key']); })
+                    ->then(function ($v) {
+                        if (isset($v['secret'])) {
+                            throw new \LogicException('Cannot set both key and secret options for security.firewall.anonymous, use only secret instead.');
+                        }
+
+                        @trigger_error('security.firewall.anonymous.key is deprecated since version 2.8 and will be removed in 3.0. Use security.firewall.anonymous.secret instead.', E_USER_DEPRECATED);
+
+                        $v['secret'] = $v['key'];
+
+                        unset($v['key']);
+                    })
+                ->end()
                 ->children()
-                    ->scalarNode('key')->defaultValue(uniqid())->end()
+                    ->scalarNode('secret')->defaultValue(uniqid('', true))->end()
                 ->end()
             ->end()
             ->arrayNode('switch_user')
@@ -356,7 +380,6 @@ class MainConfiguration implements ConfigurationInterface
                         ),
                         'my_entity_provider' => array('entity' => array('class' => 'SecurityBundle:User', 'property' => 'username')),
                     ))
-                    ->disallowNewKeysInSubsequentConfigs()
                     ->isRequired()
                     ->requiresAtLeastOneElement()
                     ->useAttributeAsKey('name')
@@ -390,11 +413,11 @@ class MainConfiguration implements ConfigurationInterface
 
         $providerNodeBuilder
             ->validate()
-                ->ifTrue(function ($v) {return count($v) > 1;})
+                ->ifTrue(function ($v) { return count($v) > 1; })
                 ->thenInvalid('You cannot set multiple provider types for the same provider')
             ->end()
             ->validate()
-                ->ifTrue(function ($v) {return count($v) === 0;})
+                ->ifTrue(function ($v) { return count($v) === 0; })
                 ->thenInvalid('You must set a provider definition for the provider.')
             ->end()
         ;
@@ -407,11 +430,10 @@ class MainConfiguration implements ConfigurationInterface
             ->children()
                 ->arrayNode('encoders')
                     ->example(array(
-                        'Acme\DemoBundle\Entity\User1' => 'sha512',
-                        'Acme\DemoBundle\Entity\User2' => array(
-                            'algorithm' => 'sha512',
-                            'encode_as_base64' => 'true',
-                            'iterations' => 5000,
+                        'AppBundle\Entity\User1' => 'bcrypt',
+                        'AppBundle\Entity\User2' => array(
+                            'algorithm' => 'bcrypt',
+                            'cost' => 13,
                         ),
                     ))
                     ->requiresAtLeastOneElement()

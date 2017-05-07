@@ -12,8 +12,9 @@
 namespace Acme\UserBundle\Form;
 
 use Symfony\Component\Form\AbstractType;
+use Symfony\Component\Form\Extension\Core\Type\DateTimeType;
 use Symfony\Component\Form\FormBuilderInterface;
-use Symfony\Component\OptionsResolver\OptionsResolverInterface;
+use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**
  * Defines the form used to create and manipulate blog posts.
@@ -31,16 +32,16 @@ class ueGrpType extends AbstractType
         // see http://symfony.com/doc/current/reference/forms/types.html
         $builder
             ->add('title')
-			->add('ue')
-			->add('grp')
-            ->add('publishedAt', 'datetime', array('widget' => 'single_text',))
+            ->add('ue')
+            ->add('grp')
+            ->add('publishedAt', DateTimeType::class, array('widget' => 'single_text',))
         ;
     }
 
     /**
      * @param OptionsResolverInterface $resolver
      */
-    public function setDefaultOptions(OptionsResolverInterface $resolver)
+    public function configureOptions(OptionsResolver $resolver)
     {
         $resolver->setDefaults(array(
             'data_class' => 'Acme\UserBundle\Entity\ueGrp',
@@ -50,7 +51,7 @@ class ueGrpType extends AbstractType
     /**
      * @return string
      */
-    public function getName()
+    public function getBlockPrefix()
     {
         return 'grp';
     }

@@ -11,13 +11,14 @@
 
 namespace Symfony\Component\OptionsResolver\Tests;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\OptionsResolver\Options;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**
  * @group legacy
  */
-class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
+class LegacyOptionsTest extends TestCase
 {
     /**
      * @var OptionsResolver
@@ -26,8 +27,6 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
 
     protected function setUp()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $this->options = new OptionsResolver();
     }
 
@@ -51,7 +50,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
 
         // defined by subclass
         $this->options->overload('foo', function (Options $options, $previousValue) use ($test) {
-            /* @var \PHPUnit_Framework_TestCase $test */
+            /* @var TestCase $test */
             $test->assertEquals('bar', $previousValue);
 
             return 'dynamic';
@@ -71,7 +70,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
 
         // defined by subclass
         $this->options->overload('foo', function (Options $options, $previousValue) use ($test) {
-            /* @var \PHPUnit_Framework_TestCase $test */
+            /* @var TestCase $test */
             $test->assertEquals('bar', $previousValue);
 
             return 'dynamic';
@@ -104,7 +103,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
         $this->options->set('foo', 'bar');
 
         $this->options->set('bam', function (Options $options) use ($test) {
-            /* @var \PHPUnit_Framework_TestCase $test */
+            /* @var TestCase $test */
             $test->assertEquals('bar', $options->get('foo'));
 
             return 'dynamic';
@@ -122,7 +121,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
         });
 
         $this->options->set('bam', function (Options $options) use ($test) {
-            /* @var \PHPUnit_Framework_TestCase $test */
+            /* @var TestCase $test */
             $test->assertEquals('bar', $options->get('foo'));
 
             return 'dynamic';
@@ -161,7 +160,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
         $this->options->set('bam', 'baz');
 
         $this->options->setNormalizer('bam', function (Options $options) use ($test) {
-            /* @var \PHPUnit_Framework_TestCase $test */
+            /* @var TestCase $test */
             $test->assertEquals('bar', $options->get('foo'));
 
             return 'normalized';
@@ -180,7 +179,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
         $this->options->set('bam', 'baz');
 
         $this->options->setNormalizer('bam', function (Options $options) use ($test) {
-            /* @var \PHPUnit_Framework_TestCase $test */
+            /* @var TestCase $test */
             $test->assertEquals('bar', $options->get('foo'));
 
             return 'normalized';
@@ -277,7 +276,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
         });
 
         $resolved = $this->options->resolve();
-        $this->assertTrue(is_callable($resolved['foo']));
+        $this->assertInternalType('callable', $resolved['foo']);
     }
 
     public function testOverloadCannotBeEvaluatedLazilyWithoutFirstParamTypeHint()
@@ -289,7 +288,7 @@ class LegacyOptionsTest extends \PHPUnit_Framework_TestCase
         });
 
         $resolved = $this->options->resolve();
-        $this->assertTrue(is_callable($resolved['foo']));
+        $this->assertInternalType('callable', $resolved['foo']);
     }
 
     public function testRemoveOptionAndNormalizer()

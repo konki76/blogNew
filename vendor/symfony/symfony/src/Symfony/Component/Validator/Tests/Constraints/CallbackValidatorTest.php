@@ -185,14 +185,11 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
             ->assertRaised();
     }
 
-    // BC with Symfony < 2.4
     /**
      * @group legacy
      */
     public function testLegacySingleMethodBc()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $object = new CallbackValidatorTest_Object();
         $constraint = new Callback(array('validate'));
 
@@ -203,14 +200,11 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
             ->assertRaised();
     }
 
-    // BC with Symfony < 2.4
     /**
      * @group legacy
      */
     public function testLegacySingleMethodBcExplicitName()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $object = new CallbackValidatorTest_Object();
         $constraint = new Callback(array('methods' => array('validate')));
 
@@ -221,14 +215,11 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
             ->assertRaised();
     }
 
-    // BC with Symfony < 2.4
     /**
      * @group legacy
      */
     public function testLegacyMultipleMethodsBc()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $object = new CallbackValidatorTest_Object();
         $constraint = new Callback(array('validate', 'validateStatic'));
 
@@ -241,14 +232,11 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
             ->assertRaised();
     }
 
-    // BC with Symfony < 2.4
     /**
      * @group legacy
      */
     public function testLegacyMultipleMethodsBcExplicitName()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $object = new CallbackValidatorTest_Object();
         $constraint = new Callback(array(
             'methods' => array('validate', 'validateStatic'),
@@ -263,14 +251,11 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
             ->assertRaised();
     }
 
-    // BC with Symfony < 2.4
     /**
      * @group legacy
      */
     public function testLegacySingleStaticMethodBc()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $object = new CallbackValidatorTest_Object();
         $constraint = new Callback(array(
             array(__CLASS__.'_Class', 'validateCallback'),
@@ -283,14 +268,11 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
             ->assertRaised();
     }
 
-    // BC with Symfony < 2.4
     /**
      * @group legacy
      */
     public function testLegacySingleStaticMethodBcExplicitName()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $object = new CallbackValidatorTest_Object();
         $constraint = new Callback(array(
             'methods' => array(array(__CLASS__.'_Class', 'validateCallback')),
@@ -310,7 +292,7 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
     {
         $object = new CallbackValidatorTest_Object();
 
-        $this->validator->validate($object, new Callback(array('foobar')));
+        $this->validator->validate($object, new Callback(array('callback' => array('foobar'))));
     }
 
     /**
@@ -320,7 +302,7 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
     {
         $object = new CallbackValidatorTest_Object();
 
-        $this->validator->validate($object, new Callback(array(array('foo', 'bar'))));
+        $this->validator->validate($object, new Callback(array('callback' => array('foo', 'bar'))));
     }
 
     /**
@@ -329,8 +311,6 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
      */
     public function testLegacyExpectEitherCallbackOrMethods()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $object = new CallbackValidatorTest_Object();
 
         $this->validator->validate($object, new Callback(array(
@@ -350,7 +330,9 @@ class CallbackValidatorTest extends AbstractConstraintValidatorTest
     // Should succeed. Needed when defining constraints as annotations.
     public function testNoConstructorArguments()
     {
-        new Callback();
+        $constraint = new Callback();
+
+        $this->assertSame(array(Constraint::CLASS_CONSTRAINT, Constraint::PROPERTY_CONSTRAINT), $constraint->getTargets());
     }
 
     public function testAnnotationInvocationSingleValued()

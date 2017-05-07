@@ -11,9 +11,9 @@
 
 namespace Acme\UserBundle\DataFixtures\ORM;
 
-use Acme\UserBundle\Entity\User;
-use Acme\UserBundle\Entity\Post;
 use Acme\UserBundle\Entity\Comment;
+use Acme\UserBundle\Entity\Post;
+use Acme\UserBundle\Entity\User;
 use Doctrine\Common\DataFixtures\FixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;

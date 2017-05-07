@@ -12,8 +12,9 @@
 namespace Acme\UserBundle\Form;
 
 use Symfony\Component\Form\AbstractType;
+use Symfony\Component\Form\Extension\Core\Type\DateTimeType;
 use Symfony\Component\Form\FormBuilderInterface;
-use Symfony\Component\OptionsResolver\OptionsResolverInterface;
+use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**
  * Defines the form used to create and manipulate blog posts.
@@ -34,15 +35,15 @@ class SkillType extends AbstractType
         $builder
             ->add('title')
             ->add('ordre')
-            ->add('publishedAt', 'datetime', array('widget' => 'single_text',))
-		//	->add('postEnd',      new PostType()) // Ajoutez cette ligne
+            ->add('publishedAt', DateTimeType::class, array('widget' => 'single_text',))
+        //	->add('postEnd',      new PostType()) // Ajoutez cette ligne
         ;
     }
 
     /**
      * @param OptionsResolverInterface $resolver
      */
-    public function setDefaultOptions(OptionsResolverInterface $resolver)
+    public function configureOptions(OptionsResolver $resolver)
     {
         $resolver->setDefaults(array(
             'data_class' => 'Acme\UserBundle\Entity\Skill',
@@ -52,7 +53,7 @@ class SkillType extends AbstractType
     /**
      * @return string
      */
-    public function getName()
+    public function getBlockPrefix()
     {
         return 'post';
     }

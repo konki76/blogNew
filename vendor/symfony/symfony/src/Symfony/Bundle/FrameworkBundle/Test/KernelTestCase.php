@@ -11,6 +11,8 @@
 
 namespace Symfony\Bundle\FrameworkBundle\Test;
 
+use PHPUnit\Framework\TestCase;
+use Symfony\Component\DependencyInjection\ResettableContainerInterface;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\HttpKernel\KernelInterface;
 
@@ -19,7 +21,7 @@ use Symfony\Component\HttpKernel\KernelInterface;
  *
  * @author Fabien Potencier <fabien@symfony.com>
  */
-abstract class KernelTestCase extends \PHPUnit_Framework_TestCase
+abstract class KernelTestCase extends TestCase
 {
     protected static $class;
 
@@ -79,8 +81,12 @@ abstract class KernelTestCase extends \PHPUnit_Framework_TestCase
             if (preg_match('/^-[^ \-]*c$/', $testArg) || $testArg === '--configuration') {
                 $dir = realpath($reversedArgs[$argIndex - 1]);
                 break;
-            } elseif (strpos($testArg, '--configuration=') === 0) {
+            } elseif (0 === strpos($testArg, '--configuration=')) {
                 $argPath = substr($testArg, strlen('--configuration='));
+                $dir = realpath($argPath);
+                break;
+            } elseif (0 === strpos($testArg, '-c')) {
+                $argPath = substr($testArg, strlen('-c'));
                 $dir = realpath($argPath);
                 break;
             }
@@ -171,7 +177,11 @@ abstract class KernelTestCase extends \PHPUnit_Framework_TestCase
     protected static function ensureKernelShutdown()
     {
         if (null !== static::$kernel) {
+            $container = static::$kernel->getContainer();
             static::$kernel->shutdown();
+            if ($container instanceof ResettableContainerInterface) {
+                $container->reset();
+            }
         }
     }
 

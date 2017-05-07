@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -45,12 +45,12 @@ class UE
      * @ORM\OrderBy({"publishedAt" = "DESC"})
      */
     private $ues;
-	
+    
     /**
      * @ORM\Column(type="string")
      */
     private $slug;
-	
+    
     /**
      * @ORM\Column(type="text")
      * @Assert\Length(
@@ -59,8 +59,8 @@ class UE
      * )
      */
     private $startContent;
-	
-	public function getStartContent()
+    
+    public function getStartContent()
     {
         return $this->startContent;
     }
@@ -78,8 +78,8 @@ class UE
      * )
      */
     private $endContent;
-	
-	public function getEndContent()
+    
+    public function getEndContent()
     {
         return $this->endContent;
     }
@@ -89,15 +89,16 @@ class UE
         $this->endContent = $endContent;
     }
 
-	private $grps;
+    private $grps;
     public function __construct()
     {
         $this->grps = new ArrayCollection();
     }
-	public function __toString() {
-    return $this->title;
-	}
-	
+    public function __toString()
+    {
+        return $this->title;
+    }
+    
     public function getId()
     {
         return $this->id;
@@ -112,8 +113,8 @@ class UE
     {
         $this->publishedAt = $publishedAt;
     }
-	
-	public function getTitle()
+    
+    public function getTitle()
     {
         return $this->title;
     }
@@ -122,7 +123,7 @@ class UE
     {
         $this->title = $title;
     }
-	
+    
     public function getSlug()
     {
         return $this->slug;
@@ -132,5 +133,4 @@ class UE
     {
         $this->slug = $slug;
     }
-
 }

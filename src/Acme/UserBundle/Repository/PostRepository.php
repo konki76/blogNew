@@ -11,8 +11,8 @@
 
 namespace Acme\UserBundle\Repository;
 
-use Doctrine\ORM\EntityRepository;
 use Acme\UserBundle\Entity\Post;
+use Doctrine\ORM\EntityRepository;
 
 /**
  * This custom Doctrine repository contains some methods which are useful when
@@ -37,72 +37,72 @@ class PostRepository extends EntityRepository
         ;
     }
 
-	public function nextPostCt($currentPid)
+    public function nextPostCt($currentPid)
     {
-		return $this->createQueryBuilder('p')
-					->select('COUNT(p)')
-					->where('p.id = :pid')->setParameter('pid', $currentPid)
-					->getQuery()
-					->getSingleScalarResult();
-    }	
-	
+        return $this->createQueryBuilder('p')
+                    ->select('COUNT(p)')
+                    ->where('p.id = :pid')->setParameter('pid', $currentPid)
+                    ->getQuery()
+                    ->getSingleScalarResult();
+    }
+    
 
-	public function getPost($currentPid)
+    public function getPost($currentPid)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p')
-			->where('p.id = :pid')->setParameter('pid', $currentPid)
-			->getQuery()
-			->getOneOrNullResult();
-    }	
-	
-	
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p')
+            ->where('p.id = :pid')->setParameter('pid', $currentPid)
+            ->getQuery()
+            ->getOneOrNullResult();
+    }
+    
+    
     public function nextPost($currentPid)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p')
-			->where('p.id = :pid')->setParameter('pid', $currentPid)
-			->getQuery()
-			->getOneOrNullResult();
-    }	
-
-	public function postByPGrpId($currentPid)
-    {
-		return $this
-			->createQueryBuilder('p')
-			->select('p.id')
-			->join('p.pGrps', 't')
-			//->addSelect('t')
-			->where('t.id = :tid')->setParameter('tid', $pGrpId)
-			->getQuery()
-			->getOneOrNullResult();
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p')
+            ->where('p.id = :pid')->setParameter('pid', $currentPid)
+            ->getQuery()
+            ->getOneOrNullResult();
     }
-	
-	/*
-	public function postByPGrpId($pGrpId)
+
+    public function postByPGrpId($currentPid)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p.id')
-			->join('p.pGrps', 't')
-			//->addSelect('t')
-			->where('t.id = :tid')->setParameter('tid', $pGrpId)
-			->getQuery()
-			->getSingleScalarResult();
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p.id')
+            ->join('p.pGrps', 't')
+            //->addSelect('t')
+            ->where('t.id = :tid')->setParameter('tid', $pGrpId)
+            ->getQuery()
+            ->getOneOrNullResult();
+    }
+    
+    /*
+    public function postByPGrpId($pGrpId)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p.id')
+            ->join('p.pGrps', 't')
+            //->addSelect('t')
+            ->where('t.id = :tid')->setParameter('tid', $pGrpId)
+            ->getQuery()
+            ->getSingleScalarResult();
     }	
 
-	public function postByPGrpId($pGrpId)
+    public function postByPGrpId($pGrpId)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p.id')
-			->join('p.pGrps', 't')
-			//->addSelect('t')
-			->where('t.id = :tid')->setParameter('tid', $pGrpId)
-			->getQuery()
-			->getSingleScalarResult();
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p.id')
+            ->join('p.pGrps', 't')
+            //->addSelect('t')
+            ->where('t.id = :tid')->setParameter('tid', $pGrpId)
+            ->getQuery()
+            ->getSingleScalarResult();
     }	
-*/	
+*/
 }

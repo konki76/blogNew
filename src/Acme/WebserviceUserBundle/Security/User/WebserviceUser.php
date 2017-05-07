@@ -1,9 +1,9 @@
-<?
+<?php
 // src/Acme/WebserviceUserBundle/Security/User/WebserviceUser.php
 namespace Acme\WebserviceUserBundle\Security\User;
 
-use Symfony\Component\Security\Core\User\UserInterface;
 use Symfony\Component\Security\Core\User\EquatableInterface;
+use Symfony\Component\Security\Core\User\UserInterface;
 
 class WebserviceUser implements UserInterface, EquatableInterface
 {
@@ -65,4 +65,3 @@ class WebserviceUser implements UserInterface, EquatableInterface
         return true;
     }
 }
-?>

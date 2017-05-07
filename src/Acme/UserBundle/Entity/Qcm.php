@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -21,7 +21,7 @@ use Symfony\Component\Validator\Constraints as Assert;
 class Qcm
 {
     const NUM_ITEMS = 10;
-	
+    
     /**
      * @ORM\Id
      * @ORM\GeneratedValue
@@ -77,16 +77,17 @@ class Qcm
      */
     private $comments;
 
-	
-	private $Qcms;
+    
+    private $Qcms;
 
-	public function __toString() {
-    return $this->title;
-	}
-	
+    public function __toString()
+    {
+        return $this->title;
+    }
+    
     public function __construct()
     {
-		$this->Qcms = new ArrayCollection();
+        $this->Qcms = new ArrayCollection();
         $this->publishedAt = new \DateTime();
         $this->comments = new ArrayCollection();
         $this->answers = new ArrayCollection();
@@ -101,7 +102,7 @@ class Qcm
         $this->id = $id;
     }
 
-	
+    
     public function getTitle()
     {
         return $this->title;
@@ -164,7 +165,7 @@ class Qcm
         $this->publishedAt = $publishedAt;
     }
 
-	
+    
     public function getComments()
     {
         return $this->comments;
@@ -200,8 +201,8 @@ class Qcm
      * )
      * @ORM\OrderBy({"publishedAt" = "DESC"})
      */
-    private $answers;	
-	
+    private $answers;
+    
     public function getAnswers()
     {
         return $this->answers;
@@ -219,28 +220,28 @@ class Qcm
         $answers->setQcm(null);
     }
 
-	/**
-	* @ORM\Column(name="labelAnswer1", type="text", nullable=true)
-	*/
-	private $labelAnswer1;
-	/**
-	* @ORM\Column(name="labelAnswer2", type="text", nullable=true)
-	*/
-	private $labelAnswer2;
-	/**
-	* @ORM\Column(name="labelAnswer3", type="text", nullable=true)
-	*/
-	private $labelAnswer3;
-	/**
-	* @ORM\Column(name="labelAnswer4", type="text", nullable=true)
-	*/
-	private $labelAnswer4;
-	/**
-	* @ORM\Column(name="labelAnswer5", type="text", nullable=true)
-	*/
-	private $labelAnswer5;
-	
-	public function getLabelAnswer1()
+    /**
+    * @ORM\Column(name="labelAnswer1", type="text", nullable=true)
+    */
+    private $labelAnswer1;
+    /**
+    * @ORM\Column(name="labelAnswer2", type="text", nullable=true)
+    */
+    private $labelAnswer2;
+    /**
+    * @ORM\Column(name="labelAnswer3", type="text", nullable=true)
+    */
+    private $labelAnswer3;
+    /**
+    * @ORM\Column(name="labelAnswer4", type="text", nullable=true)
+    */
+    private $labelAnswer4;
+    /**
+    * @ORM\Column(name="labelAnswer5", type="text", nullable=true)
+    */
+    private $labelAnswer5;
+    
+    public function getLabelAnswer1()
     {
         return $this->labelAnswer1;
     }
@@ -248,7 +249,7 @@ class Qcm
     {
         $this->labelAnswer1 = $labelAnswer1;
     }
-	
+    
     public function getLabelAnswer2()
     {
         return $this->labelAnswer2;
@@ -257,7 +258,7 @@ class Qcm
     {
         $this->labelAnswer2 = $labelAnswer2;
     }
-	
+    
     public function getLabelAnswer3()
     {
         return $this->labelAnswer3;
@@ -266,7 +267,7 @@ class Qcm
     {
         $this->labelAnswer3 = $labelAnswer3;
     }
-	
+    
     public function getLabelAnswer4()
     {
         return $this->labelAnswer4;
@@ -284,29 +285,29 @@ class Qcm
     {
         $this->labelAnswer5 = $labelAnswer5;
     }
-		
-	
-/************************************************************************************************/	
-	/**
-	* @ORM\Column(name="answer1", type="boolean", nullable=true)
-	*/
-	private $answer1;
-	/**
-	* @ORM\Column(name="answer2", type="boolean", nullable=true)
-	*/
-	private $answer2;
-	/**
-	* @ORM\Column(name="answer3", type="boolean", nullable=true)
-	*/
-	private $answer3;
-	/**
-	* @ORM\Column(name="answer4", type="boolean", nullable=true)
-	*/
-	private $answer4;
-	/**
-	* @ORM\Column(name="answer5", type="boolean", nullable=true)
-	*/
-	private $answer5;
+        
+    
+/************************************************************************************************/
+    /**
+    * @ORM\Column(name="answer1", type="boolean", nullable=true)
+    */
+    private $answer1;
+    /**
+    * @ORM\Column(name="answer2", type="boolean", nullable=true)
+    */
+    private $answer2;
+    /**
+    * @ORM\Column(name="answer3", type="boolean", nullable=true)
+    */
+    private $answer3;
+    /**
+    * @ORM\Column(name="answer4", type="boolean", nullable=true)
+    */
+    private $answer4;
+    /**
+    * @ORM\Column(name="answer5", type="boolean", nullable=true)
+    */
+    private $answer5;
 
     public function getAnswer1()
     {
@@ -316,7 +317,7 @@ class Qcm
     {
         $this->answer1 = $answer1;
     }
-	
+    
     public function getAnswer2()
     {
         return $this->answer2;
@@ -325,7 +326,7 @@ class Qcm
     {
         $this->answer2 = $answer2;
     }
-	
+    
     public function getAnswer3()
     {
         return $this->answer3;
@@ -334,7 +335,7 @@ class Qcm
     {
         $this->answer3 = $answer3;
     }
-	
+    
     public function getAnswer4()
     {
         return $this->answer4;
@@ -343,7 +344,7 @@ class Qcm
     {
         $this->answer4 = $answer4;
     }
-	
+    
     public function getAnswer5()
     {
         return $this->answer5;
@@ -352,29 +353,29 @@ class Qcm
     {
         $this->answer5 = $answer5;
     }
-	
+    
 
-	/**
-	* @ORM\Column(name="commentAnswer1", type="text", nullable=true)
-	*/
-	private $commentAnswer1;
-	/**
-	* @ORM\Column(name="commentAnswer2", type="text", nullable=true)
-	*/
-	private $commentAnswer2;
-	/**
-	* @ORM\Column(name="commentAnswer3", type="text", nullable=true)
-	*/
-	private $commentAnswer3;
-	/**
-	* @ORM\Column(name="commentAnswer4", type="text", nullable=true)
-	*/
-	private $commentAnswer4;
-	/**
-	* @ORM\Column(name="commentAnswer5", type="text", nullable=true)
-	*/
-	private $commentAnswer5;	
-	public function getCommentAnswer1()
+    /**
+    * @ORM\Column(name="commentAnswer1", type="text", nullable=true)
+    */
+    private $commentAnswer1;
+    /**
+    * @ORM\Column(name="commentAnswer2", type="text", nullable=true)
+    */
+    private $commentAnswer2;
+    /**
+    * @ORM\Column(name="commentAnswer3", type="text", nullable=true)
+    */
+    private $commentAnswer3;
+    /**
+    * @ORM\Column(name="commentAnswer4", type="text", nullable=true)
+    */
+    private $commentAnswer4;
+    /**
+    * @ORM\Column(name="commentAnswer5", type="text", nullable=true)
+    */
+    private $commentAnswer5;
+    public function getCommentAnswer1()
     {
         return $this->commentAnswer1;
     }
@@ -382,7 +383,7 @@ class Qcm
     {
         $this->commentAnswer1 = $commentAnswer1;
     }
-	
+    
     public function getCommentAnswer2()
     {
         return $this->commentAnswer2;
@@ -391,7 +392,7 @@ class Qcm
     {
         $this->commentAnswer2 = $commentAnswer2;
     }
-	
+    
     public function getCommentAnswer3()
     {
         return $this->commentAnswer3;
@@ -400,7 +401,7 @@ class Qcm
     {
         $this->commentAnswer3 = $commentAnswer3;
     }
-	
+    
     public function getCommentAnswer4()
     {
         return $this->commentAnswer4;
@@ -408,7 +409,7 @@ class Qcm
     public function setCommentAnswer4($commentAnswer4)
     {
         $this->commentAnswer4 = $commentAnswer4;
-    }	
+    }
 
     public function getCommentAnswer5()
     {
@@ -417,11 +418,10 @@ class Qcm
     public function setCommentAnswer5($commentAnswer5)
     {
         $this->commentAnswer5 = $commentAnswer5;
-    }	
-	
-	/**
+    }
+    
+    /**
     * @ORM\OneToMany(targetEntity="pGrp", mappedBy="Qcm")
     */
     protected $pGrps;
-	
 }

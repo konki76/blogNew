@@ -11,6 +11,7 @@
 
 namespace Symfony\Component\Intl\Tests\Data\Bundle\Writer;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Intl\Data\Bundle\Writer\TextBundleWriter;
 
@@ -19,7 +20,7 @@ use Symfony\Component\Intl\Data\Bundle\Writer\TextBundleWriter;
  *
  * @see http://source.icu-project.org/repos/icu/icuhtml/trunk/design/bnf_rb.txt
  */
-class TextBundleWriterTest extends \PHPUnit_Framework_TestCase
+class TextBundleWriterTest extends TestCase
 {
     /**
      * @var TextBundleWriter
@@ -36,7 +37,7 @@ class TextBundleWriterTest extends \PHPUnit_Framework_TestCase
     protected function setUp()
     {
         $this->writer = new TextBundleWriter();
-        $this->directory = sys_get_temp_dir().'/TextBundleWriterTest/'.rand(1000, 9999);
+        $this->directory = sys_get_temp_dir().'/TextBundleWriterTest/'.mt_rand(1000, 9999);
         $this->filesystem = new Filesystem();
 
         $this->filesystem->mkdir($this->directory);

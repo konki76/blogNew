@@ -1,24 +1,24 @@
 <?php
 namespace Acme\UserBundle\Services;
- 
-class ConvertCsvToArray {
-    
+
+class ConvertCsvToArray
+{
     public function __construct()
     {
     }
     
-    public function convert($filename, $delimiter) 
+    public function convert($filename, $delimiter)
     {
-        if(!file_exists($filename) || !is_readable($filename)) {
-            return FALSE;
+        if (!file_exists($filename) || !is_readable($filename)) {
+            return false;
         }
         
-        $header = NULL;
+        $header = null;
         $data = array();
         
-        if (($handle = fopen($filename, 'r')) !== FALSE) {
-            while (($row = fgetcsv($handle, 1000, $delimiter)) !== FALSE) {
-                if(!$header) {
+        if (($handle = fopen($filename, 'r')) !== false) {
+            while (($row = fgetcsv($handle, 1000, $delimiter)) !== false) {
+                if (!$header) {
                     $header = $row;
                 } else {
                     $data[] = array_combine($header, $row);
@@ -28,6 +28,4 @@ class ConvertCsvToArray {
         }
         return $data;
     }
- 
 }
-

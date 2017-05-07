@@ -11,15 +11,16 @@
 
 namespace Symfony\Component\Serializer\Tests\Annotation;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Serializer\Annotation\Groups;
 
 /**
  * @author Kévin Dunglas <dunglas@gmail.com>
  */
-class GroupsTest extends \PHPUnit_Framework_TestCase
+class GroupsTest extends TestCase
 {
     /**
-     * @expectedException \InvalidArgumentException
+     * @expectedException \Symfony\Component\Serializer\Exception\InvalidArgumentException
      */
     public function testEmptyGroupsParameter()
     {
@@ -27,7 +28,7 @@ class GroupsTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @expectedException \InvalidArgumentException
+     * @expectedException \Symfony\Component\Serializer\Exception\InvalidArgumentException
      */
     public function testNotAnArrayGroupsParameter()
     {
@@ -35,7 +36,7 @@ class GroupsTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
-     * @expectedException \InvalidArgumentException
+     * @expectedException \Symfony\Component\Serializer\Exception\InvalidArgumentException
      */
     public function testInvalidGroupsParameter()
     {

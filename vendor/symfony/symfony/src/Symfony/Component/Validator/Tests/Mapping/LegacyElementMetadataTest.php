@@ -11,6 +11,7 @@
 
 namespace Symfony\Component\Validator\Tests\Mapping;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Validator\Mapping\ElementMetadata;
 use Symfony\Component\Validator\Tests\Fixtures\ConstraintA;
 use Symfony\Component\Validator\Tests\Fixtures\ConstraintB;
@@ -18,14 +19,12 @@ use Symfony\Component\Validator\Tests\Fixtures\ConstraintB;
 /**
  * @group legacy
  */
-class LegacyElementMetadataTest extends \PHPUnit_Framework_TestCase
+class LegacyElementMetadataTest extends TestCase
 {
     protected $metadata;
 
     protected function setUp()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $this->metadata = new TestElementMetadata();
     }
 

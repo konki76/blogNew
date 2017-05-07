@@ -8,7 +8,7 @@ use Symfony\Component\HttpKernel\Event\FilterResponseEvent;
 
 class ScoreListener
 {
-  // Notre processeur
+    // Notre processeur
   protected $ScoreHTML;
 
   // La date de fin de la version bêta :
@@ -16,29 +16,28 @@ class ScoreListener
   // - Après cette date, on n'affichera plus le « bêta »
   protected $endDate;
 
-  public function __construct(ScoreHTML $ScoreHTML, $endDate)
-  {
-    $this->ScoreHTML = $ScoreHTML;
-    $this->endDate  = new \Datetime($endDate);
-  }
-
-   public function processScore(FilterResponseEvent $event)
-  {
-    if (!$event->isMasterRequest()) {
-      return;
+    public function __construct(ScoreHTML $ScoreHTML, $endDate)
+    {
+        $this->ScoreHTML = $ScoreHTML;
+        $this->endDate  = new \Datetime($endDate);
     }
 
-    $remainingDays = $this->endDate->diff(new \Datetime())->format('%d');
+    public function processScore(FilterResponseEvent $event)
+    {
+        if (!$event->isMasterRequest()) {
+            return;
+        }
+
+        $remainingDays = $this->endDate->diff(new \Datetime())->format('%d');
 
     // Si la date est dépassée, on ne fait rien
     if ($remainingDays <= 0) {
-      return;
+        return;
     }
 
     // On utilise notre BetaHTML
     $response = $this->ScoreHTML->displayBeta($event->getResponse(), $remainingDays);
     // On met à jour la réponse avec la nouvelle valeur
     $event->setResponse($response);
-  }
-
+    }
 }

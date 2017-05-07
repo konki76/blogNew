@@ -27,7 +27,6 @@ use Symfony\Component\Validator\Violation\ConstraintViolationBuilder;
 /**
  * The context used and created by {@link ExecutionContextFactory}.
  *
- * @since  2.5
  * @author Bernhard Schussek <bschussek@gmail.com>
  *
  * @see ExecutionContextInterface
@@ -286,6 +285,11 @@ class ExecutionContext implements ExecutionContextInterface
     public function getGroup()
     {
         return $this->group;
+    }
+
+    public function getConstraint()
+    {
+        return $this->constraint;
     }
 
     /**

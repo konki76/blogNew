@@ -11,9 +11,10 @@
 
 namespace Symfony\Component\Config\Tests\Resource;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Config\Resource\FileResource;
 
-class FileResourceTest extends \PHPUnit_Framework_TestCase
+class FileResourceTest extends TestCase
 {
     protected $resource;
     protected $file;
@@ -48,7 +49,7 @@ class FileResourceTest extends \PHPUnit_Framework_TestCase
         $this->assertTrue($this->resource->isFresh($this->time + 10), '->isFresh() returns true if the resource has not changed');
         $this->assertFalse($this->resource->isFresh($this->time - 86400), '->isFresh() returns false if the resource has been updated');
 
-        $resource = new FileResource('/____foo/foobar'.rand(1, 999999));
+        $resource = new FileResource('/____foo/foobar'.mt_rand(1, 999999));
         $this->assertFalse($resource->isFresh($this->time), '->isFresh() returns false if the resource does not exist');
     }
 

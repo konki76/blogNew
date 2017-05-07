@@ -46,7 +46,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (UserSkill $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -193,7 +191,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function getTitle()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getTitle', array());
 
         return parent::getTitle();
@@ -204,7 +201,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function setTitle($title)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setTitle', array($title));
 
         return parent::setTitle($title);
@@ -215,7 +211,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function getValue()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getValue', array());
 
         return parent::getValue();
@@ -226,7 +221,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function setValue($value)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setValue', array($value));
 
         return parent::setValue($value);
@@ -237,7 +231,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -248,7 +241,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -259,7 +251,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function getUsers()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getUsers', array());
 
         return parent::getUsers();
@@ -270,7 +261,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function addUser(\Acme\UserBundle\Entity\User $user)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'addUser', array($user));
 
         return parent::addUser($user);
@@ -281,7 +271,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function removeUser(\Acme\UserBundle\Entity\User $users)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'removeUser', array($users));
 
         return parent::removeUser($users);
@@ -292,7 +281,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function getUser()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getUser', array());
 
         return parent::getUser();
@@ -301,9 +289,8 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
     /**
      * {@inheritDoc}
      */
-    public function setUser(\Acme\UserBundle\Entity\User $user = NULL)
+    public function setUser(\Acme\UserBundle\Entity\User $user = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setUser', array($user));
 
         return parent::setUser($user);
@@ -314,7 +301,6 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
      */
     public function getSkill()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getSkill', array());
 
         return parent::getSkill();
@@ -323,12 +309,10 @@ class UserSkill extends \Acme\UserBundle\Entity\UserSkill implements \Doctrine\O
     /**
      * {@inheritDoc}
      */
-    public function setskill(\Acme\UserBundle\Entity\Skill $skill = NULL)
+    public function setskill(\Acme\UserBundle\Entity\Skill $skill = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setskill', array($skill));
 
         return parent::setskill($skill);
     }
-
 }

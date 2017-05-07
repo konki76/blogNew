@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -57,19 +57,19 @@ class Grp
      * )
      * @ORM\OrderBy({"publishedAt" = "DESC"})
      */
-    private $ues;	
-	
+    private $ues;
+    
     /**
      * @ORM\Column(type="string")
      */
     private $slug;
     
-	/**
+    /**
      * @ORM\GeneratedValue
      * @ORM\Column(type="integer")
      */
     private $ordre;
-	public function getOrdre()
+    public function getOrdre()
     {
         return $this->ordre;
     }
@@ -78,12 +78,12 @@ class Grp
     {
         $this->ordre = $ordre;
     }
-	
+    
     /**
      * @ORM\Column(type="string")
      */
     private $ue;
-	public function getUe()
+    public function getUe()
     {
         return $this->ue;
     }
@@ -92,7 +92,7 @@ class Grp
     {
         $this->ue = $ue;
     }
-	
+    
     /**
      * @ORM\Column(type="text")
      * @Assert\Length(
@@ -101,8 +101,8 @@ class Grp
      * )
      */
     private $startContent;
-	
-	public function getStartContent()
+    
+    public function getStartContent()
     {
         return $this->startContent;
     }
@@ -112,9 +112,9 @@ class Grp
         $this->startContent = $startContent;
     }
 
-	
-	
-	
+    
+    
+    
     /**
      * @ORM\Column(type="text")
      * @Assert\Length(
@@ -123,8 +123,8 @@ class Grp
      * )
      */
     private $endContent;
-	
-	public function getEndContent()
+    
+    public function getEndContent()
     {
         return $this->endContent;
     }
@@ -133,30 +133,31 @@ class Grp
     {
         $this->endContent = $endContent;
     }
-	/*
+    /*
     public function __construct()
     {
         $this->publishedAt = new \DateTime();
     }
-	*/
-	private $ueGrps;
-	private $pGrps;
+    */
+    private $ueGrps;
+    private $pGrps;
     public function __construct()
     {
         $this->pGrps = new ArrayCollection();
-		$this->ueGrps = new ArrayCollection();
+        $this->ueGrps = new ArrayCollection();
     }
 
 
 
-	
-	public function __toString() {
-    return $this->title;
-	}
+    
+    public function __toString()
+    {
+        return $this->title;
+    }
 
 
-	
-	
+    
+    
     public function getId()
     {
         return $this->id;
@@ -171,8 +172,8 @@ class Grp
     {
         $this->publishedAt = $publishedAt;
     }
-	
-	public function getTitle()
+    
+    public function getTitle()
     {
         return $this->title;
     }
@@ -181,7 +182,7 @@ class Grp
     {
         $this->title = $title;
     }
-	
+    
     public function getSlug()
     {
         return $this->slug;
@@ -197,6 +198,4 @@ class Grp
      // @ORM\JoinColumn(nullable=true)
      ///
     //private $answers;
-
-	
 }

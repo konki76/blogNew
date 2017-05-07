@@ -46,7 +46,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (Skill $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -178,7 +176,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function getStartContent()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getStartContent', array());
 
         return parent::getStartContent();
@@ -189,7 +186,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function setStartContent($startContent)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setStartContent', array($startContent));
 
         return parent::setStartContent($startContent);
@@ -200,7 +196,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function getEndContent()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getEndContent', array());
 
         return parent::getEndContent();
@@ -211,7 +206,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function setEndContent($endContent)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setEndContent', array($endContent));
 
         return parent::setEndContent($endContent);
@@ -222,7 +216,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function __toString()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, '__toString', array());
 
         return parent::__toString();
@@ -248,7 +241,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -259,7 +251,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -270,7 +261,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function getTitle()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getTitle', array());
 
         return parent::getTitle();
@@ -281,7 +271,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function setTitle($title)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setTitle', array($title));
 
         return parent::setTitle($title);
@@ -292,7 +281,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function getSlug()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getSlug', array());
 
         return parent::getSlug();
@@ -303,7 +291,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function setSlug($slug)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setSlug', array($slug));
 
         return parent::setSlug($slug);
@@ -314,7 +301,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function getOrdre()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getOrdre', array());
 
         return parent::getOrdre();
@@ -325,7 +311,6 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function setOrdre($ordre)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setOrdre', array($ordre));
 
         return parent::setOrdre($ordre);
@@ -336,10 +321,8 @@ class Skill extends \Acme\UserBundle\Entity\Skill implements \Doctrine\ORM\Proxy
      */
     public function addUser(\Acme\UserBundle\Entity\User $user)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'addUser', array($user));
 
         return parent::addUser($user);
     }
-
 }

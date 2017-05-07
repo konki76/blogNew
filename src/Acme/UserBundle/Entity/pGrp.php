@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -33,7 +33,7 @@ class pGrp
      * @Assert\NotBlank()
      */
     private $qcmSlug;
-	public function getQcmSlug()
+    public function getQcmSlug()
     {
         return $this->qcmSlug;
     }
@@ -42,13 +42,13 @@ class pGrp
     {
         $this->qcmSlug = $qcmSlug;
     }
-	
+    
     /**
      * @ORM\Column(type="string")
      * @Assert\NotBlank()
      */
     private $grpSlug;
-	public function getGrpSlug()
+    public function getGrpSlug()
     {
         return $this->grpSlug;
     }
@@ -73,21 +73,21 @@ class pGrp
      */
     private $qcms;
 
-	
-	//pGrps_qcm ==> pGrps
+    
+    //pGrps_qcm ==> pGrps
     /**
      * @ORM\ManyToOne(targetEntity="Qcm", inversedBy="pGrps")
      * @ORM\JoinColumn(nullable=false)
      */
     private $qcm;
-	
-	
-	/*	
-	 * @ORM\ManyToOne(targetEntity="Pays", inversedBy="groupes")
-	 * @ORM\JoinColumn(name="pays_id", referencedColumnName="pays_id")
-	protected $pays_id;
-	*/
-	
+    
+    
+    /*	
+     * @ORM\ManyToOne(targetEntity="Pays", inversedBy="groupes")
+     * @ORM\JoinColumn(name="pays_id", referencedColumnName="pays_id")
+    protected $pays_id;
+    */
+    
     /**
      * @ORM\OneToMany(
      *      targetEntity="Grp",
@@ -103,7 +103,7 @@ class pGrp
      * @ORM\JoinColumn(nullable=false)
      */
     private $grp;
-	
+    
     public function __construct()
     {
         $this->publishedAt = new \DateTime();
@@ -113,7 +113,7 @@ class pGrp
     {
         return $this->id;
     }
-	
+    
 /*
 public function __toString()
 {
@@ -121,8 +121,8 @@ public function __toString()
 }
 */
 
-	
-	
+    
+    
     public function getPublishedAt()
     {
         return $this->publishedAt;
@@ -133,7 +133,7 @@ public function __toString()
         $this->publishedAt = $publishedAt;
     }
 
-	public function getGrps()
+    public function getGrps()
     {
         return $this->grps;
     }
@@ -150,7 +150,7 @@ public function __toString()
         $grps->setGrp(null);
     }
 
-	public function getGrp()
+    public function getGrp()
     {
         return $this->grp;
     }
@@ -158,8 +158,8 @@ public function __toString()
     {
         $this->grp = $grp;
     }
-	
-	public function getQcm()
+    
+    public function getQcm()
     {
         return $this->qcm;
     }

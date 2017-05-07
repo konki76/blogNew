@@ -11,17 +11,16 @@
 
 namespace Symfony\Bundle\FrameworkBundle\Tests\DependencyInjection\Compiler;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Bundle\FrameworkBundle\DependencyInjection\Compiler\LoggingTranslatorPass;
-use Symfony\Component\DependencyInjection\ContainerBuilder;
-use Symfony\Component\DependencyInjection\Definition;
 
-class LoggingTranslatorPassTest extends \PHPUnit_Framework_TestCase
+class LoggingTranslatorPassTest extends TestCase
 {
     public function testProcess()
     {
-        $definition = $this->getMock('Symfony\Component\DependencyInjection\Definition');
-        $container = $this->getMock('Symfony\Component\DependencyInjection\ContainerBuilder');
-        $parameterBag = $this->getMock('Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface');
+        $definition = $this->getMockBuilder('Symfony\Component\DependencyInjection\Definition')->getMock();
+        $container = $this->getMockBuilder('Symfony\Component\DependencyInjection\ContainerBuilder')->getMock();
+        $parameterBag = $this->getMockBuilder('Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface')->getMock();
 
         $container->expects($this->exactly(2))
             ->method('hasAlias')
@@ -46,7 +45,7 @@ class LoggingTranslatorPassTest extends \PHPUnit_Framework_TestCase
 
         $definition->expects($this->once())
             ->method('getClass')
-            ->will($this->returnValue("%translator.class%"));
+            ->will($this->returnValue('%translator.class%'));
 
         $parameterBag->expects($this->once())
             ->method('resolveValue')
@@ -62,7 +61,7 @@ class LoggingTranslatorPassTest extends \PHPUnit_Framework_TestCase
 
     public function testThatCompilerPassIsIgnoredIfThereIsNotLoggerDefinition()
     {
-        $container = $this->getMock('Symfony\Component\DependencyInjection\ContainerBuilder');
+        $container = $this->getMockBuilder('Symfony\Component\DependencyInjection\ContainerBuilder')->getMock();
         $container->expects($this->once())
             ->method('hasAlias')
             ->will($this->returnValue(false));
@@ -73,7 +72,7 @@ class LoggingTranslatorPassTest extends \PHPUnit_Framework_TestCase
 
     public function testThatCompilerPassIsIgnoredIfThereIsNotTranslatorDefinition()
     {
-        $container = $this->getMock('Symfony\Component\DependencyInjection\ContainerBuilder');
+        $container = $this->getMockBuilder('Symfony\Component\DependencyInjection\ContainerBuilder')->getMock();
         $container->expects($this->at(0))
             ->method('hasAlias')
             ->will($this->returnValue(true));

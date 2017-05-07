@@ -11,9 +11,9 @@
 
 namespace Acme\UserBundle\EventListener;
 
-use Symfony\Component\HttpKernel\HttpKernelInterface;
-use Symfony\Component\HttpKernel\Event\FilterControllerEvent;
 use Acme\UserBundle\Twig\SourceCodeExtension;
+use Symfony\Component\HttpKernel\Event\FilterControllerEvent;
+use Symfony\Component\HttpKernel\HttpKernelInterface;
 
 /**
  * Defines the method that 'listens' to the 'kernel.controller' event, which is

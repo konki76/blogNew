@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -50,13 +50,13 @@ class ueGrp
      */
     private $grps;
 
-	//invesrsedBy 'ues' doit être déclaré dans l'entité Grp.php 
+    //invesrsedBy 'ues' doit être déclaré dans l'entité Grp.php
     /**
      * @ORM\ManyToOne(targetEntity="Grp", inversedBy="ues")
      * @ORM\JoinColumn(nullable=false)
      */
     private $grp;
-	
+    
     /**
      * @ORM\OneToMany(
      *      targetEntity="UE",
@@ -72,7 +72,7 @@ class ueGrp
      * @ORM\JoinColumn(nullable=false)
      */
     private $ue;
-	
+    
     public function __construct()
     {
         $this->publishedAt = new \DateTime();
@@ -82,8 +82,8 @@ class ueGrp
     {
         return $this->id;
     }
-	
-	public function getTitle()
+    
+    public function getTitle()
     {
         return $this->title;
     }
@@ -92,7 +92,7 @@ class ueGrp
     {
         $this->title = $title;
     }
-	
+    
     public function getPublishedAt()
     {
         return $this->publishedAt;
@@ -103,7 +103,7 @@ class ueGrp
         $this->publishedAt = $publishedAt;
     }
 
-	public function getUes()
+    public function getUes()
     {
         return $this->ues;
     }
@@ -120,7 +120,7 @@ class ueGrp
         $ues->setGrp(null);
     }
 
-	public function getUe()
+    public function getUe()
     {
         return $this->ue;
     }
@@ -128,8 +128,8 @@ class ueGrp
     {
         $this->ue = $ue;
     }
-	
-	public function getGrp()
+    
+    public function getGrp()
     {
         return $this->grp;
     }

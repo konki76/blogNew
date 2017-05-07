@@ -132,56 +132,56 @@ class Answer
     public function setGrp(Grp $grp)
     {
         $this->grp = $grp;
-    }	
-/************************************************************************************************/	
-	/**
-	* @ORM\Column(name="answer1", type="boolean", nullable=true)
-	*/
-	private $answer1;
-	/**
-	* @ORM\Column(name="answer2", type="boolean", nullable=true)
-	*/
-	private $answer2;
-	/**
-	* @ORM\Column(name="answer3", type="boolean", nullable=true)
-	*/
-	private $answer3;
-	/**
-	* @ORM\Column(name="answer4", type="boolean", nullable=true)
-	*/
-	private $answer4;
-	/**
-	* @ORM\Column(name="answer5", type="boolean", nullable=true)
-	*/
-	private $answer5;
-	/**
-	* @ORM\Column(name="answer6", type="boolean", nullable=true)
-	*/
-	private $answer6;
-	/**
-	* @ORM\Column(name="answer7", type="boolean", nullable=true)
-	*/
-	private $answer7;
-	/**
-	* @ORM\Column(name="answer8", type="boolean", nullable=true)
-	*/
-	private $answer8;
-	/**
-	* @ORM\Column(name="answer9", type="boolean", nullable=true)
-	*/
-	private $answer9;
-	/**
-	* @ORM\Column(name="answer10", type="boolean", nullable=true)
-	*/
-	private $answer10;	
+    }
+/************************************************************************************************/
+    /**
+    * @ORM\Column(name="answer1", type="boolean", nullable=true)
+    */
+    private $answer1;
+    /**
+    * @ORM\Column(name="answer2", type="boolean", nullable=true)
+    */
+    private $answer2;
+    /**
+    * @ORM\Column(name="answer3", type="boolean", nullable=true)
+    */
+    private $answer3;
+    /**
+    * @ORM\Column(name="answer4", type="boolean", nullable=true)
+    */
+    private $answer4;
+    /**
+    * @ORM\Column(name="answer5", type="boolean", nullable=true)
+    */
+    private $answer5;
+    /**
+    * @ORM\Column(name="answer6", type="boolean", nullable=true)
+    */
+    private $answer6;
+    /**
+    * @ORM\Column(name="answer7", type="boolean", nullable=true)
+    */
+    private $answer7;
+    /**
+    * @ORM\Column(name="answer8", type="boolean", nullable=true)
+    */
+    private $answer8;
+    /**
+    * @ORM\Column(name="answer9", type="boolean", nullable=true)
+    */
+    private $answer9;
+    /**
+    * @ORM\Column(name="answer10", type="boolean", nullable=true)
+    */
+    private $answer10;
 
-	
-	/**
-	* @ORM\Column(name="score", type="integer", nullable=true)
-	*/
-	private $score;	
-	
-	public function getScore()
+    
+    /**
+    * @ORM\Column(name="score", type="integer", nullable=true)
+    */
+    private $score;
+    
+    public function getScore()
     {
         return $this->score;
     }
@@ -189,7 +189,7 @@ class Answer
     {
         $this->score = $score;
     }
-	
+    
     public function getAnswer1()
     {
         return $this->answer1;
@@ -198,7 +198,7 @@ class Answer
     {
         $this->answer1 = $answer1;
     }
-	
+    
     public function getAnswer2()
     {
         return $this->answer2;
@@ -207,7 +207,7 @@ class Answer
     {
         $this->answer2 = $answer2;
     }
-	
+    
     public function getAnswer3()
     {
         return $this->answer3;
@@ -216,7 +216,7 @@ class Answer
     {
         $this->answer3 = $answer3;
     }
-	
+    
     public function getAnswer4()
     {
         return $this->answer4;
@@ -225,7 +225,7 @@ class Answer
     {
         $this->answer4 = $answer4;
     }
-	
+    
     public function getAnswer5()
     {
         return $this->answer5;
@@ -234,7 +234,7 @@ class Answer
     {
         $this->answer5 = $answer5;
     }
-	
+    
     public function getAnswer6()
     {
         return $this->answer6;
@@ -244,7 +244,7 @@ class Answer
         $this->answer6 = $answer6;
     }
 
-	
+    
     public function getAnswer7()
     {
         return $this->answer7;
@@ -253,7 +253,7 @@ class Answer
     {
         $this->qcm = $answer7;
     }
-	
+    
     public function getAnswer8()
     {
         return $this->answer8;
@@ -262,7 +262,7 @@ class Answer
     {
         $this->qcm = $answer8;
     }
-	
+    
     public function getAnswer9()
     {
         return $this->answer9;
@@ -270,15 +270,14 @@ class Answer
     public function setAnswer9($answer9)
     {
         $this->qcm = $answer9;
-    }	
+    }
 
-	public function getAnswer10()
+    public function getAnswer10()
     {
         return $this->answer10;
     }
     public function setAnswer10($answer10)
     {
         $this->qcm = $answer10;
-    }	
-	
+    }
 }

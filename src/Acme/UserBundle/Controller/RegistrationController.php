@@ -6,28 +6,25 @@ use FOS\UserBundle\Controller\RegistrationController as BaseController;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Component\HttpFoundation\Response;
 
-
 class RegistrationController extends BaseController
 {
     public function registerAction()
     {
-	
-		$response = parent::registerAction();
+        $response = parent::registerAction();
         // do custom stuff
  
         return $response;
-
     }
-	
-	
-	/**
+    
+    
+    /**
      * @Route("/registerCoach/", name="registerCoach")
      */
-    public function registerCoachAction() 
-	{ 
-		//return new Response('<html><body>TEST</body></html>');		
-	
-        $form = $this->container->get('fos_user.registrationCoach.form');	//service à créer
+    public function registerCoachAction()
+    {
+        //return new Response('<html><body>TEST</body></html>');
+    
+        $form = $this->container->get('fos_user.registrationCoach.form');    //service à créer
         $formHandler = $this->container->get('fos_user.registration.form.handler');
         $confirmationEnabled = $this->container->getParameter('fos_user.registration.confirmation.enabled');
 

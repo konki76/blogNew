@@ -11,12 +11,13 @@
 
 namespace Symfony\Bundle\FrameworkBundle\Tests\Translation;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Bundle\FrameworkBundle\Translation\Translator;
 use Symfony\Component\Translation\MessageCatalogue;
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Translation\MessageSelector;
 
-class TranslatorTest extends \PHPUnit_Framework_TestCase
+class TranslatorTest extends TestCase
 {
     protected $tmpDir;
 
@@ -76,7 +77,7 @@ class TranslatorTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('foobarbax (sr@latin)', $translator->trans('foobarbax'));
 
         // do it another time as the cache is primed now
-        $loader = $this->getMock('Symfony\Component\Translation\Loader\LoaderInterface');
+        $loader = $this->getMockBuilder('Symfony\Component\Translation\Loader\LoaderInterface')->getMock();
         $loader->expects($this->never())->method('load');
 
         $translator = $this->getTranslator($loader, array('cache_dir' => $this->tmpDir));
@@ -96,40 +97,12 @@ class TranslatorTest extends \PHPUnit_Framework_TestCase
 
     public function testTransWithCachingWithInvalidLocale()
     {
-        $loader = $this->getMock('Symfony\Component\Translation\Loader\LoaderInterface');
+        $loader = $this->getMockBuilder('Symfony\Component\Translation\Loader\LoaderInterface')->getMock();
         $translator = $this->getTranslator($loader, array('cache_dir' => $this->tmpDir), 'loader', '\Symfony\Bundle\FrameworkBundle\Tests\Translation\TranslatorWithInvalidLocale');
         $translator->setLocale('invalid locale');
 
-        $this->setExpectedException('\InvalidArgumentException');
+        $this->{method_exists($this, $_ = 'expectException') ? $_ : 'setExpectedException'}('\InvalidArgumentException');
         $translator->trans('foo');
-    }
-
-    public function testLoadResourcesWithCaching()
-    {
-        $loader = new \Symfony\Component\Translation\Loader\YamlFileLoader();
-        $resourceFiles = array(
-            'fr' => array(
-                __DIR__.'/../Fixtures/Resources/translations/messages.fr.yml',
-            ),
-        );
-
-        // prime the cache
-        $translator = $this->getTranslator($loader, array('cache_dir' => $this->tmpDir, 'resource_files' => $resourceFiles), 'yml');
-        $translator->setLocale('fr');
-
-        $this->assertEquals('répertoire', $translator->trans('folder'));
-
-        // do it another time as the cache is primed now
-        $translator = $this->getTranslator($loader, array('cache_dir' => $this->tmpDir), 'yml');
-        $translator->setLocale('fr');
-
-        $this->assertEquals('répertoire', $translator->trans('folder'));
-
-        // refresh cache when resources is changed in debug mode.
-        $translator = $this->getTranslator($loader, array('cache_dir' => $this->tmpDir, 'debug' => true), 'yml');
-        $translator->setLocale('fr');
-
-        $this->assertEquals('folder', $translator->trans('folder'));
     }
 
     public function testLoadResourcesWithoutCaching()
@@ -149,7 +122,7 @@ class TranslatorTest extends \PHPUnit_Framework_TestCase
 
     public function testGetDefaultLocale()
     {
-        $container = $this->getMock('Symfony\Component\DependencyInjection\ContainerInterface');
+        $container = $this->getMockBuilder('Symfony\Component\DependencyInjection\ContainerInterface')->getMock();
         $container
             ->expects($this->once())
             ->method('getParameter')
@@ -177,7 +150,7 @@ class TranslatorTest extends \PHPUnit_Framework_TestCase
 
     protected function getLoader()
     {
-        $loader = $this->getMock('Symfony\Component\Translation\Loader\LoaderInterface');
+        $loader = $this->getMockBuilder('Symfony\Component\Translation\Loader\LoaderInterface')->getMock();
         $loader
             ->expects($this->at(0))
             ->method('load')
@@ -235,7 +208,7 @@ class TranslatorTest extends \PHPUnit_Framework_TestCase
 
     protected function getContainer($loader)
     {
-        $container = $this->getMock('Symfony\Component\DependencyInjection\ContainerInterface');
+        $container = $this->getMockBuilder('Symfony\Component\DependencyInjection\ContainerInterface')->getMock();
         $container
             ->expects($this->any())
             ->method('get')
@@ -273,16 +246,17 @@ class TranslatorTest extends \PHPUnit_Framework_TestCase
 
         // prime the cache
         $translator = $this->getTranslator($loader, array('cache_dir' => $this->tmpDir, 'resource_files' => $resourceFiles), 'yml');
-        $translator->setLocale('fr');
+        $translator->setFallbackLocales(array('fr'));
         $translator->warmup($this->tmpDir);
 
-        $loader = $this->getMock('Symfony\Component\Translation\Loader\LoaderInterface');
+        $loader = $this->getMockBuilder('Symfony\Component\Translation\Loader\LoaderInterface')->getMock();
         $loader
             ->expects($this->never())
             ->method('load');
 
         $translator = $this->getTranslator($loader, array('cache_dir' => $this->tmpDir, 'resource_files' => $resourceFiles), 'yml');
         $translator->setLocale('fr');
+        $translator->setFallbackLocales(array('fr'));
         $this->assertEquals('répertoire', $translator->trans('folder'));
     }
 

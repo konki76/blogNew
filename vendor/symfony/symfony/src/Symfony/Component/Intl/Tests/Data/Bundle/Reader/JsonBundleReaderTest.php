@@ -11,12 +11,13 @@
 
 namespace Symfony\Component\Intl\Tests\Data\Bundle\Reader;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Intl\Data\Bundle\Reader\JsonBundleReader;
 
 /**
  * @author Bernhard Schussek <bschussek@gmail.com>
  */
-class JsonBundleReaderTest extends \PHPUnit_Framework_TestCase
+class JsonBundleReaderTest extends TestCase
 {
     /**
      * @var JsonBundleReader
@@ -32,7 +33,7 @@ class JsonBundleReaderTest extends \PHPUnit_Framework_TestCase
     {
         $data = $this->reader->read(__DIR__.'/Fixtures/json', 'en');
 
-        $this->assertTrue(is_array($data));
+        $this->assertInternalType('array', $data);
         $this->assertSame('Bar', $data['Foo']);
         $this->assertFalse(isset($data['ExistsNot']));
     }

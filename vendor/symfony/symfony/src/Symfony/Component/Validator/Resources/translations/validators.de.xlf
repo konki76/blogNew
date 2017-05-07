@@ -192,7 +192,7 @@
             </trans-unit>
             <trans-unit id="51">
                 <source>No temporary folder was configured in php.ini.</source>
-                <target>Es wurde kein temporärer Ordner in der php.ini konfiguriert.</target>
+                <target>Es wurde kein temporärer Ordner in der php.ini konfiguriert oder der temporäre Ordner existiert nicht.</target>
             </trans-unit>
             <trans-unit id="52">
                 <source>Cannot write temporary file to disk.</source>
@@ -224,7 +224,7 @@
             </trans-unit>
             <trans-unit id="59">
                 <source>This is not a valid International Bank Account Number (IBAN).</source>
-                <target>Dieser Wert ist keine gültige IBAN-Kontonummer.</target>
+                <target>Dieser Wert ist keine gültige internationale Bankkontonummer (IBAN).</target>
             </trans-unit>
             <trans-unit id="60">
                 <source>This value is not a valid ISBN-10.</source>
@@ -309,6 +309,10 @@
             <trans-unit id="80">
                 <source>This value does not match the expected {{ charset }} charset.</source>
                 <target>Dieser Wert entspricht nicht dem erwarteten Zeichensatz {{ charset }}.</target>
+            </trans-unit>
+            <trans-unit id="81">
+                <source>This is not a valid Business Identifier Code (BIC).</source>
+                <target>Dieser Wert ist kein gültiger BIC.</target>
             </trans-unit>
         </body>
     </file>

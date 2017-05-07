@@ -73,6 +73,6 @@ class __TwigTemplate_172c0cae77cc2a6043bb65af081a49ae6d9ae4227c0a3e551bd4f041626
 
     public function getDebugInfo()
     {
-        return array (  58 => 28,  55 => 27,  48 => 23,  39 => 16,  36 => 15,  30 => 13,  11 => 11,);
+        return array(  58 => 28,  55 => 27,  48 => 23,  39 => 16,  36 => 15,  30 => 13,  11 => 11,);
     }
 }

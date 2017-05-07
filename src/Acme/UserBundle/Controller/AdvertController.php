@@ -7,9 +7,9 @@ use Symfony\Component\HttpFoundation\Response;
 
 class AdvertController extends Controller
 {
-	public function indexAction()
-	{
-		$content = $this->get('templating')->render('AcmeUserBundle:Advert:index.html.twig');
-		return new Response($content);
-	}
+    public function indexAction()
+    {
+        $content = $this->get('templating')->render('AcmeUserBundle:Advert:index.html.twig');
+        return new Response($content);
+    }
 }

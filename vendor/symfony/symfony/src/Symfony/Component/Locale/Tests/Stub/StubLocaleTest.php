@@ -11,22 +11,16 @@
 
 namespace Symfony\Component\Locale\Tests\Stub;
 
-use Symfony\Component\Intl\Util\IntlTestHelper;
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Locale\Stub\StubLocale;
 
 /**
  * @author Bernhard Schussek <bschussek@gmail.com>
+ *
+ * @group legacy
  */
-class StubLocaleTest extends \PHPUnit_Framework_TestCase
+class StubLocaleTest extends TestCase
 {
-    protected function setUp()
-    {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
-        // Locale extends \Locale, so intl must be present
-        IntlTestHelper::requireIntl($this);
-    }
-
     public function testGetCurrenciesData()
     {
         $currencies = StubLocale::getCurrenciesData('en');

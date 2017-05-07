@@ -11,8 +11,8 @@
 
 namespace Acme\UserBundle\Repository;
 
-use Doctrine\ORM\EntityRepository;
 use Acme\UserBundle\Entity\ueGrp;
+use Doctrine\ORM\EntityRepository;
 
 /**
  * This custom Doctrine repository contains some methods which are useful when
@@ -24,9 +24,6 @@ use Acme\UserBundle\Entity\ueGrp;
  */
 class ueGrpRepository extends EntityRepository
 {
-
-
-
     public function findLatest($limit = ueGrp::NUM_ITEMS)
     {
         return $this
@@ -39,88 +36,86 @@ class ueGrpRepository extends EntityRepository
             ->getResult()
         ;
     }
-	
+    
     public function findGrpsByueGrpId($ueId)
     {
         return $this
             ->createQueryBuilder('p')
             ->select('p')
             ->where('p.ue = :ueGrpId')
-			->setParameter('ueGrpId', $ueId)
+            ->setParameter('ueGrpId', $ueId)
             ->orderBy('p.publishedAt', 'DESC')
             ->getQuery()
             ->getResult()
         ;
     }
-	
-	public function nextueGrpCt($currentPid)
+    
+    public function nextueGrpCt($currentPid)
     {
-		return $this->createQueryBuilder('p')
-					->select('COUNT(p)')
-					->where('p.ue = :pid')->setParameter('pid', $currentPid)
-					->getQuery()
-					->getSingleScalarResult();
-    }	
+        return $this->createQueryBuilder('p')
+                    ->select('COUNT(p)')
+                    ->where('p.ue = :pid')->setParameter('pid', $currentPid)
+                    ->getQuery()
+                    ->getSingleScalarResult();
+    }
 
     public function currentueGrp($currentPid)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p')
-			->where('p.id = :pid')->setParameter('pid', $currentPid)
-			->getQuery()
-			->getOneOrNullResult();
-    }	
-	
-	public function nextGrpCtueGrpId($ueId,$page)
-	{
-		return $this->createQueryBuilder('p')
-		 ->select('COUNT(p)')
-		 ->where('p.ue = :ueid')->setParameter('ueid', $ueId)
-			->andwhere('p.grp > :page')->setParameter('page', $page)
-		 ->getQuery()
-		 ->getSingleScalarResult();
-	}
-	
-	public function nextGrpueGrpId($ue,$page)
-	{
-		return $this
-			->createQueryBuilder('p')
-			->select('p.id')
-			->where('p.ue = :ue')->setParameter('ue', $ue)
-			->andwhere('p.grp > :page')->setParameter('page', $page)
-			->orderBy('p.grp', 'ASC')
-			->setMaxResults(1)
-			->getQuery()
-			->getSingleScalarResult();
-	}
-	
-	public function ueIdByueGrpId($ueGrpId)
-	{
-		return $this
-			->createQueryBuilder('p')
-			->join('p.ue', 'ps')
-			->addSelect('ps')
-			->where('p.id = :ueGrpid')->setParameter('ueGrpid', $ueGrpId)
-			->setMaxResults(1)
-			->getQuery()
-			->getScalarResult();
-	}
-	
-	//affiche les grp à partir des ue
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p')
+            ->where('p.id = :pid')->setParameter('pid', $currentPid)
+            ->getQuery()
+            ->getOneOrNullResult();
+    }
+    
+    public function nextGrpCtueGrpId($ueId, $page)
+    {
+        return $this->createQueryBuilder('p')
+         ->select('COUNT(p)')
+         ->where('p.ue = :ueid')->setParameter('ueid', $ueId)
+            ->andwhere('p.grp > :page')->setParameter('page', $page)
+         ->getQuery()
+         ->getSingleScalarResult();
+    }
+    
+    public function nextGrpueGrpId($ue, $page)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p.id')
+            ->where('p.ue = :ue')->setParameter('ue', $ue)
+            ->andwhere('p.grp > :page')->setParameter('page', $page)
+            ->orderBy('p.grp', 'ASC')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getSingleScalarResult();
+    }
+    
+    public function ueIdByueGrpId($ueGrpId)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->join('p.ue', 'ps')
+            ->addSelect('ps')
+            ->where('p.id = :ueGrpid')->setParameter('ueGrpid', $ueGrpId)
+            ->setMaxResults(1)
+            ->getQuery()
+            ->getScalarResult();
+    }
+    
+    //affiche les grp à partir des ue
     public function findGrpByUe($ue)
     {
         //return 0;
-		
-		return $this
+        
+        return $this
             ->createQueryBuilder('p')
-			->join('p.grp', 'g')
-			->addSelect('g')
+            ->join('p.grp', 'g')
+            ->addSelect('g')
             ->where('p.ue = :ue')->setParameter('ue', $ue)
             ->orderBy('p.publishedAt', 'DESC')
             ->getQuery()
             ->getResult();
     }
-
-	
 }

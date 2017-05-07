@@ -39,7 +39,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     return $this->redirect($pathinfo.'/', 'admin_index');
                 }
 
-                return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::indexAction',  '_route' => 'admin_index',);
+                return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::indexAction',  '_route' => 'admin_index',);
             }
             not_admin_index:
 
@@ -54,7 +54,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     return $this->redirect($pathinfo.'/', 'admin_post_index');
                 }
 
-                return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::indexAction',  '_route' => 'admin_post_index',);
+                return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::indexAction',  '_route' => 'admin_post_index',);
             }
             not_admin_post_index:
 
@@ -65,13 +65,13 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     goto not_admin_ue;
                 }
 
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ue')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueShowPageAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ue')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueShowPageAction',));
             }
             not_admin_ue:
 
             // admin_grpPage
             if (0 === strpos($pathinfo, '/admin/grp') && preg_match('#^/admin/grp/(?P<slug>[^/]++)/index$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_grpPage')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpShowPageAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_grpPage')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpShowPageAction',));
             }
 
             if (0 === strpos($pathinfo, '/admin/post')) {
@@ -82,7 +82,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_post_new;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::newAction',  '_route' => 'admin_post_new',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::newAction',  '_route' => 'admin_post_new',);
                 }
                 not_admin_post_new:
 
@@ -93,10 +93,9 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_post_show;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_show')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::showAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_show')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::showAction',));
                 }
                 not_admin_post_show:
-
             }
 
             // admin_userSkill_edit
@@ -106,7 +105,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     goto not_admin_userSkill_edit;
                 }
 
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_userSkill_edit')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::userSkillEditAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_userSkill_edit')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::userSkillEditAction',));
             }
             not_admin_userSkill_edit:
 
@@ -118,7 +117,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_post_edit;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_edit')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::editAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_edit')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::editAction',));
                 }
                 not_admin_post_edit:
 
@@ -129,10 +128,9 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_post_delete;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_delete')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::deleteAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_delete')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::deleteAction',));
                 }
                 not_admin_post_delete:
-
             }
 
             // admin_grp_delete
@@ -142,7 +140,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     goto not_admin_grp_delete;
                 }
 
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_grp_delete')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::deleteGrpAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_grp_delete')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::deleteGrpAction',));
             }
             not_admin_grp_delete:
 
@@ -154,7 +152,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_ue_index;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueIndexAction',  '_route' => 'admin_ue_index',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueIndexAction',  '_route' => 'admin_ue_index',);
                 }
                 not_admin_ue_index:
 
@@ -165,7 +163,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_uegrp_list;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_uegrp_list')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueGrpListAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_uegrp_list')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueGrpListAction',));
                 }
                 not_admin_uegrp_list:
 
@@ -176,7 +174,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_ueGrp_new;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ueGrp_new')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueGrpNewAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ueGrp_new')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueGrpNewAction',));
                 }
                 not_admin_ueGrp_new:
 
@@ -187,7 +185,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_ue_new;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueNewAction',  '_route' => 'admin_ue_new',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueNewAction',  '_route' => 'admin_ue_new',);
                 }
                 not_admin_ue_new:
 
@@ -198,7 +196,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_ue_edit;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ue_edit')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueEditAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ue_edit')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::ueEditAction',));
                 }
                 not_admin_ue_edit:
 
@@ -209,10 +207,9 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_ue_delete;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ue_delete')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::deleteUeAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_ue_delete')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::deleteUeAction',));
                 }
                 not_admin_ue_delete:
-
             }
 
             // admin_post_answer_list
@@ -222,7 +219,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     goto not_admin_post_answer_list;
                 }
 
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_answer_list')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::answsersAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_post_answer_list')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::answsersAction',));
             }
             not_admin_post_answer_list:
 
@@ -234,7 +231,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_skill_index;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::skillIndexAction',  '_route' => 'admin_skill_index',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::skillIndexAction',  '_route' => 'admin_skill_index',);
                 }
                 not_admin_skill_index:
 
@@ -245,7 +242,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_skill_new;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::skillNewAction',  '_route' => 'admin_skill_new',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::skillNewAction',  '_route' => 'admin_skill_new',);
                 }
                 not_admin_skill_new:
 
@@ -256,10 +253,9 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_skill_edit;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_skill_edit')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::skillEditAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_skill_edit')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::skillEditAction',));
                 }
                 not_admin_skill_edit:
-
             }
 
             if (0 === strpos($pathinfo, '/admin/grp')) {
@@ -270,7 +266,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_grp_index;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpIndexAction',  '_route' => 'admin_grp_index',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpIndexAction',  '_route' => 'admin_grp_index',);
                 }
                 not_admin_grp_index:
 
@@ -281,7 +277,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_grp_new;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpNewAction',  '_route' => 'admin_grp_new',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpNewAction',  '_route' => 'admin_grp_new',);
                 }
                 not_admin_grp_new:
 
@@ -292,10 +288,9 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_grp_edit;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_grp_edit')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpEditAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_grp_edit')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::grpEditAction',));
                 }
                 not_admin_grp_edit:
-
             }
 
             if (0 === strpos($pathinfo, '/admin/userSkill')) {
@@ -306,7 +301,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_userSkill_list;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_userSkill_list')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::userSkillListAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_userSkill_list')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::userSkillListAction',));
                 }
                 not_admin_userSkill_list:
 
@@ -317,10 +312,9 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_userSkill_new;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_userSkill_new')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::userSkillNewAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_userSkill_new')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::userSkillNewAction',));
                 }
                 not_admin_userSkill_new:
-
             }
 
             if (0 === strpos($pathinfo, '/admin/p')) {
@@ -331,7 +325,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_pgrp_list;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_pgrp_list')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::pGrpListAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_pgrp_list')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::pGrpListAction',));
                 }
                 not_admin_pgrp_list:
 
@@ -342,12 +336,10 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_admin_pGrp_new;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_pGrp_new')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::pGrpNewAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'admin_pGrp_new')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\Admin\\BlogController::pGrpNewAction',));
                 }
                 not_admin_pGrp_new:
-
             }
-
         }
 
         // registerCoach
@@ -356,7 +348,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                 return $this->redirect($pathinfo.'/', 'registerCoach');
             }
 
-            return array (  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::registerCoachAction',  '_route' => 'registerCoach',);
+            return array(  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::registerCoachAction',  '_route' => 'registerCoach',);
         }
 
         // Home
@@ -365,23 +357,23 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                 return $this->redirect($pathinfo.'/', 'Home');
             }
 
-            return array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::homeAction',  '_route' => 'Home',);
+            return array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::homeAction',  '_route' => 'Home',);
         }
 
         // user
         if ($pathinfo === '/user') {
-            return array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::userAction',  '_route' => 'user',);
+            return array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::userAction',  '_route' => 'user',);
         }
 
         // blog_post
         if (0 === strpos($pathinfo, '/post') && preg_match('#^/post/(?P<id>\\d+)$#s', $pathinfo, $matches)) {
-            return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_post')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::postAction',));
+            return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_post')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::postAction',));
         }
 
         if (0 === strpos($pathinfo, '/blog')) {
             // blog_grp_index
             if ($pathinfo === '/blog/pGrps') {
-                return array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::grpIndexAction',  '_route' => 'blog_grp_index',);
+                return array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::grpIndexAction',  '_route' => 'blog_grp_index',);
             }
 
             // blog_index
@@ -390,58 +382,56 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     return $this->redirect($pathinfo.'/', 'blog_index');
                 }
 
-                return array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog_index',);
+                return array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::indexAction',  '_route' => 'blog_index',);
             }
 
             // blog_uePage
             if (0 === strpos($pathinfo, '/blog/ue') && preg_match('#^/blog/ue/(?P<slug>[^/]++)/index$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_uePage')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::ueShowPageAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_uePage')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::ueShowPageAction',));
             }
 
             // blog_grpPage
             if (0 === strpos($pathinfo, '/blog/grp') && preg_match('#^/blog/grp/(?P<slug>[^/]++)/index$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_grpPage')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::grpShowPageAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_grpPage')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::grpShowPageAction',));
             }
 
             // blog_ueAllPage
             if (0 === strpos($pathinfo, '/blog/ue') && preg_match('#^/blog/ue/(?P<id>\\d+)$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_ueAllPage')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::ueAllShowPageAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_ueAllPage')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::ueAllShowPageAction',));
             }
 
             // answer
             if (0 === strpos($pathinfo, '/blog/Qcm') && preg_match('#^/blog/Qcm/(?P<page>[^/]++)$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'answer')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::answerPageAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'answer')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::answerPageAction',));
             }
 
             // blog_grpQcmPage
             if (0 === strpos($pathinfo, '/blog/grp') && preg_match('#^/blog/grp/(?P<grpSlug>[^/]++)/Qcm/(?P<page>[^/]++)$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_grpQcmPage')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::grpQcmShowPageAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_grpQcmPage')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::grpQcmShowPageAction',));
             }
 
             if (0 === strpos($pathinfo, '/blog/Qcm')) {
                 // blog_QcmPage
                 if (preg_match('#^/blog/Qcm/(?P<page>[^/]++)$#s', $pathinfo, $matches)) {
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_QcmPage')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::QcmShowPageAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_QcmPage')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::QcmShowPageAction',));
                 }
 
                 // blog_Qcm
                 if (0 === strpos($pathinfo, '/blog/Qcms') && preg_match('#^/blog/Qcms/(?P<slug>[^/]++)$#s', $pathinfo, $matches)) {
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_Qcm')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::QcmShowAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_Qcm')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::QcmShowAction',));
                 }
-
             }
-
         }
 
         // blog_Qcm_answer
         if (0 === strpos($pathinfo, '/QcmAnswers') && preg_match('#^/QcmAnswers/(?P<slug>[^/]++)$#s', $pathinfo, $matches)) {
-            return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_Qcm_answer')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::QcmShowAnswersAction',));
+            return $this->mergeDefaults(array_replace($matches, array('_route' => 'blog_Qcm_answer')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::QcmShowAnswersAction',));
         }
 
         if (0 === strpos($pathinfo, '/blog')) {
             // comment_new
             if (preg_match('#^/blog/(?P<postSlug>[^/]++)/comment/new$#s', $pathinfo, $matches)) {
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'comment_new')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::commentNewAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'comment_new')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::commentNewAction',));
             }
 
             // answer_grp_new
@@ -451,7 +441,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     goto not_answer_grp_new;
                 }
 
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'answer_grp_new')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::answerGrpNewAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'answer_grp_new')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::answerGrpNewAction',));
             }
             not_answer_grp_new:
 
@@ -462,10 +452,9 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     goto not_answer_new;
                 }
 
-                return $this->mergeDefaults(array_replace($matches, array('_route' => 'answer_new')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::answerNewAction',));
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'answer_new')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\BlogController::answerNewAction',));
             }
             not_answer_new:
-
         }
 
         // homepage
@@ -474,14 +463,14 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                 return $this->redirect($pathinfo.'/', 'homepage');
             }
 
-            return array (  '_controller' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\TemplateController::templateAction',  'template' => 'default/homepage.html.twig',  '_route' => 'homepage',);
+            return array(  '_controller' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\TemplateController::templateAction',  'template' => 'default/homepage.html.twig',  '_route' => 'homepage',);
         }
 
         if (0 === strpos($pathinfo, '/log')) {
             if (0 === strpos($pathinfo, '/login')) {
                 // fos_user_security_login
                 if ($pathinfo === '/login') {
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\SecurityController::loginAction',  '_route' => 'fos_user_security_login',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\SecurityController::loginAction',  '_route' => 'fos_user_security_login',);
                 }
 
                 // fos_user_security_check
@@ -491,17 +480,15 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_fos_user_security_check;
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\SecurityController::checkAction',  '_route' => 'fos_user_security_check',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\SecurityController::checkAction',  '_route' => 'fos_user_security_check',);
                 }
                 not_fos_user_security_check:
-
             }
 
             // fos_user_security_logout
             if ($pathinfo === '/logout') {
-                return array (  '_controller' => 'Acme\\UserBundle\\Controller\\SecurityController::logoutAction',  '_route' => 'fos_user_security_logout',);
+                return array(  '_controller' => 'Acme\\UserBundle\\Controller\\SecurityController::logoutAction',  '_route' => 'fos_user_security_logout',);
             }
-
         }
 
         if (0 === strpos($pathinfo, '/profile')) {
@@ -516,15 +503,14 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                     return $this->redirect($pathinfo.'/', 'fos_user_profile_show');
                 }
 
-                return array (  '_controller' => 'FOS\\UserBundle\\Controller\\ProfileController::showAction',  '_route' => 'fos_user_profile_show',);
+                return array(  '_controller' => 'FOS\\UserBundle\\Controller\\ProfileController::showAction',  '_route' => 'fos_user_profile_show',);
             }
             not_fos_user_profile_show:
 
             // fos_user_profile_edit
             if ($pathinfo === '/profile/edit') {
-                return array (  '_controller' => 'FOS\\UserBundle\\Controller\\ProfileController::editAction',  '_route' => 'fos_user_profile_edit',);
+                return array(  '_controller' => 'FOS\\UserBundle\\Controller\\ProfileController::editAction',  '_route' => 'fos_user_profile_edit',);
             }
-
         }
 
         if (0 === strpos($pathinfo, '/re')) {
@@ -535,7 +521,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         return $this->redirect($pathinfo.'/', 'fos_user_registration_register');
                     }
 
-                    return array (  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::registerAction',  '_route' => 'fos_user_registration_register',);
+                    return array(  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::registerAction',  '_route' => 'fos_user_registration_register',);
                 }
 
                 if (0 === strpos($pathinfo, '/register/c')) {
@@ -546,7 +532,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                             goto not_fos_user_registration_check_email;
                         }
 
-                        return array (  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::checkEmailAction',  '_route' => 'fos_user_registration_check_email',);
+                        return array(  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::checkEmailAction',  '_route' => 'fos_user_registration_check_email',);
                     }
                     not_fos_user_registration_check_email:
 
@@ -558,7 +544,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                                 goto not_fos_user_registration_confirm;
                             }
 
-                            return $this->mergeDefaults(array_replace($matches, array('_route' => 'fos_user_registration_confirm')), array (  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::confirmAction',));
+                            return $this->mergeDefaults(array_replace($matches, array('_route' => 'fos_user_registration_confirm')), array(  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::confirmAction',));
                         }
                         not_fos_user_registration_confirm:
 
@@ -569,14 +555,11 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                                 goto not_fos_user_registration_confirmed;
                             }
 
-                            return array (  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::confirmedAction',  '_route' => 'fos_user_registration_confirmed',);
+                            return array(  '_controller' => 'Acme\\UserBundle\\Controller\\RegistrationController::confirmedAction',  '_route' => 'fos_user_registration_confirmed',);
                         }
                         not_fos_user_registration_confirmed:
-
                     }
-
                 }
-
             }
 
             if (0 === strpos($pathinfo, '/resetting')) {
@@ -587,7 +570,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_fos_user_resetting_request;
                     }
 
-                    return array (  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::requestAction',  '_route' => 'fos_user_resetting_request',);
+                    return array(  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::requestAction',  '_route' => 'fos_user_resetting_request',);
                 }
                 not_fos_user_resetting_request:
 
@@ -598,7 +581,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_fos_user_resetting_send_email;
                     }
 
-                    return array (  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::sendEmailAction',  '_route' => 'fos_user_resetting_send_email',);
+                    return array(  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::sendEmailAction',  '_route' => 'fos_user_resetting_send_email',);
                 }
                 not_fos_user_resetting_send_email:
 
@@ -609,7 +592,7 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_fos_user_resetting_check_email;
                     }
 
-                    return array (  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::checkEmailAction',  '_route' => 'fos_user_resetting_check_email',);
+                    return array(  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::checkEmailAction',  '_route' => 'fos_user_resetting_check_email',);
                 }
                 not_fos_user_resetting_check_email:
 
@@ -620,12 +603,10 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                         goto not_fos_user_resetting_reset;
                     }
 
-                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'fos_user_resetting_reset')), array (  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::resetAction',));
+                    return $this->mergeDefaults(array_replace($matches, array('_route' => 'fos_user_resetting_reset')), array(  '_controller' => 'FOS\\UserBundle\\Controller\\ResettingController::resetAction',));
                 }
                 not_fos_user_resetting_reset:
-
             }
-
         }
 
         // fos_user_change_password
@@ -635,13 +616,13 @@ class appProdUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirecta
                 goto not_fos_user_change_password;
             }
 
-            return array (  '_controller' => 'FOS\\UserBundle\\Controller\\ChangePasswordController::changePasswordAction',  '_route' => 'fos_user_change_password',);
+            return array(  '_controller' => 'FOS\\UserBundle\\Controller\\ChangePasswordController::changePasswordAction',  '_route' => 'fos_user_change_password',);
         }
         not_fos_user_change_password:
 
         // hello_the_world
         if ($pathinfo === '/hello-world') {
-            return array (  '_controller' => 'Acme\\UserBundle\\Controller\\AdvertController::indexAction',  '_route' => 'hello_the_world',);
+            return array(  '_controller' => 'Acme\\UserBundle\\Controller\\AdvertController::indexAction',  '_route' => 'hello_the_world',);
         }
 
         throw 0 < count($allow) ? new MethodNotAllowedException(array_unique($allow)) : new ResourceNotFoundException();

@@ -11,9 +11,9 @@
 
 namespace Acme\UserBundle\Tests\Controller\Admin;
 
+use Acme\UserBundle\Entity\Post;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 use Symfony\Component\HttpFoundation\Response;
-use Acme\UserBundle\Entity\Post;
 
 /**
  * Functional test for the controllers defined inside the BlogController used

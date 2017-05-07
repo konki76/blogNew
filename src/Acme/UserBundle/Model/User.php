@@ -11,8 +11,8 @@
 
 namespace Acme\UserBundle\Model;
 
-use Doctrine\Common\Collections\Collection;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 
 /**
  * Storage agnostic user object
@@ -587,10 +587,10 @@ abstract class User implements UserInterface, GroupableInterface
     }
 
 /**
-	* @ORM\Column(name="lastname", type="string", nullable=true)
-	*/
-	private $lastname;
-	public function getLastname()
+    * @ORM\Column(name="lastname", type="string", nullable=true)
+    */
+    private $lastname;
+    public function getLastname()
     {
         return $this->lastname;
     }
@@ -598,12 +598,12 @@ abstract class User implements UserInterface, GroupableInterface
     {
         $this->lastname = $lastname;
     }
-	
-	/**
-	* @ORM\Column(name="firstname", type="string", nullable=true)
-	*/
-	private $firstname;
-	public function getFirstname()
+    
+    /**
+    * @ORM\Column(name="firstname", type="string", nullable=true)
+    */
+    private $firstname;
+    public function getFirstname()
     {
         return $this->firstname;
     }
@@ -611,5 +611,4 @@ abstract class User implements UserInterface, GroupableInterface
     {
         $this->firstname = $firstname;
     }
-	
 }

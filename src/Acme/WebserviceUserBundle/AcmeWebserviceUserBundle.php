@@ -22,5 +22,4 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
  */
 class AcmeWebserviceUserBundle extends Bundle
 {
-
 }

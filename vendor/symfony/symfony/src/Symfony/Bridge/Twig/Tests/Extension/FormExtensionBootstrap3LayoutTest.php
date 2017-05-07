@@ -39,7 +39,7 @@ class FormExtensionBootstrap3LayoutTest extends AbstractBootstrap3LayoutTest
             'bootstrap_3_layout.html.twig',
             'custom_widgets.html.twig',
         ));
-        $renderer = new TwigRenderer($rendererEngine, $this->getMock('Symfony\Component\Security\Csrf\CsrfTokenManagerInterface'));
+        $renderer = new TwigRenderer($rendererEngine, $this->getMockBuilder('Symfony\Component\Security\Csrf\CsrfTokenManagerInterface')->getMock());
 
         $this->extension = new FormExtension($renderer);
 
@@ -60,6 +60,30 @@ class FormExtensionBootstrap3LayoutTest extends AbstractBootstrap3LayoutTest
         parent::tearDown();
 
         $this->extension = null;
+    }
+
+    public function testStartTagHasNoActionAttributeWhenActionIsEmpty()
+    {
+        $form = $this->factory->create('Symfony\Component\Form\Extension\Core\Type\FormType', null, array(
+            'method' => 'get',
+            'action' => '',
+        ));
+
+        $html = $this->renderStart($form->createView());
+
+        $this->assertSame('<form name="form" method="get">', $html);
+    }
+
+    public function testStartTagHasActionAttributeWhenActionIsZero()
+    {
+        $form = $this->factory->create('Symfony\Component\Form\Extension\Core\Type\FormType', null, array(
+            'method' => 'get',
+            'action' => '0',
+        ));
+
+        $html = $this->renderStart($form->createView());
+
+        $this->assertSame('<form name="form" method="get" action="0">', $html);
     }
 
     protected function renderForm(FormView $view, array $vars = array())

@@ -11,14 +11,16 @@
 
 namespace Symfony\Component\ExpressionLanguage\Tests;
 
+use Symfony\Component\ExpressionLanguage\ExpressionFunction;
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\ExpressionLanguage\ExpressionLanguage;
 use Symfony\Component\ExpressionLanguage\Tests\Fixtures\TestProvider;
 
-class ExpressionLanguageTest extends \PHPUnit_Framework_TestCase
+class ExpressionLanguageTest extends TestCase
 {
     public function testCachedParse()
     {
-        $cacheMock = $this->getMock('Symfony\Component\ExpressionLanguage\ParserCache\ParserCacheInterface');
+        $cacheMock = $this->getMockBuilder('Symfony\Component\ExpressionLanguage\ParserCache\ParserCacheInterface')->getMock();
         $savedParsedExpression = null;
         $expressionLanguage = new ExpressionLanguage($cacheMock);
 
@@ -102,6 +104,94 @@ class ExpressionLanguageTest extends \PHPUnit_Framework_TestCase
             array('false && foo', array('foo' => 'foo'), false),
             array('true || foo', array('foo' => 'foo'), true),
             array('true or foo', array('foo' => 'foo'), true),
+        );
+    }
+
+    public function testCachingForOverriddenVariableNames()
+    {
+        $expressionLanguage = new ExpressionLanguage();
+        $expression = 'a + b';
+        $expressionLanguage->evaluate($expression, array('a' => 1, 'b' => 1));
+        $result = $expressionLanguage->compile($expression, array('a', 'B' => 'b'));
+        $this->assertSame('($a + $B)', $result);
+    }
+
+    public function testCachingWithDifferentNamesOrder()
+    {
+        $cacheMock = $this->getMockBuilder('Symfony\Component\ExpressionLanguage\ParserCache\ParserCacheInterface')->getMock();
+        $expressionLanguage = new ExpressionLanguage($cacheMock);
+        $savedParsedExpressions = array();
+        $cacheMock
+            ->expects($this->exactly(2))
+            ->method('fetch')
+            ->will($this->returnCallback(function ($key) use (&$savedParsedExpressions) {
+                return isset($savedParsedExpressions[$key]) ? $savedParsedExpressions[$key] : null;
+            }))
+        ;
+        $cacheMock
+            ->expects($this->exactly(1))
+            ->method('save')
+            ->will($this->returnCallback(function ($key, $expression) use (&$savedParsedExpressions) {
+                $savedParsedExpressions[$key] = $expression;
+            }))
+        ;
+
+        $expression = 'a + b';
+        $expressionLanguage->compile($expression, array('a', 'B' => 'b'));
+        $expressionLanguage->compile($expression, array('B' => 'b', 'a'));
+    }
+
+    /**
+     * @dataProvider getRegisterCallbacks
+     * @expectedException \LogicException
+     */
+    public function testRegisterAfterParse($registerCallback)
+    {
+        $el = new ExpressionLanguage();
+        $el->parse('1 + 1', array());
+        $registerCallback($el);
+    }
+
+    /**
+     * @dataProvider getRegisterCallbacks
+     * @expectedException \LogicException
+     */
+    public function testRegisterAfterEval($registerCallback)
+    {
+        $el = new ExpressionLanguage();
+        $el->evaluate('1 + 1');
+        $registerCallback($el);
+    }
+
+    /**
+     * @dataProvider getRegisterCallbacks
+     * @expectedException \LogicException
+     */
+    public function testRegisterAfterCompile($registerCallback)
+    {
+        $el = new ExpressionLanguage();
+        $el->compile('1 + 1');
+        $registerCallback($el);
+    }
+
+    public function getRegisterCallbacks()
+    {
+        return array(
+            array(
+                function (ExpressionLanguage $el) {
+                    $el->register('fn', function () {}, function () {});
+                },
+            ),
+            array(
+                function (ExpressionLanguage $el) {
+                    $el->addFunction(new ExpressionFunction('fn', function () {}, function () {}));
+                },
+            ),
+            array(
+                function (ExpressionLanguage $el) {
+                    $el->registerProvider(new TestProvider());
+                },
+            ),
         );
     }
 }

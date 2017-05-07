@@ -11,8 +11,8 @@
 
 namespace Acme\UserBundle\Repository;
 
-use Doctrine\ORM\EntityRepository;
 use Acme\UserBundle\Entity\Grp;
+use Doctrine\ORM\EntityRepository;
 
 /**
  * This custom Doctrine repository contains some methods which are useful when
@@ -36,8 +36,8 @@ class GrpRepository extends EntityRepository
             ->getResult()
         ;
     }
-	
-	public function findAllByUe($ue)
+    
+    public function findAllByUe($ue)
     {
         return $this
             ->createQueryBuilder('p')
@@ -49,7 +49,7 @@ class GrpRepository extends EntityRepository
             ->getResult()
         ;
     }
-	
+    
     public function findAllBySlug($slug)
     {
         return $this
@@ -62,42 +62,40 @@ class GrpRepository extends EntityRepository
             ->getResult()
         ;
     }
-	public function nextGrpCt($currentPid)
+    public function nextGrpCt($currentPid)
     {
-		return $this->createQueryBuilder('p')
-					->select('COUNT(p)')
-					->where('p.id = :pid')->setParameter('pid', $currentPid)
-					->getQuery()
-					->getSingleScalarResult();
-    }	
-	
-	public function getGrpIdBySlug($grpSlug)
-	{
-		return $this->createQueryBuilder('p')
-					->select('p')
-					->where('p.slug = :grpSlug')->setParameter('grpSlug', $grpSlug)
-					->getQuery()
-					->getSingleScalarResult();
-    }	
-	
+        return $this->createQueryBuilder('p')
+                    ->select('COUNT(p)')
+                    ->where('p.id = :pid')->setParameter('pid', $currentPid)
+                    ->getQuery()
+                    ->getSingleScalarResult();
+    }
+    
+    public function getGrpIdBySlug($grpSlug)
+    {
+        return $this->createQueryBuilder('p')
+                    ->select('p')
+                    ->where('p.slug = :grpSlug')->setParameter('grpSlug', $grpSlug)
+                    ->getQuery()
+                    ->getSingleScalarResult();
+    }
+    
     public function grpCt()
     {
-		return $this->createQueryBuilder('p')
-					->select('COUNT(p)')
-					->getQuery()
-					->getSingleScalarResult();
-    }	
+        return $this->createQueryBuilder('p')
+                    ->select('COUNT(p)')
+                    ->getQuery()
+                    ->getSingleScalarResult();
+    }
 
-	
+    
     public function nextGrp($currentPid)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p')
-			->where('p.id = :pid')->setParameter('pid', $currentPid)
-			->getQuery()
-			->getOneOrNullResult();
-    }	
-	
-	
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p')
+            ->where('p.id = :pid')->setParameter('pid', $currentPid)
+            ->getQuery()
+            ->getOneOrNullResult();
+    }
 }

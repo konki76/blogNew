@@ -58,15 +58,15 @@ class MockArraySessionStorage implements SessionStorageInterface
     protected $metadataBag;
 
     /**
-     * @var array
+     * @var array|SessionBagInterface[]
      */
-    protected $bags;
+    protected $bags = array();
 
     /**
      * Constructor.
      *
      * @param string      $name    Session name
-     * @param MetadataBag $metaBag MetadataBag instance.
+     * @param MetadataBag $metaBag MetadataBag instance
      */
     public function __construct($name = 'MOCKSESSID', MetadataBag $metaBag = null)
     {
@@ -249,7 +249,7 @@ class MockArraySessionStorage implements SessionStorageInterface
      */
     protected function generateId()
     {
-        return hash('sha256', uniqid(mt_rand()));
+        return hash('sha256', uniqid('ss_mock_', true));
     }
 
     protected function loadSession()

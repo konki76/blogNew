@@ -11,8 +11,8 @@
 
 namespace Acme\UserBundle\Repository;
 
-use Doctrine\ORM\EntityRepository;
 use Acme\UserBundle\Entity\UserSkill;
+use Doctrine\ORM\EntityRepository;
 
 /**
  * This custom Doctrine repository contains some methods which are useful when
@@ -36,113 +36,110 @@ class UserSkillRepository extends EntityRepository
             ->getResult()
         ;
     }
-	
+    
     public function findUsersBySkillId($grpId)
     {
         return $this
             ->createQueryBuilder('p')
-			->join('p.user', 'u')
-			->addSelect('u')
+            ->join('p.user', 'u')
+            ->addSelect('u')
             ->select('p')
             ->where('p.skill = :pGrpId')
-			->setParameter('pGrpId', $grpId)
+            ->setParameter('pGrpId', $grpId)
             ->orderBy('p.publishedAt', 'DESC')
             ->getQuery()
             ->getResult()
         ;
     }
-	
-	public function nextpGrpCt($currentPid)
+    
+    public function nextpGrpCt($currentPid)
     {
-		return $this->createQueryBuilder('p')
-					->select('COUNT(p)')
-					->where('p.grp = :pid')->setParameter('pid', $currentPid)
-					->getQuery()
-					->getSingleScalarResult();
-    }	
+        return $this->createQueryBuilder('p')
+                    ->select('COUNT(p)')
+                    ->where('p.grp = :pid')->setParameter('pid', $currentPid)
+                    ->getQuery()
+                    ->getSingleScalarResult();
+    }
 
 /*
-	public function getGrpIdByPgrpId($pgrpId)
-	{
-		return $this->createQueryBuilder('p')
-					->join('p.grp', 'gp')
-					->addSelect('gp')
-					->select('p')
-					->where('p.id = :pgrpid')->setParameter('pgrpid', $pgrpId)
-					->getQuery()
-					->getOneOrNullResult();
+    public function getGrpIdByPgrpId($pgrpId)
+    {
+        return $this->createQueryBuilder('p')
+                    ->join('p.grp', 'gp')
+                    ->addSelect('gp')
+                    ->select('p')
+                    ->where('p.id = :pgrpid')->setParameter('pgrpid', $pgrpId)
+                    ->getQuery()
+                    ->getOneOrNullResult();
     }	
 */
     public function currentpGrp($currentPid)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p')
-			->where('p.id = :pid')->setParameter('pid', $currentPid)
-			->getQuery()
-			->getOneOrNullResult();
-    }	
-	
-	public function nextPostCtpGrpId($grpId,$page)
-	{
-		return $this->createQueryBuilder('p')
-		 ->select('COUNT(p)')
-		 ->where('p.grp = :grpid')->setParameter('grpid', $grpId)
-			->andwhere('p.post > :page')->setParameter('page', $page)
-		 ->getQuery()
-		 ->getSingleScalarResult();
-	}
-	
-	public function nextPostpGrpId($grp,$page)
-	{
-		return $this
-			->createQueryBuilder('p')
-			//->leftJoin('p.grp', 'g')
-			->select('p.id')
-			//->select('p.grp')
-			->where('p.grp = :grp')->setParameter('grp', $grp)
-			->andwhere('p.post > :page')->setParameter('page', $page)
-			->orderBy('p.post', 'ASC')
-			->setMaxResults(1)
-			->getQuery()
-			//->getOneOrNullResult();
-			//->getScalarResult();
-			->getSingleScalarResult();
-	}
-	
-	public function postIdByPgrpId($pgrpId)
-	{
-		return $this
-			->createQueryBuilder('p')
-			->join('p.post', 'ps')
-			->addSelect('ps')
-			->where('p.id = :pgrpid')->setParameter('pgrpid', $pgrpId)
-			->setMaxResults(1)
-			->getQuery()
-			//->getOneOrNullResult();
-			->getScalarResult();
-			//->getSingleScalarResult();
-	}
-	
-	public function findAllByGrpSlug($grpSlug)
-	{
-	    return $this
+        return $this
             ->createQueryBuilder('p')
-			->join('p.qcm', 'ps')
-			->addSelect('ps')
+            ->select('p')
+            ->where('p.id = :pid')->setParameter('pid', $currentPid)
+            ->getQuery()
+            ->getOneOrNullResult();
+    }
+    
+    public function nextPostCtpGrpId($grpId, $page)
+    {
+        return $this->createQueryBuilder('p')
+         ->select('COUNT(p)')
+         ->where('p.grp = :grpid')->setParameter('grpid', $grpId)
+            ->andwhere('p.post > :page')->setParameter('page', $page)
+         ->getQuery()
+         ->getSingleScalarResult();
+    }
+    
+    public function nextPostpGrpId($grp, $page)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            //->leftJoin('p.grp', 'g')
+            ->select('p.id')
+            //->select('p.grp')
+            ->where('p.grp = :grp')->setParameter('grp', $grp)
+            ->andwhere('p.post > :page')->setParameter('page', $page)
+            ->orderBy('p.post', 'ASC')
+            ->setMaxResults(1)
+            ->getQuery()
+            //->getOneOrNullResult();
+            //->getScalarResult();
+            ->getSingleScalarResult();
+    }
+    
+    public function postIdByPgrpId($pgrpId)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->join('p.post', 'ps')
+            ->addSelect('ps')
+            ->where('p.id = :pgrpid')->setParameter('pgrpid', $pgrpId)
+            ->setMaxResults(1)
+            ->getQuery()
+            //->getOneOrNullResult();
+            ->getScalarResult();
+            //->getSingleScalarResult();
+    }
+    
+    public function findAllByGrpSlug($grpSlug)
+    {
+        return $this
+            ->createQueryBuilder('p')
+            ->join('p.qcm', 'ps')
+            ->addSelect('ps')
 //            ->select('p.post')
             ->where('p.grpSlug = :grpSlug')->setParameter('grpSlug', $grpSlug)
            // ->orderBy('p.publishedAt', 'DESC')
            // ->setMaxResults($limit)
-		   //->getScalarResult();
+           //->getScalarResult();
             ->getQuery()
-            ->getResult();	
-	}
-	
-	public function resultByGrpId($pgrpId)
-	{
-	
-	
-	}
-	
+            ->getResult();
+    }
+    
+    public function resultByGrpId($pgrpId)
+    {
+    }
 }

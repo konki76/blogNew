@@ -46,7 +46,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (Post $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -178,7 +176,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function __toString()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, '__toString', array());
 
         return parent::__toString();
@@ -204,7 +201,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setId($id)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setId', array($id));
 
         return parent::setId($id);
@@ -215,7 +211,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getTitle()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getTitle', array());
 
         return parent::getTitle();
@@ -226,7 +221,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setTitle($title)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setTitle', array($title));
 
         return parent::setTitle($title);
@@ -237,7 +231,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getSlug()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getSlug', array());
 
         return parent::getSlug();
@@ -248,7 +241,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setSlug($slug)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setSlug', array($slug));
 
         return parent::setSlug($slug);
@@ -259,7 +251,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getContent()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getContent', array());
 
         return parent::getContent();
@@ -270,7 +261,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setContent($content)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setContent', array($content));
 
         return parent::setContent($content);
@@ -281,7 +271,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getAuthorEmail()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAuthorEmail', array());
 
         return parent::getAuthorEmail();
@@ -292,7 +281,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setAuthorEmail($authorEmail)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAuthorEmail', array($authorEmail));
 
         return parent::setAuthorEmail($authorEmail);
@@ -301,9 +289,8 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
     /**
      * {@inheritDoc}
      */
-    public function isAuthor(\Acme\UserBundle\Entity\User $user = NULL)
+    public function isAuthor(\Acme\UserBundle\Entity\User $user = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'isAuthor', array($user));
 
         return parent::isAuthor($user);
@@ -314,7 +301,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -325,7 +311,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -336,7 +321,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getComments()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getComments', array());
 
         return parent::getComments();
@@ -347,7 +331,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function addComment(\Acme\UserBundle\Entity\Comment $comment)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'addComment', array($comment));
 
         return parent::addComment($comment);
@@ -358,7 +341,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function removeComment(\Acme\UserBundle\Entity\Comment $comments)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'removeComment', array($comments));
 
         return parent::removeComment($comments);
@@ -369,7 +351,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getSummary()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getSummary', array());
 
         return parent::getSummary();
@@ -380,7 +361,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setSummary($summary)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setSummary', array($summary));
 
         return parent::setSummary($summary);
@@ -391,7 +371,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getAnswers()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswers', array());
 
         return parent::getAnswers();
@@ -402,7 +381,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function addAnswer(\Acme\UserBundle\Entity\Answer $answer)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'addAnswer', array($answer));
 
         return parent::addAnswer($answer);
@@ -413,7 +391,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function removeAnswer(\Acme\UserBundle\Entity\Answer $answers)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'removeAnswer', array($answers));
 
         return parent::removeAnswer($answers);
@@ -424,7 +401,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getLabelAnswer1()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getLabelAnswer1', array());
 
         return parent::getLabelAnswer1();
@@ -435,7 +411,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setLabelAnswer1($labelAnswer1)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setLabelAnswer1', array($labelAnswer1));
 
         return parent::setLabelAnswer1($labelAnswer1);
@@ -446,7 +421,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getLabelAnswer2()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getLabelAnswer2', array());
 
         return parent::getLabelAnswer2();
@@ -457,7 +431,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setLabelAnswer2($labelAnswer2)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setLabelAnswer2', array($labelAnswer2));
 
         return parent::setLabelAnswer2($labelAnswer2);
@@ -468,7 +441,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getLabelAnswer3()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getLabelAnswer3', array());
 
         return parent::getLabelAnswer3();
@@ -479,7 +451,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setLabelAnswer3($labelAnswer3)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setLabelAnswer3', array($labelAnswer3));
 
         return parent::setLabelAnswer3($labelAnswer3);
@@ -490,7 +461,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getLabelAnswer4()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getLabelAnswer4', array());
 
         return parent::getLabelAnswer4();
@@ -501,7 +471,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setLabelAnswer4($labelAnswer4)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setLabelAnswer4', array($labelAnswer4));
 
         return parent::setLabelAnswer4($labelAnswer4);
@@ -512,7 +481,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getLabelAnswer5()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getLabelAnswer5', array());
 
         return parent::getLabelAnswer5();
@@ -523,7 +491,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setLabelAnswer5($labelAnswer5)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setLabelAnswer5', array($labelAnswer5));
 
         return parent::setLabelAnswer5($labelAnswer5);
@@ -534,7 +501,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getAnswer1()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer1', array());
 
         return parent::getAnswer1();
@@ -545,7 +511,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setAnswer1($answer1)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer1', array($answer1));
 
         return parent::setAnswer1($answer1);
@@ -556,7 +521,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getAnswer2()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer2', array());
 
         return parent::getAnswer2();
@@ -567,7 +531,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setAnswer2($answer2)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer2', array($answer2));
 
         return parent::setAnswer2($answer2);
@@ -578,7 +541,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getAnswer3()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer3', array());
 
         return parent::getAnswer3();
@@ -589,7 +551,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setAnswer3($answer3)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer3', array($answer3));
 
         return parent::setAnswer3($answer3);
@@ -600,7 +561,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getAnswer4()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer4', array());
 
         return parent::getAnswer4();
@@ -611,7 +571,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setAnswer4($answer4)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer4', array($answer4));
 
         return parent::setAnswer4($answer4);
@@ -622,7 +581,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getAnswer5()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getAnswer5', array());
 
         return parent::getAnswer5();
@@ -633,7 +591,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setAnswer5($answer5)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setAnswer5', array($answer5));
 
         return parent::setAnswer5($answer5);
@@ -644,7 +601,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getCommentAnswer1()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getCommentAnswer1', array());
 
         return parent::getCommentAnswer1();
@@ -655,7 +611,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setCommentAnswer1($commentAnswer1)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setCommentAnswer1', array($commentAnswer1));
 
         return parent::setCommentAnswer1($commentAnswer1);
@@ -666,7 +621,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getCommentAnswer2()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getCommentAnswer2', array());
 
         return parent::getCommentAnswer2();
@@ -677,7 +631,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setCommentAnswer2($commentAnswer2)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setCommentAnswer2', array($commentAnswer2));
 
         return parent::setCommentAnswer2($commentAnswer2);
@@ -688,7 +641,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getCommentAnswer3()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getCommentAnswer3', array());
 
         return parent::getCommentAnswer3();
@@ -699,7 +651,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setCommentAnswer3($commentAnswer3)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setCommentAnswer3', array($commentAnswer3));
 
         return parent::setCommentAnswer3($commentAnswer3);
@@ -710,7 +661,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getCommentAnswer4()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getCommentAnswer4', array());
 
         return parent::getCommentAnswer4();
@@ -721,7 +671,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setCommentAnswer4($commentAnswer4)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setCommentAnswer4', array($commentAnswer4));
 
         return parent::setCommentAnswer4($commentAnswer4);
@@ -732,7 +681,6 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function getCommentAnswer5()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getCommentAnswer5', array());
 
         return parent::getCommentAnswer5();
@@ -743,10 +691,8 @@ class Post extends \Acme\UserBundle\Entity\Post implements \Doctrine\ORM\Proxy\P
      */
     public function setCommentAnswer5($commentAnswer5)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setCommentAnswer5', array($commentAnswer5));
 
         return parent::setCommentAnswer5($commentAnswer5);
     }
-
 }

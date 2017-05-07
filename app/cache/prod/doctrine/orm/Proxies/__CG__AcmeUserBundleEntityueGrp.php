@@ -46,7 +46,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (ueGrp $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -193,7 +191,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function getTitle()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getTitle', array());
 
         return parent::getTitle();
@@ -204,7 +201,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function setTitle($title)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setTitle', array($title));
 
         return parent::setTitle($title);
@@ -215,7 +211,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -226,7 +221,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -237,7 +231,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function getUes()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getUes', array());
 
         return parent::getUes();
@@ -248,7 +241,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function addUe(\Acme\UserBundle\Entity\UE $ue)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'addUe', array($ue));
 
         return parent::addUe($ue);
@@ -259,7 +251,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function removeUe(\Acme\UserBundle\Entity\UE $ues)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'removeUe', array($ues));
 
         return parent::removeUe($ues);
@@ -270,7 +261,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function getUe()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getUe', array());
 
         return parent::getUe();
@@ -279,9 +269,8 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
     /**
      * {@inheritDoc}
      */
-    public function setUe(\Acme\UserBundle\Entity\UE $ue = NULL)
+    public function setUe(\Acme\UserBundle\Entity\UE $ue = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setUe', array($ue));
 
         return parent::setUe($ue);
@@ -292,7 +281,6 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
      */
     public function getGrp()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getGrp', array());
 
         return parent::getGrp();
@@ -301,12 +289,10 @@ class ueGrp extends \Acme\UserBundle\Entity\ueGrp implements \Doctrine\ORM\Proxy
     /**
      * {@inheritDoc}
      */
-    public function setGrp(\Acme\UserBundle\Entity\Grp $grp = NULL)
+    public function setGrp(\Acme\UserBundle\Entity\Grp $grp = null)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setGrp', array($grp));
 
         return parent::setGrp($grp);
     }
-
 }

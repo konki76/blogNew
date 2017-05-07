@@ -11,8 +11,8 @@
 
 namespace Acme\UserBundle\Repository;
 
-use Doctrine\ORM\EntityRepository;
 use Acme\UserBundle\Entity\UE;
+use Doctrine\ORM\EntityRepository;
 
 /**
  * This custom Doctrine repository contains some methods which are useful when
@@ -37,15 +37,14 @@ class UERepository extends EntityRepository
         ;
     }
 
-	public function findUeByName($name)
+    public function findUeByName($name)
     {
-		return $this
-			->createQueryBuilder('p')
-			->select('p.id')
-			//->addSelect('t')
-			->where('p.slug = :name')->setParameter('name', $name)
-			->getQuery()
-			->getSingleScalarResult();
+        return $this
+            ->createQueryBuilder('p')
+            ->select('p.id')
+            //->addSelect('t')
+            ->where('p.slug = :name')->setParameter('name', $name)
+            ->getQuery()
+            ->getSingleScalarResult();
     }
-	
 }

@@ -11,19 +11,20 @@
 
 namespace Symfony\Bundle\WebProfilerBundle\Tests\Controller;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController;
 use Symfony\Component\HttpKernel\Profiler\Profile;
 use Symfony\Component\HttpFoundation\Request;
 
-class ProfilerControllerTest extends \PHPUnit_Framework_TestCase
+class ProfilerControllerTest extends TestCase
 {
     /**
      * @dataProvider getEmptyTokenCases
      */
     public function testEmptyToken($token)
     {
-        $urlGenerator = $this->getMock('Symfony\Component\Routing\Generator\UrlGeneratorInterface');
-        $twig = $this->getMock('Twig_Environment');
+        $urlGenerator = $this->getMockBuilder('Symfony\Component\Routing\Generator\UrlGeneratorInterface')->getMock();
+        $twig = $this->getMockBuilder('Twig_Environment')->disableOriginalConstructor()->getMock();
         $profiler = $this
             ->getMockBuilder('Symfony\Component\HttpKernel\Profiler\Profiler')
             ->disableOriginalConstructor()
@@ -46,8 +47,8 @@ class ProfilerControllerTest extends \PHPUnit_Framework_TestCase
 
     public function testReturns404onTokenNotFound()
     {
-        $urlGenerator = $this->getMock('Symfony\Component\Routing\Generator\UrlGeneratorInterface');
-        $twig = $this->getMock('Twig_Environment');
+        $urlGenerator = $this->getMockBuilder('Symfony\Component\Routing\Generator\UrlGeneratorInterface')->getMock();
+        $twig = $this->getMockBuilder('Twig_Environment')->disableOriginalConstructor()->getMock();
         $profiler = $this
             ->getMockBuilder('Symfony\Component\HttpKernel\Profiler\Profiler')
             ->disableOriginalConstructor()
@@ -62,8 +63,6 @@ class ProfilerControllerTest extends \PHPUnit_Framework_TestCase
                 if ('found' == $token) {
                     return new Profile($token);
                 }
-
-                return;
             }))
         ;
 
@@ -76,8 +75,8 @@ class ProfilerControllerTest extends \PHPUnit_Framework_TestCase
 
     public function testSearchResult()
     {
-        $urlGenerator = $this->getMock('Symfony\Component\Routing\Generator\UrlGeneratorInterface');
-        $twig = $this->getMock('Twig_Environment');
+        $urlGenerator = $this->getMockBuilder('Symfony\Component\Routing\Generator\UrlGeneratorInterface')->getMock();
+        $twig = $this->getMockBuilder('Twig_Environment')->disableOriginalConstructor()->getMock();
         $profiler = $this
             ->getMockBuilder('Symfony\Component\HttpKernel\Profiler\Profiler')
             ->disableOriginalConstructor()
@@ -110,6 +109,13 @@ class ProfilerControllerTest extends \PHPUnit_Framework_TestCase
             ->method('find')
             ->will($this->returnValue($tokens));
 
+        $request = Request::create('/_profiler/empty/search/results', 'GET', array(
+                'limit' => 2,
+                'ip' => '127.0.0.1',
+                'method' => 'GET',
+                'url' => 'http://example.com/',
+        ));
+
         $twig->expects($this->once())
             ->method('render')
             ->with($this->stringEndsWith('results.html.twig'), $this->equalTo(array(
@@ -123,16 +129,10 @@ class ProfilerControllerTest extends \PHPUnit_Framework_TestCase
                 'end' => null,
                 'limit' => 2,
                 'panel' => null,
+                'request' => $request,
             )));
 
-        $response = $controller->searchResultsAction(
-            Request::create(
-                '/_profiler/empty/search/results',
-                'GET',
-                array('limit' => 2, 'ip' => '127.0.0.1', 'method' => 'GET', 'url' => 'http://example.com/')
-            ),
-            'empty'
-        );
+        $response = $controller->searchResultsAction($request, 'empty');
         $this->assertEquals(200, $response->getStatusCode());
     }
 }

@@ -11,10 +11,11 @@
 
 namespace Symfony\Component\Validator\Tests;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Validator\ConstraintViolation;
 use Symfony\Component\Validator\ConstraintViolationList;
 
-class ConstraintViolationListTest extends \PHPUnit_Framework_TestCase
+class ConstraintViolationListTest extends TestCase
 {
     protected $list;
 
@@ -110,7 +111,7 @@ class ConstraintViolationListTest extends \PHPUnit_Framework_TestCase
             $this->getViolation('Error 5', '', '[baz]'),
         ));
 
-        $expected = <<<EOF
+        $expected = <<<'EOF'
 Root:
     Error 1
 Root.foo.bar:

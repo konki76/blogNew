@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -45,18 +45,18 @@ class Skill
      * @ORM\OrderBy({"publishedAt" = "DESC"})
      */
     private $skills;
-	
+    
     /**
      * @ORM\Column(type="string")
      */
     private $slug;
-	
+    
     /**
      * @ORM\Column(type="text", nullable=true)
      */
     private $startContent;
-	
-	public function getStartContent()
+    
+    public function getStartContent()
     {
         return $this->startContent;
     }
@@ -70,8 +70,8 @@ class Skill
      * @ORM\Column(type="text", nullable=true)
      */
     private $endContent;
-	
-	public function getEndContent()
+    
+    public function getEndContent()
     {
         return $this->endContent;
     }
@@ -85,10 +85,11 @@ class Skill
     {
         $this->skills = new ArrayCollection();
     }
-	public function __toString() {
-    return $this->title;
-	}
-	
+    public function __toString()
+    {
+        return $this->title;
+    }
+    
     public function getId()
     {
         return $this->id;
@@ -103,8 +104,8 @@ class Skill
     {
         $this->publishedAt = $publishedAt;
     }
-	
-	public function getTitle()
+    
+    public function getTitle()
     {
         return $this->title;
     }
@@ -113,7 +114,7 @@ class Skill
     {
         $this->title = $title;
     }
-	
+    
     public function getSlug()
     {
         return $this->slug;
@@ -124,13 +125,13 @@ class Skill
         $this->slug = $slug;
     }
 
-	
-	/**
+    
+    /**
      * @ORM\GeneratedValue
      * @ORM\Column(type="integer")
      */
     private $ordre;
-	public function getOrdre()
+    public function getOrdre()
     {
         return $this->ordre;
     }
@@ -140,11 +141,9 @@ class Skill
         $this->ordre = $ordre;
     }
 
-	private $users;
+    private $users;
     public function addUser(User $user)
     {
         $this->users[] = $user;
     }
-
-	
 }

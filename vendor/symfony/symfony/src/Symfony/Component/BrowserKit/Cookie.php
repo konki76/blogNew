@@ -15,8 +15,6 @@ namespace Symfony\Component\BrowserKit;
  * Cookie represents an HTTP cookie.
  *
  * @author Fabien Potencier <fabien@symfony.com>
- *
- * @api
  */
 class Cookie
 {
@@ -56,8 +54,6 @@ class Cookie
      * @param bool   $secure       Indicates that the cookie should only be transmitted over a secure HTTPS connection from the client
      * @param bool   $httponly     The cookie httponly flag
      * @param bool   $encodedValue Whether the value is encoded or not
-     *
-     * @api
      */
     public function __construct($name, $value, $expires = null, $path = null, $domain = '', $secure = false, $httponly = true, $encodedValue = false)
     {
@@ -77,12 +73,11 @@ class Cookie
         if (null !== $expires) {
             $timestampAsDateTime = \DateTime::createFromFormat('U', $expires);
             if (false === $timestampAsDateTime) {
-                throw new \UnexpectedValueException(sprintf('The cookie expiration time "%s" is not valid.'), $expires);
+                throw new \UnexpectedValueException(sprintf('The cookie expiration time "%s" is not valid.', $expires));
             }
 
-            $this->expires = $timestampAsDateTime->getTimestamp();
+            $this->expires = $timestampAsDateTime->format('U');
         }
-
     }
 
     /**
@@ -91,8 +86,6 @@ class Cookie
      * @return string The HTTP representation of the Cookie
      *
      * @throws \UnexpectedValueException
-     *
-     * @api
      */
     public function __toString()
     {
@@ -128,11 +121,9 @@ class Cookie
      * @param string $cookie A Set-Cookie header value
      * @param string $url    The base URL
      *
-     * @return Cookie A Cookie instance
+     * @return static
      *
      * @throws \InvalidArgumentException
-     *
-     * @api
      */
     public static function fromString($cookie, $url = null)
     {
@@ -214,24 +205,20 @@ class Cookie
 
         foreach (self::$dateFormats as $dateFormat) {
             if (false !== $date = \DateTime::createFromFormat($dateFormat, $dateValue, new \DateTimeZone('GMT'))) {
-                return $date->getTimestamp();
+                return $date->format('U');
             }
         }
 
         // attempt a fallback for unusual formatting
         if (false !== $date = date_create($dateValue, new \DateTimeZone('GMT'))) {
-            return $date->getTimestamp();
+            return $date->format('U');
         }
-
-        throw new \InvalidArgumentException(sprintf('Could not parse date "%s".', $dateValue));
     }
 
     /**
      * Gets the name of the cookie.
      *
      * @return string The cookie name
-     *
-     * @api
      */
     public function getName()
     {
@@ -242,8 +229,6 @@ class Cookie
      * Gets the value of the cookie.
      *
      * @return string The cookie value
-     *
-     * @api
      */
     public function getValue()
     {
@@ -254,8 +239,6 @@ class Cookie
      * Gets the raw value of the cookie.
      *
      * @return string The cookie value
-     *
-     * @api
      */
     public function getRawValue()
     {
@@ -266,8 +249,6 @@ class Cookie
      * Gets the expires time of the cookie.
      *
      * @return string The cookie expires time
-     *
-     * @api
      */
     public function getExpiresTime()
     {
@@ -278,8 +259,6 @@ class Cookie
      * Gets the path of the cookie.
      *
      * @return string The cookie path
-     *
-     * @api
      */
     public function getPath()
     {
@@ -290,8 +269,6 @@ class Cookie
      * Gets the domain of the cookie.
      *
      * @return string The cookie domain
-     *
-     * @api
      */
     public function getDomain()
     {
@@ -302,8 +279,6 @@ class Cookie
      * Returns the secure flag of the cookie.
      *
      * @return bool The cookie secure flag
-     *
-     * @api
      */
     public function isSecure()
     {
@@ -314,8 +289,6 @@ class Cookie
      * Returns the httponly flag of the cookie.
      *
      * @return bool The cookie httponly flag
-     *
-     * @api
      */
     public function isHttpOnly()
     {
@@ -326,11 +299,9 @@ class Cookie
      * Returns true if the cookie has expired.
      *
      * @return bool true if the cookie has expired, false otherwise
-     *
-     * @api
      */
     public function isExpired()
     {
-        return null !== $this->expires && 0 !== $this->expires && $this->expires < time();
+        return null !== $this->expires && 0 != $this->expires && $this->expires < time();
     }
 }

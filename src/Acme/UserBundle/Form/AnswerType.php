@@ -13,7 +13,7 @@ namespace Acme\UserBundle\Form;
 
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
-use Symfony\Component\OptionsResolver\OptionsResolverInterface;
+use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**
  * Defines the form used to create and manipulate blog answers. Although in this
@@ -32,21 +32,21 @@ class AnswerType extends AbstractType
      */
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
-	//			->add('content')
+        //			->add('content')
         $builder
-			->add('answer1')
-			->add('answer2')
-			->add('answer3')
-			->add('answer4')
-			;
+            ->add('answer1')
+            ->add('answer2')
+            ->add('answer3')
+            ->add('answer4')
+            ;
     }
-		//	->add('answer2')
-		//	->add('answer3')
-		//	->add('answer4')
+        //	->add('answer2')
+        //	->add('answer3')
+        //	->add('answer4')
     /**
      * @param OptionsResolverInterface $resolver
      */
-    public function setDefaultOptions(OptionsResolverInterface $resolver)
+    public function configureOptions(OptionsResolver $resolver)
     {
         $resolver->setDefaults(array(
             'data_class' => 'Acme\UserBundle\Entity\Answer',
@@ -56,7 +56,7 @@ class AnswerType extends AbstractType
     /**
      * @return string
      */
-    public function getName()
+    public function getBlockPrefix()
     {
         return 'answer1';
     }

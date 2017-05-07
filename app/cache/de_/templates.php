@@ -1,4 +1,4 @@
-<?php return array (
+<?php return array(
   'FrameworkBundle:Form:email_widget.html.php' => '/var/www/blogNew/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/email_widget.html.php',
   'FrameworkBundle:Form:hidden_widget.html.php' => '/var/www/blogNew/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/hidden_widget.html.php',
   'FrameworkBundle:Form:widget_attributes.html.php' => '/var/www/blogNew/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views/Form/widget_attributes.html.php',

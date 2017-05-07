@@ -1,7 +1,7 @@
 <?php
 
-use Symfony\Component\HttpKernel\Kernel;
 use Symfony\Component\Config\Loader\LoaderInterface;
+use Symfony\Component\HttpKernel\Kernel;
 
 class AppKernel extends Kernel
 {
@@ -16,29 +16,29 @@ class AppKernel extends Kernel
             new Symfony\Bundle\AsseticBundle\AsseticBundle(),
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-			new Knp\Bundle\MenuBundle\KnpMenuBundle(),
-			new JMS\SerializerBundle\JMSSerializerBundle(),
+            new Knp\Bundle\MenuBundle\KnpMenuBundle(),
+            new JMS\SerializerBundle\JMSSerializerBundle(),
             new AppBundle\AppBundle(),
-			
-			new FOS\UserBundle\FOSUserBundle(),
-			//new Sonata\EasyExtendsBundle\SonataEasyExtendsBundle(),
-			//new Sonata\IntlBundle\SonataIntlBundle(),
-			//new Sonata\NotificationBundle\SonataNotificationBundle(),
-			//new Sonata\UserBundle\SonataUserBundle(),
+            
+            new FOS\UserBundle\FOSUserBundle(),
+            //new Sonata\EasyExtendsBundle\SonataEasyExtendsBundle(),
+            //new Sonata\IntlBundle\SonataIntlBundle(),
+            //new Sonata\NotificationBundle\SonataNotificationBundle(),
+            //new Sonata\UserBundle\SonataUserBundle(),
 
-			//new Sonata\BlockBundle\SonataBlockBundle(),
+            //new Sonata\BlockBundle\SonataBlockBundle(),
 
-			
-			//new Sonata\CustomerBundle\SonataCustomerBundle(),
-			//new Sonata\ProductBundle\SonataProductBundle(),
-			//new Sonata\BasketBundle\SonataBasketBundle(),
-			//new Sonata\OrderBundle\SonataOrderBundle(),
-			//new Sonata\InvoiceBundle\SonataInvoiceBundle(),
-			//new Sonata\MediaBundle\SonataMediaBundle(),
-			//new Sonata\DeliveryBundle\SonataDeliveryBundle(),
-			//new Sonata\PaymentBundle\SonataPaymentBundle(),
-			//new Sonata\PriceBundle\SonataPriceBundle(),
-				new Acme\UserBundle\AcmeUserBundle()
+            
+            //new Sonata\CustomerBundle\SonataCustomerBundle(),
+            //new Sonata\ProductBundle\SonataProductBundle(),
+            //new Sonata\BasketBundle\SonataBasketBundle(),
+            //new Sonata\OrderBundle\SonataOrderBundle(),
+            //new Sonata\InvoiceBundle\SonataInvoiceBundle(),
+            //new Sonata\MediaBundle\SonataMediaBundle(),
+            //new Sonata\DeliveryBundle\SonataDeliveryBundle(),
+            //new Sonata\PaymentBundle\SonataPaymentBundle(),
+            //new Sonata\PriceBundle\SonataPriceBundle(),
+                new Acme\UserBundle\AcmeUserBundle()
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

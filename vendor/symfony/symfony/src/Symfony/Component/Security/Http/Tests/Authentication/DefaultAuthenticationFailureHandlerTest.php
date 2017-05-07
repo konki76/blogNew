@@ -11,34 +11,31 @@
 
 namespace Symfony\Component\Security\Http\Tests\Authentication;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Security\Http\Authentication\DefaultAuthenticationFailureHandler;
 use Symfony\Component\Security\Core\Security;
+use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpKernel\HttpKernelInterface;
 
-class DefaultAuthenticationFailureHandlerTest extends \PHPUnit_Framework_TestCase
+class DefaultAuthenticationFailureHandlerTest extends TestCase
 {
-    private $httpKernel = null;
-
-    private $httpUtils = null;
-
-    private $logger = null;
-
-    private $request = null;
-
-    private $session = null;
-
-    private $exception = null;
+    private $httpKernel;
+    private $httpUtils;
+    private $logger;
+    private $request;
+    private $session;
+    private $exception;
 
     protected function setUp()
     {
-        $this->httpKernel = $this->getMock('Symfony\Component\HttpKernel\HttpKernelInterface');
-        $this->httpUtils = $this->getMock('Symfony\Component\Security\Http\HttpUtils');
-        $this->logger = $this->getMock('Psr\Log\LoggerInterface');
+        $this->httpKernel = $this->getMockBuilder('Symfony\Component\HttpKernel\HttpKernelInterface')->getMock();
+        $this->httpUtils = $this->getMockBuilder('Symfony\Component\Security\Http\HttpUtils')->getMock();
+        $this->logger = $this->getMockBuilder('Psr\Log\LoggerInterface')->getMock();
 
-        $this->session = $this->getMock('Symfony\Component\HttpFoundation\Session\SessionInterface');
-        $this->request = $this->getMock('Symfony\Component\HttpFoundation\Request');
+        $this->session = $this->getMockBuilder('Symfony\Component\HttpFoundation\Session\SessionInterface')->getMock();
+        $this->request = $this->getMockBuilder('Symfony\Component\HttpFoundation\Request')->getMock();
         $this->request->expects($this->any())->method('getSession')->will($this->returnValue($this->session));
-        $this->exception = $this->getMock('Symfony\Component\Security\Core\Exception\AuthenticationException', array('getMessage'));
+        $this->exception = $this->getMockBuilder('Symfony\Component\Security\Core\Exception\AuthenticationException')->setMethods(array('getMessage'))->getMock();
     }
 
     public function testForward()
@@ -52,7 +49,7 @@ class DefaultAuthenticationFailureHandlerTest extends \PHPUnit_Framework_TestCas
             ->method('createRequest')->with($this->request, '/login')
             ->will($this->returnValue($subRequest));
 
-        $response = $this->getMock('Symfony\Component\HttpFoundation\Response');
+        $response = new Response();
         $this->httpKernel->expects($this->once())
             ->method('handle')->with($subRequest, HttpKernelInterface::SUB_REQUEST)
             ->will($this->returnValue($response));
@@ -65,7 +62,7 @@ class DefaultAuthenticationFailureHandlerTest extends \PHPUnit_Framework_TestCas
 
     public function testRedirect()
     {
-        $response = $this->getMock('Symfony\Component\HttpFoundation\Response');
+        $response = new Response();
         $this->httpUtils->expects($this->once())
             ->method('createRedirectResponse')->with($this->request, '/login')
             ->will($this->returnValue($response));
@@ -145,7 +142,7 @@ class DefaultAuthenticationFailureHandlerTest extends \PHPUnit_Framework_TestCas
     public function testFailurePathCanBeOverwrittenWithRequest()
     {
         $this->request->expects($this->once())
-            ->method('get')->with('_failure_path', null, true)
+            ->method('get')->with('_failure_path')
             ->will($this->returnValue('/auth/login'));
 
         $this->httpUtils->expects($this->once())
@@ -155,12 +152,25 @@ class DefaultAuthenticationFailureHandlerTest extends \PHPUnit_Framework_TestCas
         $handler->onAuthenticationFailure($this->request, $this->exception);
     }
 
+    public function testFailurePathCanBeOverwrittenWithNestedAttributeInRequest()
+    {
+        $this->request->expects($this->once())
+            ->method('get')->with('_failure_path')
+            ->will($this->returnValue(array('value' => '/auth/login')));
+
+        $this->httpUtils->expects($this->once())
+            ->method('createRedirectResponse')->with($this->request, '/auth/login');
+
+        $handler = new DefaultAuthenticationFailureHandler($this->httpKernel, $this->httpUtils, array('failure_path_parameter' => '_failure_path[value]'), $this->logger);
+        $handler->onAuthenticationFailure($this->request, $this->exception);
+    }
+
     public function testFailurePathParameterCanBeOverwritten()
     {
         $options = array('failure_path_parameter' => '_my_failure_path');
 
         $this->request->expects($this->once())
-            ->method('get')->with('_my_failure_path', null, true)
+            ->method('get')->with('_my_failure_path')
             ->will($this->returnValue('/auth/login'));
 
         $this->httpUtils->expects($this->once())
@@ -172,8 +182,8 @@ class DefaultAuthenticationFailureHandlerTest extends \PHPUnit_Framework_TestCas
 
     private function getRequest()
     {
-        $request = $this->getMock('Symfony\Component\HttpFoundation\Request');
-        $request->attributes = $this->getMock('Symfony\Component\HttpFoundation\ParameterBag');
+        $request = $this->getMockBuilder('Symfony\Component\HttpFoundation\Request')->getMock();
+        $request->attributes = $this->getMockBuilder('Symfony\Component\HttpFoundation\ParameterBag')->getMock();
 
         return $request;
     }

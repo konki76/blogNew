@@ -40,7 +40,7 @@ class FormExtensionDivLayoutTest extends AbstractDivLayoutTest
             'form_div_layout.html.twig',
             'custom_widgets.html.twig',
         ));
-        $renderer = new TwigRenderer($rendererEngine, $this->getMock('Symfony\Component\Security\Csrf\CsrfTokenManagerInterface'));
+        $renderer = new TwigRenderer($rendererEngine, $this->getMockBuilder('Symfony\Component\Security\Csrf\CsrfTokenManagerInterface')->getMock());
 
         $this->extension = new FormExtension($renderer);
 
@@ -69,7 +69,7 @@ class FormExtensionDivLayoutTest extends AbstractDivLayoutTest
     public function testThemeBlockInheritanceUsingUse()
     {
         $view = $this->factory
-            ->createNamed('name', 'email')
+            ->createNamed('name', 'Symfony\Component\Form\Extension\Core\Type\EmailType')
             ->createView()
         ;
 
@@ -84,7 +84,7 @@ class FormExtensionDivLayoutTest extends AbstractDivLayoutTest
     public function testThemeBlockInheritanceUsingExtend()
     {
         $view = $this->factory
-            ->createNamed('name', 'email')
+            ->createNamed('name', 'Symfony\Component\Form\Extension\Core\Type\EmailType')
             ->createView()
         ;
 
@@ -99,13 +99,17 @@ class FormExtensionDivLayoutTest extends AbstractDivLayoutTest
     public function testThemeBlockInheritanceUsingDynamicExtend()
     {
         $view = $this->factory
-            ->createNamed('name', 'email')
+            ->createNamed('name', 'Symfony\Component\Form\Extension\Core\Type\EmailType')
             ->createView()
         ;
 
         $renderer = $this->extension->renderer;
         $renderer->setTheme($view, array('page_dynamic_extends.html.twig'));
-        $renderer->searchAndRenderBlock($view, 'row');
+
+        $this->assertMatchesXpath(
+            $renderer->searchAndRenderBlock($view, 'row'),
+            '/div/label[text()="child"]'
+        );
     }
 
     public function isSelectedChoiceProvider()
@@ -139,6 +143,30 @@ class FormExtensionDivLayoutTest extends AbstractDivLayoutTest
         $choice = new ChoiceView($choice, $choice, $choice.' label');
 
         $this->assertSame($expected, $this->extension->isSelectedChoice($choice, $value));
+    }
+
+    public function testStartTagHasNoActionAttributeWhenActionIsEmpty()
+    {
+        $form = $this->factory->create('Symfony\Component\Form\Extension\Core\Type\FormType', null, array(
+            'method' => 'get',
+            'action' => '',
+        ));
+
+        $html = $this->renderStart($form->createView());
+
+        $this->assertSame('<form name="form" method="get">', $html);
+    }
+
+    public function testStartTagHasActionAttributeWhenActionIsZero()
+    {
+        $form = $this->factory->create('Symfony\Component\Form\Extension\Core\Type\FormType', null, array(
+            'method' => 'get',
+            'action' => '0',
+        ));
+
+        $html = $this->renderStart($form->createView());
+
+        $this->assertSame('<form name="form" method="get" action="0">', $html);
     }
 
     protected function renderForm(FormView $view, array $vars = array())

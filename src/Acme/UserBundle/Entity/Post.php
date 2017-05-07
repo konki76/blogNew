@@ -2,8 +2,8 @@
 
 namespace Acme\UserBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
 use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
 
 /**
@@ -21,7 +21,7 @@ use Symfony\Component\Validator\Constraints as Assert;
 class Post
 {
     const NUM_ITEMS = 10;
-	
+    
     /**
      * @ORM\Id
      * @ORM\GeneratedValue
@@ -46,11 +46,11 @@ class Post
      */
     private $summary;
 
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p1Titre;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p1SousTitre;
@@ -58,16 +58,16 @@ class Post
      * @ORM\Column(type="text")
      */
     private $p1Content;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p1Transition;
 
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p2Titre;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p2SousTitre;
@@ -75,16 +75,16 @@ class Post
      * @ORM\Column(type="text")
      */
     private $p2Content;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p2Transition;
 
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p3Titre;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p3SousTitre;
@@ -92,16 +92,16 @@ class Post
      * @ORM\Column(type="text")
      */
     private $p3Content;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p3Transition;
 
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p4Titre;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p4SousTitre;
@@ -109,16 +109,16 @@ class Post
      * @ORM\Column(type="text")
      */
     private $p4Content;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p4Transition;
 
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p5Titre;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p5SousTitre;
@@ -126,16 +126,16 @@ class Post
      * @ORM\Column(type="text")
      */
     private $p5Content;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p5Transition;
 
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p6Titre;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p6SousTitre;
@@ -143,16 +143,16 @@ class Post
      * @ORM\Column(type="text")
      */
     private $p6Content;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p6Transition;
-	
-	/**
+    
+    /**
      * @ORM\Column(type="string")
      */
     private $p7Titre;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p7SousTitre;
@@ -160,12 +160,12 @@ class Post
      * @ORM\Column(type="text")
      */
     private $p7Content;
-	/**
+    /**
      * @ORM\Column(type="string")
      */
     private $p7Transition;
 
-	
+    
     /**
      * @ORM\Column(type="text")
      * @Assert\Length(
@@ -197,16 +197,17 @@ class Post
      */
     private $comments;
 
-	
-	private $posts;
+    
+    private $posts;
 
-	public function __toString() {
-    return $this->title;
-	}
-	
+    public function __toString()
+    {
+        return $this->title;
+    }
+    
     public function __construct()
     {
-		$this->posts = new ArrayCollection();
+        $this->posts = new ArrayCollection();
         $this->publishedAt = new \DateTime();
         $this->comments = new ArrayCollection();
         $this->answers = new ArrayCollection();
@@ -221,7 +222,7 @@ class Post
         $this->id = $id;
     }
 
-	
+    
     public function getTitle()
     {
         return $this->title;
@@ -284,7 +285,7 @@ class Post
         $this->publishedAt = $publishedAt;
     }
 
-	
+    
     public function getComments()
     {
         return $this->comments;
@@ -320,8 +321,8 @@ class Post
      * )
      * @ORM\OrderBy({"publishedAt" = "DESC"})
      */
-    private $answers;	
-	
+    private $answers;
+    
     public function getAnswers()
     {
         return $this->answers;
@@ -339,8 +340,8 @@ class Post
         $answers->setPost(null);
     }
 
-	
-	
+    
+    
     public function getP1Titre()
     {
         return $this->p1Titre;
@@ -365,7 +366,7 @@ class Post
     {
         $this->p1Transition = $p1Transition;
     }
-	public function getP1Transition()
+    public function getP1Transition()
     {
         return $this->p1Transition;
     }
@@ -398,7 +399,7 @@ class Post
     {
         $this->p2Transition = $p2Transition;
     }
-	public function getP2Transition()
+    public function getP2Transition()
     {
         return $this->p2Transition;
     }
@@ -431,7 +432,7 @@ class Post
     {
         $this->p3Transition = $p3Transition;
     }
-	public function getP3Transition()
+    public function getP3Transition()
     {
         return $this->p3Transition;
     }
@@ -464,7 +465,7 @@ class Post
     {
         $this->p4Transition = $p4Transition;
     }
-	public function getP4Transition()
+    public function getP4Transition()
     {
         return $this->p4Transition;
     }
@@ -497,7 +498,7 @@ class Post
     {
         $this->p5Transition = $p5Transition;
     }
-	public function getP5Transition()
+    public function getP5Transition()
     {
         return $this->p5Transition;
     }
@@ -530,7 +531,7 @@ class Post
     {
         $this->p6Transition = $p6Transition;
     }
-	public function getP6Transition()
+    public function getP6Transition()
     {
         return $this->p6Transition;
     }
@@ -563,7 +564,7 @@ class Post
     {
         $this->p7Transition = $p7Transition;
     }
-	public function getP7Transition()
+    public function getP7Transition()
     {
         return $this->p7Transition;
     }
@@ -573,11 +574,10 @@ class Post
     }
 /***/
 
-	
-/************************************************************************************************/	
-	/**
+    
+/************************************************************************************************/
+    /**
     * @ORM\OneToMany(targetEntity="pGrp", mappedBy="post")
     */
     protected $pGrps;
-	
 }

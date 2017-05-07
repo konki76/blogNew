@@ -11,12 +11,13 @@
 
 namespace Symfony\Component\Validator\Tests\Constraints;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Validator\Constraints\GroupSequence;
 
 /**
  * @author Bernhard Schussek <bschussek@gmail.com>
  */
-class GroupSequenceTest extends \PHPUnit_Framework_TestCase
+class GroupSequenceTest extends TestCase
 {
     public function testCreate()
     {
@@ -37,8 +38,6 @@ class GroupSequenceTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyIterate()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $sequence = new GroupSequence(array('Group 1', 'Group 2'));
 
         $this->assertSame(array('Group 1', 'Group 2'), iterator_to_array($sequence));
@@ -49,8 +48,6 @@ class GroupSequenceTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyCount()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $sequence = new GroupSequence(array('Group 1', 'Group 2'));
 
         $this->assertCount(2, $sequence);
@@ -61,8 +58,6 @@ class GroupSequenceTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyArrayAccess()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $sequence = new GroupSequence(array('Group 1', 'Group 2'));
 
         $this->assertSame('Group 1', $sequence[0]);
@@ -85,8 +80,6 @@ class GroupSequenceTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyGetExpectsExistingKey()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $sequence = new GroupSequence(array('Group 1', 'Group 2'));
 
         $sequence[2];
@@ -97,11 +90,11 @@ class GroupSequenceTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyUnsetIgnoresNonExistingKeys()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $sequence = new GroupSequence(array('Group 1', 'Group 2'));
 
         // should not fail
         unset($sequence[2]);
+
+        $this->assertCount(2, $sequence);
     }
 }

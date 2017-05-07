@@ -18,7 +18,6 @@ use Symfony\Component\Form\Exception\RuntimeException;
 /**
  * A utility for reading object IDs.
  *
- * @since  1.0
  * @author Bernhard Schussek <bschussek@gmail.com>
  *
  * @internal This class is meant for internal use only.
@@ -50,6 +49,11 @@ class IdReader
      */
     private $idField;
 
+    /**
+     * @var IdReader|null
+     */
+    private $associationIdReader;
+
     public function __construct(ObjectManager $om, ClassMetadata $classMetadata)
     {
         $ids = $classMetadata->getIdentifierFieldNames();
@@ -60,6 +64,16 @@ class IdReader
         $this->singleId = 1 === count($ids);
         $this->intId = $this->singleId && in_array($idType, array('integer', 'smallint', 'bigint'));
         $this->idField = current($ids);
+
+        // single field association are resolved, since the schema column could be an int
+        if ($this->singleId && $classMetadata->hasAssociation($this->idField)) {
+            $this->associationIdReader = new self($om, $om->getClassMetadata(
+                $classMetadata->getAssociationTargetClass($this->idField)
+            ));
+
+            $this->singleId = $this->associationIdReader->isSingleId();
+            $this->intId = $this->associationIdReader->isIntId();
+        }
     }
 
     /**
@@ -89,9 +103,9 @@ class IdReader
      *
      * This method assumes that the object has a single-column ID.
      *
-     * @param object $object The object.
+     * @param object $object The object
      *
-     * @return mixed The ID value.
+     * @return mixed The ID value
      */
     public function getIdValue($object)
     {
@@ -108,7 +122,13 @@ class IdReader
 
         $this->om->initializeObject($object);
 
-        return current($this->classMetadata->getIdentifierValues($object));
+        $idValue = current($this->classMetadata->getIdentifierValues($object));
+
+        if ($this->associationIdReader) {
+            $idValue = $this->associationIdReader->getIdValue($idValue);
+        }
+
+        return $idValue;
     }
 
     /**
@@ -116,7 +136,7 @@ class IdReader
      *
      * This method assumes that the object has a single-column ID.
      *
-     * @return string The name of the ID field.
+     * @return string The name of the ID field
      */
     public function getIdField()
     {

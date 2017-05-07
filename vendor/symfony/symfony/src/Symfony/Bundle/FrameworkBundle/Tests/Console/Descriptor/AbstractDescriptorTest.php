@@ -11,7 +11,10 @@
 
 namespace Symfony\Bundle\FrameworkBundle\Tests\Console\Descriptor;
 
+use PHPUnit\Framework\TestCase;
+use Symfony\Component\Console\Input\ArrayInput;
 use Symfony\Component\Console\Output\BufferedOutput;
+use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\DependencyInjection\Alias;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Definition;
@@ -20,7 +23,7 @@ use Symfony\Component\EventDispatcher\EventDispatcher;
 use Symfony\Component\Routing\Route;
 use Symfony\Component\Routing\RouteCollection;
 
-abstract class AbstractDescriptorTest extends \PHPUnit_Framework_TestCase
+abstract class AbstractDescriptorTest extends TestCase
 {
     /** @dataProvider getDescribeRouteCollectionTestData */
     public function testDescribeRouteCollection(RouteCollection $routes, $expectedDescription)
@@ -72,15 +75,14 @@ abstract class AbstractDescriptorTest extends \PHPUnit_Framework_TestCase
      */
     public function testLegacyDescribeSynchronizedServiceDefinition(Definition $definition, $expectedDescription)
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         $this->assertDescription($expectedDescription, $definition);
     }
 
+    /**
+     * @group legacy
+     */
     public function provideLegacySynchronizedServiceDefinitionTestData()
     {
-        $this->iniSet('error_reporting', -1 & ~E_USER_DEPRECATED);
-
         return $this->getDescriptionTestData(ObjectsProvider::getLegacyContainerDefinitions());
     }
 
@@ -116,7 +118,8 @@ abstract class AbstractDescriptorTest extends \PHPUnit_Framework_TestCase
     {
         $data = $this->getDescriptionTestData(ObjectsProvider::getContainerParameter());
 
-        array_push($data[0], array('parameter' => 'database_name'));
+        $data[0][] = array('parameter' => 'database_name');
+        $data[1][] = array('parameter' => 'twig.form.resources');
 
         return $data;
     }
@@ -144,12 +147,18 @@ abstract class AbstractDescriptorTest extends \PHPUnit_Framework_TestCase
     }
 
     abstract protected function getDescriptor();
+
     abstract protected function getFormat();
 
     private function assertDescription($expectedDescription, $describedObject, array $options = array())
     {
         $options['raw_output'] = true;
         $output = new BufferedOutput(BufferedOutput::VERBOSITY_NORMAL, true);
+
+        if ('txt' === $this->getFormat()) {
+            $options['output'] = new SymfonyStyle(new ArrayInput(array()), $output);
+        }
+
         $this->getDescriptor()->describe($output, $describedObject, $options);
 
         if ('json' === $this->getFormat()) {

@@ -7,8 +7,8 @@
 
 namespace Acme\UserBundle\Repository;
 
-use Doctrine\ORM\EntityRepository;
 use Acme\UserBundle\Entity\Answer;
+use Doctrine\ORM\EntityRepository;
 
 /**
  * This custom Doctrine repository contains some methods which are useful when
@@ -20,31 +20,30 @@ use Acme\UserBundle\Entity\Answer;
  */
 class AnswerRepository extends EntityRepository
 {
-	
-	public function findOneByGrpUserQcm($grp,$user,$qcm)
-	{
-		return $q = $this
-			->createQueryBuilder('a')
-			->where('a.authorEmail = :user')->setParameter('user', $user->getEmail())
-			->andwhere('a.grp = :grp')->setParameter('grp', $grp)
-			->andwhere('a.qcm = :ps')->setParameter('ps', $qcm)
-			->getQuery()
-			->getScalarResult();
-	}
-	
-	
-	public function findOneByGrpUser($grp,$user)
-	{
-		return $q = $this
-			->createQueryBuilder('a')
-			->where('a.authorEmail = :user')->setParameter('user', $user->getEmail())
-			->andwhere('a.grp = :grp')->setParameter('grp', $grp)
-			->getQuery()
-			->getScalarResult();
-	}
-	
-	//a deporter dans un repository
-	public function findAnswsersByQcmId($qcmId)
+    public function findOneByGrpUserQcm($grp, $user, $qcm)
+    {
+        return $q = $this
+            ->createQueryBuilder('a')
+            ->where('a.authorEmail = :user')->setParameter('user', $user->getEmail())
+            ->andwhere('a.grp = :grp')->setParameter('grp', $grp)
+            ->andwhere('a.qcm = :ps')->setParameter('ps', $qcm)
+            ->getQuery()
+            ->getScalarResult();
+    }
+    
+    
+    public function findOneByGrpUser($grp, $user)
+    {
+        return $q = $this
+            ->createQueryBuilder('a')
+            ->where('a.authorEmail = :user')->setParameter('user', $user->getEmail())
+            ->andwhere('a.grp = :grp')->setParameter('grp', $grp)
+            ->getQuery()
+            ->getScalarResult();
+    }
+    
+    //a deporter dans un repository
+    public function findAnswsersByQcmId($qcmId)
     {
         return $this
             ->createQueryBuilder('p')
@@ -54,25 +53,24 @@ class AnswerRepository extends EntityRepository
             ->getResult()
         ;
     }
-	
-	//Calcul les réponses par rapport à la table qcm
-	public function statByGrpUser($grp, $user)
+    
+    //Calcul les réponses par rapport à la table qcm
+    public function statByGrpUser($grp, $user)
     {
         return $this
             ->createQueryBuilder('a')
-			->leftJoin('a.qcm', 'ps')
+            ->leftJoin('a.qcm', 'ps')
             ->addSelect('ps')
             ->where('a.authorEmail = :user')->setParameter('user', $user)
-			->andwhere('a.grp = :grp')->setParameter('grp', $grp)
-			->getQuery()
+            ->andwhere('a.grp = :grp')->setParameter('grp', $grp)
+            ->getQuery()
             ->getScalarResult();
-		/*
-		return $this
+        /*
+        return $this
             ->createQueryBuilder('p')
             ->select('p')
             ->where('p.authorEmail = :user')->setParameter('user', $user)
             ->getQuery()
             ->getResult();*/
     }
-	
 }

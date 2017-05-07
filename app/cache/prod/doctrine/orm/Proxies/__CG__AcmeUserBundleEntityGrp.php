@@ -46,7 +46,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function __construct($initializer = null, $cloner = null)
     {
-
         $this->__initializer__ = $initializer;
         $this->__cloner__      = $cloner;
     }
@@ -75,7 +74,7 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function __wakeup()
     {
-        if ( ! $this->__isInitialized__) {
+        if (! $this->__isInitialized__) {
             $this->__initializer__ = function (Grp $proxy) {
                 $proxy->__setInitializer(null);
                 $proxy->__setCloner(null);
@@ -83,12 +82,11 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
                 $existingProperties = get_object_vars($proxy);
 
                 foreach ($proxy->__getLazyProperties() as $property => $defaultValue) {
-                    if ( ! array_key_exists($property, $existingProperties)) {
+                    if (! array_key_exists($property, $existingProperties)) {
                         $proxy->$property = $defaultValue;
                     }
                 }
             };
-
         }
     }
 
@@ -178,7 +176,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function getOrdre()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getOrdre', array());
 
         return parent::getOrdre();
@@ -189,7 +186,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function setOrdre($ordre)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setOrdre', array($ordre));
 
         return parent::setOrdre($ordre);
@@ -200,7 +196,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function getUe()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getUe', array());
 
         return parent::getUe();
@@ -211,7 +206,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function setUe($ue)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setUe', array($ue));
 
         return parent::setUe($ue);
@@ -222,7 +216,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function getStartContent()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getStartContent', array());
 
         return parent::getStartContent();
@@ -233,7 +226,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function setStartContent($startContent)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setStartContent', array($startContent));
 
         return parent::setStartContent($startContent);
@@ -244,7 +236,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function getEndContent()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getEndContent', array());
 
         return parent::getEndContent();
@@ -255,7 +246,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function setEndContent($endContent)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setEndContent', array($endContent));
 
         return parent::setEndContent($endContent);
@@ -266,7 +256,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function __toString()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, '__toString', array());
 
         return parent::__toString();
@@ -292,7 +281,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function getPublishedAt()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getPublishedAt', array());
 
         return parent::getPublishedAt();
@@ -303,7 +291,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function setPublishedAt($publishedAt)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setPublishedAt', array($publishedAt));
 
         return parent::setPublishedAt($publishedAt);
@@ -314,7 +301,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function getTitle()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getTitle', array());
 
         return parent::getTitle();
@@ -325,7 +311,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function setTitle($title)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setTitle', array($title));
 
         return parent::setTitle($title);
@@ -336,7 +321,6 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function getSlug()
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getSlug', array());
 
         return parent::getSlug();
@@ -347,10 +331,8 @@ class Grp extends \Acme\UserBundle\Entity\Grp implements \Doctrine\ORM\Proxy\Pro
      */
     public function setSlug($slug)
     {
-
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'setSlug', array($slug));
 
         return parent::setSlug($slug);
     }
-
 }

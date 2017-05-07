@@ -6,8 +6,11 @@
             "public": false,
             "synthetic": true,
             "lazy": false,
+            "shared": true,
             "synchronized": false,
             "abstract": false,
+            "autowire": false,
+            "autowiring_types": [],
             "file": "\/path\/to\/file",
             "factory_service": "factory.service",
             "factory_method": "get",
@@ -27,17 +30,11 @@
                 },
                 {
                     "name": "tag2",
-                    "parameters": [
-
-                    ]
+                    "parameters": []
                 }
             ]
         }
     },
-    "aliases": [
-
-    ],
-    "services": [
-
-    ]
+    "aliases": [],
+    "services": []
 }
