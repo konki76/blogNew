@@ -1,7 +1,7 @@
 <?php
  
 namespace Acme\UserBundle\Command;
- //fucking test 2205207
+ //fucking test 2205207 1
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
