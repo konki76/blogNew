@@ -1,7 +1,7 @@
 <?php
  
 namespace Acme\UserBundle\Command;
- 
+ //trest
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
