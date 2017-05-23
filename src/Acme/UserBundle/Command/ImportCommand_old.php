@@ -1,7 +1,7 @@
 <?php
  
 namespace Acme\UserBundle\Command;
- //trest 22052017 apl 123
+ //trest 22052017 apl 1234
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
